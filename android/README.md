@@ -74,6 +74,12 @@ Replace `<track>` with `tech`, `business`, or `health` (it is the flavor's
 `applicationIdSuffix`). With device owner set, `startLockTask()` prevents escape via
 home/recents/back. Without it, the app still runs and pins, but is escapable.
 
+**Device owner is recommended for any unattended kiosk, not just for lockdown.** On
+Android 10+, background-activity-launch restrictions make the boot auto-start
+(`BootReceiver`) and the `onStop` auto-relaunch unreliable on a *non*-device-owner device —
+the system may drop those launches. Provisioning the app as device owner is what makes
+boot-to-kiosk and relaunch-after-exit behave dependably.
+
 Set landscape orientation and other display options on the stick as needed
 (`adb shell wm` / the device's display settings).
 
