@@ -80,7 +80,7 @@ export function buildKioskData(track, { sheets, careers, ce, quiz, admissions, c
     programs,
     infoSession: { url: track.infoSessionUrl, qrFile: 'assets/qr/info-session.png' },
     ce: buildCE(ce),
-    quiz: buildQuiz(quiz, new Set(sheets.sheets.map((s) => worldForProgram(worlds, s.id).id))),
+    quiz: buildQuiz(quiz, new Set(worlds.map((w) => w.id))),
   };
 }
 
