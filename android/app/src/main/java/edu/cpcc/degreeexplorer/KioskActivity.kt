@@ -29,6 +29,10 @@ class KioskActivity : Activity() {
             domStorageEnabled = true
             allowFileAccess = true
             allowContentAccess = false
+            @Suppress("DEPRECATION")
+            allowFileAccessFromFileURLs = true      // required for ES-module imports under file://
+            @Suppress("DEPRECATION")
+            allowUniversalAccessFromFileURLs = true // required for fetch() of bundled JSON assets
             cacheMode = WebSettings.LOAD_NO_CACHE
             mediaPlaybackRequiresUserGesture = false
             setSupportZoom(false)

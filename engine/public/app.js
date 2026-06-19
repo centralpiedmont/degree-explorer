@@ -32,6 +32,17 @@ const ICONS = {
   flask: 'fa-flask',
   tooth: 'fa-tooth',
   'truck-medical': 'fa-truck-medical',
+  // Hospitality & Public Services quiz icons
+  utensils: 'fa-utensils',
+  cake: 'fa-cake-candles',
+  bread: 'fa-bread-slice',
+  concierge: 'fa-concierge-bell',
+  hotel: 'fa-hotel',
+  scissors: 'fa-scissors',
+  spa: 'fa-spa',
+  leaf: 'fa-leaf',
+  seedling: 'fa-sprout',
+  tree: 'fa-tree',
 };
 const icon = (name) => (ICONS[name] ? `<i class="fa-solid ${ICONS[name]}" aria-hidden="true"></i>` : '');
 
@@ -527,8 +538,20 @@ document.addEventListener('gesturestart', (e) => e.preventDefault());
 document.addEventListener('wheel', (e) => { if (e.ctrlKey) e.preventDefault(); }, { passive: false });
 document.addEventListener('keydown', (e) => { if ((e.ctrlKey || e.metaKey) && ['+', '-', '=', '0'].includes(e.key)) e.preventDefault(); });
 
+// Load JSON data — fetch() is blocked under file:// in Android WebView; fall back to XHR.
+function loadJson(url) {
+  return new Promise((resolve, reject) => {
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', url);
+    xhr.responseType = 'json';
+    xhr.onload = () => (xhr.status === 0 || xhr.status === 200) ? resolve(xhr.response) : reject(new Error(`HTTP ${xhr.status}`));
+    xhr.onerror = () => reject(new Error('XHR error'));
+    xhr.send();
+  });
+}
+
 (async function boot() {
-  data = await (await fetch('kiosk-data.json')).json();
+  data = await loadJson('kiosk-data.json');
   state = new KioskState(data, { onChange: () => { render(); bumpIdle(); } });
   render();
   fitWithRetries();
