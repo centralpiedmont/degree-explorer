@@ -1,0 +1,2437 @@
+{
+  "meta": {
+    "site": "cpcc.edu",
+    "generated": "2026"
+  },
+  "sheets": [
+    {
+      "id": "artificial-intelligence",
+      "family": "ai",
+      "programName": "Artificial Intelligence",
+      "title": "Associate in Applied Science - Artificial Intelligence",
+      "code": "A25710",
+      "concentration": "",
+      "subtitle": "",
+      "overview": "<p>Artificial intelligence is transforming every industry&mdash;and this program puts you at the heart of it. You&rsquo;ll learn to build intelligent systems that make predictions, recognize images, understand language, and learn from data, using the same Python tools and machine-learning techniques powering today&rsquo;s most innovative companies.</p><p>Through hands-on courses in machine learning, deep learning, chatbots, and computer vision&mdash;grounded in applied math, statistics, and ethics&mdash;you&rsquo;ll move from your first Python program to training and deploying real AI models, building portfolio-ready skills with no prior experience required. The AAS in Artificial Intelligence degree readies you for one of technology&rsquo;s fastest-growing fields.</p>",
+      "employmentOutlook": "<p>The opportunities in AI are exploding. The U.S. Bureau of Labor Statistics projects employment for data professionals to grow at least 38% by 2030, and in the Charlotte region&mdash;a major financial and technology hub&mdash;employers across banking, healthcare, and tech are investing heavily in AI talent, driving strong demand and competitive salaries for graduates who can build and maintain these systems.</p><p>Your degree can open doors to roles like AI Engineer, Machine Learning Engineer, Data Scientist, Computer Vision Engineer, NLP Engineer, and AI Research Scientist.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "14",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "CSC 113",
+              "name": "Artificial Intelligence Fundamentals",
+              "credits": "3.0"
+            },
+            {
+              "code": "ECO 251",
+              "name": "Principles of Microeconomics",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 152",
+              "name": "Statistical Methods I",
+              "credits": "4.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "ART 111",
+              "name": "Art Appreciation",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 121",
+              "name": "Python Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 210",
+              "name": "Computer Ethics",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 285",
+              "name": "Systems Analysis &amp; Design",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 171",
+              "name": "Precalculus Algebra",
+              "credits": "4.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "10",
+          "note": "You may have completed program certificate C25710-C1. Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CSC 112",
+              "name": "Machine Learning Computation",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 263",
+              "name": "Brief Calculus",
+              "credits": "4.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "15",
+          "rows": [
+            {
+              "code": "CSC 114",
+              "name": "Artificial Intelligence I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 115",
+              "name": "Machine Learning I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 128",
+              "name": "Chatbot Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 162",
+              "name": "Computer Vision",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 221",
+              "name": "Advanced Python Programming",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13-15",
+          "rows": [
+            {
+              "code": "CSC 161",
+              "name": "Deep Learning",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 214",
+              "name": "Artificial Intelligence II",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 215",
+              "name": "Machine Learning II",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 228",
+              "name": "Chatbot Programming II",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0-3.0"
+            }
+          ]
+        }
+      ],
+      "totalHours": "68-70",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "hero": "artificial-intelligence.jpg",
+      "footnotes": []
+    },
+    {
+      "family": "appdev",
+      "programName": "Software Engineering",
+      "title": "Associate in Applied Science - Software Engineering",
+      "code": "A25590SE",
+      "subtitle": "",
+      "totalHours": "71",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "softwareeng-app-dev",
+      "concentration": "Application Development Career Track",
+      "hero": "softwareeng-app-dev.jpg",
+      "overview": "<p>Software powers everything around us&mdash;and software engineers are the people who build it. In this program you&rsquo;ll learn to design, develop, test, and deploy real applications while mastering programming logic, databases, web development, and project management.</p><p>The Application Development track sharpens your skills in Java and enterprise programming&mdash;from data structures and algorithms to server-side development and emerging technologies&mdash;so you can build robust, scalable applications that businesses depend on.</p>",
+      "employmentOutlook": "<p>Demand for software talent keeps climbing. The U.S. Bureau of Labor Statistics projects software developer employment to grow much faster than average through the decade, with strong salaries across nearly every industry. Application developers who can build and maintain dependable software are especially sought after.</p><p>Your degree can open doors to roles like Java Developer, Application Developer, Software Engineer, Back-End Developer, and Systems Programmer.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 152",
+              "name": "Statistical Methods I",
+              "credits": "4.0"
+            },
+            {
+              "code": "CSC 151",
+              "name": "JAVA Programming",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "9",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "17",
+          "rows": [
+            {
+              "code": "DBA 120",
+              "name": "Database Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 251",
+              "name": "Advanced JAVA Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "WEB 110",
+              "name": "Web Development Fundamentals",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 240",
+              "name": "Project Management",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 154",
+              "name": "Software Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 118",
+              "name": "IS Professional Communications",
+              "credits": "2.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            },
+            {
+              "code": "CSC 249",
+              "name": "Data Structure &amp; Algorithms",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 174",
+              "name": "Server-Side JavaScript",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 258",
+              "name": "JAVA Enterprise Programs",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 284",
+              "name": "Emerging Computer Prog Technologies",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "appdev",
+      "programName": "Software Engineering",
+      "title": "Associate in Applied Science - Software Engineering",
+      "code": "A25590SE",
+      "subtitle": "",
+      "totalHours": "71",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "softwareeng-full-stack",
+      "concentration": "Full-Stack Programming Career Track",
+      "hero": "softwareeng-full-stack.jpg",
+      "overview": "<p>Software powers everything around us&mdash;and software engineers are the people who build it. In this program you&rsquo;ll learn to design, develop, test, and deploy real applications while mastering programming logic, databases, web development, and project management.</p><p>The Full-Stack Programming track teaches you to build complete web applications from front to back&mdash;Python, JavaScript, modern markup, and database-driven websites&mdash;so you can take an idea from interface to server with confidence.</p>",
+      "employmentOutlook": "<p>Demand for software talent keeps climbing. The U.S. Bureau of Labor Statistics projects software developer and web developer employment to grow much faster than average through the decade, with strong salaries across nearly every industry. Full-stack developers who can work across the entire web stack are in especially high demand.</p><p>Your degree can open doors to roles like Full-Stack Developer, Web Developer, Front-End Developer, Back-End Developer, and Web Application Programmer.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 152",
+              "name": "Statistical Methods I",
+              "credits": "4.0"
+            },
+            {
+              "code": "CSC 121",
+              "name": "Python Programming",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "9",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "17",
+          "rows": [
+            {
+              "code": "DBA 120",
+              "name": "Database Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 221",
+              "name": "Advanced Python Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "WEB 110",
+              "name": "Web Development Fundamentals",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 240",
+              "name": "Project Management",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 154",
+              "name": "Software Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 118",
+              "name": "IS Professional Communications",
+              "credits": "2.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            },
+            {
+              "code": "WEB 115",
+              "name": "Web Markup and Scripting",
+              "credits": "3.0"
+            },
+            {
+              "code": "WEB 140",
+              "name": "Web Development Tools",
+              "credits": "3.0"
+            },
+            {
+              "code": "WEB 215",
+              "name": "Advanced Markup and Scripting",
+              "credits": "3.0"
+            },
+            {
+              "code": "WEB 250",
+              "name": "Database Driven Websites",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "appdev",
+      "programName": "Data Analysis",
+      "title": "Associate in Applied Science - Data Analysis",
+      "code": "A25590DA",
+      "subtitle": "",
+      "totalHours": "71",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "dataanalysis-analysis",
+      "concentration": "Data Analysis Career Track",
+      "hero": "dataanalysis-analysis.jpg",
+      "overview": "<p>Data is the language of modern business&mdash;and data analysts are the people who turn it into decisions. In this program you&rsquo;ll learn to collect, clean, analyze, and visualize data using today&rsquo;s essential tools: Python, databases, spreadsheets, statistics, and analytics platforms.</p><p>The Data Analysis track deepens your statistical and programming skills&mdash;spreadsheet analysis, data-science programming, SAS, and data warehousing and mining&mdash;so you can dig into large datasets and surface the patterns that drive smart decisions.</p>",
+      "employmentOutlook": "<p>Organizations everywhere need people who can make sense of their data. The U.S. Bureau of Labor Statistics projects data and analytics roles to grow much faster than average through the decade, with strong salaries across nearly every industry for analysts who can find the story in the numbers.</p><p>Your degree can open doors to roles like Data Analyst, Statistical Analyst, Data Science Associate, Database Analyst, and Data Warehouse Analyst.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 121",
+              "name": "Python Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 152",
+              "name": "Statistical Methods I",
+              "credits": "4.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "12",
+          "rows": [
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 130",
+              "name": "Spreadsheet",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 154",
+              "name": "Software Development",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "14",
+          "rows": [
+            {
+              "code": "WEB 110",
+              "name": "Web Development Fundamentals",
+              "credits": "3.0"
+            },
+            {
+              "code": "DBA 120",
+              "name": "Database Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 118",
+              "name": "IS Professional Communications",
+              "credits": "2.0"
+            },
+            {
+              "code": "CTS 225",
+              "name": "Spreadsheet Data Analysis",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 124",
+              "name": "Introduction to Data Science Programming",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 240",
+              "name": "Project Management",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 152",
+              "name": "SAS",
+              "credits": "3.0"
+            },
+            {
+              "code": "DBA 285",
+              "name": "Data Warehousing and Mining",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "appdev",
+      "programName": "Data Analysis",
+      "title": "Associate in Applied Science - Data Analysis",
+      "code": "A25590DA",
+      "subtitle": "",
+      "totalHours": "71",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "dataanalysis-visualization",
+      "concentration": "Data Visualization Career Track",
+      "hero": "dataanalysis-visualization.jpg",
+      "overview": "<p>Data is the language of modern business&mdash;and data analysts are the people who turn it into decisions. In this program you&rsquo;ll learn to collect, clean, analyze, and visualize data using today&rsquo;s essential tools: Python, databases, spreadsheets, statistics, and analytics platforms.</p><p>The Data Visualization track teaches you to transform complex data into clear, compelling dashboards and visuals using modern analytics and visualization tools&mdash;plus SAS and data warehousing&mdash;so decision-makers can instantly see the story in the numbers.</p>",
+      "employmentOutlook": "<p>Every organization wants its data to be understood at a glance. The U.S. Bureau of Labor Statistics projects data and analytics roles to grow much faster than average through the decade, and employers increasingly prize people who can turn analysis into clear, persuasive visuals.</p><p>Your degree can open doors to roles like Data Visualization Specialist, Business Intelligence Developer, Dashboard Analyst, Reporting Analyst, and Analytics Designer.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 121",
+              "name": "Python Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 152",
+              "name": "Statistical Methods I",
+              "credits": "4.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "12",
+          "rows": [
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 130",
+              "name": "Spreadsheet",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 154",
+              "name": "Software Development",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "14",
+          "rows": [
+            {
+              "code": "WEB 110",
+              "name": "Web Development Fundamentals",
+              "credits": "3.0"
+            },
+            {
+              "code": "DBA 120",
+              "name": "Database Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 118",
+              "name": "IS Professional Communications",
+              "credits": "2.0"
+            },
+            {
+              "code": "BAS 120",
+              "name": "Introduction to Analytics",
+              "credits": "3.0"
+            },
+            {
+              "code": "BAS 121",
+              "name": "Data Visualization",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 240",
+              "name": "Project Management",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 152",
+              "name": "SAS",
+              "credits": "3.0"
+            },
+            {
+              "code": "DBA 285",
+              "name": "Data Warehousing and Mining",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "appdev",
+      "programName": "Data Analysis",
+      "title": "Associate in Applied Science - Data Analysis",
+      "code": "A25590DA",
+      "subtitle": "",
+      "totalHours": "71",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "dataanalysis-google",
+      "concentration": "Google IT Project Management &amp; Analytics Career Track",
+      "hero": "dataanalysis-google.jpg",
+      "overview": "<p>Data is the language of modern business&mdash;and data analysts are the people who turn it into decisions. In this program you&rsquo;ll learn to collect, clean, analyze, and visualize data using today&rsquo;s essential tools: Python, databases, spreadsheets, statistics, and analytics platforms.</p><p>The Google IT Project Management &amp; Analytics track pairs your degree with in-demand Google Project Management and Google Data Analytics coursework&mdash;so you graduate ready to lead data projects and deliver insights from day one.</p>",
+      "employmentOutlook": "<p>Employers value people who can both manage projects and analyze the data behind them. The U.S. Bureau of Labor Statistics projects data, analytics, and project-management roles to grow much faster than average through the decade, with strong demand across every industry.</p><p>Your degree can open doors to roles like Data Analyst, Project Coordinator, Project Management Associate, Analytics Associate, and Business Intelligence Analyst.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 121",
+              "name": "Python Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 152",
+              "name": "Statistical Methods I",
+              "credits": "4.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "12",
+          "rows": [
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 130",
+              "name": "Spreadsheet",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "CSC 154",
+              "name": "Software Development",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "14",
+          "rows": [
+            {
+              "code": "WEB 110",
+              "name": "Web Development Fundamentals",
+              "credits": "3.0"
+            },
+            {
+              "code": "DBA 120",
+              "name": "Database Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 118",
+              "name": "IS Professional Communications",
+              "credits": "2.0"
+            },
+            {
+              "code": "CTS 137",
+              "name": "Google Project Management I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 237",
+              "name": "Google Project Management II",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 240",
+              "name": "Project Management",
+              "credits": "3.0"
+            },
+            {
+              "code": "DBA 118",
+              "name": "Google Data Analytics I",
+              "credits": "3.0"
+            },
+            {
+              "code": "DBA 218",
+              "name": "Google Data Analytics II",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "netsec",
+      "programName": "Cybersecurity",
+      "title": "Associate in Applied Science - Cybersecurity",
+      "code": "A25590CX",
+      "subtitle": "",
+      "totalHours": "72",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "cybersecurity-forensics",
+      "concentration": "Digital Forensics Career Track",
+      "hero": "cybersecurity-forensics.jpg",
+      "overview": "<p>Cybersecurity professionals protect the systems, networks, and data that organizations depend on&mdash;and demand for them in the Charlotte region has never been higher. You&rsquo;ll build a strong security foundation in networking, operating systems, Linux, virtualization, protocol analysis, and security concepts, then specialize in a career track.</p><p>The Digital Forensics track teaches you to investigate cybercrime, recover data, and analyze digital evidence&mdash;the incident-response and investigation skills that financial, healthcare, and government employers rely on, aligned with industry digital-forensics certifications.</p>",
+      "employmentOutlook": "<p>Charlotte&rsquo;s financial institutions, healthcare systems, and government agencies need professionals who can investigate breaches, collect evidence, and respond to incidents&mdash;part of a regional market of 17,000+ cybersecurity openings averaging nearly $125,000.</p><p>Your degree can open doors to roles like Digital Forensics Investigator, Incident Responder, Cybercrime Analyst, and Forensic Analyst.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 143",
+              "name": "Quantitative Literacy",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "rows": [
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 120",
+              "name": "Linux Single User",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "PHI 240",
+              "name": "Introduction to Ethics",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "15",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "NET 125",
+              "name": "Introduction to Networks",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 126",
+              "name": "Switching and Routing",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "PSY 150",
+              "name": "General Psychology",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CCT 250",
+              "name": "Network Vulnerabilities I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 151",
+              "name": "Introduction to Protocol Analysis",
+              "credits": "3.0"
+            },
+            {
+              "code": "CCT 121",
+              "name": "Computer Crime Investigation",
+              "credits": "4.0"
+            },
+            {
+              "code": "CSC 121",
+              "name": "Python Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "CCT 240",
+              "name": "Data Recovery Techniques",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 140",
+              "name": "Virtualization Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            },
+            {
+              "code": "CCT 241",
+              "name": "Advanced Data Recovery",
+              "credits": "3.0"
+            },
+            {
+              "code": "CCT 289",
+              "name": "Cyber Crime Capstone Project",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "netsec",
+      "programName": "Cybersecurity",
+      "title": "Associate in Applied Science - Cybersecurity",
+      "code": "A25590CX",
+      "subtitle": "",
+      "totalHours": "72",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "cybersecurity-redteam",
+      "concentration": "Red Team Career Track (Ethical Hacking &amp; Pen Testing)",
+      "hero": "cybersecurity-redteam.jpg",
+      "overview": "<p>Cybersecurity professionals protect the systems, networks, and data that organizations depend on&mdash;and demand for them in the Charlotte region has never been higher. You&rsquo;ll build a strong security foundation in networking, operating systems, Linux, virtualization, protocol analysis, and security concepts, then specialize in a career track.</p><p>The Red Team track trains you to think like an attacker&mdash;perimeter defense, ethical hacking, and Python-powered exploitation&mdash;so you can find and fix vulnerabilities before adversaries do. Coursework aligns with Certified Ethical Hacker (CEH) and PenTest+.</p>",
+      "employmentOutlook": "<p>Organizations need people who think like attackers. Charlotte-area employers have posted 1,525 Cybersecurity Engineer and 798 Application Security Engineer roles calling for offensive-security skills, often with entry salaries of $60,000&ndash;$70,000&mdash;within a regional market of 17,000+ openings averaging nearly $125,000.</p><p>Your degree can open doors to roles like Penetration Tester, Ethical Hacker, Cybersecurity Engineer, Application Security Engineer, and Vulnerability Analyst.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 143",
+              "name": "Quantitative Literacy",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "rows": [
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 120",
+              "name": "Linux Single User",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "PHI 240",
+              "name": "Introduction to Ethics",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "15",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "NET 125",
+              "name": "Introduction to Networks",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 126",
+              "name": "Switching and Routing",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "PSY 150",
+              "name": "General Psychology",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CCT 250",
+              "name": "Network Vulnerabilities I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 151",
+              "name": "Introduction to Protocol Analysis",
+              "credits": "3.0"
+            },
+            {
+              "code": "CCT 121",
+              "name": "Computer Crime Investigation",
+              "credits": "4.0"
+            },
+            {
+              "code": "SEC 175",
+              "name": "Perimeter Defense",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 185",
+              "name": "Ethical Hacking",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 140",
+              "name": "Virtualization Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            },
+            {
+              "code": "CSC 211",
+              "name": "Ethical Hacking With Python I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 255",
+              "name": "Ethical Hacking Tools",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "netsec",
+      "programName": "Cybersecurity",
+      "title": "Associate in Applied Science - Cybersecurity",
+      "code": "A25590CX",
+      "subtitle": "",
+      "totalHours": "72",
+      "phone": "704.330.6513",
+      "site": "cpcc.edu/it",
+      "footnotes": [],
+      "id": "cybersecurity-blueteam",
+      "concentration": "Blue Team Career Track (Network Defense &amp; Security)",
+      "hero": "cybersecurity-blueteam.jpg",
+      "overview": "<p>Cybersecurity professionals protect the systems, networks, and data that organizations depend on&mdash;and demand for them in the Charlotte region has never been higher. You&rsquo;ll build a strong security foundation in networking, operating systems, Linux, virtualization, protocol analysis, and security concepts, then specialize in a career track.</p><p>The Blue Team track focuses on defending networks in real time&mdash;intrusion detection, network programmability, and endpoint detection and response. Coursework aligns with SSCP and Cisco CyberOps Associate certifications.</p>",
+      "employmentOutlook": "<p>Defenders keep organizations running. Over recent years, Charlotte-area employers posted 3,880 Information Security Engineer and 2,842 Information Security Analyst roles&mdash;the threat-detection and defense skills this pathway builds&mdash;within a regional market of 17,000+ cybersecurity openings averaging nearly $125,000.</p><p>Your degree can open doors to roles like Information Security Analyst, SOC Analyst, Intrusion Detection Specialist, Endpoint Security Engineer, and Network Defender.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 143",
+              "name": "Quantitative Literacy",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "rows": [
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 120",
+              "name": "Linux Single User",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "PHI 240",
+              "name": "Introduction to Ethics",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "15",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "NET 125",
+              "name": "Introduction to Networks",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 126",
+              "name": "Switching and Routing",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "PSY 150",
+              "name": "General Psychology",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CCT 250",
+              "name": "Network Vulnerabilities I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 151",
+              "name": "Introduction to Protocol Analysis",
+              "credits": "3.0"
+            },
+            {
+              "code": "CCT 121",
+              "name": "Computer Crime Investigation",
+              "credits": "4.0"
+            },
+            {
+              "code": "SEC 175",
+              "name": "Perimeter Defense",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 210",
+              "name": "Intrusion Detection",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 140",
+              "name": "Virtualization Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            },
+            {
+              "code": "NET 226",
+              "name": "Network Programmability",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 265",
+              "name": "Endpoint Detection and Response",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "it-technical-support",
+      "family": "support",
+      "programName": "IT Technical Support",
+      "title": "Associate in Applied Science - IT Technical Support",
+      "code": "A25590TS",
+      "concentration": "",
+      "subtitle": "",
+      "hero": "it-support.jpg",
+      "site": "cpcc.edu/it",
+      "phone": "704.330.6513",
+      "totalHours": "71",
+      "footnotes": [],
+      "overview": "<p>Every organization runs on technology&mdash;and IT technical support professionals are the people who keep it running. In this hands-on program you&rsquo;ll learn to set up, secure, troubleshoot, and support computers, networks, Windows and Linux systems, virtualization, and cloud services.</p><p>You&rsquo;ll also build the user-support and professional skills that make great support teams, graduating ready to be the person coworkers and customers count on when it matters most.</p>",
+      "employmentOutlook": "<p>Skilled IT support is in constant demand. The U.S. Bureau of Labor Statistics projects steady growth for computer support specialists, and nearly every employer&mdash;from banks and hospitals to schools and small businesses&mdash;needs people who can keep systems running and users productive. It&rsquo;s also a proven launchpad into networking, cybersecurity, and systems administration.</p><p>Your degree can open doors to roles like Help Desk Technician, Desktop Support Specialist, IT Support Technician, Systems Support Analyst, and Technical Support Engineer.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 121",
+              "name": "Algebra/Trigonometry I",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "15",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 155",
+              "name": "Tech Support Functions",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 125",
+              "name": "Introduction to Networks",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 126",
+              "name": "Switching and Routing",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 120",
+              "name": "Linux Single User",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 230",
+              "name": "Windows Administration I",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "12",
+          "rows": [
+            {
+              "code": "CTI 140",
+              "name": "Virtualization Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 141",
+              "name": "Cloud and Storage Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "PSY 150",
+              "name": "General Psychology",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "SEC 175",
+              "name": "Perimeter Defense",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 288",
+              "name": "Professional Practices in IT",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 210",
+              "name": "Computer Ethics",
+              "credits": "3.0"
+            },
+            {
+              "code": "PHI 240",
+              "name": "Introduction to Ethics",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 250",
+              "name": "User Support &amp; Software Evaluation",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cloud-networking",
+      "family": "netsec",
+      "programName": "Cloud and Networking Technologies",
+      "title": "Associate in Applied Science - Cloud and Networking Technologies",
+      "code": "A25590CN",
+      "concentration": "",
+      "subtitle": "",
+      "hero": "cloud-networking.jpg",
+      "site": "cpcc.edu/it",
+      "phone": "704.330.6513",
+      "totalHours": "71",
+      "footnotes": [],
+      "overview": "<p>Networking and the cloud now power everything&mdash;and the two have become inseparable. This program gives you the integrated skill set modern IT runs on: enterprise networking, switching and routing, Linux and Windows administration, virtualization, cloud storage, and data center management.</p><p>Through hands-on labs you&rsquo;ll configure real networks, stand up servers, and manage cloud and virtualized infrastructure&mdash;graduating ready to keep an organization&rsquo;s systems fast, secure, and always available. This degree unifies Central Piedmont&rsquo;s Network Management and Cloud &amp; Virtualization programs into one comprehensive, in-demand credential.</p>",
+      "employmentOutlook": "<p>The Charlotte region is hungry for networking and cloud talent. Recent analytics show 98,293 unique IT openings across 7,405 employers&mdash;including 3,414 Systems Administrator, 1,484 Cloud Engineer, and 1,254 Infrastructure Engineer roles&mdash;with a median advertised salary of $109,952 for computer and mathematical occupations.</p><p>The skills you&rsquo;ll build are exactly what employers list: Linux administration appears in 9,900+ local postings, Microsoft Azure in 9,173, and network routing in 4,388. Your degree can open doors to roles like Network Administrator, Cloud Engineer, Systems Administrator, Infrastructure Engineer, and Network Technician.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 121",
+              "name": "Algebra/Trigonometry I",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 140",
+              "name": "Virtualization Concepts",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "12",
+          "rows": [
+            {
+              "code": "NOS 120",
+              "name": "Linux Single User",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 230",
+              "name": "Windows Administration I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 141",
+              "name": "Cloud and Storage Concepts",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "15",
+          "rows": [
+            {
+              "code": "NET 125",
+              "name": "Introduction to Networks",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 126",
+              "name": "Switching and Routing",
+              "credits": "3.0"
+            },
+            {
+              "code": "CTI 260",
+              "name": "Data Center Troubleshooting",
+              "credits": "3.0"
+            },
+            {
+              "code": "NOS 220",
+              "name": "Linux Administration I",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "PSY 150",
+              "name": "General Psychology",
+              "credits": "3.0"
+            },
+            {
+              "code": "PHI 240",
+              "name": "Introduction to Ethics",
+              "credits": "3.0"
+            },
+            {
+              "code": "SEC 175",
+              "name": "Perimeter Defense",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 225",
+              "name": "Enterprise Networking",
+              "credits": "3.0"
+            },
+            {
+              "code": "NET 226",
+              "name": "Network Programmability",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "1.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "sgd",
+      "programName": "Simulation and Game Development",
+      "title": "Associate in Applied Science - Simulation and Game Development",
+      "subtitle": "",
+      "site": "cpcc.edu/sgd",
+      "phone": "704.330.6549",
+      "totalHours": "66",
+      "footnotes": [],
+      "id": "sgd-3d-modeling",
+      "code": "A25450C",
+      "concentration": "3D Modeling &amp; Animation Concentration",
+      "hero": "sgd-3d-modeling.jpg",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "15",
+          "note": "You may have completed program certificate C25450-21. Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "SGD 111",
+              "name": "Introduction to Simulation and Game Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 112",
+              "name": "SGD Design I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 113",
+              "name": "SGD Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 114",
+              "name": "SGD 3D Modeling I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 117",
+              "name": "Art for Games",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 121",
+              "name": "Algebra/Trigonometry I",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "6",
+          "rows": [
+            {
+              "code": "SGD 165",
+              "name": "SGD Character Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 212",
+              "name": "Simulation and Game Development Design II",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "13",
+          "rows": [
+            {
+              "code": "SGD 214",
+              "name": "SGD 3D Modeling II",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 289",
+              "name": "Simulation and Game Development Capstone Project",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 237",
+              "name": "Rigging 3D Models",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 244",
+              "name": "SGD 3D Modeling III",
+              "credits": "3.0"
+            },
+            {
+              "code": "WBL 111",
+              "name": "Work-Based Learning I",
+              "credits": "1.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "16",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "WBL 121",
+              "name": "Work-Based Learning II",
+              "credits": "1.0"
+            },
+            {
+              "code": "SGD 161",
+              "name": "SGD 2D Animation",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 172",
+              "name": "SGD Virtual Environments",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 213",
+              "name": "Simulation Game Development Programming II",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 162",
+              "name": "SGD 3D Animation I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 168",
+              "name": "SGD Mobile Programming I",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ],
+      "overview": "<p>Turn your passion for games into a career. Central Piedmont is home to the first state-approved game-development degree in the country, and this program immerses you in the full craft&mdash;design, programming, and 3D modeling and animation&mdash;using the same industry-standard tools studios rely on, from Unreal Engine and Unity to Maya, ZBrush, and the Adobe suite.</p><p>The 3D Modeling &amp; Animation concentration builds the art skills studios hire for&mdash;modeling, texturing, rigging, character development, and 2D/3D animation&mdash;so you graduate with a portfolio of game-ready assets.</p>",
+      "employmentOutlook": "<p>The game industry is booming, and the skills you&rsquo;ll build reach well beyond it. Graduates work in entertainment, education, healthcare, engineering, and simulation&mdash;anywhere interactive 3D and software come together&mdash;and hands-on, portfolio-driven coursework plus work-based learning get you ready for real studio work.</p><p>Your degree can open doors to roles like 3D Modeler, Character Artist, Technical Artist, Animator, and Game Artist.</p><p>(Please note: CPCC does not guarantee employment)</p>"
+    },
+    {
+      "family": "sgd",
+      "programName": "Simulation and Game Development",
+      "title": "Associate in Applied Science - Simulation and Game Development",
+      "subtitle": "",
+      "site": "cpcc.edu/sgd",
+      "phone": "704.330.6549",
+      "totalHours": "66",
+      "footnotes": [],
+      "id": "sgd-design",
+      "code": "A25450A",
+      "concentration": "Design Concentration",
+      "hero": "sgd-design.jpg",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "15",
+          "note": "You may have completed program certificate C25450-21. Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "SGD 111",
+              "name": "Introduction to Simulation and Game Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 112",
+              "name": "SGD Design I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 113",
+              "name": "SGD Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 114",
+              "name": "SGD 3D Modeling I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 124",
+              "name": "Massive Multiplayer Online Programming",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 121",
+              "name": "Algebra/Trigonometry I",
+              "credits": "3.0"
+            },
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "6",
+          "rows": [
+            {
+              "code": "SGD 165",
+              "name": "SGD Character Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 213",
+              "name": "Simulation Game Development Programming II",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "note": "You may have completed program certificate C25450-30. Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "SGD 174",
+              "name": "SGD Level Design I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 212",
+              "name": "Simulation and Game Development Design II",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 289",
+              "name": "Simulation and Game Development Capstone Project",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 274",
+              "name": "SGD Level Design II",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 214",
+              "name": "SGD 3D Modeling II",
+              "credits": "3.0"
+            },
+            {
+              "code": "WBL 111",
+              "name": "Work-Based Learning I",
+              "credits": "1.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "SGD 172",
+              "name": "SGD Virtual Environments",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 168",
+              "name": "SGD Mobile Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "WBL 121",
+              "name": "Work-Based Learning II",
+              "credits": "1.0"
+            },
+            {
+              "code": "SGD 164",
+              "name": "SGD Audio/Video",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 162",
+              "name": "SGD 3D Animation I",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ],
+      "overview": "<p>Turn your passion for games into a career. Central Piedmont is home to the first state-approved game-development degree in the country, and this program immerses you in the full craft&mdash;design, programming, and 3D modeling and animation&mdash;using the same industry-standard tools studios rely on, from Unreal Engine and Unity to Maya, ZBrush, and the Adobe suite.</p><p>The Design concentration focuses on what makes games fun&mdash;game design and mechanics, level design, virtual environments, multiplayer, and narrative&mdash;so you can shape player experiences from concept to playtest.</p>",
+      "employmentOutlook": "<p>The game industry is booming, and the skills you&rsquo;ll build reach well beyond it. Graduates work in entertainment, education, healthcare, engineering, and simulation&mdash;anywhere interactive 3D and software come together&mdash;and hands-on, portfolio-driven coursework plus work-based learning get you ready for real studio work.</p><p>Your degree can open doors to roles like Game Designer, Level Designer, Narrative Designer, Gameplay Designer, and QA Analyst.</p><p>(Please note: CPCC does not guarantee employment)</p>"
+    },
+    {
+      "family": "sgd",
+      "programName": "Simulation and Game Development",
+      "title": "Associate in Applied Science - Simulation and Game Development",
+      "subtitle": "",
+      "site": "cpcc.edu/sgd",
+      "phone": "704.330.6549",
+      "totalHours": "66",
+      "footnotes": [],
+      "id": "sgd-programming",
+      "code": "A25450B",
+      "concentration": "Programming Concentration",
+      "hero": "sgd-programming.jpg",
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "15",
+          "note": "You may have completed program certificate C25450-21. Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "SGD 111",
+              "name": "Introduction to Simulation and Game Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 112",
+              "name": "SGD Design I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 113",
+              "name": "SGD Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 114",
+              "name": "SGD 3D Modeling I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 212",
+              "name": "Simulation and Game Development Design II",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0"
+            },
+            {
+              "code": "ACA 122",
+              "name": "Transfer &amp; Career Success",
+              "credits": "1.0"
+            },
+            {
+              "code": "",
+              "name": "Social/Behavioral Sciences Elective",
+              "credits": "3.0"
+            },
+            {
+              "code": "MAT 121",
+              "name": "Algebra/Trigonometry I",
+              "credits": "3.0"
+            },
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "6",
+          "rows": [
+            {
+              "code": "SGD 165",
+              "name": "SGD Character Development",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 213",
+              "name": "Simulation Game Development Programming II",
+              "credits": "3.0"
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "rows": [
+            {
+              "code": "SGD 122",
+              "name": "Simulation and Game Database Programming",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 125",
+              "name": "Simulation and Game Artificial Intelligence",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 289",
+              "name": "Simulation and Game Development Capstone Project",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 285",
+              "name": "SGD Software Engineering",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 214",
+              "name": "SGD 3D Modeling II",
+              "credits": "3.0"
+            },
+            {
+              "code": "WBL 111",
+              "name": "Work-Based Learning I",
+              "credits": "1.0"
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "You may have completed a program certificate(s). Confirm eligibility with your academic advisor.",
+          "rows": [
+            {
+              "code": "SGD 168",
+              "name": "SGD Mobile Programming I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 172",
+              "name": "SGD Virtual Environments",
+              "credits": "3.0"
+            },
+            {
+              "code": "WBL 121",
+              "name": "Work-Based Learning II",
+              "credits": "1.0"
+            },
+            {
+              "code": "SGD 162",
+              "name": "SGD 3D Animation I",
+              "credits": "3.0"
+            },
+            {
+              "code": "SGD 268",
+              "name": "SGD Mobile Programming II",
+              "credits": "3.0"
+            }
+          ]
+        }
+      ],
+      "overview": "<p>Turn your passion for games into a career. Central Piedmont is home to the first state-approved game-development degree in the country, and this program immerses you in the full craft&mdash;design, programming, and 3D modeling and animation&mdash;using the same industry-standard tools studios rely on, from Unreal Engine and Unity to Maya, ZBrush, and the Adobe suite.</p><p>The Programming concentration develops the code behind the play&mdash;game programming, database and AI systems, mobile development, and software engineering&mdash;so you can build the systems games run on.</p>",
+      "employmentOutlook": "<p>The game industry is booming, and the skills you&rsquo;ll build reach well beyond it. Graduates work in entertainment, education, healthcare, engineering, and simulation&mdash;anywhere interactive 3D and software come together&mdash;and hands-on, portfolio-driven coursework plus work-based learning get you ready for real studio work.</p><p>Your degree can open doors to roles like Game Programmer, Gameplay Engineer, Tools Programmer, Mobile Game Developer, and AI Programmer.</p><p>(Please note: CPCC does not guarantee employment)</p>"
+    }
+  ]
+}

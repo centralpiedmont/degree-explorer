@@ -1,0 +1,934 @@
+{
+ "meta": { "site": "cpcc.edu", "generated": "2026" },
+ "sheets": [
+  {
+   "id": "nursing-adn",
+   "family": "nursing",
+   "programName": "Nursing, Associate Degree",
+   "title": "Associate in Applied Science",
+   "code": "A45110",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Associate Degree Nursing curriculum prepares individuals with the knowledge and skills necessary to provide nursing care to clients across the lifespan. The curriculum equips learners with competencies to integrate safety and quality into nursing care across dynamic settings, employing evidence-based practice, quality improvement, and informatics while developing critical thinking skills as an interdisciplinary team member.</p>",
+   "employmentOutlook": "<p>Graduates are eligible to apply to take the National Council Licensure Examination (NCLEX-RN) and pursue employment in acute, chronic, extended, industrial, and community healthcare settings. The program holds full approval from the North Carolina Board of Nursing and accreditation from the Accreditation Commission for Education in Nursing (ACEN).</p>",
+   "specializations": [
+    { "name": "Accelerated (15-month) track", "code": "A45110A" },
+    { "name": "LPN-to-ADN bridge track", "code": "A45110L" }
+   ],
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "NUR 111", "name": "Introduction to Health Concepts", "credits": "8.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "BIO 168", "name": "Anatomy and Physiology I", "credits": "4.0" },
+      { "code": "", "name": "Quantitative Literacy or Precalculus Algebra (MAT 143 or MAT 171)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "NUR 112", "name": "Health-Illness Concepts", "credits": "5.0" },
+      { "code": "NUR 114", "name": "Holistic Health Concepts", "credits": "5.0" },
+      { "code": "BIO 169", "name": "Anatomy and Physiology II", "credits": "4.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "16", "note": "",
+     "rows": [
+      { "code": "NUR 211", "name": "Health Care Concepts", "credits": "5.0" },
+      { "code": "NUR 113", "name": "Family Health Concepts", "credits": "5.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" },
+      { "code": "PSY 241", "name": "Developmental Psychology", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "NUR 213", "name": "Complex Health Concepts", "credits": "10.0" },
+      { "code": "ENG 114", "name": "Professional Research &amp; Reporting", "credits": "3.0" },
+      { "code": "NUR 212", "name": "Health System Concepts", "credits": "5.0" }
+     ]
+    }
+   ],
+   "totalHours": "69"
+  },
+  {
+   "id": "practical-nursing",
+   "family": "nursing",
+   "programName": "Practical Nursing",
+   "title": "Diploma",
+   "code": "D45660",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Practical Nursing curriculum is a one-year (three semesters) diploma program that provides knowledge, skills, and strategies to integrate safety and quality into nursing care, and practice in a dynamic environment. The curriculum emphasizes the practical nurse role as a dependent role under the supervision of the registered nurse (RN), as a member of the interdisciplinary team, providing safe, individualized care while employing evidence-based practice, quality improvement, and informatics.</p>",
+   "employmentOutlook": "<p>Graduates may apply for the National Council Licensure Examination (NCLEX-PN) and pursue employment within acute, chronic, extended, industrial, and community healthcare facilities.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "NUR 101", "name": "Practical Nursing I", "credits": "11.0" },
+      { "code": "BIO 168", "name": "Anatomy and Physiology I", "credits": "4.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "NUR 102", "name": "Practical Nursing II", "credits": "10.0" },
+      { "code": "BIO 169", "name": "Anatomy and Physiology II", "credits": "4.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "9", "note": "",
+     "rows": [
+      { "code": "NUR 103", "name": "Practical Nursing III", "credits": "9.0" }
+     ]
+    }
+   ],
+   "totalHours": "44"
+  },
+  {
+   "id": "nurse-aide",
+   "family": "nursing",
+   "programName": "Nurse Aide",
+   "title": "Certificate",
+   "code": "C45970",
+   "concentration": "",
+   "subtitle": "Nurse Aide for Pre-Nursing",
+   "overview": "<p>The Nurse Aide curriculum prepares students to work under the supervision of licensed healthcare professionals in performing nursing care and services for persons of all ages. Instruction focuses on growth and development throughout the life span, personal care, vital signs, communication, nutrition, medical asepsis, therapeutic activities, accident and fire safety, household environment and equipment management, as well as employment skills and family resources and services.</p>",
+   "employmentOutlook": "<p>Program completers may qualify for Nursing Aide I registry listing and find employment in home health agencies, hospitals, clinics, nursing homes, extended care facilities, and doctors' offices.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "6", "note": "",
+     "rows": [
+      { "code": "NAS 101", "name": "Nurse Aide I", "credits": "6.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "6", "note": "",
+     "rows": [
+      { "code": "NAS 102", "name": "Nurse Aide II", "credits": "6.0" }
+     ]
+    }
+   ],
+   "totalHours": "12"
+  },
+  {
+   "id": "physical-therapist-assistant",
+   "family": "therapy",
+   "programName": "Physical Therapist Assistant",
+   "title": "Associate in Applied Science",
+   "code": "A45640",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Physical Therapist Assistant curriculum prepares graduates for direct patient care settings under physical therapists' supervision. Assistants work to enhance or restore function by addressing physical impairment. Coursework encompasses normal human anatomy and physiology, the consequences of disease or injury, and physical therapy treatment of various patient conditions affecting humans throughout their lifespan.</p>",
+   "employmentOutlook": "<p>Upon graduation, students may take the PTA National Physical Therapy Exam (NPTE) for licensure. Employment opportunities exist in general hospitals, rehabilitation centers, outpatient orthopedic clinics, school systems, geriatric health care facilities, and home health agencies.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "", "name": "Introduction to Communication or Public Speaking (COM 110 or COM 231)", "credits": "3.0" },
+      { "code": "MAT 110", "name": "Mathematical Measurement and Literacy", "credits": "3.0" },
+      { "code": "BIO 168", "name": "Anatomy and Physiology I", "credits": "4.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" },
+      { "code": "", "name": "Survey of Medical Terminology or Medical Terminology I (MED 120 or MED 121)", "credits": "2.0" },
+      { "code": "BIO 169", "name": "Anatomy and Physiology II", "credits": "4.0" },
+      { "code": "PTA 110", "name": "Introduction to Physical Therapy", "credits": "3.0" },
+      { "code": "PTA 125", "name": "Gross &amp; Functional Anatomy", "credits": "5.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "13", "note": "",
+     "rows": [
+      { "code": "PTA 135", "name": "Pathology", "credits": "4.0" },
+      { "code": "PTA 145", "name": "Therapeutic Procedures", "credits": "4.0" },
+      { "code": "PTA 215", "name": "Therapeutic Exercise", "credits": "3.0" },
+      { "code": "PTA 222", "name": "Professional Interactions", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "13", "note": "",
+     "rows": [
+      { "code": "PTA 225", "name": "Introduction to Rehabilitation", "credits": "4.0" },
+      { "code": "PTA 235AB", "name": "Neurological Rehab", "credits": "3.0" },
+      { "code": "PTA 165", "name": "PTA Clinical I", "credits": "3.0" },
+      { "code": "PTA 185", "name": "PTA Clinical II", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "13", "note": "",
+     "rows": [
+      { "code": "PTA 212", "name": "Health Care/Resources", "credits": "2.0" },
+      { "code": "PTA 235BB", "name": "Neurological Rehab", "credits": "2.0" },
+      { "code": "PTA 245", "name": "PTA Clinical III", "credits": "4.0" },
+      { "code": "PTA 255", "name": "PTA Clinical IV", "credits": "4.0" },
+      { "code": "PTA 270", "name": "PTA Topics", "credits": "1.0" }
+     ]
+    }
+   ],
+   "totalHours": "73"
+  },
+  {
+   "id": "occupational-therapy-assistant",
+   "family": "therapy",
+   "programName": "Occupational Therapy Assistant",
+   "title": "Associate in Applied Science",
+   "code": "A45500",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Occupational Therapy Assistant curriculum prepares individuals to operate under a licensed occupational therapist's direction in screening, assessing, planning, and implementing treatment as well as documenting progress for clients receiving occupational therapy services. Coursework emphasizes human growth and development, conditions that interfere with activities of daily living, theory and process of occupational therapy, individual or group treatment activities, the therapeutic use of self, activity analysis as well as grading or adapting activities and environments.</p>",
+   "employmentOutlook": "<p>Graduates may qualify for the national certification examination for certified occupational therapy assistant practice. Employment settings include hospitals, rehabilitation centers, extended care facilities, sheltered workshops, schools, outpatient clinics, home health programs, and community-based services.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "16", "note": "",
+     "rows": [
+      { "code": "OTA 110", "name": "Fundamentals of OT", "credits": "3.0" },
+      { "code": "OTA 120", "name": "OT Media I", "credits": "2.0" },
+      { "code": "OTA 140", "name": "Professional Skills I", "credits": "1.0" },
+      { "code": "BIO 168", "name": "Anatomy and Physiology I", "credits": "4.0" },
+      { "code": "MED 120", "name": "Survey of Medical Terminology", "credits": "2.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "10", "note": "",
+     "rows": [
+      { "code": "BIO 169", "name": "Anatomy and Physiology II", "credits": "4.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "COM 110", "name": "Introduction to Communication", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "11", "note": "",
+     "rows": [
+      { "code": "OTA 130", "name": "Assessment Skills", "credits": "3.0" },
+      { "code": "OTA 135", "name": "Kinesiology", "credits": "1.0" },
+      { "code": "OTA 170", "name": "Physical Conditions", "credits": "3.0" },
+      { "code": "PSY 281", "name": "Abnormal Psychology", "credits": "3.0" },
+      { "code": "OTA 161", "name": "Fieldwork I-Placement 1", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "14", "note": "",
+     "rows": [
+      { "code": "OTA 150", "name": "Pediatric Concepts and Interventions", "credits": "3.0" },
+      { "code": "OTA 180", "name": "Psychosocial Conditions", "credits": "3.0" },
+      { "code": "OTA 250", "name": "Adult Concepts and Interventions", "credits": "3.0" },
+      { "code": "OTA 240", "name": "Professional Skills II", "credits": "1.0" },
+      { "code": "OTA 162", "name": "Fieldwork I-Placement 2", "credits": "1.0" },
+      { "code": "PSY 241", "name": "Developmental Psychology", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "10", "note": "",
+     "rows": [
+      { "code": "OTA 220", "name": "OT Media II", "credits": "3.0" },
+      { "code": "OTA 163", "name": "Fieldwork I-Placement 3", "credits": "1.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" },
+      { "code": "MAT 110", "name": "Mathematical Measurement and Literacy", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term VI", "termCredits": "13", "note": "",
+     "rows": [
+      { "code": "OTA 260", "name": "Level II Fieldwork Placement 1", "credits": "6.0" },
+      { "code": "OTA 261", "name": "Level II Fieldwork Placement 2", "credits": "6.0" },
+      { "code": "OTA 280", "name": "Professional Transitions", "credits": "1.0" }
+     ]
+    }
+   ],
+   "totalHours": "74"
+  },
+  {
+   "id": "surgical-technology",
+   "family": "surgery",
+   "programName": "Surgical Technology",
+   "title": "Associate in Applied Science",
+   "code": "A45740",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Surgical Technology curriculum prepares individuals to assist in surgical patient care within operating rooms and function as surgical team members. Students apply theoretical knowledge to patient care during surgery and develop competencies in preparing supplies, equipment and instruments; maintaining aseptic conditions; preparing patients for surgery; and assisting surgeons during operations. Graduates take the National Board of Surgical Technology and Surgical Assisting Certification Examination before graduation.</p>",
+   "employmentOutlook": "<p>Employment settings include labor/delivery/emergency departments, inpatient/outpatient surgery centers, dialysis units, endoscopy suites, physician offices, and central supply processing units.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "14", "note": "",
+     "rows": [
+      { "code": "SUR 110", "name": "Introduction to Surgical Technology", "credits": "3.0" },
+      { "code": "SUR 111", "name": "Periop Patient Care", "credits": "7.0" },
+      { "code": "MED 121", "name": "Medical Terminology I", "credits": "3.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "13.5", "note": "",
+     "rows": [
+      { "code": "SUR 122AB", "name": "Surgical Procedures I", "credits": "3.0" },
+      { "code": "SUR 123AB", "name": "Surgical Clinical Practice I", "credits": "3.5" },
+      { "code": "BIO 168", "name": "Anatomy and Physiology I", "credits": "4.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "10.5", "note": "",
+     "rows": [
+      { "code": "SUR 122BB", "name": "Surgical Procedures I (continued)", "credits": "3.0" },
+      { "code": "SUR 123BB", "name": "Surgical Clinical Practice I (continued)", "credits": "3.5" },
+      { "code": "BIO 169", "name": "Anatomy and Physiology II", "credits": "4.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "15", "note": "",
+     "rows": [
+      { "code": "SUR 134", "name": "Surgical Procedures II", "credits": "5.0" },
+      { "code": "SUR 135", "name": "Surgical Clinical Practice II", "credits": "4.0" },
+      { "code": "ENG 114", "name": "Professional Research &amp; Reporting", "credits": "3.0" },
+      { "code": "", "name": "Mathematics elective (MAT 110/143/152/171)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "SUR 137", "name": "Professional Success Preparation", "credits": "1.0" },
+      { "code": "SUR 210", "name": "Advanced Surgical Clinical Practice", "credits": "2.0" },
+      { "code": "SUR 211", "name": "Advanced Theoretical Concepts", "credits": "2.0" },
+      { "code": "SUR 212", "name": "Surgical Clinical Supplement", "credits": "4.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "", "name": "Communication elective (COM 110 or COM 231)", "credits": "3.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" }
+     ]
+    }
+   ],
+   "totalHours": "71"
+  },
+  {
+   "id": "respiratory-therapy",
+   "family": "surgery",
+   "programName": "Respiratory Therapy",
+   "title": "Associate in Applied Science",
+   "code": "A45720",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Respiratory Therapy curriculum prepares individuals to function as professional respiratory therapists, performing diagnostic tests, physical exams, treatments, patient and family education, assisting physicians with procedures, and managing patients with heart and lung diseases. Students develop competencies in treating cardiopulmonary conditions through assessment, life support, monitoring, and drug administration involving patients of all ages in various settings including emergency room, critical care, and general floor.</p>",
+   "employmentOutlook": "<p>Upon completion, graduates qualify for the Therapist Multiple-Choice Examination and Clinical Simulation Examination administered by the National Board for Respiratory Care. Employment opportunities exist in acute and long-term care hospitals, clinics, physician offices, nursing homes, education, industry, and home care.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "19", "note": "",
+     "rows": [
+      { "code": "RCP 110", "name": "Introduction to Respiratory Care", "credits": "4.0" },
+      { "code": "RCP 113", "name": "RCP Pharmacology", "credits": "2.0" },
+      { "code": "RCP 114", "name": "Cardiopulmonary Anatomy &amp; Physiology", "credits": "3.0" },
+      { "code": "RCP 122", "name": "Special Practice Lab", "credits": "1.0" },
+      { "code": "RCP 123", "name": "Special Practice Lab", "credits": "1.0" },
+      { "code": "", "name": "Survey of Medical Terminology or Medical Terminology I (MED 120 or MED 121)", "credits": "2.0" },
+      { "code": "", "name": "Basic Anatomy &amp; Physiology or Anatomy and Physiology I &amp; II (BIO 163 or BIO 168/169)", "credits": "5.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "RCP 111", "name": "Therapeutics/Diagnostics", "credits": "5.0" },
+      { "code": "RCP 115", "name": "Cardiopulmonary Pathophysiology", "credits": "2.0" },
+      { "code": "RCP 145", "name": "RCP Clinical Practice II", "credits": "5.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "", "name": "Mathematics elective (MAT 143 or MAT 152 or MAT 171)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "5", "note": "",
+     "rows": [
+      { "code": "RCP 152", "name": "RCP Clinical Practice III", "credits": "2.0" },
+      { "code": "", "name": "Writing elective (ENG 112 or ENG 113 or ENG 114)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "15", "note": "",
+     "rows": [
+      { "code": "RCP 210", "name": "Critical Care Concepts", "credits": "4.0" },
+      { "code": "RCP 214", "name": "Neonatal and Pediatric Respiratory Care", "credits": "2.0" },
+      { "code": "RCP 222", "name": "Special Practice Lab", "credits": "1.0" },
+      { "code": "RCP 235", "name": "RCP Clinical Practice IV", "credits": "5.0" },
+      { "code": "", "name": "Social/Behavioral Science elective", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "15", "note": "",
+     "rows": [
+      { "code": "RCP 211", "name": "Advanced Monitoring/Procedures", "credits": "4.0" },
+      { "code": "RCP 223", "name": "Special Practice Lab", "credits": "1.0" },
+      { "code": "RCP 247", "name": "RCP Clinical Practice V", "credits": "7.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" }
+     ]
+    }
+   ],
+   "totalHours": "72"
+  },
+  {
+   "id": "cardiovascular-technology",
+   "family": "surgery",
+   "programName": "Cardiovascular Technology",
+   "title": "Associate in Applied Science",
+   "code": "A45170",
+   "concentration": "",
+   "subtitle": "Agnes Binder Weisiger Cardiovascular Technology",
+   "overview": "<p>The Cardiovascular Technology curriculum prepares individuals to develop attributes necessary to perform procedures leading to the diagnosis and treatment of cardiovascular disease. Coursework emphasizes technical and cognitive skills including echocardiography, exercise stress testing, electrocardiography, cardiac catheterization, blood gases, electrophysiology, and cardiovascular anatomy and physiology.</p>",
+   "employmentOutlook": "<p>Graduates selecting the non-invasive track (Cardiac Sonography) qualify for the Registered Diagnostic Cardiac Sonographer (RDCS) credential through ARDMS or Registered Cardiac Sonography (RCS) through CCI. Invasive track graduates may pursue Registered Cardiovascular Invasive Specialist (RCIS) credentials through CCI. Graduates may work in hospitals, clinics, and cardiology offices.</p>",
+   "specializations": [
+    { "name": "Non-Invasive (Cardiac Sonography) track", "code": "A45170N" }
+   ],
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "19", "note": "Invasive track",
+     "rows": [
+      { "code": "ICT 110", "name": "Invasive Fundamentals", "credits": "3.0" },
+      { "code": "NCT 134", "name": "Cardiovascular Anatomy and Physiology", "credits": "4.0" },
+      { "code": "ICT 113", "name": "Electrocardiography", "credits": "4.0" },
+      { "code": "", "name": "Basic Anatomy &amp; Physiology or Anatomy and Physiology I (BIO 163 or BIO 168)", "credits": "5.0" },
+      { "code": "", "name": "Survey of Medical Terminology or Medical Terminology I (MED 120 or MED 121)", "credits": "2.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "ICT 136", "name": "Cardiac and Peripheral Vascular Invasive I", "credits": "6.0" },
+      { "code": "ICT 140", "name": "Cardiovascular Hemodynamics I", "credits": "2.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "", "name": "Conceptual Physics or College Physics I (PHY 110/110A or PHY 151)", "credits": "4.0" },
+      { "code": "", "name": "Mathematics elective (MAT 143, MAT 152, or MAT 171)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "ICT 214", "name": "Cardiac and Peripheral Vascular Invasive II", "credits": "9.0" },
+      { "code": "ICT 218", "name": "Invasive Pharmacology", "credits": "2.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "", "name": "Writing elective (ENG 112 or ENG 114)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "ICT 234", "name": "Cardiac and Peripheral Vascular Invasive III", "credits": "13.0" },
+      { "code": "ICT 236", "name": "Cardiovascular Hemodynamics II", "credits": "2.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" }
+     ]
+    }
+   ],
+   "totalHours": "72"
+  },
+  {
+   "id": "polysomnography",
+   "family": "surgery",
+   "programName": "Polysomnography",
+   "title": "Associate in Applied Science",
+   "code": "A45670",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Polysomnography curriculum equips learners with competencies to critically assess, plan, implement, and evaluate clinical care and management of sleep disorders and daytime alertness. Students work as part of a clinical team under physician supervision, applying specialized knowledge in evaluating and treating sleep conditions across all age groups. The curriculum covers diagnostic testing including polysomnograms, PAP titration studies, multiple sleep latency tests, maintenance of wakefulness tests, actigraphy, and home sleep testing.</p>",
+   "employmentOutlook": "<p>Employment opportunities exist in facility-based or private sleep diagnostic and treatment centers, durable medical equipment companies, medical specialty sales, research, and more.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "BIO 163", "name": "Basic Anatomy &amp; Physiology", "credits": "5.0" },
+      { "code": "MED 121", "name": "Medical Terminology I", "credits": "3.0" },
+      { "code": "PSG 110", "name": "Introduction to Polysomnography", "credits": "4.0" },
+      { "code": "PSG 112", "name": "Polysomnography Fundamentals", "credits": "3.0" },
+      { "code": "PSG 214", "name": "PSG Clinical Applications I", "credits": "1.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "15", "note": "",
+     "rows": [
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "MED 118", "name": "Medical Law and Ethics", "credits": "2.0" },
+      { "code": "PSG 111", "name": "Neuro/Cardiopulmonary Anatomy &amp; Physiology", "credits": "4.0" },
+      { "code": "PSG 113", "name": "Polysomnography Instrumentation", "credits": "3.0" },
+      { "code": "PSG 114", "name": "Polysomnography Clinical Education I", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "9", "note": "",
+     "rows": [
+      { "code": "MAT 143", "name": "Quantitative Literacy", "credits": "3.0" },
+      { "code": "CIS 110", "name": "Introduction to Computers", "credits": "3.0" },
+      { "code": "", "name": "Writing elective (ENG 112 or ENG 114)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "12", "note": "",
+     "rows": [
+      { "code": "PSG 210", "name": "Polysomnography I", "credits": "7.0" },
+      { "code": "PSG 212", "name": "Infant/Pediatric Polysomnography", "credits": "4.0" },
+      { "code": "PSG 215", "name": "PSG Clinical Applications II", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "14", "note": "",
+     "rows": [
+      { "code": "PSG 211", "name": "Polysomnography II", "credits": "7.0" },
+      { "code": "PSG 213", "name": "Case Study/Exam Review", "credits": "1.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" }
+     ]
+    }
+   ],
+   "totalHours": "67"
+  },
+  {
+   "id": "medical-laboratory-technology",
+   "family": "labs",
+   "programName": "Medical Laboratory Technology",
+   "title": "Associate in Applied Science",
+   "code": "A45420",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Medical Laboratory Technology curriculum trains individuals to execute clinical lab procedures across chemistry, hematology, microbiology, and transfusion medicine for health maintenance and disease diagnosis and treatment. Coursework emphasizes mathematical and scientific concepts related to specimen collection, laboratory testing and procedures, quality assurance in reporting/recording and interpreting findings involving tissues, blood, or body fluids.</p>",
+   "employmentOutlook": "<p>Graduates qualify to sit for American Society of Clinical Pathology Board of Certification exams. Career opportunities span hospital labs, physician offices, blood banks, industry, and research settings.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "19", "note": "",
+     "rows": [
+      { "code": "BIO 163", "name": "Basic Anatomy &amp; Physiology", "credits": "5.0" },
+      { "code": "CHM 130", "name": "General, Organic, &amp; Biochemistry", "credits": "3.0" },
+      { "code": "CHM 130A", "name": "General, Organic, &amp; Biochemistry Lab", "credits": "1.0" },
+      { "code": "MLT 110", "name": "Introduction to MLT", "credits": "3.0" },
+      { "code": "MLT 120", "name": "Hematology/Hemostasis I", "credits": "4.0" },
+      { "code": "MLT 126", "name": "Immunology and Serology", "credits": "2.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "15", "note": "",
+     "rows": [
+      { "code": "MLT 127", "name": "Transfusion Medicine", "credits": "3.0" },
+      { "code": "MLT 220", "name": "Hematology/Hemostasis II", "credits": "3.0" },
+      { "code": "MLT 130", "name": "Clinical Chemistry I", "credits": "4.0" },
+      { "code": "MLT 140", "name": "Introduction to Microbiology", "credits": "3.0" },
+      { "code": "MLT 111", "name": "Urinalysis &amp; Body Fluids", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "10", "note": "",
+     "rows": [
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "MLT 251", "name": "MLT Practicum I", "credits": "1.0" },
+      { "code": "", "name": "Mathematics elective (MAT 143 or MAT 152)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "12", "note": "",
+     "rows": [
+      { "code": "MLT 230", "name": "Clinical Chemistry II", "credits": "3.0" },
+      { "code": "MLT 240", "name": "Special Clinical Microbiology", "credits": "3.0" },
+      { "code": "MLT 266", "name": "MLT Practicum II", "credits": "6.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "13", "note": "",
+     "rows": [
+      { "code": "", "name": "Writing elective (ENG 112 or ENG 114)", "credits": "3.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" },
+      { "code": "MLT 216", "name": "Professional Issues", "credits": "1.0" },
+      { "code": "MLT 276", "name": "MLT Practicum III", "credits": "6.0" }
+     ]
+    }
+   ],
+   "totalHours": "69"
+  },
+  {
+   "id": "pharmacy-technology",
+   "family": "labs",
+   "programName": "Pharmacy Technology",
+   "title": "Associate in Applied Science",
+   "code": "A45580",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Pharmacy Technology curriculum prepares individuals to assist the pharmacist in duties that a pharmacy technician can legally perform within prescribed boundaries. Students engage with healthcare and pharmaceutical principles, emphasizing the pharmacy technician as a member of the interdisciplinary team providing safe, individualized care. Work includes prescription preparation, intravenous solution mixing, patient profile management, inventory maintenance, medication packaging, and data gathering for drug therapy monitoring.</p>",
+   "employmentOutlook": "<p>Graduates qualify to pursue Pharmacy Technician Certification Board (PTCB) certification. Employment opportunities span retail, hospitals, nursing homes, research laboratories, and pharmaceutical manufacturing facilities.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "PHM 110", "name": "Introduction to Pharmacy", "credits": "3.0" },
+      { "code": "PHM 111", "name": "Pharmacy Practice I", "credits": "4.0" },
+      { "code": "MAT 143", "name": "Quantitative Literacy", "credits": "3.0" },
+      { "code": "PHM 115", "name": "Pharmacy Calculations", "credits": "3.0" },
+      { "code": "PHM 120", "name": "Pharmacology I", "credits": "3.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "16", "note": "",
+     "rows": [
+      { "code": "PHM 155", "name": "Community Pharmacy", "credits": "3.0" },
+      { "code": "PHM 125", "name": "Pharmacology II", "credits": "3.0" },
+      { "code": "PHM 140", "name": "Trends in Pharmacy", "credits": "2.0" },
+      { "code": "PHM 165", "name": "Pharmacy Professional Practice", "credits": "2.0" },
+      { "code": "", "name": "Biology course (BIO 161/110/111/112/163/168)", "credits": "3.0" },
+      { "code": "PHM 133", "name": "Pharmacy Clinical", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "9", "note": "",
+     "rows": [
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "MED 121", "name": "Medical Terminology I", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "16", "note": "",
+     "rows": [
+      { "code": "PHM 160", "name": "Pharmaceutical Dosage Forms", "credits": "3.0" },
+      { "code": "PHM 150", "name": "Hospital Pharmacy", "credits": "4.0" },
+      { "code": "PHM 118", "name": "Sterile Products", "credits": "4.0" },
+      { "code": "", "name": "Communication course (ENG 112, COM 110, or COM 231)", "credits": "3.0" },
+      { "code": "PHM 132", "name": "Pharmacy Clinical", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "10", "note": "",
+     "rows": [
+      { "code": "PHM 265", "name": "Professional Issues", "credits": "3.0" },
+      { "code": "PHM 134", "name": "Pharmacy Clinical", "credits": "4.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" }
+     ]
+    }
+   ],
+   "totalHours": "68"
+  },
+  {
+   "id": "dental-hygiene",
+   "family": "dentalvision",
+   "programName": "Dental Hygiene",
+   "title": "Associate in Applied Science",
+   "code": "A45260",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Dental Hygiene curriculum prepares individuals to assess, plan, implement, and evaluate dental hygiene care for the individual and the community. Students develop competencies in patient assessment, care planning, oral hygiene instruction, radiographic imaging, and preventive therapy. The program emphasizes electronic patient management systems and procedures within dental hygiene scope of practice.</p>",
+   "employmentOutlook": "<p>Graduates qualify to pursue national and state licensure examinations required for practice. Career opportunities span dental offices, hospital clinics, schools, public health agencies, and educational institutions.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "8", "note": "",
+     "rows": [
+      { "code": "BIO 168", "name": "Anatomy and Physiology I", "credits": "4.0" },
+      { "code": "BIO 169", "name": "Anatomy and Physiology II", "credits": "4.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "15", "note": "",
+     "rows": [
+      { "code": "DEN 110", "name": "Orofacial Anatomy", "credits": "3.0" },
+      { "code": "DEN 111", "name": "Infection/Hazard Control", "credits": "2.0" },
+      { "code": "DEN 112", "name": "Dental Radiography", "credits": "3.0" },
+      { "code": "DEN 120", "name": "Dental Hygiene Preclinic Lecture", "credits": "2.0" },
+      { "code": "DEN 121", "name": "Dental Hygiene Preclinical Lab", "credits": "2.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "16", "note": "",
+     "rows": [
+      { "code": "DEN 124", "name": "Periodontology", "credits": "2.0" },
+      { "code": "DEN 125", "name": "Dental Office Emergencies", "credits": "1.0" },
+      { "code": "DEN 130", "name": "Dental Hygiene Theory I", "credits": "2.0" },
+      { "code": "DEN 131", "name": "Dental Hygiene Clinic I", "credits": "3.0" },
+      { "code": "DEN 224", "name": "Materials and Procedures", "credits": "2.0" },
+      { "code": "MAT 110", "name": "Mathematical Measurement and Literacy", "credits": "3.0" },
+      { "code": "BIO 175", "name": "General Microbiology", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "7", "note": "",
+     "rows": [
+      { "code": "DEN 140", "name": "Dental Hygiene Theory II", "credits": "2.0" },
+      { "code": "DEN 141", "name": "Dental Hygiene Clinic II", "credits": "2.0" },
+      { "code": "COM 231", "name": "Public Speaking", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "16", "note": "",
+     "rows": [
+      { "code": "DEN 123", "name": "Nutrition/Dental Health", "credits": "2.0" },
+      { "code": "DEN 220", "name": "Dental Hygiene Theory III", "credits": "2.0" },
+      { "code": "DEN 221", "name": "Dental Hygiene Clinic III", "credits": "4.0" },
+      { "code": "DEN 223", "name": "Dental Pharmacology", "credits": "2.0" },
+      { "code": "DEN 232", "name": "Community Dental Health", "credits": "3.0" },
+      { "code": "SOC 210", "name": "Introduction to Sociology", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term VI", "termCredits": "12", "note": "",
+     "rows": [
+      { "code": "DEN 222", "name": "General &amp; Oral Pathology", "credits": "2.0" },
+      { "code": "DEN 230", "name": "Dental Hygiene Theory IV", "credits": "1.0" },
+      { "code": "DEN 231", "name": "Dental Hygiene Clinic IV", "credits": "4.0" },
+      { "code": "DEN 233", "name": "Professional Development", "credits": "2.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" }
+     ]
+    }
+   ],
+   "totalHours": "74"
+  },
+  {
+   "id": "dental-assisting",
+   "family": "dentalvision",
+   "programName": "Dental Assisting",
+   "title": "Diploma",
+   "code": "D45240",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Dental Assisting curriculum prepares individuals to assist the dentist in delivering dental treatment and function as integral members of the dental team while performing chairside and related office and laboratory procedures. Instruction encompasses general studies, biomedical sciences, dental sciences, clinical sciences, and clinical practice through lecture, laboratory, and clinical experiences. Students gain knowledge in infection/hazard control, radiography, dental materials, preventive dentistry, head and neck anatomy, dental and medical emergencies, and clinical procedures.</p>",
+   "employmentOutlook": "<p>Graduates may qualify for the Dental Assisting National Board Examination to become Certified Dental Assistants and work as Dental Assistant II (per North Carolina Dental Laws) in dental offices and related settings.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "11", "note": "",
+     "rows": [
+      { "code": "BIO 163", "name": "Basic Anatomy &amp; Physiology", "credits": "5.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "COM 231", "name": "Public Speaking", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "14", "note": "",
+     "rows": [
+      { "code": "DEN 100AB", "name": "Basic Orofacial Anatomy", "credits": "1.0" },
+      { "code": "DEN 100BB", "name": "Basic Orofacial Anatomy (continued)", "credits": "1.0" },
+      { "code": "DEN 101AB", "name": "Preclinical Procedures", "credits": "3.5" },
+      { "code": "DEN 102", "name": "Dental Materials", "credits": "4.0" },
+      { "code": "DEN 103AB", "name": "Dental Sciences", "credits": "1.0" },
+      { "code": "DEN 111", "name": "Infection/Hazard Control", "credits": "2.0" },
+      { "code": "DEN 112AB", "name": "Dental Radiography", "credits": "1.5" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "DEN 101BB", "name": "Preclinical Procedures (continued)", "credits": "3.5" },
+      { "code": "DEN 103BB", "name": "Dental Sciences (continued)", "credits": "1.0" },
+      { "code": "DEN 104", "name": "Dental Health Education", "credits": "3.0" },
+      { "code": "DEN 105", "name": "Practice Management", "credits": "2.0" },
+      { "code": "DEN 106", "name": "Clinical Practice I", "credits": "6.0" },
+      { "code": "DEN 112BB", "name": "Dental Radiography (continued)", "credits": "1.5" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "5", "note": "",
+     "rows": [
+      { "code": "DEN 107", "name": "Clinical Practice II", "credits": "5.0" }
+     ]
+    }
+   ],
+   "totalHours": "47"
+  },
+  {
+   "id": "ophthalmic-medical",
+   "family": "dentalvision",
+   "programName": "Ophthalmic Medical Personnel",
+   "title": "Associate in Applied Science",
+   "code": "A45210",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Ophthalmic Medical Personnel program prepares individuals to perform ophthalmic procedures under a licensed physician specializing in Ophthalmology. Coursework encompasses lecture, laboratory, and clinical training covering ocular measurements, testing, lensometry, medication administration, eye care, and instrument maintenance.</p>",
+   "employmentOutlook": "<p>Diploma graduates may qualify for Certified Ophthalmic Assistant certification; Associate degree graduates may pursue Certified Ophthalmic Technician certification through the Joint Commission on Allied Health Personnel in Ophthalmology National Certification Exam. Graduates work in medical institutions, clinics, or physician practices.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "OPH 150", "name": "Introduction to Ophthalmic Medical Assisting", "credits": "2.0" },
+      { "code": "OPH 151", "name": "Ocular Anatomy &amp; Physiology", "credits": "2.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "OPH 113", "name": "Introduction to Diseases of the Eye", "credits": "2.0" },
+      { "code": "OPH 115", "name": "Ophthalmic Clinical Procedures I", "credits": "3.0" },
+      { "code": "OPH 119", "name": "Ophthalmic Optics &amp; Basic Refractometry", "credits": "2.0" },
+      { "code": "MED 121", "name": "Medical Terminology I", "credits": "3.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "18", "note": "",
+     "rows": [
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "OPH 114", "name": "Basic Ophthalmic Pharmacology", "credits": "2.0" },
+      { "code": "", "name": "Introduction to Communication or Public Speaking (COM 110 or COM 231)", "credits": "3.0" },
+      { "code": "OPH 116", "name": "Ophthalmic Medical Assistant Practicum I", "credits": "5.0" },
+      { "code": "OPH 117", "name": "Ophthalmic Clinical Procedures II", "credits": "3.0" },
+      { "code": "OPH 118", "name": "Ophthalmic Patient Care", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "5", "note": "",
+     "rows": [
+      { "code": "OPH 120", "name": "Ophthalmic Medical Assistant Practicum II", "credits": "5.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "14", "note": "",
+     "rows": [
+      { "code": "OPH 217", "name": "Ophthalmic Clinical Procedures III", "credits": "2.0" },
+      { "code": "OPH 218", "name": "Advanced Ophthalmic Patient Care", "credits": "2.0" },
+      { "code": "OPH 219", "name": "Ophthalmic Optics and Refractometry II", "credits": "2.0" },
+      { "code": "BIO 163", "name": "Basic Anatomy &amp; Physiology", "credits": "5.0" },
+      { "code": "MAT 143", "name": "Quantitative Literacy", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "13", "note": "",
+     "rows": [
+      { "code": "OPH 220", "name": "Ophthalmic Medical Assistant Practicum III", "credits": "7.0" },
+      { "code": "ENG 112", "name": "Writing and Research in the Disciplines", "credits": "3.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" }
+     ]
+    }
+   ],
+   "totalHours": "68"
+  },
+  {
+   "id": "emergency-medical-science",
+   "family": "emergency",
+   "programName": "Emergency Medical Science",
+   "title": "Associate in Applied Science",
+   "code": "A45340",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Emergency Medical Science curriculum prepares graduates for careers as entry-level paramedics. The curriculum encompasses basic and advanced life support knowledge and skills through classroom, laboratory, and hospital clinical instruction at a regional Level One trauma center. Field internship occurs at a major EMS provider. The core focus includes EMS management, rescue operations management, and EMS education methods, providing leadership experience.</p>",
+   "employmentOutlook": "<p>Upon completion, students qualify for North Carolina and National Paramedic certification exams. Employment prospects include EMS agencies, fire and rescue, critical care transport, special events, and government positions.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "EMS 110", "name": "EMT", "credits": "9.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+      { "code": "BIO 168", "name": "Anatomy and Physiology I", "credits": "4.0" },
+      { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "15", "note": "",
+     "rows": [
+      { "code": "BIO 169", "name": "Anatomy and Physiology II", "credits": "4.0" },
+      { "code": "", "name": "Professional Research &amp; Reporting or Introduction to Communication (ENG 114 or COM 110)", "credits": "3.0" },
+      { "code": "MAT 143", "name": "Quantitative Literacy", "credits": "3.0" },
+      { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+      { "code": "MED 120", "name": "Survey of Medical Terminology", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "5", "note": "",
+     "rows": [
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" },
+      { "code": "EMS 140", "name": "Rescue Scene Management", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "12", "note": "",
+     "rows": [
+      { "code": "EMS 130", "name": "Pharmacology", "credits": "4.0" },
+      { "code": "EMS 131", "name": "Advanced Airway Management", "credits": "2.0" },
+      { "code": "EMS 160", "name": "Cardiology I", "credits": "3.0" },
+      { "code": "EMS 122", "name": "EMS Clinical Practicum I", "credits": "1.0" },
+      { "code": "EMS 235", "name": "EMS Management", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term V", "termCredits": "10.5", "note": "",
+     "rows": [
+      { "code": "EMS 221", "name": "EMS Clinical Practicum II", "credits": "2.0" },
+      { "code": "EMS 250", "name": "Medical Emergencies", "credits": "4.0" },
+      { "code": "EMS 220", "name": "Cardiology II", "credits": "3.0" },
+      { "code": "EMS 231AB", "name": "EMS Clinical Practicum III (Part A)", "credits": "1.5" }
+     ]
+    },
+    {
+     "term": "Term VI", "termCredits": "3.5", "note": "",
+     "rows": [
+      { "code": "EMS 231BB", "name": "EMS Clinical Practicum III (Part B)", "credits": "1.5" },
+      { "code": "EMS 260", "name": "Trauma Emergencies", "credits": "2.0" }
+     ]
+    },
+    {
+     "term": "Term VII", "termCredits": "12", "note": "",
+     "rows": [
+      { "code": "EMS 240", "name": "Patients With Special Challenges", "credits": "2.0" },
+      { "code": "EMS 270", "name": "Life Span Emergencies", "credits": "4.0" },
+      { "code": "EMS 241", "name": "EMS Clinical Practicum IV", "credits": "4.0" },
+      { "code": "EMS 285", "name": "EMS Capstone", "credits": "2.0" }
+     ]
+    }
+   ],
+   "totalHours": "75"
+  },
+  {
+   "id": "medical-assisting",
+   "family": "emergency",
+   "programName": "Medical Assisting",
+   "title": "Associate in Applied Science",
+   "code": "A45400",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Medical Assisting curriculum prepares multi-skilled health care professionals to be qualified to perform administrative, clinical, and laboratory procedures. Coursework encompasses scheduling appointments, coding and processing insurance accounts, billing, collections, medical transcription, computer operations, assisting with examinations and treatments, performing routine laboratory procedures, electrocardiography, supervised medication administration, and ethical/legal issues associated with patient care.</p>",
+   "employmentOutlook": "<p>Graduates are prepared for employment in physician offices, clinics, hospitals, and other healthcare settings where multi-skilled clinical and administrative support is needed.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I", "termCredits": "19", "note": "",
+     "rows": [
+      { "code": "MED 116", "name": "Introduction to Anatomy &amp; Physiology", "credits": "4.0" },
+      { "code": "MED 121", "name": "Medical Terminology I", "credits": "3.0" },
+      { "code": "MED 130", "name": "Administrative Office Procedures I", "credits": "2.0" },
+      { "code": "MED 131", "name": "Administrative Office Procedures II", "credits": "2.0" },
+      { "code": "MED 140", "name": "Examining Room Procedures I", "credits": "5.0" },
+      { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term II", "termCredits": "19", "note": "",
+     "rows": [
+      { "code": "MED 110", "name": "Orientation to Medical Assisting", "credits": "1.0" },
+      { "code": "MED 118", "name": "Medical Law and Ethics", "credits": "2.0" },
+      { "code": "MED 122", "name": "Medical Terminology II", "credits": "3.0" },
+      { "code": "MED 150", "name": "Laboratory Procedures I", "credits": "5.0" },
+      { "code": "MED 240", "name": "Examining Room Procedures II", "credits": "5.0" },
+      { "code": "MED 272", "name": "Drug Therapy", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term III", "termCredits": "9", "note": "",
+     "rows": [
+      { "code": "MED 260", "name": "MED Clinical Practicum", "credits": "5.0" },
+      { "code": "MED 262", "name": "Clinical Perspectives", "credits": "1.0" },
+      { "code": "", "name": "Introduction to Communication or Public Speaking (COM 110 or COM 231)", "credits": "3.0" }
+     ]
+    },
+    {
+     "term": "Term IV", "termCredits": "17", "note": "",
+     "rows": [
+      { "code": "MED 270", "name": "Symptomatology", "credits": "3.0" },
+      { "code": "BUS 135", "name": "Principles of Supervision", "credits": "3.0" },
+      { "code": "", "name": "Behavioral/Social Science elective", "credits": "3.0" },
+      { "code": "", "name": "Humanities/Fine Arts elective", "credits": "3.0" },
+      { "code": "MAT 143", "name": "Quantitative Literacy", "credits": "3.0" },
+      { "code": "", "name": "Medical Insurance Coding or Diet Therapy or Nutrition or College Transfer Success or Medical Communication (MED 232/274/BIO 155/ACA 122/HCI 120)", "credits": "2.0" }
+     ]
+    }
+   ],
+   "totalHours": "64"
+  }
+ ]
+}

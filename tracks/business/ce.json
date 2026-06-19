@@ -1,0 +1,120 @@
+{
+  "label": "Career Training &amp; Certifications",
+  "short": "Continuing Education",
+  "tagline": "Career-focused certificates and short courses &mdash; non-credit, with financial aid options available.",
+  "color": "#D65F00",
+  "text": "#FFFFFF",
+  "registerUrl": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130434",
+  "categories": [
+    {
+      "name": "Certificate Programs",
+      "courses": [
+        {
+          "code": "pm-agile",
+          "name": "Project Management with Agile Plus",
+          "desc": "Build in-demand project management skills and prepare to lead projects in waterfall, agile, or hybrid environments.",
+          "url": "https://continuinged.cpcc.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=12973424&selectedProgramAreaId=1130434&selectedProgramStreamId=1130595"
+        },
+        {
+          "code": "hr",
+          "name": "Human Resources Certificate",
+          "desc": "A nine-course program covering the core areas of human resources management, with HR certification preparation.",
+          "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130434&selectedProgramStreamId=1130593"
+        },
+        {
+          "code": "banking",
+          "name": "Banking Services Certificate (with Notary Public)",
+          "desc": "Gain the essential knowledge to start or advance a retail banking career — covering banking concepts, deposit accounts, lending, regulations, and NC Notary Public qualification — all in one certificate program.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904805"
+        },
+        {
+          "code": "cfp",
+          "name": "Certified Financial Planner (CFP) Education",
+          "desc": "Complete the CFP Board-registered education required to sit for the CFP® exam through a seven-course series covering financial planning, insurance, investments, taxes, retirement, estate planning, and a capstone plan development course.",
+          "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130437&selectedProgramStreamId=1130449"
+        },
+        {
+          "code": "bookkeeper-cert",
+          "name": "Professional Bookkeeper Certification",
+          "desc": "Build professional-level bookkeeping skills in adjusting entries, payroll, depreciation, inventory, and fraud prevention to prepare for AIPB certification and advance your accounting career.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904780"
+        }
+      ]
+    },
+    {
+      "name": "Accounting & Finance",
+      "courses": [
+        {
+          "code": "bookkeeper-foundations",
+          "name": "Foundations of Accounting for Bookkeepers",
+          "desc": "Develop a solid foundation in core accounting principles — from double-entry bookkeeping and payroll to financial reporting and internal controls — with preparation toward AIPB bookkeeper certification.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=47506185"
+        },
+        {
+          "code": "local-gov-finance",
+          "name": "Local Government Finance",
+          "desc": "Get a practical, no-accounting-experience-required overview of North Carolina local government finance, including budgeting, cash management, purchasing, and the requirements of the Local Government Budget and Fiscal Control Act.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904857"
+        },
+        {
+          "code": "sie-prep",
+          "name": "Securities Industry Essentials (SIE) Exam Prep",
+          "desc": "Prepare for the FINRA Securities Industry Essentials (SIE) exam with rigorous study of capital markets, investment products, trading rules, and the regulatory framework governing the securities industry.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6879737"
+        },
+        {
+          "code": "financial-literacy",
+          "name": "Financial Literacy 101",
+          "desc": "Learn to manage your income, expenses, and debt effectively — covering budgeting, basic taxes, banking, credit, investing, and retirement planning fundamentals to build lasting financial stability.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=17675938"
+        },
+        {
+          "code": "retirement-planning",
+          "name": "Retirement Planning Today",
+          "desc": "Develop a clear retirement plan by exploring income sources, Social Security strategies, common retirement mistakes, and distribution options — ideal for anyone at any career stage planning for their financial future.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904830"
+        },
+        {
+          "code": "financial-analysis-excel",
+          "name": "Financial Analysis & Modeling with Excel",
+          "desc": "Master Excel-based financial analysis — building and interpreting financial statements, forecasting, valuation models, capital budgeting, and portfolio theory — to make smarter data-driven business decisions.",
+          "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4650869"
+        }
+      ]
+    },
+    {
+      "name": "Real Estate & Appraisal",
+      "courses": [
+        {
+          "code": "real-estate",
+          "name": "Real Estate",
+          "desc": "Explore Central Piedmont's real estate continuing education courses, including broker pre-licensing, post-licensing, CE update courses, property management, and real estate investing.",
+          "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130437&selectedProgramStreamId=1130453"
+        },
+        {
+          "code": "appraisal",
+          "name": "Appraisal",
+          "desc": "Explore Central Piedmont's appraisal courses covering foundational principles, procedures, USPAP standards, and supervisory appraiser requirements to launch or advance your career in real property valuation.",
+          "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130437&selectedProgramStreamId=1130447"
+        }
+      ]
+    },
+    {
+      "name": "Explore More Areas",
+      "courses": [
+        {
+          "code": "biz-entrep",
+          "name": "Business &amp; Entrepreneurship",
+          "desc": "Short courses to start and grow a small business, sharpen leadership skills, and advance your career.",
+          "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130434"
+        },
+        {
+          "code": "lang-culture",
+          "name": "Languages &amp; Culture",
+          "desc": "Learn a new language and explore world cultures through engaging continuing-education classes.",
+          "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130442"
+        }
+      ]
+    }
+  ]
+}

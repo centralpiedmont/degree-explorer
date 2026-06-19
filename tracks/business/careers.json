@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "source": "U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics (OEWS)",
+    "wageVintage": "OEWS May 2025 national annual median wage (50th percentile)",
+    "growthVintage": "Occupational Outlook Handbook 2023–2033 projections",
+    "geoDefault": "national",
+    "retrieved": "2026-06-11",
+    "method": "Pulled from the BLS OEWS Profiles tool (data.bls.gov/oesprofile) via the May 2025 national occupation profiles. All figures are the annual 50th-percentile (median) wage.",
+    "notes": [
+      "Lawyers (23-1011) is shown for Paralegal as a transfer/advancement path, not an entry-level outcome.",
+      "Purchasing Managers (11-3061) national median ($148,080) is the BLS May 2025 figure; the occupation requires significant experience and often a bachelor's degree — suitable as an advancement milestone for supply-chain program students.",
+      "Medical Records Specialists (29-2072) appears in both medical-office-admin and medical-billing-coding program cards; it is listed once in occupations[]."
+    ]
+  },
+  "occupations": [
+    { "soc": "11-1021", "title": "General and Operations Managers",                "nationalMedian": 105770, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=110000&occupation=111021&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "11-3012", "title": "Administrative Services Managers",               "nationalMedian": 114130, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=110000&occupation=113012&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "11-3061", "title": "Purchasing Managers",                            "nationalMedian": 148080, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=110000&occupation=113061&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "13-1081", "title": "Logisticians",                                   "nationalMedian":  82320, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=130000&occupation=131081&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "13-2011", "title": "Accountants and Auditors",                       "nationalMedian":  83680, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=130000&occupation=132011&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "13-2051", "title": "Financial and Investment Analysts",              "nationalMedian": 102740, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=130000&occupation=132051&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "23-1011", "title": "Lawyers",                                        "nationalMedian": 159670, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=230000&occupation=231011&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "23-2011", "title": "Paralegals and Legal Assistants",                "nationalMedian":  62890, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=230000&occupation=232011&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "29-2072", "title": "Medical Records Specialists",                    "nationalMedian":  51140, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=290000&occupation=292072&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "43-3021", "title": "Billing and Posting Clerks",                     "nationalMedian":  48500, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=430000&occupation=433021&measure=01&areas=INDUSTRY,STATE,MSA" },
+    { "soc": "43-6013", "title": "Medical Secretaries and Administrative Assistants", "nationalMedian": 45930, "growthPct": null, "url": "https://data.bls.gov/oesprofile/?major_group=430000&occupation=436013&measure=01&areas=INDUSTRY,STATE,MSA" }
+  ],
+  "programs": {
+    "business-administration": [
+      { "title": "General and Operations Manager", "soc": "11-1021", "medianUSD": 105770 },
+      { "title": "Administrative Services Manager", "soc": "11-3012", "medianUSD": 114130 }
+    ],
+    "accounting-finance": [
+      { "title": "Accountant / Auditor", "soc": "13-2011", "medianUSD": 83680 },
+      { "title": "Financial Analyst", "soc": "13-2051", "medianUSD": 102740 }
+    ],
+    "supply-chain": [
+      { "title": "Logistician", "soc": "13-1081", "medianUSD": 82320 },
+      { "title": "Purchasing Manager", "soc": "11-3061", "medianUSD": 148080 }
+    ],
+    "paralegal": [
+      { "title": "Paralegal / Legal Assistant", "soc": "23-2011", "medianUSD": 62890 },
+      { "title": "Lawyer (advancement path)", "soc": "23-1011", "medianUSD": 159670 }
+    ],
+    "medical-office-admin": [
+      { "title": "Medical Secretary / Admin Assistant", "soc": "43-6013", "medianUSD": 45930 },
+      { "title": "Medical Records Specialist", "soc": "29-2072", "medianUSD": 51140 }
+    ],
+    "medical-billing-coding": [
+      { "title": "Medical Records Specialist / Coder", "soc": "29-2072", "medianUSD": 51140 },
+      { "title": "Medical Biller / Posting Clerk", "soc": "43-3021", "medianUSD": 48500 }
+    ]
+  }
+}

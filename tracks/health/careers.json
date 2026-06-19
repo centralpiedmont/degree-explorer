@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "source": "U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics (OEWS)",
+    "wageVintage": "OEWS May 2025 national annual median wage (50th percentile)",
+    "growthVintage": "Occupational Outlook Handbook 2023–2033 projections",
+    "geoDefault": "national",
+    "retrieved": "2026-06-17",
+    "notes": ["NC and Charlotte-metro medians retained in source notes; national medians shown on the kiosk."]
+  },
+  "occupations": [
+    { "soc": "29-1141", "title": "Registered Nurses",                 "nationalMedian": 93600, "growthPct": 6,  "url": "https://data.bls.gov/oesprofile/?occupation=291141" },
+    { "soc": "29-2061", "title": "Licensed Practical and Licensed Vocational Nurses", "nationalMedian": 62340, "growthPct": 3, "url": "https://data.bls.gov/oesprofile/?occupation=292061" },
+    { "soc": "31-1131", "title": "Nursing Assistants",                 "nationalMedian": 39430, "growthPct": 4,  "url": "https://data.bls.gov/oesprofile/?occupation=311131" },
+    { "soc": "31-2021", "title": "Physical Therapist Assistants",      "nationalMedian": 65510, "growthPct": 25, "url": "https://data.bls.gov/oesprofile/?occupation=312021" },
+    { "soc": "31-2011", "title": "Occupational Therapy Assistants",    "nationalMedian": 67930, "growthPct": 22, "url": "https://data.bls.gov/oesprofile/?occupation=312011" },
+    { "soc": "29-2055", "title": "Surgical Technologists",             "nationalMedian": 62110, "growthPct": 6,  "url": "https://data.bls.gov/oesprofile/?occupation=292055" },
+    { "soc": "29-1126", "title": "Respiratory Therapists",            "nationalMedian": 80450, "growthPct": 13, "url": "https://data.bls.gov/oesprofile/?occupation=291126" },
+    { "soc": "29-2031", "title": "Cardiovascular Technologists and Technicians", "nationalMedian": 66170, "growthPct": 3, "url": "https://data.bls.gov/oesprofile/?occupation=292031" },
+    { "soc": "29-2010", "title": "Clinical Laboratory Technologists and Technicians", "nationalMedian": 61980, "growthPct": 5, "url": "https://data.bls.gov/oesprofile/?occupation=292010" },
+    { "soc": "29-2052", "title": "Pharmacy Technicians",               "nationalMedian": 43740, "growthPct": 7,  "url": "https://data.bls.gov/oesprofile/?occupation=292052" },
+    { "soc": "29-1292", "title": "Dental Hygienists",                  "nationalMedian": 94260, "growthPct": 9,  "url": "https://data.bls.gov/oesprofile/?occupation=291292" },
+    { "soc": "31-9091", "title": "Dental Assistants",                  "nationalMedian": 47350, "growthPct": 8,  "url": "https://data.bls.gov/oesprofile/?occupation=319091" },
+    { "soc": "29-2057", "title": "Ophthalmic Medical Technicians",     "nationalMedian": 41780, "growthPct": 4,  "url": "https://data.bls.gov/oesprofile/?occupation=292057" },
+    { "soc": "29-2043", "title": "Paramedics",                         "nationalMedian": 53180, "growthPct": 6,  "url": "https://data.bls.gov/oesprofile/?occupation=292043" },
+    { "soc": "31-9092", "title": "Medical Assistants",                 "nationalMedian": 44200, "growthPct": 15, "url": "https://data.bls.gov/oesprofile/?occupation=319092" }
+  ],
+  "programs": {
+    "nursing-adn": [ { "title": "Registered Nurse", "soc": "29-1141", "medianUSD": 93600 } ],
+    "practical-nursing": [ { "title": "Licensed Practical Nurse", "soc": "29-2061", "medianUSD": 62340 } ],
+    "nurse-aide": [ { "title": "Nursing Assistant", "soc": "31-1131", "medianUSD": 39430 } ],
+    "physical-therapist-assistant": [ { "title": "Physical Therapist Assistant", "soc": "31-2021", "medianUSD": 65510 } ],
+    "occupational-therapy-assistant": [ { "title": "Occupational Therapy Assistant", "soc": "31-2011", "medianUSD": 67930 } ],
+    "surgical-technology": [ { "title": "Surgical Technologist", "soc": "29-2055", "medianUSD": 62110 } ],
+    "respiratory-therapy": [ { "title": "Respiratory Therapist", "soc": "29-1126", "medianUSD": 80450 } ],
+    "cardiovascular-technology": [ { "title": "Cardiovascular Technologist", "soc": "29-2031", "medianUSD": 66170 } ],
+    "polysomnography": [ { "title": "Sleep / Polysomnographic Technologist", "soc": "29-2031", "medianUSD": 66170 } ],
+    "medical-laboratory-technology": [ { "title": "Clinical Laboratory Technician", "soc": "29-2010", "medianUSD": 61980 } ],
+    "pharmacy-technology": [ { "title": "Pharmacy Technician", "soc": "29-2052", "medianUSD": 43740 } ],
+    "dental-hygiene": [ { "title": "Dental Hygienist", "soc": "29-1292", "medianUSD": 94260 } ],
+    "dental-assisting": [ { "title": "Dental Assistant", "soc": "31-9091", "medianUSD": 47350 } ],
+    "ophthalmic-medical": [ { "title": "Ophthalmic Medical Technician", "soc": "29-2057", "medianUSD": 41780 } ],
+    "emergency-medical-science": [ { "title": "Paramedic", "soc": "29-2043", "medianUSD": 53180 } ],
+    "medical-assisting": [ { "title": "Medical Assistant", "soc": "31-9092", "medianUSD": 44200 } ]
+  }
+}

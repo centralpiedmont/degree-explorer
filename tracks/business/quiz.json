@@ -1,0 +1,53 @@
+{
+  "intro": {
+    "title": "What's your business superpower?",
+    "blurb": "6 quick questions. Find the business path that fits you.",
+    "icon": "compass"
+  },
+  "tieOrder": ["lead", "money", "supply", "legal", "health"],
+  "archetypes": {
+    "lead":   { "name": "The Leader",      "icon": "briefcase",   "blurb": "You see the big picture and bring people together to get things done." },
+    "money":  { "name": "The Strategist",  "icon": "calculator",  "blurb": "You make the numbers make sense and steer smart decisions." },
+    "supply": { "name": "The Mover",       "icon": "truck",       "blurb": "You make complex logistics run on time, every time." },
+    "legal":  { "name": "The Advocate",    "icon": "scale",       "blurb": "You're precise, organized, and stand up for what's right." },
+    "health": { "name": "The Coordinator", "icon": "stethoscope", "blurb": "You keep the business of healthcare running behind the scenes." }
+  },
+  "questions": [
+    { "prompt": "Pick your superpower", "answers": [
+      { "label": "Rally a team toward a goal",        "icon": "briefcase",  "world": "lead" },
+      { "label": "Make the numbers tell the truth",   "icon": "calculator", "world": "money" },
+      { "label": "Keep everything running on time",   "icon": "truck",      "world": "supply" },
+      { "label": "Spot the detail everyone missed",   "icon": "scale",      "world": "legal" }
+    ]},
+    { "prompt": "Your ideal project?", "answers": [
+      { "label": "Launch a small business",            "icon": "briefcase",   "world": "lead" },
+      { "label": "Build a budget that actually works", "icon": "calculator",  "world": "money" },
+      { "label": "Map the route from factory to door", "icon": "truck",       "world": "supply" },
+      { "label": "Make a busy office run smoothly",    "icon": "stethoscope", "world": "health" }
+    ]},
+    { "prompt": "When a problem hits, you…", "answers": [
+      { "label": "Take charge and delegate",          "icon": "briefcase",  "world": "lead" },
+      { "label": "Audit the books to find the cause", "icon": "calculator", "world": "money" },
+      { "label": "Reroute the shipment fast",         "icon": "truck",      "world": "supply" },
+      { "label": "Check the rules and the records",   "icon": "scale",      "world": "legal" }
+    ]},
+    { "prompt": "Which sounds most exciting?", "answers": [
+      { "label": "Closing a big deal",                 "icon": "handshake",   "world": "lead" },
+      { "label": "Catching a costly error first",      "icon": "calculator",  "world": "money" },
+      { "label": "Negotiating with a supplier",        "icon": "truck",       "world": "supply" },
+      { "label": "Helping a patient through paperwork","icon": "stethoscope", "world": "health" }
+    ]},
+    { "prompt": "Pick your workspace", "answers": [
+      { "label": "A corner office and a whiteboard",  "icon": "briefcase",  "world": "lead" },
+      { "label": "Dual monitors and spreadsheets",    "icon": "calculator", "world": "money" },
+      { "label": "A warehouse floor and a clipboard", "icon": "truck",      "world": "supply" },
+      { "label": "A law office full of case files",   "icon": "scale",      "world": "legal" }
+    ]},
+    { "prompt": "People describe you as…", "answers": [
+      { "label": "A natural leader",                  "icon": "briefcase",   "world": "lead" },
+      { "label": "Precise and detail-oriented",       "icon": "scale",       "world": "legal" },
+      { "label": "Calm under pressure",               "icon": "truck",       "world": "supply" },
+      { "label": "Caring and organized",              "icon": "stethoscope", "world": "health" }
+    ]}
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "nursing-adn": {
+    "admissionType": "selective",
+    "pointsBased": true,
+    "teasRequired": true,
+    "infoSessionRequired": true,
+    "keyPrereqs": ["BIO-168", "ENG-111", "Nurse Aide I registry listing"],
+    "applicationWindow": "Apply Oct 15 for Jan cohort; Feb 15 for Aug cohort (Accelerated ADN: Feb 15 for May cohort)",
+    "nextSteps": [
+      "Attend a Health Sciences information session",
+      "Complete prerequisite courses (BIO-168, ENG-111) with a C or better",
+      "Obtain Nurse Aide I certification and current NC Nurse Aide Registry listing",
+      "Take the ATI TEAS entrance exam (Advanced or higher, or Total ≥ 74)",
+      "Submit the competitive nursing program application by the deadline"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Points-based competitive ranking using TEAS scores and academic record. Background check, FBI fingerprinting, physical exam, and drug screen required after acceptance. CPR certification required."
+  },
+  "practical-nursing": {
+    "admissionType": "selective",
+    "pointsBased": false,
+    "teasRequired": true,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["BIO-168", "ENG-111", "Nurse Aide I registry listing"],
+    "applicationWindow": "Apply Oct 15 for Jan cohort; Feb 15 for Aug cohort",
+    "nextSteps": [
+      "Complete BIO-168 and ENG-111 with a C or better",
+      "Obtain Nurse Aide I certification and current NC registry listing",
+      "Take the ATI TEAS exam (minimum score 65)",
+      "Meet with a Health Sciences advisor (healthsciences@cpcc.edu)",
+      "Submit transcripts and practical nursing application by the deadline"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Requirements-based selective entry; all coursework must be completed with a C or better. Background check, physical exam, and drug screen required."
+  },
+  "nurse-aide": {
+    "admissionType": "open",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["ENG-111 placement eligibility"],
+    "applicationWindow": "Open enrollment — sections available most semesters",
+    "nextSteps": [
+      "Apply to Central Piedmont",
+      "Submit official transcripts showing high school graduation",
+      "Complete placement testing if needed to establish ENG-111 eligibility",
+      "Meet with an academic advisor",
+      "Register for NAS-101"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Open admission; must be 18 by the start of clinical experiences. Background check, immunizations, and drug screen required at first class meeting. Completing the certificate satisfies the Nurse Aide I prerequisite for ADN/PN programs."
+  },
+  "physical-therapist-assistant": {
+    "admissionType": "selective",
+    "pointsBased": true,
+    "teasRequired": true,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["BIO-168", "ENG-111", "MAT-110"],
+    "applicationWindow": "Apply by Mar 15 for Aug cohort",
+    "nextSteps": [
+      "Complete prerequisite courses (BIO-168, ENG-111, MAT-110) with a C or better",
+      "Take the ATI TEAS exam",
+      "Submit official transcripts and the Physical Therapist Assistant program application by Mar 15",
+      "Complete physical exam including drug screen",
+      "Obtain CPR/First Aid certification before clinical courses"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Points-based competitive selection using TEAS scores and academic history. Background check required for clinical placement. Program chair: 704-330-6284."
+  },
+  "occupational-therapy-assistant": {
+    "admissionType": "selective",
+    "pointsBased": true,
+    "teasRequired": true,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["BIO-168", "ENG-111"],
+    "applicationWindow": "Apply by Oct 15 for Jan cohort",
+    "nextSteps": [
+      "Complete prerequisite general education courses with a C or better",
+      "Take the ATI TEAS exam",
+      "Submit Central Piedmont application and official transcripts",
+      "Submit OTA program application by Oct 15",
+      "Complete physical exam and drug screen after acceptance"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Competitive points-based selection. Program starts in January. All OTA prefix courses must be passed with C or better each semester to progress."
+  },
+  "surgical-technology": {
+    "admissionType": "selective",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["ENG-111 placement", "MAT placement (college-level)"],
+    "applicationWindow": "Apply by Mar 31 for Aug cohort",
+    "nextSteps": [
+      "Apply to Central Piedmont and complete placement tests",
+      "Contact the Therapy and Acute Care Division for an admission packet (704-330-2722)",
+      "Submit the Surgical Technology program application by Mar 31",
+      "Complete physical exam, immunizations, and 13-panel drug screen",
+      "Obtain current CPR/AED certification"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Competitive admission requiring a separate program application. Background check and US citizenship/residency verification required. Health and accident insurance required."
+  },
+  "respiratory-therapy": {
+    "admissionType": "selective",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["ENG-111 placement", "college-level math and science placement"],
+    "applicationWindow": "Apply by Mar 15 for Aug cohort",
+    "nextSteps": [
+      "Apply to Central Piedmont",
+      "Obtain the Respiratory Therapy admissions packet from the program website",
+      "Submit the program-specific application by Mar 15",
+      "Complete physical exam and annual 13-panel drug screen",
+      "Provide proof of US citizenship or legal residency"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Competitive admission; students must be selected to enter. Contact program office: 704-330-6795. All curriculum courses require a C or better to progress."
+  },
+  "cardiovascular-technology": {
+    "admissionType": "selective",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["ENG-111 placement", "college-level math placement"],
+    "applicationWindow": "Apply by Mar 15 for Aug cohort",
+    "nextSteps": [
+      "Apply to Central Piedmont and complete placement tests",
+      "Visit the CVT program website for the admissions packet",
+      "Submit the Cardiovascular Technology program application by Mar 15",
+      "Complete physical exam, immunizations (tetanus, hepatitis B), TB test, and drug screen",
+      "Obtain current CPR certification"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Competitive admission; students must be selected to enter. Program Chair: 704-330-3045. Background check required for clinical placements. Health and accident insurance required."
+  },
+  "polysomnography": {
+    "admissionType": "selective",
+    "pointsBased": true,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["BIO-163", "MED-121", "ENG-111 placement"],
+    "applicationWindow": "Apply in spring for Aug cohort (exact deadline: contact program chair 704-330-2722 ext. 3245)",
+    "nextSteps": [
+      "Apply to Central Piedmont and complete placement tests",
+      "Complete BIO-163 and MED-121 with a C or better",
+      "Submit the Polysomnography admissions packet",
+      "Provide evidence of good physical and mental health with a physical examination",
+      "Submit official high school and college transcripts"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Points-based competitive selection using academic performance and field-related experience. All PSG prefix courses require a C or better each semester to progress. Exact application deadline not published online — confirm with program chair."
+  },
+  "medical-laboratory-technology": {
+    "admissionType": "selective",
+    "pointsBased": true,
+    "teasRequired": true,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["BIO-163", "CHM-130", "ENG-111 placement"],
+    "applicationWindow": "Apply by Apr 1 for Aug cohort",
+    "nextSteps": [
+      "Complete BIO-163, CHM-130/130A, and college-level English with a C or better",
+      "Take the TEAS exam and include scores in the admissions packet (waived for BS holders)",
+      "Submit the MLT admissions packet by Apr 1",
+      "Provide evidence of good physical and mental health",
+      "Complete criminal background check as required for clinical placement"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Selective admission; students must be chosen to enter. BS-degree holders are exempt from the TEAS requirement. Program Chair: 704-330-2722 ext. 3425."
+  },
+  "pharmacy-technology": {
+    "admissionType": "selective",
+    "pointsBased": true,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["MAT-143", "ENG-111 placement"],
+    "applicationWindow": "Apply by May 1 for Aug cohort",
+    "nextSteps": [
+      "Apply to Central Piedmont and complete placement tests",
+      "Demonstrate computer competency through coursework or testing",
+      "Submit official transcripts and pharmacy technology program application by May 1",
+      "Complete physical exam and 13-panel drug screen",
+      "Provide criminal background check results"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Best-prepared competitive selection using standardized test scores, academic history, and field-related experience. Program Chair: 704-330-6432. Health and accident insurance required."
+  },
+  "dental-hygiene": {
+    "admissionType": "selective",
+    "pointsBased": true,
+    "teasRequired": true,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["BIO-168", "BIO-169", "CHM-121/121A"],
+    "applicationWindow": "Apply by Mar 15 for Aug cohort",
+    "nextSteps": [
+      "Complete BIO-168, BIO-169, and CHM-121/121A with a C or better",
+      "Take the ATI TEAS exam",
+      "Submit official transcripts and the Dental Hygiene program application by Mar 15",
+      "Obtain current Health Care Provider CPR certification",
+      "Complete criminal background check as required"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Points-based competitive selection using TEAS scores, academic performance, and field experience. One of the most competitive CPCC Health Sciences programs. Immunizations and health documentation required."
+  },
+  "dental-assisting": {
+    "admissionType": "selective",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": true,
+    "keyPrereqs": ["BIO-163", "ENG-111"],
+    "applicationWindow": "Apply by Apr 30 for Aug cohort",
+    "nextSteps": [
+      "Attend a virtual information session (required to apply)",
+      "Apply to Central Piedmont and submit official transcripts",
+      "Submit the Dental Assisting program application by Apr 30",
+      "Obtain current Health Care Provider CPR certification",
+      "Complete physical exam, blood and drug screen, and updated immunizations"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Attendance at a virtual information session is required before applying. All DEN prefix courses must be completed with a C or better. Criminal background check may be required for clinical rotations."
+  },
+  "ophthalmic-medical": {
+    "admissionType": "selective",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["ENG-111 placement", "OPH placement testing"],
+    "applicationWindow": "Apply by Dec 1 for Jan cohort; Jun 15 for Aug cohort",
+    "nextSteps": [
+      "Apply to Central Piedmont and complete placement tests",
+      "Meet with an academic advisor",
+      "Submit Central Piedmont application and official transcripts",
+      "Obtain Health Care Provider CPR certification (required before clinical courses)",
+      "Complete criminal background check as required for clinical placement"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Selective entry with two start dates per year (January and August). Program Chair: 704-330-2722 ext. 3444. US citizenship or legal residency verification may be required."
+  },
+  "emergency-medical-science": {
+    "admissionType": "open",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["ENG-111 placement eligibility", "BIO-168"],
+    "applicationWindow": "Open enrollment — start most semesters (EMT certificate: must qualify for ENG-111 and be 17+ by last day of EMS-110)",
+    "nextSteps": [
+      "Apply to Central Piedmont",
+      "Complete placement tests for English and math",
+      "Meet with an academic advisor and attend program orientation",
+      "Register for EMS-110 (EMT) to begin the certificate pathway",
+      "Contact ems@cpcc.edu for program advising"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Degree track is open admission. The EMT certificate (C45340-C1) requires ENG-111 eligibility and minimum age 17 by last class day of EMS-110. Completing the degree track requires BIO-168 and general education coursework."
+  },
+  "medical-assisting": {
+    "admissionType": "selective",
+    "pointsBased": false,
+    "teasRequired": false,
+    "infoSessionRequired": false,
+    "keyPrereqs": ["ENG-111", "MED-121", "biology/math coursework recommended"],
+    "applicationWindow": "Apply by Oct 15 for Jan cohort; Mar 15 for Aug cohort",
+    "nextSteps": [
+      "Apply to Central Piedmont and complete placement tests",
+      "Complete recommended prerequisite courses (biology, math, keyboarding)",
+      "Submit official transcripts and Medical Assisting program application by the deadline",
+      "Obtain CPR certification before MED-260 Clinical Practicum",
+      "Complete physical exam and drug screen; criminal background check may be required"
+    ],
+    "applyUrl": "https://www.cpcc.edu/admissions/apply/healthcare-programs",
+    "notes": "Students are selected to enter; two cohort starts per year (January and August). ACA-122 College Transfer Success is highly recommended. All coursework requires a C or better to progress. Contact: 704-330-6482."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "intro": {
+    "title": "What's your healthcare calling?",
+    "blurb": "6 quick questions. Find the health career that fits you.",
+    "icon": "compass"
+  },
+  "tieOrder": ["nursing", "therapy", "surgery", "labs", "dentalvision", "emergency"],
+  "archetypes": {
+    "nursing":      { "name": "The Caregiver",   "icon": "hand-holding-heart", "blurb": "You're at your best at the bedside, caring for people when they need it most." },
+    "therapy":      { "name": "The Restorer",    "icon": "hands-holding",       "blurb": "You help people move, recover, and get their independence back." },
+    "surgery":      { "name": "The Specialist",  "icon": "heart-pulse",         "blurb": "You thrive in the OR and critical-care moments where precision matters." },
+    "labs":         { "name": "The Analyst",     "icon": "flask",               "blurb": "You find the answers behind every diagnosis and dose." },
+    "dentalvision": { "name": "The Detailer",    "icon": "tooth",               "blurb": "You care for smiles and sight with a steady, precise hand." },
+    "emergency":    { "name": "The Responder",   "icon": "truck-medical",       "blurb": "You're calm under pressure and first on the scene." }
+  },
+  "questions": [
+    { "prompt": "Pick your strength", "answers": [
+      { "label": "Comforting someone who's scared", "icon": "hand-holding-heart", "world": "nursing" },
+      { "label": "Helping someone walk again",       "icon": "hands-holding",      "world": "therapy" },
+      { "label": "Staying sharp in high-stakes moments", "icon": "heart-pulse",   "world": "surgery" },
+      { "label": "Solving a puzzle others can't",     "icon": "flask",             "world": "labs" }
+    ]},
+    { "prompt": "Your ideal day involves…", "answers": [
+      { "label": "A full patient assignment",     "icon": "hand-holding-heart", "world": "nursing" },
+      { "label": "A clean, precise procedure",    "icon": "tooth",              "world": "dentalvision" },
+      { "label": "A fast-moving emergency call",  "icon": "truck-medical",      "world": "emergency" },
+      { "label": "Running tests and reading results", "icon": "flask",          "world": "labs" }
+    ]},
+    { "prompt": "When things get intense, you…", "answers": [
+      { "label": "Steady the patient and the room", "icon": "hand-holding-heart", "world": "nursing" },
+      { "label": "Anticipate the surgeon's next move", "icon": "heart-pulse",     "world": "surgery" },
+      { "label": "Grab the gear and go",            "icon": "truck-medical",      "world": "emergency" },
+      { "label": "Coach someone through the hard reps", "icon": "hands-holding",  "world": "therapy" }
+    ]},
+    { "prompt": "Which sounds most rewarding?", "answers": [
+      { "label": "A patient who recovers on your watch", "icon": "hand-holding-heart", "world": "nursing" },
+      { "label": "A child who isn't afraid of the dentist", "icon": "tooth",         "world": "dentalvision" },
+      { "label": "A lab result that changes a diagnosis",  "icon": "flask",          "world": "labs" },
+      { "label": "Someone breathing easy again",           "icon": "heart-pulse",    "world": "surgery" }
+    ]},
+    { "prompt": "Pick your workspace", "answers": [
+      { "label": "A hospital floor",          "icon": "hand-holding-heart", "world": "nursing" },
+      { "label": "A rehab gym",               "icon": "hands-holding",      "world": "therapy" },
+      { "label": "An ambulance or ER",        "icon": "truck-medical",      "world": "emergency" },
+      { "label": "A dental or eye clinic",    "icon": "tooth",              "world": "dentalvision" }
+    ]},
+    { "prompt": "People describe you as…", "answers": [
+      { "label": "Caring and dependable",     "icon": "hand-holding-heart", "world": "nursing" },
+      { "label": "Patient and encouraging",   "icon": "hands-holding",      "world": "therapy" },
+      { "label": "Precise and focused",       "icon": "flask",              "world": "labs" },
+      { "label": "Cool-headed in a crisis",   "icon": "truck-medical",      "world": "emergency" }
+    ]}
+  ]
+}

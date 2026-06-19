@@ -1,0 +1,1133 @@
+{
+ "meta": {
+  "site": "cpcc.edu",
+  "generated": "2026"
+ },
+ "sheets": [
+  {
+   "id": "business-administration",
+   "family": "business",
+   "programName": "Business Administration",
+   "title": "Associate in Applied Science",
+   "code": "A25120",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Business Administration curriculum is designed to introduce students to the various aspects of the innovation-driven economy. Students are provided with a fundamental knowledge of business functions, processes, and an understanding of business organizations in today's global economy. Course work includes business concepts such as human resources, business law, global business, personal finance, marketing, and management.</p><p>Skills related to applying these concepts are developed through the study of computer applications, decision-making, team building, case study, and communication. Through these skills, students gain a sound business education base for lifelong learning. Graduates are prepared for employment opportunities in government agencies, financial institutions, and large to small businesses or industries.</p>",
+   "employmentOutlook": "<p>Graduates are prepared for employment opportunities in government agencies, financial institutions, and large to small businesses or industries.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I",
+     "termCredits": "16",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACA 122",
+       "name": "College Transfer Success",
+       "credits": "1.0"
+      },
+      {
+       "code": "BUS 110",
+       "name": "Introduction to Business",
+       "credits": "3.0"
+      },
+      {
+       "code": "ENG 111",
+       "name": "Writing and Inquiry",
+       "credits": "3.0"
+      },
+      {
+       "code": "CIS 110",
+       "name": "Introduction to Computers",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Humanities/Fine Arts elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Introduction to Communication or Public Speaking",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term II",
+     "termCredits": "12",
+     "note": "",
+     "rows": [
+      {
+       "code": "BUS 115",
+       "name": "Business Law I",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Quantitative Literacy or Statistical Methods I",
+       "credits": "3.0"
+      },
+      {
+       "code": "BUS 137",
+       "name": "Principles of Management",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Behavioral/Social Science elective",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term III",
+     "termCredits": "6",
+     "note": "",
+     "rows": [
+      {
+       "code": "MKT 120",
+       "name": "Principles of Marketing",
+       "credits": "3.0"
+      },
+      {
+       "code": "BUS 125",
+       "name": "Personal Finance",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term IV",
+     "termCredits": "16",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACC 120",
+       "name": "Principles of Financial Accounting",
+       "credits": "4.0"
+      },
+      {
+       "code": "BUS 240",
+       "name": "Business Ethics",
+       "credits": "3.0"
+      },
+      {
+       "code": "BUS 153",
+       "name": "Human Resource Management",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Specialty Elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Specialty Elective",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term V",
+     "termCredits": "15",
+     "note": "",
+     "rows": [
+      {
+       "code": "BUS 139",
+       "name": "Entrepreneurship I",
+       "credits": "3.0"
+      },
+      {
+       "code": "BUS 253",
+       "name": "Leadership and Management Skills",
+       "credits": "3.0"
+      },
+      {
+       "code": "ECO 251",
+       "name": "Principles of Microeconomics",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Specialty Elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Specialty Elective",
+       "credits": "3.0"
+      }
+     ]
+    }
+   ],
+   "totalHours": "65",
+   "phone": "704.330.4865",
+   "site": "cpcc.edu",
+   "hero": "business-administration.jpg",
+   "footnotes": [],
+   "specializations": [
+    {
+     "name": "Entrepreneurship",
+     "code": "C25120-C4"
+    },
+    {
+     "name": "Business Operations",
+     "code": "C25120-C5"
+    },
+    {
+     "name": "Relationship Banking",
+     "code": "C25120-14"
+    },
+    {
+     "name": "Facilities Management",
+     "code": "C25120-15"
+    },
+    {
+     "name": "Office Management",
+     "code": "C25120-16"
+    },
+    {
+     "name": "Project Management",
+     "code": "C25120-C8"
+    },
+    {
+     "name": "Advanced Project Management",
+     "code": "C25120-C9"
+    },
+    {
+     "name": "Project Management Practitioner",
+     "code": "C25120-13"
+    },
+    {
+     "name": "Human Resources Management",
+     "code": "C25120-12"
+    },
+    {
+     "name": "International Business",
+     "code": "C25120-20"
+    },
+    {
+     "name": "Logistics",
+     "code": "C25120-22"
+    },
+    {
+     "name": "Marketing and Digital Media",
+     "code": "C25120-28"
+    },
+    {
+     "name": "Airport Management",
+     "code": "C25120-36"
+    }
+   ]
+  },
+  {
+   "id": "accounting-finance",
+   "family": "accounting",
+   "programName": "Accounting and Finance",
+   "title": "Associate in Applied Science",
+   "code": "A25800",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Accounting and Finance curriculum is designed to provide students with the knowledge and skills necessary for employment and growth in the accounting or the finance profession. Accountants and finance professionals responsibilities include assembling, analyzing, recording, investigating, interpreting and communicating essential information about financial operations of businesses and government entities.</p><p>Course work may include accounting, finance, fraud examination, forensic and cybersecurity, ethics, business law, computer applications, financial planning, government accounting, insurance, marketing, real estate, selling, and taxation providing the student with a comprehensive understanding of the industry. Related skills are developed through the study of communications, computer applications, financial analysis, fraud investigations, critical thinking skills, and ethics.</p><p>Graduates should qualify for entry-level accounting and finance positions in many types of organizations including accounting firms, small businesses, manufacturing firms, banks, hospitals, school systems, and governmental agencies.</p><p>Advancement in the accounting and finance profession is realized with work experience and additional education. For more information, call the Business and Accounting Division office at 704.330.4865.</p>",
+   "employmentOutlook": "<p>Graduates should qualify for entry-level accounting and finance positions in many types of organizations including accounting firms, small businesses, manufacturing firms, banks, hospitals, school systems, and governmental agencies.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I",
+     "termCredits": "14",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACA 122",
+       "name": "College Transfer Success",
+       "credits": "1.0"
+      },
+      {
+       "code": "ACC 120",
+       "name": "Principles of Financial Accounting",
+       "credits": "4.0"
+      },
+      {
+       "code": "CIS 110",
+       "name": "Introduction to Computers",
+       "credits": "3.0"
+      },
+      {
+       "code": "ENG 111",
+       "name": "Writing and Inquiry",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Quantitative Literacy or Statistical Methods I or Precalculus Algebra",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term II",
+     "termCredits": "14",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACC 121",
+       "name": "Principles of Managerial Accounting",
+       "credits": "4.0"
+      },
+      {
+       "code": "ACC 149",
+       "name": "Introduction to Accounting Spreadsheets",
+       "credits": "2.0"
+      },
+      {
+       "code": "",
+       "name": "Payroll Accounting or Accounting Software Applications",
+       "credits": "2.0"
+      },
+      {
+       "code": "BUS 115",
+       "name": "Business Law I",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Governmental and Not-For-Profit Accounting or Forensic Accounting &amp; Cybersecurity or Fraud Examination",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term III",
+     "termCredits": "9",
+     "note": "",
+     "rows": [
+      {
+       "code": "",
+       "name": "Technical Elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "ECO 251",
+       "name": "Principles of Microeconomics",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Behavioral/Social Science elective",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term IV",
+     "termCredits": "16",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACC 129",
+       "name": "Individual Income Taxes",
+       "credits": "3.0"
+      },
+      {
+       "code": "ACC 220",
+       "name": "Intermediate Accounting I",
+       "credits": "4.0"
+      },
+      {
+       "code": "",
+       "name": "Cost Accounting or Enterprise Risk Management",
+       "credits": "3.0"
+      },
+      {
+       "code": "BUS 125",
+       "name": "Personal Finance",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Introduction to Communication or Public Speaking",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term V",
+     "termCredits": "12",
+     "note": "",
+     "rows": [
+      {
+       "code": "",
+       "name": "Humanities/Fine Arts elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Financial Planning or Business Finance",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Technical Elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "ACC 269",
+       "name": "Auditing &amp; Assurance Services",
+       "credits": "3.0"
+      }
+     ]
+    }
+   ],
+   "totalHours": "65",
+   "phone": "704.330.4865",
+   "site": "cpcc.edu",
+   "hero": "accounting-finance.jpg",
+   "footnotes": [],
+   "specializations": [
+    {
+     "name": "Accounting Technology",
+     "code": "C25800-10"
+    },
+    {
+     "name": "Income Tax Preparer",
+     "code": "C25800-11"
+    },
+    {
+     "name": "Professional Accounting",
+     "code": "C25800-12"
+    },
+    {
+     "name": "Professional Accounting II",
+     "code": "C25800-C4"
+    },
+    {
+     "name": "Personal Finance",
+     "code": "C25800-13"
+    },
+    {
+     "name": "Financial Services",
+     "code": "C25800-14"
+    },
+    {
+     "name": "Forensic Accounting and Fraud Examination",
+     "code": "C25800-15"
+    },
+    {
+     "name": "Accounting and Business Analytics",
+     "code": "C25800-16"
+    },
+    {
+     "name": "Bookkeeping",
+     "code": "C25800-C9"
+    },
+    {
+     "name": "Advanced Governmental Accounting",
+     "code": "C25800-17"
+    }
+   ]
+  },
+  {
+   "id": "supply-chain",
+   "family": "supply",
+   "programName": "Supply Chain Management",
+   "title": "Associate in Applied Science",
+   "code": "A25620",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>The Supply Chain Management curriculum prepares individuals for a multitude of career opportunities in distribution, transportation, warehousing, supply chain, and manufacturing organizations.</p><p>Course work includes the international and domestic movement of goods from the raw materials source(s) through production, and ultimately to the consumer. Courses in transportation, warehousing, inventory control, material handling, purchasing, computerization, and supply chain operations are emphasized.</p><p>Graduates should qualify for positions in a wide range of supply chain and logistics positions in government agencies, manufacturing, and service organizations. Employment opportunities include entry-level distribution, planning, material management, warehousing, inventory, transportation, international freight, and logistics.</p>",
+   "employmentOutlook": "<p>Graduates should qualify for positions in a wide range of supply chain and logistics positions in government agencies, manufacturing, and service organizations. Employment opportunities include entry-level distribution, planning, material management, warehousing, inventory, transportation, international freight, and logistics.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I",
+     "termCredits": "16",
+     "note": "",
+     "rows": [
+      {
+       "code": "BUS 110",
+       "name": "Introduction to Business",
+       "credits": "3.0"
+      },
+      {
+       "code": "CIS 110",
+       "name": "Introduction to Computers",
+       "credits": "3.0"
+      },
+      {
+       "code": "ENG 111",
+       "name": "Writing and Inquiry",
+       "credits": "3.0"
+      },
+      {
+       "code": "LOG 110",
+       "name": "Introduction to Logistics",
+       "credits": "3.0"
+      },
+      {
+       "code": "ACA 122",
+       "name": "College Transfer Success",
+       "credits": "1.0"
+      },
+      {
+       "code": "LOG 125",
+       "name": "Transportation Logistics",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term II",
+     "termCredits": "15",
+     "note": "",
+     "rows": [
+      {
+       "code": "LOG 215",
+       "name": "Supply Chain Management",
+       "credits": "3.0"
+      },
+      {
+       "code": "BUS 137",
+       "name": "Principles of Management",
+       "credits": "3.0"
+      },
+      {
+       "code": "BUS 115",
+       "name": "Business Law I",
+       "credits": "3.0"
+      },
+      {
+       "code": "INT 110",
+       "name": "International Business",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Quantitative Literacy or Statistical Methods I",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term III",
+     "termCredits": "3",
+     "note": "",
+     "rows": [
+      {
+       "code": "",
+       "name": "Writing and Research in the Disciplines or Public Speaking",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term IV",
+     "termCredits": "15",
+     "note": "",
+     "rows": [
+      {
+       "code": "",
+       "name": "Survey of Economics or Principles of Microeconomics or Principles of Macroeconomics",
+       "credits": "3.0"
+      },
+      {
+       "code": "MKT 120",
+       "name": "Principles of Marketing",
+       "credits": "3.0"
+      },
+      {
+       "code": "LOG 211",
+       "name": "Distribution Management",
+       "credits": "3.0"
+      },
+      {
+       "code": "LOG 235",
+       "name": "Import/Export Management",
+       "credits": "3.0"
+      },
+      {
+       "code": "LOG 240",
+       "name": "Purchasing Logistics",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term V",
+     "termCredits": "15",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACC 120",
+       "name": "Principles of Financial Accounting",
+       "credits": "4.0"
+      },
+      {
+       "code": "LOG 250",
+       "name": "Advanced Global Logistics",
+       "credits": "4.0"
+      },
+      {
+       "code": "",
+       "name": "Behavioral/Social Science elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Humanities/Fine Arts elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "WBL 111",
+       "name": "Work-Based Learning I",
+       "credits": "1.0"
+      }
+     ]
+    }
+   ],
+   "totalHours": "64",
+   "phone": "704.330.4228",
+   "site": "cpcc.edu",
+   "hero": "supply-chain.jpg",
+   "footnotes": [],
+   "specializations": [
+    {
+     "name": "Global Logistics Technology",
+     "code": "C25620-C1"
+    },
+    {
+     "name": "Distribution Management",
+     "code": "C25620-C2"
+    },
+    {
+     "name": "Air Transportation Management",
+     "code": "C25620-C3"
+    }
+   ]
+  },
+  {
+   "id": "paralegal",
+   "family": "legal",
+   "programName": "Paralegal Technology",
+   "title": "Associate in Applied Science",
+   "code": "A25380",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>Approved by the American Bar Association and North Carolina Bar Certified</p><p>The Paralegal Technology curriculum is designed to prepare individuals to work under attorneys' supervision by performing routine legal tasks and assisting with substantive legal work. The program offers both an Associate Degree and a Post Baccalaureate Diploma that is designed specifically for students who have a bachelor's degree. Both the diploma and associate degree are approved by the ABA. In addition, the program offers a non-ABA approved certificate, Introduction to Legal Studies (C25380C1), through Career &amp; College Promise Pathways Program. This program offers an overview of the legal discipline, and although it does not prepare students to work as paralegals, it does provide a pathway to additional legal studies.</p><p>The curriculum includes substantive and procedural legal courses in such areas as civil litigation, legal research and writing, real estate, family law, wills, estates, trusts, and commercial law. Additionally, the curriculum includes required courses in English, Computer Literacy, and Communications. The program also offers a review course that prepares students for the North Carolina State Paralegal Certification Exam. Required courses also include subjects such as English and computer utilization.</p><p>Graduates are trained to assist attorneys in various areas of the law in drafting, filing legal documents, writing, researching, and managing the law office. Employment opportunities are available in private law firms, governmental agencies, banks, insurance agencies, and other business organizations.</p>",
+   "employmentOutlook": "<p>Graduates are trained to assist attorneys in various areas of the law in drafting, filing legal documents, writing, researching, and managing the law office. Employment opportunities are available in private law firms, governmental agencies, banks, insurance agencies, and other business organizations.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I",
+     "termCredits": "14",
+     "note": "",
+     "rows": [
+      {
+       "code": "ENG 111",
+       "name": "Writing and Inquiry",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 110",
+       "name": "Introduction to Paralegal Study",
+       "credits": "2.0"
+      },
+      {
+       "code": "",
+       "name": "Quantitative Literacy or Statistical Methods I",
+       "credits": "3.0"
+      },
+      {
+       "code": "CIS 110",
+       "name": "Introduction to Computers",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Behavioral/Social Science elective",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term II",
+     "termCredits": "18",
+     "note": "",
+     "rows": [
+      {
+       "code": "ENG 112",
+       "name": "Writing and Research in the Disciplines",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 120",
+       "name": "Legal Research/Writing I",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 130",
+       "name": "Civil Injuries",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 140",
+       "name": "Civil Litigation I",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "LEX Elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Introduction to Communication or Public Speaking",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term III",
+     "termCredits": "5",
+     "note": "",
+     "rows": [
+      {
+       "code": "",
+       "name": "Humanities/Fine Arts elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 283",
+       "name": "Investigation",
+       "credits": "2.0"
+      }
+     ]
+    },
+    {
+     "term": "Term IV",
+     "termCredits": "17",
+     "note": "",
+     "rows": [
+      {
+       "code": "LEX 121",
+       "name": "Legal Research/Writing II",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 141",
+       "name": "Civil Litigation II",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 150",
+       "name": "Commercial Law I",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 210",
+       "name": "Real Property I",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 240",
+       "name": "Family Law",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 280",
+       "name": "Ethics &amp; Professionalism",
+       "credits": "2.0"
+      }
+     ]
+    },
+    {
+     "term": "Term V",
+     "termCredits": "14",
+     "note": "",
+     "rows": [
+      {
+       "code": "LEX 250",
+       "name": "Wills, Estates, &amp; Trusts",
+       "credits": "3.0"
+      },
+      {
+       "code": "LEX 270",
+       "name": "Law Office Management/Technology",
+       "credits": "2.0"
+      },
+      {
+       "code": "LEX 271",
+       "name": "Law Office Writing",
+       "credits": "2.0"
+      },
+      {
+       "code": "",
+       "name": "College Accounting or Principles of Financial Accounting",
+       "credits": "4.0"
+      },
+      {
+       "code": "",
+       "name": "LEX Elective",
+       "credits": "3.0"
+      }
+     ]
+    }
+   ],
+   "totalHours": "68",
+   "phone": "704.330.6935",
+   "site": "cpcc.edu",
+   "hero": "paralegal.jpg",
+   "footnotes": [],
+   "specializations": [
+    {
+     "name": "Introduction to Legal Studies",
+     "code": "C25380-C1"
+    }
+   ]
+  },
+  {
+   "id": "medical-office-admin",
+   "family": "health",
+   "programName": "Medical Office Administration",
+   "title": "Associate in Applied Science",
+   "code": "A25310",
+   "concentration": "",
+   "subtitle": "Degree",
+   "overview": "<p>This program prepares individuals for administrative roles in healthcare settings.</p><p>Coursework includes medical terminology, information systems, office management, coding, billing, insurance, legal and ethical issues and documentation.</p><p>Graduates are prepared for roles in medical and dental offices, hospitals, insurance companies, laboratories, and other healthcare organizations.</p>",
+   "employmentOutlook": "<p>Graduates are prepared for roles in medical and dental offices, hospitals, insurance companies, laboratories, and other healthcare organizations.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I",
+     "termCredits": "16",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACA 122",
+       "name": "College Transfer Success",
+       "credits": "1.0"
+      },
+      {
+       "code": "OST 137",
+       "name": "Office Applications I",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Introduction to Communication or Public Speaking",
+       "credits": "3.0"
+      },
+      {
+       "code": "ENG 111",
+       "name": "Writing and Inquiry",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 130",
+       "name": "Comprehensive Keyboarding",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 286",
+       "name": "Professional Development",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term II",
+     "termCredits": "15",
+     "note": "",
+     "rows": [
+      {
+       "code": "OST 141",
+       "name": "Medical Office Terms I",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 171",
+       "name": "Introduction to Virtual Office",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 136",
+       "name": "Word Processing",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 148",
+       "name": "Medical Insurance and Billing",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 184",
+       "name": "Office Information Management",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term III",
+     "termCredits": "6",
+     "note": "",
+     "rows": [
+      {
+       "code": "",
+       "name": "Mathematical Measurement and Literacy or Algebra/Trigonometry I or Quantitative Literacy or Statistical Methods I or Precalculus Algebra",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 142",
+       "name": "Medical Office Terms II",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term IV",
+     "termCredits": "12",
+     "note": "",
+     "rows": [
+      {
+       "code": "OST 149",
+       "name": "Medical Legal Issues",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 243",
+       "name": "Medical Office Simulation",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 164",
+       "name": "Office Editing",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 263",
+       "name": "Healthcare Customer Relations",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term V",
+     "termCredits": "15",
+     "note": "",
+     "rows": [
+      {
+       "code": "",
+       "name": "Humanities/Fine Arts elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Technical Elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Technical Elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 288",
+       "name": "Medical Office Administration Capstone",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Behavioral/Social Science elective",
+       "credits": "3.0"
+      }
+     ]
+    }
+   ],
+   "totalHours": "64",
+   "phone": "704.330.4865",
+   "site": "cpcc.edu",
+   "hero": "medical-office-admin.jpg",
+   "footnotes": [],
+   "specializations": [
+    {
+     "name": "Procedural and Diagnostic Coding",
+     "code": "C25310-C1"
+    },
+    {
+     "name": "Medical Office Administration",
+     "code": "C25310-C2"
+    }
+   ]
+  },
+  {
+   "id": "medical-billing-coding",
+   "family": "health",
+   "programName": "Medical Billing and Coding",
+   "title": "Associate in Applied Science",
+   "code": "A25310B",
+   "concentration": "",
+   "subtitle": "",
+   "overview": "<p>This program prepares individuals for administrative roles in healthcare settings.</p><p>Coursework includes medical terminology, information systems, office management, coding, billing, insurance, legal and ethical issues and documentation. The Medical Billing and Coding track includes general medical office administration procedures as well as prepares students to become certified medical coders.</p><p>Graduates are prepared for roles in medical and dental offices, hospitals, insurance companies, laboratories, and other healthcare organizations.</p>",
+   "employmentOutlook": "<p>Graduates are prepared for roles in medical and dental offices, hospitals, insurance companies, laboratories, and other healthcare organizations.</p>",
+   "planOfStudy": [
+    {
+     "term": "Term I",
+     "termCredits": "16",
+     "note": "",
+     "rows": [
+      {
+       "code": "ACA 122",
+       "name": "College Transfer Success",
+       "credits": "1.0"
+      },
+      {
+       "code": "OST 141",
+       "name": "Medical Office Terms I",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Introduction to Communication or Public Speaking",
+       "credits": "3.0"
+      },
+      {
+       "code": "ENG 111",
+       "name": "Writing and Inquiry",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 130",
+       "name": "Comprehensive Keyboarding",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 148",
+       "name": "Medical Insurance and Billing",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term II",
+     "termCredits": "15",
+     "note": "",
+     "rows": [
+      {
+       "code": "OST 142",
+       "name": "Medical Office Terms II",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 137",
+       "name": "Office Applications I",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 164",
+       "name": "Office Editing",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Humanities/Fine Arts elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Mathematical Measurement and Literacy or Algebra/Trigonometry I or Quantitative Literacy or Statistical Methods I or Precalculus Algebra",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term III",
+     "termCredits": "6",
+     "note": "",
+     "rows": [
+      {
+       "code": "OST 136",
+       "name": "Word Processing",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 149",
+       "name": "Medical Legal Issues",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term IV",
+     "termCredits": "18",
+     "note": "",
+     "rows": [
+      {
+       "code": "OST 243",
+       "name": "Medical Office Simulation",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 247",
+       "name": "Procedure Coding",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 248",
+       "name": "Diagnostic Coding",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Behavioral/Social Science elective",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 263",
+       "name": "Healthcare Customer Relations",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 286",
+       "name": "Professional Development",
+       "credits": "3.0"
+      }
+     ]
+    },
+    {
+     "term": "Term V",
+     "termCredits": "12",
+     "note": "",
+     "rows": [
+      {
+       "code": "OST 249",
+       "name": "Medical Coding Certification Preparation",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 250",
+       "name": "Long-Term Care Coding",
+       "credits": "3.0"
+      },
+      {
+       "code": "OST 288",
+       "name": "Medical Office Administration Capstone",
+       "credits": "3.0"
+      },
+      {
+       "code": "",
+       "name": "Technical Elective",
+       "credits": "3.0"
+      }
+     ]
+    }
+   ],
+   "totalHours": "67",
+   "phone": "704.330.4865",
+   "site": "cpcc.edu",
+   "hero": "medical-billing-coding.jpg",
+   "footnotes": [],
+   "specializations": [
+    {
+     "name": "Procedural and Diagnostic Coding",
+     "code": "C25310-C1"
+    }
+   ]
+  }
+ ]
+}
