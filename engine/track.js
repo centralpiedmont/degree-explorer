@@ -11,7 +11,7 @@ export async function loadTrack(id) {
   if (!TRACK_IDS.includes(id)) throw new Error(`unknown track: ${id}`);
   const mod = await import(path.join(tracksDir, id, 'track.config.js'));
   const cfg = mod.default;
-  for (const k of REQUIRED) if (cfg[k] === undefined) throw new Error(`track ${id} missing ${k}`);
+  for (const k of REQUIRED) if (cfg[k] == null) throw new Error(`track ${id} missing ${k}`);
   if (cfg.id !== id) throw new Error(`track ${id} config.id mismatch: ${cfg.id}`);
   cfg.tileTint ||= {};
   cfg.tileDesc ||= {};
