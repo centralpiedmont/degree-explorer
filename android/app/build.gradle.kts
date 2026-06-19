@@ -39,14 +39,19 @@ android {
             dimension = "track"; applicationIdSuffix = ".health"
             resValue("string", "app_name", "Degree Explorer — Health")
         }
+        create("hospitality") {
+            dimension = "track"; applicationIdSuffix = ".hospitality"
+            resValue("string", "app_name", "Degree Explorer — Hospitality")
+        }
     }
 
     // Each flavor bundles its track's built static site directly from ../../dist/<flavor>.
     // Run `npm run build` before assembling so dist/ is populated.
     sourceSets {
-        getByName("tech")     { assets.srcDir("../../dist/tech") }
-        getByName("business") { assets.srcDir("../../dist/business") }
-        getByName("health")   { assets.srcDir("../../dist/health") }
+        getByName("tech")        { assets.srcDir("../../dist/tech") }
+        getByName("business")    { assets.srcDir("../../dist/business") }
+        getByName("health")      { assets.srcDir("../../dist/health") }
+        getByName("hospitality") { assets.srcDir("../../dist/hospitality") }
     }
 
     signingConfigs {

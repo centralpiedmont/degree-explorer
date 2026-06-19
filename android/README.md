@@ -9,14 +9,12 @@ fully offline (no `INTERNET` permission), QR-only (the "Email this" button is hi
 
 - A single full-screen `WebView` Activity (`KioskActivity`) that loads the bundled track
   site from APK assets: `file:///android_asset/index.html?signage=1`.
-- Three product flavors — `tech`, `business`, `health` — each sourcing its assets directly
-  from the repo's built `dist/<flavor>/`. Output APKs:
-  `degree-explorer-tech-<buildtype>.apk`, `-business-`, `-health-`.
+- Four product flavors — `tech`, `business`, `health`, `hospitality` — each sourcing its
+  assets directly from the repo's built `dist/<flavor>/`. Output APKs:
+  `degree-explorer-tech-<buildtype>.apk`, `-business-`, `-health-`, `-hospitality-`.
 - Kiosk hardening: device-owner **lock-task** (with screen-pinning fallback),
   `BOOT_COMPLETED` auto-start, `FLAG_KEEP_SCREEN_ON`, immersive sticky fullscreen,
   auto-relaunch, landscape lock.
-
-> Flavors currently cover the original three tracks. A `hospitality` flavor is a follow-up.
 
 ## Prerequisites
 
@@ -70,7 +68,7 @@ On a freshly set-up stick **with no other accounts added**:
 adb shell dpm set-device-owner edu.cpcc.degreeexplorer.<track>/edu.cpcc.degreeexplorer.KioskDeviceAdminReceiver
 ```
 
-Replace `<track>` with `tech`, `business`, or `health` (it is the flavor's
+Replace `<track>` with `tech`, `business`, `health`, or `hospitality` (it is the flavor's
 `applicationIdSuffix`). With device owner set, `startLockTask()` prevents escape via
 home/recents/back. Without it, the app still runs and pins, but is escapable.
 
