@@ -3,3 +3,12 @@ dist/
 data/
 .DS_Store
 *.log
+
+# Android build outputs / local config / signing (never commit secrets)
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/keystore/
+android/keystore.properties
+*.jks

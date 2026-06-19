@@ -193,7 +193,23 @@ A `sync-data` mapping is wired for `hospitality` (expecting `sheets-hospitality.
 
 ---
 
+## Android signage app
+
+The `android/` module packages each track as a locked-down Android **WebView kiosk APK**
+for a generic Android HDMI signage stick driving a touchscreen — same content as the web
+kiosk, fully offline, QR-only. One APK per track via Gradle product flavors
+(`degree-explorer-tech.apk` / `-business.apk` / `-health.apk`), each bundling its track's
+built `dist/<track>/`. The app runs full-screen with kiosk hardening (device-owner
+lock-task, boot auto-start, keep-screen-on, immersive). The web app hides "Email this" when
+loaded with `?signage=1` (which the WebView always passes). See `android/README.md` for
+build, signing, device-owner provisioning, and install.
+
+> The Android flavors cover the original three tracks (tech/business/health). Adding a
+> hospitality flavor is a follow-up once that track stabilizes.
+
 ## Design documents
 
 - `docs/specs/2026-06-19-degree-explorer-monorepo-design.md` — full system design
 - `docs/plans/2026-06-19-degree-explorer-monorepo.md` — implementation plan (Tasks 0–13)
+- `docs/specs/2026-06-19-android-signage-app-design.md` — Android signage app design
+- `docs/plans/2026-06-19-android-signage-app.md` — Android signage app implementation plan
