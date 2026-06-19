@@ -288,14 +288,14 @@ function quizResultView() {
           <p class="r-blurb">${esc(arch.blurb)}</p>
           <div class="r-actions">
             <button class="r-go">See your matches &rarr;</button>
-            <button class="r-email">Email my results</button>
+            ${SIGNAGE ? '' : '<button class="r-email">Email my results</button>'}
             <button class="r-retake">Retake quiz</button>
           </div>
         </div>
       </div>
     </section>`);
   s.querySelector('.r-go').onclick = () => state.chooseWorld(state.quizResultWorld);
-  s.querySelector('.r-email').onclick = () => state.openEmailResults();
+  s.querySelector('.r-email')?.addEventListener('click', () => state.openEmailResults());
   s.querySelector('.r-retake').onclick = () => state.retakeQuiz();
   setTimeout(() => confetti(s), 450);
   return s;
