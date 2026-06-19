@@ -37,3 +37,7 @@ jobs:
           name: degree-explorer-apks
           path: android/app/build/outputs/apk/*/release/degree-explorer-*-release.apk
           if-no-files-found: error
+      - name: Clean up decoded keystore
+        if: always()
+        run: rm -f android/keystore-ci.jks
+        shell: bash
