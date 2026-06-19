@@ -1,0 +1,22 @@
+{
+  "name": "degree-explorer",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Central Piedmont Degree Explorer touchscreen kiosks (tech / business / health) — one engine, three tracks.",
+  "scripts": {
+    "build": "node engine/build/build-all.js",
+    "build:tech": "node engine/build/generate.js --track=tech && node engine/build/gen-qr.js --track=tech && node engine/build/generate.js --track=tech",
+    "build:business": "node engine/build/generate.js --track=business && node engine/build/gen-qr.js --track=business && node engine/build/generate.js --track=business",
+    "build:health": "node engine/build/generate.js --track=health && node engine/build/gen-qr.js --track=health && node engine/build/generate.js --track=health",
+    "dev:tech": "npm run build:tech && KIOSK_TRACK=tech node engine/server.js",
+    "dev:business": "npm run build:business && KIOSK_TRACK=business node engine/server.js",
+    "dev:health": "npm run build:health && KIOSK_TRACK=health node engine/server.js",
+    "start": "node engine/server.js",
+    "test": "node --test engine/test"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "nodemailer": "^6.9.0"
+  }
+}
