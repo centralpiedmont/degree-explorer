@@ -13,7 +13,7 @@
     "dev:business": "npm run build:business && KIOSK_TRACK=business node engine/server.js",
     "dev:health": "npm run build:health && KIOSK_TRACK=health node engine/server.js",
     "start": "node engine/server.js",
-    "test": "node --test engine/test"
+    "test": "node --test"
   },
   "dependencies": {
     "qrcode": "^1.5.4",
