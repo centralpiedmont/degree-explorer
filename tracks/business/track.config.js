@@ -11,8 +11,8 @@ export default {
   theme: { /* track colors are supplied by world entries + styles.css vars; reserved for future overrides */ },
   features: { worldTilePhotos: false, admissions: false, specializations: false },
   copy: {
-    topbarLabel: 'Business &amp; Accounting',
-    attractSub: 'Explore 6 Business &amp; Accounting degrees and find yours in three taps.',
+    topbarLabel: 'Business & Accounting',
+    attractSub: 'Explore 6 Business & Accounting degrees and find yours in three taps.',
     infoButton: 'Sign up for an information session',
     ceHeading: 'Certifications &amp; Short Courses',
     resultEyebrow: 'YOUR BUSINESS MATCH',
