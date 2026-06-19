@@ -8,7 +8,8 @@ const IDLE_MS = 60_000;
 const el = (html) => { const t = document.createElement('template'); t.innerHTML = html.trim(); return t.content.firstElementChild; };
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c]));
 const hexRgba = (hex, a) => { const n = parseInt(hex.slice(1), 16); return `rgba(${(n >> 16) & 255},${(n >> 8) & 255},${n & 255},${a})`; };
-const tileBg = (color, hero) => `background:linear-gradient(${hexRgba(color, .78)},${hexRgba(color, .93)}),url(${hero}) center/cover`;
+// Tiles show the photo with no color tint; the bottom scrim (.tile::after) + white labels keep labels legible.
+const tileBg = (_color, hero) => `background:url(${hero}) center/cover`;
 const darken = (hex, f = 0.5) => { const n = parseInt(hex.slice(1), 16); const r = Math.round(((n >> 16) & 255) * f), g = Math.round(((n >> 8) & 255) * f), b = Math.round((n & 255) * f); return '#' + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1); };
 // Quiz icons via self-hosted FontAwesome (solid).
 const ICONS = {

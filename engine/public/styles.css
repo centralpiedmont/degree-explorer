@@ -66,15 +66,16 @@ body{font-family:var(--font);color:var(--gray);background:#0e1013;overflow:hidde
 .tile-track{font-size:20px;font-weight:700;opacity:.95;margin-top:2px;}
 .tile-desc{font-size:19px;font-weight:500;opacity:.94;line-height:1.32;margin-top:12px;max-width:100%;}
 .tile small{font-size:24px;font-weight:600;opacity:.92;}
-/* CPCC photo backgrounds tinted by the wayfinding color (color carries meaning) */
+/* CPCC photo backgrounds, untinted — the bottom scrim (.tile::after) + white labels keep text legible */
 .tile{background-size:cover;background-position:center;text-shadow:0 2px 10px rgba(0,0,0,.30);}
-.tile-apps {background:linear-gradient(rgba(0,93,131,.80),rgba(0,72,102,.93)), url(assets/photos/apps.jpg) center/cover;}
-.tile-data {background:linear-gradient(rgba(84,86,90,.80),rgba(60,62,66,.93)), url(assets/photos/data.jpg) center/cover;}
-.tile-cyber{background:linear-gradient(rgba(180,162,105,.86),rgba(160,143,88,.95)), url(assets/photos/cyber.jpg) center/cover;}
-.tile-games{background:linear-gradient(rgba(103,38,102,.80),rgba(80,28,80,.93)), url(assets/photos/games.jpg) center/cover;}
-.tile-start{background:linear-gradient(rgba(84,86,90,.80),rgba(60,62,66,.93)), url(assets/photos/start.jpg) center/cover;}
-.tile-ce   {background:linear-gradient(rgba(214,95,0,.82),rgba(176,78,0,.93)), url(assets/photos/ce.jpg) center/cover;}
-.tile-cyber{text-shadow:none;}
+.tile-apps {background:url(assets/photos/apps.jpg) center/cover;}
+.tile-data {background:url(assets/photos/data.jpg) center/cover;}
+.tile-cyber{background:url(assets/photos/cyber.jpg) center/cover;}
+.tile-games{background:url(assets/photos/games.jpg) center/cover;}
+.tile-start{background:url(assets/photos/start.jpg) center/cover;}
+.tile-ce   {background:url(assets/photos/ce.jpg) center/cover;}
+/* labels stay white over the photo regardless of the per-world wayfinding color */
+.tile-name,.tile-track,.tile-desc{color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.65);}
 .tile small{font-weight:600;}
 
 /* ===== Continuing Education catalog (reuses the courses term-grid) ===== */
