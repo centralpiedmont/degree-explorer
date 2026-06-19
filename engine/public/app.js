@@ -1,6 +1,9 @@
 import { KioskState } from './state.js';
 import { mountKeyboard } from './keyboard.js';
 
+// Signage builds (Android WebView) pass ?signage=1 — no server, so hide "Email this".
+const SIGNAGE = new URLSearchParams(location.search).get('signage') === '1';
+
 const IDLE_MS = 60_000;
 const el = (html) => { const t = document.createElement('template'); t.innerHTML = html.trim(); return t.content.firstElementChild; };
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c]));
@@ -293,10 +296,10 @@ function convertBand(p) {
     <div class="qtxt"><b>Scan to take the full degree sheet</b><span>Opens on your phone — no wifi needed</span></div>
     <div class="spacer"></div>
     <button class="info">${esc(data.copy.infoButton)}</button>
-    <button class="email">Email this</button>
+    ${SIGNAGE ? '' : '<button class="email">Email this</button>'}
   </div>`);
   band.querySelector('.info').onclick = () => state.openInfoQR();
-  band.querySelector('.email').onclick = () => state.openEmail();
+  band.querySelector('.email')?.addEventListener('click', () => state.openEmail());
   return band;
 }
 
@@ -351,10 +354,10 @@ function admissionsConvertBand(p) {
     <div class="qtxt"><b>Scan to apply or get advised</b><span>Opens on your phone — no wifi needed</span></div>
     <div class="spacer"></div>
     <button class="info">${esc(data.copy.infoButton)}</button>
-    <button class="email">Email this</button>
+    ${SIGNAGE ? '' : '<button class="email">Email this</button>'}
   </div>`);
   band.querySelector('.info').onclick = () => state.openInfoQR();
-  band.querySelector('.email').onclick = () => state.openEmail();
+  band.querySelector('.email')?.addEventListener('click', () => state.openEmail());
   return band;
 }
 
