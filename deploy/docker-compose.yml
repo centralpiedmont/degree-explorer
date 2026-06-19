@@ -1,0 +1,31 @@
+# balena: set KIOSK_TRACK (tech|business|health) per fleet in the dashboard.
+# Fleets: cpcc-degree-kiosk (tech), cpcc-business-kiosk (business), cpcc-health-kiosk (health).
+version: "2"
+services:
+  kiosk:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile
+    restart: always
+    environment:
+      PORT: "8080"
+      KIOSK_DATA_DIR: "/data"
+      KIOSK_TRACK: "tech"   # overridden per fleet via balena env var
+      # SMTP_HOST / SMTP_PORT / SMTP_USER / SMTP_PASS / MAIL_FROM set as fleet vars
+    volumes:
+      - leads:/data
+    expose:
+      - "8080"
+  browser:
+    image: bh.cr/balenalabs/browser-aarch64
+    privileged: true
+    restart: always
+    environment:
+      LAUNCH_URL: "http://kiosk:8080"
+      KIOSK: "1"
+      PERSISTENT: "1"
+      ENABLE_GPU: "1"
+    ports:
+      - "5011"
+volumes:
+  leads: {}
