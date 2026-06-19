@@ -13,9 +13,16 @@ const MIME = {
   '.ttf': 'font/ttf', '.woff2': 'font/woff2', '.woff': 'font/woff', '.otf': 'font/otf', '.txt': 'text/plain; charset=utf-8',
 };
 
-function readBody(req) {
-  return new Promise((resolve) => {
-    let b = ''; req.on('data', (c) => (b += c)); req.on('end', () => resolve(b));
+function readBody(req, limit = 64 * 1024) {
+  return new Promise((resolve, reject) => {
+    let b = '', len = 0;
+    req.on('data', (c) => {
+      len += c.length;
+      if (len > limit) { req.destroy(); reject(new Error('body too large')); return; }
+      b += c;
+    });
+    req.on('end', () => resolve(b));
+    req.on('error', reject);
   });
 }
 
@@ -34,7 +41,9 @@ export function createApp({ publicDir, outbox }) {
       return;
     }
     // static
-    const urlPath = decodeURIComponent((req.url || '/').split('?')[0]);
+    let urlPath;
+    try { urlPath = decodeURIComponent((req.url || '/').split('?')[0]); }
+    catch { res.writeHead(400, { 'content-type': 'text/plain' }); res.end('Bad request'); return; }
     let rel = urlPath === '/' ? 'index.html' : urlPath.replace(/^\/+/, '');
     const safeRoot = path.normalize(publicDir);
     const filePath = path.normalize(path.join(publicDir, rel));
@@ -64,7 +73,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const wrapped = { send: (m) => transport.sendMail ? transport.sendMail({ from: mailFrom, ...m }) : transport.send(m) };
   const mailCtx = { programs: kioskData.programs, archetypes: (kioskData.quiz && kioskData.quiz.archetypes) || {}, infoSessionUrl: (kioskData.infoSession && kioskData.infoSession.url) || '' };
   setInterval(() => drainOutbox(outbox, wrapped, mailCtx)
-    .then((n) => n && console.log(`drained ${n} emails`)).catch(() => {}), 60_000);
+    .then((n) => n && console.log(`drained ${n} emails`)).catch((e) => console.error('drain failed:', e && e.message || e)), 60_000);
 
   createApp({ publicDir, outbox }).listen(port, () => console.log(`Kiosk [${track}] on :${port}`));
 }

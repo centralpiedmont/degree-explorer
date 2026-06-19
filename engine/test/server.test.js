@@ -64,6 +64,38 @@ test('path-traversal to a sibling directory is blocked (403/404, no leak)', asyn
   server.close();
 });
 
+test('malformed URL returns 400 and server stays up', async () => {
+  const { server } = setup();
+  const port = await listen(server);
+  // `/%` is an invalid percent-encoded sequence — decodeURIComponent throws URIError
+  const bad = await fetch(`http://localhost:${port}/%`);
+  assert.equal(bad.status, 400);
+  // server must remain usable after the bad request
+  const good = await fetch(`http://localhost:${port}/`);
+  assert.equal(good.status, 200);
+  server.close();
+});
+
+test('oversized POST body returns 400 and does not append to outbox', async () => {
+  const { server, outbox } = setup();
+  const port = await listen(server);
+  const bigBody = JSON.stringify({ email: 'a@b.co', note: 'x'.repeat(70 * 1024) });
+  let status;
+  try {
+    const res = await fetch(`http://localhost:${port}/email`, {
+      method: 'POST', headers: { 'content-type': 'application/json' },
+      body: bigBody,
+    });
+    status = res.status;
+  } catch {
+    // fetch may throw if the server destroys the socket; that's also acceptable
+    status = 400;
+  }
+  assert.equal(status, 400);
+  assert.equal(outbox.pending().length, 0);
+  server.close();
+});
+
 test('POST /email stores worldId when provided', async () => {
   const { server, outbox } = setup();
   const port = await listen(server);
