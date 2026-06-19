@@ -1,0 +1,51 @@
+// tracks/business/track.config.js
+// Worlds extracted verbatim from degree-sheets/kiosk-business/world-map.js
+// tileTint/tileDesc extracted verbatim from degree-sheets/kiosk-business/generate.js
+// copy strings extracted from degree-sheets/kiosk-business/public/app.js
+export default {
+  id: 'business',
+  title: 'Central Piedmont — Explore Business &amp; Accounting Degrees',
+  fleet: 'cpcc-business-kiosk',
+  pagesBase: 'https://centralpiedmont.github.io/degree-explorer/business/sheets',
+  infoSessionUrl: 'https://www.cpcc.edu/events/business-accounting-information-session',
+  theme: { /* track colors are supplied by world entries + styles.css vars; reserved for future overrides */ },
+  features: { worldTilePhotos: false, admissions: false, specializations: false },
+  copy: {
+    topbarLabel: 'Business &amp; Accounting',
+    attractSub: 'Explore 6 Business &amp; Accounting degrees and find yours in three taps.',
+    infoButton: 'Sign up for an information session',
+    ceHeading: 'Certifications &amp; Short Courses',
+    resultEyebrow: 'YOUR BUSINESS MATCH',
+  },
+  tileTint: {},
+  tileDesc: {
+    'business-administration': 'Manage teams, operations, and strategy',
+    'accounting-finance': 'Track the numbers and guide the money',
+    'supply-chain': 'Move products from source to customer',
+    'paralegal': 'Support attorneys and the legal system',
+    'medical-office-admin': 'Run the front office of a medical practice',
+    'medical-billing-coding': 'Code diagnoses and process medical claims',
+  },
+  worlds: [
+    { id: 'lead',   name: 'Lead & Manage a Business',
+      desc: 'Run teams, operations, and the business itself',
+      color: '#005D83', text: '#FFFFFF',
+      programIds: ['business-administration'] },
+    { id: 'money',  name: 'Money, Accounting & Finance',
+      desc: 'Track the numbers and guide financial decisions',
+      color: '#B4A269', text: '#1A1A1A',
+      programIds: ['accounting-finance'] },
+    { id: 'supply', name: 'Move the World: Supply Chain',
+      desc: 'Get products from source to customer',
+      color: '#54565A', text: '#FFFFFF',
+      programIds: ['supply-chain'] },
+    { id: 'legal',  name: 'Law & Legal Support',
+      desc: 'Support attorneys and the legal system',
+      color: '#672666', text: '#FFFFFF',
+      programIds: ['paralegal'] },
+    { id: 'health', name: 'Healthcare Business & Records',
+      desc: 'Run the business side of healthcare',
+      color: '#54565A', text: '#FFFFFF',
+      programIds: ['medical-office-admin', 'medical-billing-coding'] },
+  ],
+};
