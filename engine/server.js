@@ -3,6 +3,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { Outbox } from './outbox.js';
+import nodemailer from 'nodemailer';
+import { drainOutbox } from './mailer.js';
 
 const MIME = {
   '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8',
@@ -52,5 +54,17 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const dataDir = process.env.KIOSK_DATA_DIR || path.join(__dirname, '..', 'data');
   const outbox = new Outbox(dataDir);
   const port = Number(process.env.PORT || 8080);
+
+  const kioskData = JSON.parse(fs.readFileSync(path.join(publicDir, 'kiosk-data.json'), 'utf8'));
+  const transport = process.env.SMTP_HOST
+    ? nodemailer.createTransport({ host: process.env.SMTP_HOST, port: Number(process.env.SMTP_PORT || 587),
+        auth: process.env.SMTP_USER ? { user: process.env.SMTP_USER, pass: process.env.SMTP_PASS } : undefined })
+    : { send: async () => { throw new Error('no SMTP configured'); } };
+  const mailFrom = process.env.MAIL_FROM || 'no-reply@cpcc.edu';
+  const wrapped = { send: (m) => transport.sendMail ? transport.sendMail({ from: mailFrom, ...m }) : transport.send(m) };
+  const mailCtx = { programs: kioskData.programs, archetypes: (kioskData.quiz && kioskData.quiz.archetypes) || {}, infoSessionUrl: (kioskData.infoSession && kioskData.infoSession.url) || '' };
+  setInterval(() => drainOutbox(outbox, wrapped, mailCtx)
+    .then((n) => n && console.log(`drained ${n} emails`)).catch(() => {}), 60_000);
+
   createApp({ publicDir, outbox }).listen(port, () => console.log(`Kiosk [${track}] on :${port}`));
 }

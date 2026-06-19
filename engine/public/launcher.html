@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Central Piedmont — Degree Explorer Kiosks</title>
+  <style>
+    :root{--blue:#005D83;--gold:#B4A269;--gray:#54565A;}
+    *{box-sizing:border-box;margin:0;}
+    body{font-family:system-ui,Segoe UI,Arial,sans-serif;color:#1a1a1a;background:#f4f4f2;}
+    header{background:var(--gray);color:#fff;padding:40px 24px;text-align:center;}
+    header h1{font-size:32px;font-weight:800;}
+    header p{opacity:.85;margin-top:8px;}
+    main{max-width:1000px;margin:40px auto;padding:0 24px;display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
+    a.card{display:block;border-radius:16px;padding:36px 24px;color:#fff;text-decoration:none;border-top:4px solid var(--gold);transition:transform .12s;}
+    a.card:hover{transform:translateY(-4px);}
+    a.tech{background:var(--blue);} a.business{background:var(--gold);color:#1a1a1a;} a.health{background:var(--gray);}
+    a.card h2{font-size:24px;font-weight:800;} a.card p{margin-top:8px;opacity:.9;font-size:15px;}
+    footer{text-align:center;color:var(--gray);font-size:13px;padding:24px;}
+    @media(max-width:760px){main{grid-template-columns:1fr;}}
+  </style>
+</head>
+<body>
+  <header><h1>Central Piedmont Degree Explorer</h1><p>Touchscreen program finders for the Advising &amp; Career Day</p></header>
+  <main>
+    <a class="card tech" href="tech/"><h2>Information Technology</h2><p>14 IT degrees — apps, data &amp; AI, cyber, games.</p></a>
+    <a class="card business" href="business/"><h2>Business &amp; Accounting</h2><p>6 programs — management, accounting, supply chain, legal.</p></a>
+    <a class="card health" href="health/"><h2>Health Sciences</h2><p>16 programs — nursing, therapy, surgery, labs &amp; more.</p></a>
+  </main>
+  <footer>Central Piedmont Community College</footer>
+</body>
+</html>
