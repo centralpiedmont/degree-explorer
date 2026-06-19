@@ -1,5 +1,6 @@
-# balena: set KIOSK_TRACK (tech|business|health) per fleet in the dashboard.
-# Fleets: cpcc-degree-kiosk (tech), cpcc-business-kiosk (business), cpcc-health-kiosk (health).
+# balena: set KIOSK_TRACK (tech|business|health|hospitality) per fleet in the dashboard.
+# Fleets: cpcc-degree-kiosk (tech), cpcc-business-kiosk (business), cpcc-health-kiosk (health),
+#         cpcc-hospitality-kiosk (hospitality).
 version: "2"
 services:
   kiosk:

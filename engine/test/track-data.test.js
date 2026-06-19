@@ -7,7 +7,7 @@ import { loadTrack, TRACK_IDS, tracksDir } from '../track.js';
 import { validateWorldMap } from '../world-map.js';
 
 const readJson = (id, f) => JSON.parse(fs.readFileSync(path.join(tracksDir, id, f), 'utf8'));
-const EXPECT = { tech: 14, business: 6, health: 16 };
+const EXPECT = { tech: 14, business: 6, health: 16, hospitality: 5 };
 
 for (const id of TRACK_IDS) {
   test(`${id}: sheets.json parses, has ${EXPECT[id]} programs, and matches the world map`, async () => {

@@ -2,7 +2,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-export const TRACK_IDS = ['tech', 'business', 'health'];
+export const TRACK_IDS = ['tech', 'business', 'health', 'hospitality'];
 export const tracksDir = path.join(__dirname, '..', 'tracks');
 
 const REQUIRED = ['id', 'title', 'fleet', 'pagesBase', 'infoSessionUrl', 'theme', 'features', 'copy', 'worlds'];

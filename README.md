@@ -1,12 +1,13 @@
 # Central Piedmont Degree Explorer
 
-Touchscreen kiosks for exploring Central Piedmont's academic programs — one shared engine, three independently deployable tracks.
+Touchscreen kiosks for exploring Central Piedmont's academic programs — one shared engine, four independently deployable tracks.
 
 | Track | Programs | Colors |
 |---|---|---|
 | `tech` | 14 IT / Technology programs | CPCC Blue |
 | `business` | 6 Business & Accounting programs | CPCC Gold |
 | `health` | 16 Health Sciences programs | CPCC Gray |
+| `hospitality` | 5 Hospitality & Public Services programs | CPCC Red |
 
 Students walk a guided "Find Your Path" funnel: **interest world → specialization → program match** → detail card with three convert actions: degree-sheet QR, info-session QR, and "Email this".
 
@@ -62,11 +63,13 @@ npm run build
 npm run build:tech
 npm run build:business
 npm run build:health
+npm run build:hospitality
 
 # Build + run local dev server on that track
 npm run dev:tech
 npm run dev:business
 npm run dev:health
+npm run dev:hospitality
 
 # Run the server without rebuilding (set KIOSK_TRACK to pick the active track)
 KIOSK_TRACK=tech node engine/server.js
@@ -94,6 +97,7 @@ The full build output in `dist/` is published automatically on every push to `ma
 | `https://centralpiedmont.github.io/degree-explorer/tech/` | Technology track |
 | `https://centralpiedmont.github.io/degree-explorer/business/` | Business & Accounting track |
 | `https://centralpiedmont.github.io/degree-explorer/health/` | Health Sciences track |
+| `https://centralpiedmont.github.io/degree-explorer/hospitality/` | Hospitality & Public Services track |
 
 **"Email this" caveat:** the email capture feature POSTs to `POST /email` on the Node server. GitHub Pages serves static files only — it does not run `server.js`. The email feature works only on the Raspberry Pi (balena) deployment. On Pages the button is still visible but the POST will fail gracefully; leads are not captured.
 
@@ -117,7 +121,7 @@ Set in the balena fleet dashboard (or a local `.env` / shell export for dev). Th
 | Variable | Default | Purpose |
 |---|---|---|
 | `PORT` | `8080` | HTTP port the server listens on |
-| `KIOSK_TRACK` | `tech` | Which track to serve (`tech`, `business`, `health`) |
+| `KIOSK_TRACK` | `tech` | Which track to serve (`tech`, `business`, `health`, `hospitality`) |
 | `KIOSK_DATA_DIR` | `./data` (`/data` in container) | Directory for `outbox.jsonl` lead captures |
 | `SMTP_HOST` | _(unset)_ | SMTP server hostname; **when unset, email drain is disabled** — leads queue safely |
 | `SMTP_PORT` | `587` | SMTP port (STARTTLS) |
@@ -151,8 +155,19 @@ Track data is **vendored** into `tracks/<id>/` so every track is self-contained 
 | `tech` | `../AdvisingAndCareerDay/degree-sheets/build/sheets.json` | `../AdvisingAndCareerDay/cpcc-it-degree-sheets/sheets/` |
 | `business` | `../AdvisingAndCareerDay/degree-sheets/build/sheets-business.json` | `../AdvisingAndCareerDay/cpcc-it-degree-sheets/business/` |
 | `health` | `../AdvisingAndCareerDay/degree-sheets/build/sheets-health.json` | `../AdvisingAndCareerDay/degree-sheets/kiosk-health/public/sheets/` |
+| `hospitality` | CPCC catalog (`catalog.cpcc.edu`) — see note below | generated locally (`gen-sheet-pdf.js`) |
 
 These paths assume the monorepo sits next to the `AdvisingAndCareerDay` working directory. Override with the `DE_SOURCE_ROOT` environment variable if your layout differs.
+
+**`hospitality` is sourced differently.** It has no authoring-repo source yet — its `sheets.json` and course descriptions were transcribed from the CPCC public catalog, and its degree-sheet PDFs are generated from that data by an opt-in tool rather than vendored from a print pipeline:
+
+```bash
+# Regenerate the hospitality degree-sheet PDFs after editing tracks/hospitality/sheets.json
+# (requires Google Chrome; override the binary with CHROME_BIN)
+node engine/build/gen-sheet-pdf.js --track=hospitality
+```
+
+A `sync-data` mapping is wired for `hospitality` (expecting `sheets-hospitality.json` + `kiosk-hospitality/public/sheets/`) for when authored sources exist; until then, edit `tracks/hospitality/` directly and regenerate PDFs with the command above. **Placeholders to replace before a live event:** AI-generated hero photos in `tracks/hospitality/assets/heroes/`, and the `infoSessionUrl` in `tracks/hospitality/track.config.js`.
 
 ### Refreshing a track
 
@@ -162,7 +177,7 @@ These paths assume the monorepo sits next to the `AdvisingAndCareerDay` working 
 
    ```bash
    npm run sync-data -- --track=tech
-   # or --track=business  or --track=health
+   # or --track=business / --track=health / --track=hospitality
    ```
 
 4. Rebuild the affected track and verify:

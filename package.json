@@ -9,9 +9,11 @@
     "build:tech": "node engine/build/generate.js --track=tech && node engine/build/gen-qr.js --track=tech && node engine/build/generate.js --track=tech",
     "build:business": "node engine/build/generate.js --track=business && node engine/build/gen-qr.js --track=business && node engine/build/generate.js --track=business",
     "build:health": "node engine/build/generate.js --track=health && node engine/build/gen-qr.js --track=health && node engine/build/generate.js --track=health",
+    "build:hospitality": "node engine/build/generate.js --track=hospitality && node engine/build/gen-qr.js --track=hospitality && node engine/build/generate.js --track=hospitality",
     "dev:tech": "npm run build:tech && KIOSK_TRACK=tech node engine/server.js",
     "dev:business": "npm run build:business && KIOSK_TRACK=business node engine/server.js",
     "dev:health": "npm run build:health && KIOSK_TRACK=health node engine/server.js",
+    "dev:hospitality": "npm run build:hospitality && KIOSK_TRACK=hospitality node engine/server.js",
     "start": "node engine/server.js",
     "sync-data": "node engine/build/sync-data.js",
     "test": "node --test"

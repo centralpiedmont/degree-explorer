@@ -3,8 +3,8 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { loadTrack, TRACK_IDS } from '../track.js';
 
-test('all three tracks load and have required fields', async () => {
-  assert.deepEqual(TRACK_IDS, ['tech', 'business', 'health']);
+test('all tracks load and have required fields', async () => {
+  assert.deepEqual(TRACK_IDS, ['tech', 'business', 'health', 'hospitality']);
   for (const id of TRACK_IDS) {
     const t = await loadTrack(id);
     assert.equal(t.id, id);

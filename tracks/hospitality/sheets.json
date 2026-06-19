@@ -1,0 +1,266 @@
+{
+  "meta": { "site": "cpcc.edu", "generated": "2026" },
+  "sheets": [
+    {
+      "id": "culinary-arts",
+      "family": "culinary",
+      "programName": "Culinary Arts",
+      "title": "Associate in Applied Science - Culinary Arts",
+      "code": "A55150",
+      "concentration": "",
+      "subtitle": "",
+      "hero": "culinary-arts.jpg",
+      "site": "cpcc.edu",
+      "phone": "704.330.2722",
+      "totalHours": "69",
+      "footnotes": [],
+      "overview": "<p>Turn a love of food into a profession in a program built around real kitchen work.</p><p>You&rsquo;ll learn knife skills, classical cooking techniques, baking, garde manger, global cuisines, nutrition, and food cost control&mdash;practicing daily in production kitchens and building the speed, consistency, and professionalism that restaurants, hotels, resorts, and caterers expect.</p>",
+      "employmentOutlook": "<p>Trained cooks are in steady demand across full-service restaurants, hotels, resorts, clubs, catering, contract foodservice, and healthcare. Graduates start as prep cook, line cook, or station chef and can earn American Culinary Federation certification, advancing with experience to sous chef, pastry chef, executive chef, or foodservice manager.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        { "term": "Term I", "termCredits": "15", "rows": [
+          { "code": "CUL 110", "name": "Sanitation and Safety", "credits": "2.0" },
+          { "code": "CUL 135", "name": "Food and Beverage Service", "credits": "2.0" },
+          { "code": "CUL 135A", "name": "Food and Beverage Service Lab", "credits": "1.0" },
+          { "code": "CUL 140", "name": "Culinary Skills I", "credits": "5.0" },
+          { "code": "CUL 140A", "name": "Culinary Skills I Lab", "credits": "1.0" },
+          { "code": "MAT 110", "name": "Mathematical Measurement and Literacy", "credits": "3.0" },
+          { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+        ] },
+        { "term": "Term II", "termCredits": "16", "rows": [
+          { "code": "CUL 240", "name": "Culinary Skills II", "credits": "5.0" },
+          { "code": "CUL 240A", "name": "Culinary Skills II Lab", "credits": "1.0" },
+          { "code": "CUL 160", "name": "Baking I", "credits": "3.0" },
+          { "code": "CUL 160A", "name": "Baking I Lab", "credits": "1.0" },
+          { "code": "HRM 220", "name": "Cost Control-Food and Beverage", "credits": "3.0" },
+          { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" }
+        ] },
+        { "term": "Term III", "termCredits": "14", "rows": [
+          { "code": "CUL 260", "name": "Baking II", "credits": "3.0" },
+          { "code": "CUL 260A", "name": "Baking II Lab", "credits": "1.0" },
+          { "code": "CUL 170", "name": "Garde Manger I", "credits": "3.0" },
+          { "code": "CUL 170A", "name": "Garde Manger I Lab", "credits": "1.0" },
+          { "code": "CUL 112", "name": "Nutrition for Foodservice", "credits": "3.0" },
+          { "code": "ENG 114", "name": "Professional Research and Reporting", "credits": "3.0" }
+        ] },
+        { "term": "Term IV", "termCredits": "16", "rows": [
+          { "code": "CUL 270", "name": "Garde Manger II", "credits": "3.0" },
+          { "code": "CUL 270A", "name": "Garde Manger II Lab", "credits": "1.0" },
+          { "code": "CUL 230", "name": "Global Cuisines", "credits": "5.0" },
+          { "code": "CUL 230A", "name": "Global Cuisines Lab", "credits": "1.0" },
+          { "code": "WBL 112", "name": "Work-Based Learning I", "credits": "2.0" },
+          { "code": "CUL 273", "name": "Career Development", "credits": "1.0" },
+          { "code": "HRM 245", "name": "Human Resource Management-Hospitality", "credits": "3.0" }
+        ] },
+        { "term": "Term V", "termCredits": "8", "note": "Select a minimum of 2 credits from approved culinary electives (for example Food Science, Menu Design, or Farm-to-Table) to meet degree requirements.", "rows": [
+          { "code": "CUL 150 / CUL 283", "name": "Culinary Elective (select)", "credits": "2.0" },
+          { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" },
+          { "code": "ART 111", "name": "Art Appreciation", "credits": "3.0" }
+        ] }
+      ]
+    },
+    {
+      "id": "baking-pastry",
+      "family": "culinary",
+      "programName": "Baking and Pastry Arts",
+      "title": "Associate in Applied Science - Baking and Pastry Arts",
+      "code": "A55130",
+      "concentration": "",
+      "subtitle": "",
+      "hero": "baking-pastry.jpg",
+      "site": "cpcc.edu",
+      "phone": "704.330.2722",
+      "totalHours": "69",
+      "footnotes": [],
+      "overview": "<p>Build the craft and creativity behind breads, pastries, cakes, and chocolate in a fast-paced, hands-on program.</p><p>You&rsquo;ll work daily through artisan breads, petit fours and pastries, cold and plated desserts, modern cakes and decorating, chocolates and confections, and high-volume production&mdash;along with the costing and marketing skills a working bakeshop demands. Courses are immersive and intensive, with most completed in about four weeks.</p>",
+      "employmentOutlook": "<p>Skilled bakers and pastry professionals are sought by restaurants, hotels, retail bakeries, and specialty markets. Graduates qualify for entry-level roles such as baker, pastry cook, cake decorator, and pastry assistant, with room to grow into lead and production positions.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        { "term": "Term I", "termCredits": "14", "rows": [
+          { "code": "CUL 110", "name": "Sanitation and Safety", "credits": "2.0" },
+          { "code": "BPA 142", "name": "Culinary Fundamentals", "credits": "4.0" },
+          { "code": "CUL 160", "name": "Baking I", "credits": "3.0" },
+          { "code": "CUL 160A", "name": "Baking I Lab", "credits": "1.0" },
+          { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" },
+          { "code": "MAT 110 / MAT 143", "name": "Mathematics (select one)", "credits": "3.0" }
+        ] },
+        { "term": "Term II", "termCredits": "15", "rows": [
+          { "code": "BPA 150", "name": "Artisan and Specialty Bread", "credits": "4.0" },
+          { "code": "BPA 170", "name": "Cold Desserts and Components", "credits": "4.0" },
+          { "code": "BPA 120", "name": "Petit Fours and Pastries", "credits": "3.0" },
+          { "code": "BPA 120A", "name": "Petit Fours and Pastries Lab", "credits": "1.0" },
+          { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" }
+        ] },
+        { "term": "Term III", "termCredits": "9", "rows": [
+          { "code": "HUM/FA", "name": "Humanities/Fine Arts Elective", "credits": "3.0" },
+          { "code": "BEH/SOC", "name": "Behavioral/Social Sciences Elective", "credits": "3.0" },
+          { "code": "HRM 245", "name": "Human Resource Management-Hospitality", "credits": "3.0" }
+        ] },
+        { "term": "Term IV", "termCredits": "17", "rows": [
+          { "code": "BPA 140", "name": "Modern Cakes and Entremets", "credits": "4.0" },
+          { "code": "BPA 210", "name": "Cake Design and Decorating", "credits": "3.0" },
+          { "code": "BPA 210A", "name": "Cake Design and Decorating Lab", "credits": "1.0" },
+          { "code": "WBL 112", "name": "Work-Based Learning I", "credits": "2.0" },
+          { "code": "BPA 255", "name": "Chocolates and Confections", "credits": "4.0" },
+          { "code": "ENG 112", "name": "Writing and Research in the Disciplines", "credits": "3.0" }
+        ] },
+        { "term": "Term V", "termCredits": "14", "rows": [
+          { "code": "BPA 245", "name": "Plated Dessert Development", "credits": "4.0" },
+          { "code": "BPA 260", "name": "Pastry and Baking Marketing", "credits": "3.0" },
+          { "code": "BPA 260A", "name": "Pastry and Baking Marketing Lab", "credits": "2.0" },
+          { "code": "BPA 250", "name": "Dessert and Bread Production", "credits": "5.0" }
+        ] }
+      ]
+    },
+    {
+      "id": "hospitality-management",
+      "family": "hospitality",
+      "programName": "Hospitality Management",
+      "title": "Associate in Applied Science - Hospitality Management",
+      "code": "A25110",
+      "concentration": "",
+      "subtitle": "",
+      "hero": "hospitality-management.jpg",
+      "site": "cpcc.edu",
+      "phone": "704.330.2722",
+      "totalHours": "65",
+      "footnotes": [],
+      "overview": "<p>Prepare to lead in hotels, restaurants, resorts, clubs, and events&mdash;the businesses built on great guest experiences.</p><p>You&rsquo;ll study front office and lodging operations, food and beverage, marketing, human resources, meetings and event planning, cost control, and hospitality law, developing the supervisory and management skills that move you from the floor into leadership.</p>",
+      "employmentOutlook": "<p>Hospitality is one of the world&rsquo;s largest industries, and trained managers are needed across hotels, restaurants, food service, catering, front office, reservations, and housekeeping. Graduates qualify for management and entry-level supervisory roles in lodging and food and beverage operations.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        { "term": "Term I", "termCredits": "15", "rows": [
+          { "code": "CUL 110", "name": "Sanitation and Safety", "credits": "2.0" },
+          { "code": "HRM 110", "name": "Introduction to Hospitality and Tourism", "credits": "3.0" },
+          { "code": "HRM 140", "name": "Legal Issues-Hospitality", "credits": "3.0" },
+          { "code": "HRM 240", "name": "Marketing for Hospitality", "credits": "3.0" },
+          { "code": "HRM 245", "name": "Human Resource Management-Hospitality", "credits": "3.0" },
+          { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+        ] },
+        { "term": "Term II", "termCredits": "15", "rows": [
+          { "code": "HRM 120", "name": "Front Office Procedures", "credits": "3.0" },
+          { "code": "HRM 210", "name": "Meetings and Event Planning", "credits": "3.0" },
+          { "code": "HRM 230", "name": "Club and Resort Management", "credits": "3.0" },
+          { "code": "MAT 143", "name": "Mathematics Elective (select one)", "credits": "3.0" },
+          { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" }
+        ] },
+        { "term": "Term III", "termCredits": "9", "rows": [
+          { "code": "ENG/COM", "name": "English/Communications Elective", "credits": "3.0" },
+          { "code": "HUM/FA", "name": "Humanities/Fine Arts Elective", "credits": "3.0" },
+          { "code": "BEH/SOC", "name": "Behavioral/Social Science Elective", "credits": "3.0" }
+        ] },
+        { "term": "Term IV", "termCredits": "13", "rows": [
+          { "code": "HRM 150", "name": "Training for Hospitality", "credits": "3.0" },
+          { "code": "HRM 280", "name": "Management Problems-Hospitality", "credits": "3.0" },
+          { "code": "HRM 225", "name": "Beverage Management", "credits": "3.0" },
+          { "code": "HRM 220", "name": "Cost Control-Food and Beverage", "credits": "3.0" },
+          { "code": "HRM 125", "name": "Etiquette for Hospitality", "credits": "1.0" }
+        ] },
+        { "term": "Term V", "termCredits": "13", "rows": [
+          { "code": "ACC 115 / ACC 120", "name": "Accounting Elective (select one)", "credits": "4.0" },
+          { "code": "WBL 112", "name": "Work-Based Learning I", "credits": "2.0" },
+          { "code": "CIS 110", "name": "Introduction to Computers", "credits": "3.0" },
+          { "code": "CUL 273", "name": "Career Development", "credits": "1.0" },
+          { "code": "CUL 135", "name": "Food and Beverage Service", "credits": "2.0" },
+          { "code": "CUL 135A", "name": "Food and Beverage Service Lab", "credits": "1.0" }
+        ] }
+      ]
+    },
+    {
+      "id": "cosmetology",
+      "family": "personal-services",
+      "programName": "Cosmetology",
+      "title": "Associate in Applied Science - Cosmetology",
+      "code": "A55140",
+      "concentration": "",
+      "subtitle": "",
+      "hero": "cosmetology.jpg",
+      "site": "cpcc.edu",
+      "phone": "704.330.2722",
+      "totalHours": "70",
+      "footnotes": [],
+      "overview": "<p>Learn the art and science of cosmetology in a simulated salon where you build real client-ready skills.</p><p>You&rsquo;ll develop hands-on fundamentals in hair design, cutting and chemical services, color, skin and nail care, and multicultural techniques&mdash;plus the product knowledge, professionalism, and business basics that prepare you for the State Board of Cosmetic Arts exam and a career behind the chair.</p>",
+      "employmentOutlook": "<p>Upon completion, graduates qualify to take the North Carolina State Board of Cosmetic Arts examination and can pursue employment in beauty salons, spas, and related businesses&mdash;or build toward salon ownership and platform work.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        { "term": "Term I", "termCredits": "16", "rows": [
+          { "code": "COS 111", "name": "Cosmetology Concepts I", "credits": "4.0" },
+          { "code": "COS 112", "name": "Salon I", "credits": "8.0" },
+          { "code": "MAT 110 / MAT 143", "name": "Mathematics (select one)", "credits": "3.0" },
+          { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+        ] },
+        { "term": "Term II", "termCredits": "15", "rows": [
+          { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+          { "code": "COS 113", "name": "Cosmetology Concepts II", "credits": "4.0" },
+          { "code": "COS 114", "name": "Salon II", "credits": "8.0" }
+        ] },
+        { "term": "Term III", "termCredits": "11", "rows": [
+          { "code": "COS 115", "name": "Cosmetology Concepts III", "credits": "4.0" },
+          { "code": "COS 116", "name": "Salon III", "credits": "4.0" },
+          { "code": "PSY 150", "name": "General Psychology", "credits": "3.0" }
+        ] },
+        { "term": "Term IV", "termCredits": "15", "rows": [
+          { "code": "COS 117", "name": "Cosmetology Concepts IV", "credits": "2.0" },
+          { "code": "COS 118", "name": "Salon IV", "credits": "7.0" },
+          { "code": "COM 110 / COM 231", "name": "Communication (select one)", "credits": "3.0" },
+          { "code": "BUS 139", "name": "Entrepreneurship I", "credits": "3.0" }
+        ] },
+        { "term": "Term V", "termCredits": "13", "rows": [
+          { "code": "COS 240", "name": "Contemporary Design", "credits": "2.0" },
+          { "code": "COS 223", "name": "Contemporary Hair Coloring", "credits": "2.0" },
+          { "code": "HUM/FA", "name": "Humanities/Fine Arts Elective", "credits": "3.0" },
+          { "code": "ENG 112 / ENG 113 / ENG 114", "name": "Writing and Research (select one)", "credits": "3.0" },
+          { "code": "CIS 110", "name": "Introduction to Computers", "credits": "3.0" }
+        ] }
+      ]
+    },
+    {
+      "id": "horticulture-technology",
+      "family": "horticulture",
+      "programName": "Horticulture Technology",
+      "title": "Associate in Applied Science - Horticulture Technology",
+      "code": "A15240",
+      "concentration": "",
+      "subtitle": "",
+      "hero": "horticulture-technology.jpg",
+      "site": "cpcc.edu",
+      "phone": "704.330.2722",
+      "totalHours": "67",
+      "footnotes": [],
+      "overview": "<p>Grow a career working with plants, landscapes, and the green industry.</p><p>Through classroom study and hands-on lab work you&rsquo;ll learn plant science and identification, propagation, soils and fertilizers, pest management, landscape design and management, and the business side of running horticultural enterprises&mdash;preparing for certifications including the NC Certified Plant Professional and ISA Certified Arborist exams.</p>",
+      "employmentOutlook": "<p>Graduates qualify for diverse roles in nurseries, garden centers, greenhouses, landscape firms, and governmental agencies. The program prepares students for professional certifications and for careers spanning plant production, landscape installation and management, arboriculture, and horticultural business operations.</p><p>(Please note: CPCC does not guarantee employment)</p>",
+      "planOfStudy": [
+        { "term": "Term I", "termCredits": "16", "rows": [
+          { "code": "HOR 161", "name": "Plant Materials II", "credits": "3.0" },
+          { "code": "HOR 150", "name": "Introduction to Horticulture", "credits": "2.0" },
+          { "code": "TRF 110", "name": "Introduction Turfgrass Cultivation and Identification", "credits": "4.0" },
+          { "code": "ENG 111", "name": "Writing and Inquiry", "credits": "3.0" },
+          { "code": "MAT 143", "name": "Mathematics (select one)", "credits": "3.0" },
+          { "code": "ACA 122", "name": "College Transfer Success", "credits": "1.0" }
+        ] },
+        { "term": "Term II", "termCredits": "15", "rows": [
+          { "code": "HOR 160", "name": "Plant Materials I", "credits": "3.0" },
+          { "code": "HOR 162", "name": "Applied Plant Science", "credits": "3.0" },
+          { "code": "HOR 166", "name": "Soils and Fertilizers", "credits": "3.0" },
+          { "code": "COM 110 / COM 231", "name": "Communication (select one)", "credits": "3.0" },
+          { "code": "HUM/FA", "name": "Humanities/Fine Arts Elective", "credits": "3.0" }
+        ] },
+        { "term": "Term III", "termCredits": "4", "rows": [
+          { "code": "WBL 111", "name": "Work-Based Learning I", "credits": "1.0" },
+          { "code": "BEH/SOC", "name": "Behavioral/Social Science Elective", "credits": "3.0" }
+        ] },
+        { "term": "Term IV", "termCredits": "17", "rows": [
+          { "code": "HOR 112", "name": "Landscape Design I", "credits": "3.0" },
+          { "code": "HOR 124 / HOR 134", "name": "Nursery or Greenhouse Operations (select one)", "credits": "3.0" },
+          { "code": "HOR 164", "name": "Horticultural Pest Management", "credits": "3.0" },
+          { "code": "HOR 168", "name": "Plant Propagation", "credits": "3.0" },
+          { "code": "HOR 257", "name": "Arboriculture Practices", "credits": "2.0" },
+          { "code": "TECH ELEC", "name": "Technical Elective", "credits": "3.0" }
+        ] },
+        { "term": "Term V", "termCredits": "15", "rows": [
+          { "code": "HOR 116", "name": "Landscape Management I", "credits": "3.0" },
+          { "code": "SPA 120", "name": "Spanish for the Workplace", "credits": "3.0" },
+          { "code": "BUS 139 / BUS 230", "name": "Business Management (select one)", "credits": "3.0" },
+          { "code": "TECH ELEC", "name": "Technical Elective", "credits": "3.0" },
+          { "code": "TECH ELEC", "name": "Technical Elective", "credits": "3.0" }
+        ] }
+      ]
+    }
+  ]
+}

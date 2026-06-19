@@ -11,9 +11,10 @@ const MAP = {
   tech:     { sheets: 'degree-sheets/build/sheets.json',          pdfs: 'cpcc-it-degree-sheets/sheets' },
   business: { sheets: 'degree-sheets/build/sheets-business.json', pdfs: 'cpcc-it-degree-sheets/business' },
   health:   { sheets: 'degree-sheets/build/sheets-health.json',   pdfs: 'degree-sheets/kiosk-health/public/sheets' },
+  hospitality: { sheets: 'degree-sheets/build/sheets-hospitality.json', pdfs: 'degree-sheets/kiosk-hospitality/public/sheets' },
 };
 const m = MAP[id];
-if (!m) throw new Error('usage: node engine/build/sync-data.js --track=tech|business|health');
+if (!m) throw new Error('usage: node engine/build/sync-data.js --track=tech|business|health|hospitality');
 
 fs.copyFileSync(path.join(SRC, m.sheets), path.join(repoRoot, 'tracks', id, 'sheets.json'));
 const pdfSrc = path.join(SRC, m.pdfs), pdfDst = path.join(repoRoot, 'tracks', id, 'sheets');

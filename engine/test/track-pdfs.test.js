@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { TRACK_IDS, tracksDir } from '../track.js';
 
-const EXPECT = { tech: 14, business: 6, health: 16 };
+const EXPECT = { tech: 14, business: 6, health: 16, hospitality: 5 };
 
 for (const id of TRACK_IDS) {
   test(`${id}: one degree-sheet PDF per program`, () => {

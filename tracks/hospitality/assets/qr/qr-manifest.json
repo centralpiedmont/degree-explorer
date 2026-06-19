@@ -1,0 +1,32 @@
+[
+  {
+    "id": "culinary-arts",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/culinary-arts.pdf"
+  },
+  {
+    "id": "baking-pastry",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/baking-pastry.pdf"
+  },
+  {
+    "id": "hospitality-management",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/hospitality-management.pdf"
+  },
+  {
+    "id": "cosmetology",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/cosmetology.pdf"
+  },
+  {
+    "id": "horticulture-technology",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/horticulture-technology.pdf"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://www.cpcc.edu/"
+  }
+]

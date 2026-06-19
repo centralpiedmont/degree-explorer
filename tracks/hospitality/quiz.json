@@ -1,0 +1,52 @@
+{
+  "intro": {
+    "title": "What's your hospitality superpower?",
+    "blurb": "6 quick questions. Find the hands-on path that fits you.",
+    "icon": "utensils"
+  },
+  "tieOrder": ["food", "hospitality", "beauty", "green"],
+  "archetypes": {
+    "food":        { "name": "The Culinarian", "icon": "utensils",  "blurb": "You create with your hands and thrive in the heat of a busy kitchen." },
+    "hospitality": { "name": "The Host",       "icon": "concierge", "blurb": "You make people feel welcome and keep every detail running." },
+    "beauty":      { "name": "The Stylist",    "icon": "scissors",  "blurb": "You blend artistry and people skills to help others look their best." },
+    "green":       { "name": "The Grower",     "icon": "leaf",      "blurb": "You love working outdoors and watching the things you cultivate thrive." }
+  },
+  "questions": [
+    { "prompt": "Pick your happy place", "answers": [
+      { "label": "A bustling kitchen line",          "icon": "utensils",  "world": "food" },
+      { "label": "A hotel lobby full of guests",      "icon": "concierge", "world": "hospitality" },
+      { "label": "A salon chair and great lighting",  "icon": "scissors",  "world": "beauty" },
+      { "label": "A greenhouse on a sunny morning",   "icon": "leaf",      "world": "green" }
+    ]},
+    { "prompt": "What would you love to make?", "answers": [
+      { "label": "A perfect plate or pastry",         "icon": "cake",      "world": "food" },
+      { "label": "An event everyone remembers",       "icon": "hotel",     "world": "hospitality" },
+      { "label": "A look that turns heads",           "icon": "spa",       "world": "beauty" },
+      { "label": "A garden that comes to life",       "icon": "seedling",  "world": "green" }
+    ]},
+    { "prompt": "Pick a compliment you'd love to hear", "answers": [
+      { "label": "“This is delicious”",                "icon": "utensils",  "world": "food" },
+      { "label": "“You thought of everything”",        "icon": "concierge", "world": "hospitality" },
+      { "label": "“I love what you did”",              "icon": "scissors",  "world": "beauty" },
+      { "label": "“Everything here is thriving”",      "icon": "tree",      "world": "green" }
+    ]},
+    { "prompt": "How do you like to work?", "answers": [
+      { "label": "Fast-paced, with my hands",         "icon": "bread",     "world": "food" },
+      { "label": "With people, solving problems",     "icon": "concierge", "world": "hospitality" },
+      { "label": "One-on-one, making someone's day",  "icon": "spa",       "world": "beauty" },
+      { "label": "Outdoors, hands in the soil",       "icon": "seedling",  "world": "green" }
+    ]},
+    { "prompt": "Which project sounds best?", "answers": [
+      { "label": "Cater a big dinner",                "icon": "utensils",  "world": "food" },
+      { "label": "Run the front desk of a resort",    "icon": "hotel",     "world": "hospitality" },
+      { "label": "Build a styling portfolio",         "icon": "scissors",  "world": "beauty" },
+      { "label": "Design and plant a landscape",      "icon": "leaf",      "world": "green" }
+    ]},
+    { "prompt": "What job do you want?", "answers": [
+      { "label": "Chef or pastry chef",               "icon": "cake",      "world": "food" },
+      { "label": "Hotel or event manager",            "icon": "concierge", "world": "hospitality" },
+      { "label": "Cosmetologist or salon owner",      "icon": "scissors",  "world": "beauty" },
+      { "label": "Horticulturist or landscaper",      "icon": "tree",      "world": "green" }
+    ]}
+  ]
+}
