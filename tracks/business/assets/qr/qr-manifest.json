@@ -1,0 +1,117 @@
+[
+  {
+    "id": "business-administration",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/business/business-administration.pdf"
+  },
+  {
+    "id": "accounting-finance",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/business/accounting-finance.pdf"
+  },
+  {
+    "id": "supply-chain",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/business/supply-chain.pdf"
+  },
+  {
+    "id": "paralegal",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/business/paralegal.pdf"
+  },
+  {
+    "id": "medical-office-admin",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/business/medical-office-admin.pdf"
+  },
+  {
+    "id": "medical-billing-coding",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/business/medical-billing-coding.pdf"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://www.cpcc.edu/events/business-accounting-information-session"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130434"
+  },
+  {
+    "id": "ce-pm-agile",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=12973424&selectedProgramAreaId=1130434&selectedProgramStreamId=1130595"
+  },
+  {
+    "id": "ce-hr",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130434&selectedProgramStreamId=1130593"
+  },
+  {
+    "id": "ce-banking",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904805"
+  },
+  {
+    "id": "ce-cfp",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130437&selectedProgramStreamId=1130449"
+  },
+  {
+    "id": "ce-bookkeeper-cert",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904780"
+  },
+  {
+    "id": "ce-bookkeeper-foundations",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=47506185"
+  },
+  {
+    "id": "ce-local-gov-finance",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904857"
+  },
+  {
+    "id": "ce-sie-prep",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6879737"
+  },
+  {
+    "id": "ce-financial-literacy",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=17675938"
+  },
+  {
+    "id": "ce-retirement-planning",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4904830"
+  },
+  {
+    "id": "ce-financial-analysis-excel",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4650869"
+  },
+  {
+    "id": "ce-real-estate",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130437&selectedProgramStreamId=1130453"
+  },
+  {
+    "id": "ce-appraisal",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/public/category/programStream.do?method=load&selectedProgramAreaId=1130437&selectedProgramStreamId=1130447"
+  },
+  {
+    "id": "ce-biz-entrep",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130434"
+  },
+  {
+    "id": "ce-lang-culture",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130442"
+  }
+]

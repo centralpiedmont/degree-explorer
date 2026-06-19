@@ -1,0 +1,167 @@
+[
+  {
+    "id": "nursing-adn",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/nursing-adn.pdf"
+  },
+  {
+    "id": "practical-nursing",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/practical-nursing.pdf"
+  },
+  {
+    "id": "nurse-aide",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/nurse-aide.pdf"
+  },
+  {
+    "id": "physical-therapist-assistant",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/physical-therapist-assistant.pdf"
+  },
+  {
+    "id": "occupational-therapy-assistant",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/occupational-therapy-assistant.pdf"
+  },
+  {
+    "id": "surgical-technology",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/surgical-technology.pdf"
+  },
+  {
+    "id": "respiratory-therapy",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/respiratory-therapy.pdf"
+  },
+  {
+    "id": "cardiovascular-technology",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/cardiovascular-technology.pdf"
+  },
+  {
+    "id": "polysomnography",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/polysomnography.pdf"
+  },
+  {
+    "id": "medical-laboratory-technology",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/medical-laboratory-technology.pdf"
+  },
+  {
+    "id": "pharmacy-technology",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/pharmacy-technology.pdf"
+  },
+  {
+    "id": "dental-hygiene",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/dental-hygiene.pdf"
+  },
+  {
+    "id": "dental-assisting",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/dental-assisting.pdf"
+  },
+  {
+    "id": "ophthalmic-medical",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/ophthalmic-medical.pdf"
+  },
+  {
+    "id": "emergency-medical-science",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/emergency-medical-science.pdf"
+  },
+  {
+    "id": "medical-assisting",
+    "type": "degree-sheet",
+    "url": "https://centralpiedmont.github.io/advising-kiosk-health/sheets/medical-assisting.pdf"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://www.cpcc.edu/events/health-programs-info-fair"
+  },
+  {
+    "id": "apply-nursing-adn",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-practical-nursing",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-nurse-aide",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-physical-therapist-assistant",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-occupational-therapy-assistant",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-surgical-technology",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-respiratory-therapy",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-cardiovascular-technology",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-polysomnography",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-medical-laboratory-technology",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-pharmacy-technology",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-dental-hygiene",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-dental-assisting",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-ophthalmic-medical",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-emergency-medical-science",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-medical-assisting",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  }
+]
