@@ -32,6 +32,13 @@ jobs:
           node-version: 20
       - run: npm ci
       - run: npm run build
+      # Beta: the prebuilt kiosk-v2 site lives on the beta-site branch (built output only)
+      # and is served beside production at /degree-explorer/beta/.
+      - uses: actions/checkout@v4
+        with:
+          ref: beta-site
+          path: dist/beta
+      - run: rm -rf dist/beta/.git
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
