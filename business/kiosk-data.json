@@ -1,0 +1,1865 @@
+{
+  "meta": {
+    "track": "business",
+    "programCount": 6
+  },
+  "copy": {
+    "topbarLabel": "Business & Accounting",
+    "attractSub": "Explore 6 Business & Accounting degrees and find yours in three taps.",
+    "infoButton": "Sign up for an information session",
+    "ceHeading": "Certifications &amp; Short Courses",
+    "resultEyebrow": "YOUR BUSINESS MATCH"
+  },
+  "features": {
+    "worldTilePhotos": false,
+    "admissions": false,
+    "specializations": false
+  },
+  "worlds": [
+    {
+      "id": "lead",
+      "name": "Lead & Manage a Business",
+      "desc": "Run teams, operations, and the business itself",
+      "color": "#005D83",
+      "text": "#FFFFFF",
+      "icon": "fa-briefcase",
+      "photo": "assets/heroes/business-administration.jpg",
+      "programIds": [
+        "business-administration"
+      ]
+    },
+    {
+      "id": "money",
+      "name": "Money, Accounting & Finance",
+      "desc": "Track the numbers and guide financial decisions",
+      "color": "#B4A269",
+      "text": "#1A1A1A",
+      "icon": "fa-calculator",
+      "photo": "assets/heroes/accounting-finance.jpg",
+      "programIds": [
+        "accounting-finance"
+      ]
+    },
+    {
+      "id": "supply",
+      "name": "Move the World: Supply Chain",
+      "desc": "Get products from source to customer",
+      "color": "#54565A",
+      "text": "#FFFFFF",
+      "icon": "fa-truck-fast",
+      "photo": "assets/heroes/supply-chain.jpg",
+      "programIds": [
+        "supply-chain"
+      ]
+    },
+    {
+      "id": "legal",
+      "name": "Law & Legal Support",
+      "desc": "Support attorneys and the legal system",
+      "color": "#672666",
+      "text": "#FFFFFF",
+      "icon": "fa-scale-balanced",
+      "photo": "assets/heroes/paralegal.jpg",
+      "programIds": [
+        "paralegal"
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Healthcare Business & Records",
+      "desc": "Run the business side of healthcare",
+      "color": "#54565A",
+      "text": "#FFFFFF",
+      "icon": "fa-notes-medical",
+      "photo": "assets/heroes/medical-office-admin.jpg",
+      "programIds": [
+        "medical-office-admin",
+        "medical-billing-coding"
+      ]
+    }
+  ],
+  "programs": {
+    "business-administration": {
+      "id": "business-administration",
+      "world": "lead",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Manage teams, operations, and strategy",
+      "name": "Business Administration",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A25120",
+      "totalHours": 65,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "The Business Administration curriculum is designed to introduce students to the various aspects of the innovation-driven economy.",
+      "learn": "Skills related to applying these concepts are developed through the study of computer applications, decision-making, team building, case study, and communication. Through these skills, students gain a sound business education base for lifelong learning.",
+      "skills": [
+        "Introduction to Business",
+        "Business Law I",
+        "Principles of Management",
+        "Principles of Marketing",
+        "Personal Finance"
+      ],
+      "specializations": [
+        {
+          "name": "Entrepreneurship",
+          "code": "C25120-C4"
+        },
+        {
+          "name": "Business Operations",
+          "code": "C25120-C5"
+        },
+        {
+          "name": "Relationship Banking",
+          "code": "C25120-14"
+        },
+        {
+          "name": "Facilities Management",
+          "code": "C25120-15"
+        },
+        {
+          "name": "Office Management",
+          "code": "C25120-16"
+        },
+        {
+          "name": "Project Management",
+          "code": "C25120-C8"
+        },
+        {
+          "name": "Advanced Project Management",
+          "code": "C25120-C9"
+        },
+        {
+          "name": "Project Management Practitioner",
+          "code": "C25120-13"
+        },
+        {
+          "name": "Human Resources Management",
+          "code": "C25120-12"
+        },
+        {
+          "name": "International Business",
+          "code": "C25120-20"
+        },
+        {
+          "name": "Logistics",
+          "code": "C25120-22"
+        },
+        {
+          "name": "Marketing and Digital Media",
+          "code": "C25120-28"
+        },
+        {
+          "name": "Airport Management",
+          "code": "C25120-36"
+        }
+      ],
+      "careers": [
+        {
+          "title": "General and Operations Manager",
+          "salaryText": "$105,770",
+          "soc": "11-1021"
+        },
+        {
+          "title": "Administrative Services Manager",
+          "salaryText": "$114,130",
+          "soc": "11-3012"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": "This course introduces students to career and transfer opportunities while building skills for academic success, career exploration, and transfer preparation, ensuring readiness for success in community college and beyond. Topics include transfer agreements with public and independent institutions, programs and processes that facilitate transfer, and transfer tools and resources; career topics include career exploration and information and skills such as resume writing, portfolio development, and professional communication. Upon completion, students will be able to identify the community college program that matches their transfer and career goals, navigate transfer policies and processes, use Transfer Guides, develop an academic plan for future success, and identify professional application materials."
+            },
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Introduction to Communication or Public Speaking",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 115",
+              "name": "Business Law I",
+              "credits": "3.0",
+              "desc": "This course introduces the student to the legal and ethical framework of business. Contracts, negotiable instruments, the law of sales, torts, crimes, constitutional law, the Uniform Commercial Code, and the court systems are examined. Upon completion the student should be able to identify legal and ethical issues that arise in business decisions and the laws that apply to them."
+            },
+            {
+              "code": "",
+              "name": "Quantitative Literacy or Statistical Methods I",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "BUS 137",
+              "name": "Principles of Management",
+              "credits": "3.0",
+              "desc": "This course is designed to be an overview of the major functions of management. Emphasis is placed on planning, organizing, controlling, directing, and communicating. Upon completion, students should be able to work as contributing members of a team utilizing these functions of management."
+            },
+            {
+              "code": "",
+              "name": "Behavioral/Social Science elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "6",
+          "note": "",
+          "rows": [
+            {
+              "code": "MKT 120",
+              "name": "Principles of Marketing",
+              "credits": "3.0",
+              "desc": "This course introduces principles and problems of marketing goods and services. Topics include promotion, placement, and pricing strategies for products. Upon completion, students should be able to apply marketing principles in organizational decision making."
+            },
+            {
+              "code": "BUS 125",
+              "name": "Personal Finance",
+              "credits": "3.0",
+              "desc": "This course provides a study of individual and family financial decisions. Emphasis is placed on building useful skills in buying, managing finances, increasing resources, and coping with current economic conditions. Upon completion, students should be able to develop a personal financial plan."
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "BUS 240",
+              "name": "Business Ethics",
+              "credits": "3.0",
+              "desc": "This course introduces contemporary and controversial ethical issues that face the business community. Topics include moral reasoning, moral dilemmas, law and morality, equity, justice and fairness, ethical standards, and moral development. Upon completion, students should be able to demonstrate an understanding of their moral responsibilities and obligations as members of the workforce and society."
+            },
+            {
+              "code": "BUS 153",
+              "name": "Human Resource Management",
+              "credits": "3.0",
+              "desc": "This course introduces the functions of personnel/human resource management within an organization. Topics include equal opportunity and the legal environment, recruitment and selection, performance appraisal, employee development, compensation planning, and employee relations. Upon completion, students should be able to anticipate and resolve human resource concerns."
+            },
+            {
+              "code": "",
+              "name": "Specialty Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Specialty Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 139",
+              "name": "Entrepreneurship I",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to the principles of entrepreneurship. Topics include self-analysis of entrepreneurship readiness, the role of entrepreneur in economic development, legal problems, organizational structure, sources of financing, budgeting, and cash flow. Upon completion, students should have an understanding of the entrepreneurial process and issues faced by entrepreneurs."
+            },
+            {
+              "code": "BUS 253",
+              "name": "Leadership and Management Skills",
+              "credits": "3.0",
+              "desc": "This course includes a study of the qualities, behaviors, and personal styles exhibited by leaders. Emphasis is placed on coaching, counseling, team building, and employee involvement. Upon completion, students should be able to identify and exhibit the behaviors needed for organizational effectiveness."
+            },
+            {
+              "code": "ECO 251",
+              "name": "Principles of Microeconomics",
+              "credits": "3.0",
+              "desc": "This course introduces economic analysis of individual, business, and industry in the market economy. Topics include the price mechanism, supply and demand, optimizing economic behavior, costs and revenue, market structures, factor markets, income distribution, market failure, and government intervention. Upon completion, students should be able to identify and evaluate consumer and business alternatives in order to efficiently achieve economic objectives. Students seeking to take this course to meet the college transfer Social/Behavioral Sciences requirement may also take ECO 252 (no ECO prerequisites)."
+            },
+            {
+              "code": "",
+              "name": "Specialty Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Specialty Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/business-administration.jpg",
+      "qrFile": "assets/qr/business-administration.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/business/sheets/business-administration.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "accounting-finance": {
+      "id": "accounting-finance",
+      "world": "money",
+      "tileColor": "#B4A269",
+      "tileText": "#1A1A1A",
+      "tileDesc": "Track the numbers and guide the money",
+      "name": "Accounting and Finance",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A25800",
+      "totalHours": 65,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "The Accounting and Finance curriculum is designed to provide students with the knowledge and skills necessary for employment and growth in the accounting or the finance profession.",
+      "learn": "Course work may include accounting, finance, fraud examination, forensic and cybersecurity, ethics, business law, computer applications, financial planning, government accounting, insurance, marketing, real estate, selling, and taxation providing the student with a comprehensive understanding of the industry.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Principles of Managerial Accounting",
+        "Introduction to Accounting Spreadsheets",
+        "Business Law I",
+        "Principles of Microeconomics"
+      ],
+      "specializations": [
+        {
+          "name": "Accounting Technology",
+          "code": "C25800-10"
+        },
+        {
+          "name": "Income Tax Preparer",
+          "code": "C25800-11"
+        },
+        {
+          "name": "Professional Accounting",
+          "code": "C25800-12"
+        },
+        {
+          "name": "Professional Accounting II",
+          "code": "C25800-C4"
+        },
+        {
+          "name": "Personal Finance",
+          "code": "C25800-13"
+        },
+        {
+          "name": "Financial Services",
+          "code": "C25800-14"
+        },
+        {
+          "name": "Forensic Accounting and Fraud Examination",
+          "code": "C25800-15"
+        },
+        {
+          "name": "Accounting and Business Analytics",
+          "code": "C25800-16"
+        },
+        {
+          "name": "Bookkeeping",
+          "code": "C25800-C9"
+        },
+        {
+          "name": "Advanced Governmental Accounting",
+          "code": "C25800-17"
+        }
+      ],
+      "careers": [
+        {
+          "title": "Accountant / Auditor",
+          "salaryText": "$83,680",
+          "soc": "13-2011"
+        },
+        {
+          "title": "Financial Analyst",
+          "salaryText": "$102,740",
+          "soc": "13-2051"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": "This course introduces students to career and transfer opportunities while building skills for academic success, career exploration, and transfer preparation, ensuring readiness for success in community college and beyond. Topics include transfer agreements with public and independent institutions, programs and processes that facilitate transfer, and transfer tools and resources; career topics include career exploration and information and skills such as resume writing, portfolio development, and professional communication. Upon completion, students will be able to identify the community college program that matches their transfer and career goals, navigate transfer policies and processes, use Transfer Guides, develop an academic plan for future success, and identify professional application materials."
+            },
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "",
+              "name": "Quantitative Literacy or Statistical Methods I or Precalculus Algebra",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 121",
+              "name": "Principles of Managerial Accounting",
+              "credits": "4.0",
+              "desc": "This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems."
+            },
+            {
+              "code": "ACC 149",
+              "name": "Introduction to Accounting Spreadsheets",
+              "credits": "2.0",
+              "desc": "This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, model-building problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion, students should be able to use a computer spreadsheet to complete many of the tasks required in accounting."
+            },
+            {
+              "code": "",
+              "name": "Payroll Accounting or Accounting Software Applications",
+              "credits": "2.0",
+              "desc": ""
+            },
+            {
+              "code": "BUS 115",
+              "name": "Business Law I",
+              "credits": "3.0",
+              "desc": "This course introduces the student to the legal and ethical framework of business. Contracts, negotiable instruments, the law of sales, torts, crimes, constitutional law, the Uniform Commercial Code, and the court systems are examined. Upon completion the student should be able to identify legal and ethical issues that arise in business decisions and the laws that apply to them."
+            },
+            {
+              "code": "",
+              "name": "Governmental and Not-For-Profit Accounting or Forensic Accounting & Cybersecurity or Fraud Examination",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "9",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ECO 251",
+              "name": "Principles of Microeconomics",
+              "credits": "3.0",
+              "desc": "This course introduces economic analysis of individual, business, and industry in the market economy. Topics include the price mechanism, supply and demand, optimizing economic behavior, costs and revenue, market structures, factor markets, income distribution, market failure, and government intervention. Upon completion, students should be able to identify and evaluate consumer and business alternatives in order to efficiently achieve economic objectives. Students seeking to take this course to meet the college transfer Social/Behavioral Sciences requirement may also take ECO 252 (no ECO prerequisites)."
+            },
+            {
+              "code": "",
+              "name": "Behavioral/Social Science elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 129",
+              "name": "Individual Income Taxes",
+              "credits": "3.0",
+              "desc": "This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual income tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms."
+            },
+            {
+              "code": "ACC 220",
+              "name": "Intermediate Accounting I",
+              "credits": "4.0",
+              "desc": "This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and extensive analysis of balance sheet components. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards."
+            },
+            {
+              "code": "",
+              "name": "Cost Accounting or Enterprise Risk Management",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "BUS 125",
+              "name": "Personal Finance",
+              "credits": "3.0",
+              "desc": "This course provides a study of individual and family financial decisions. Emphasis is placed on building useful skills in buying, managing finances, increasing resources, and coping with current economic conditions. Upon completion, students should be able to develop a personal financial plan."
+            },
+            {
+              "code": "",
+              "name": "Introduction to Communication or Public Speaking",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Financial Planning or Business Finance",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ACC 269",
+              "name": "Auditing & Assurance Services",
+              "credits": "3.0",
+              "desc": "This course introduces selected topics pertaining to the objectives, theory and practices in engagements providing auditing and other assurance services. Topics include planning, conducting and reporting, with emphasis on the related professional ethics and standards. Upon completion, students should be able to demonstrate an understanding of the types of professional services, the related professional standards, and engagement methodology."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-finance.jpg",
+      "qrFile": "assets/qr/accounting-finance.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/business/sheets/accounting-finance.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "supply-chain": {
+      "id": "supply-chain",
+      "world": "supply",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Move products from source to customer",
+      "name": "Supply Chain Management",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A25620",
+      "totalHours": 64,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "The Supply Chain Management curriculum prepares individuals for a multitude of career opportunities in distribution, transportation, warehousing, supply chain, and manufacturing o…",
+      "learn": "Course work includes the international and domestic movement of goods from the raw materials source(s) through production, and ultimately to the consumer. Courses in transportation, warehousing, inventory control, material handling, purchasing, computerization, and supply chain operations are emphasized.",
+      "skills": [
+        "Introduction to Business",
+        "Introduction to Logistics",
+        "Transportation Logistics",
+        "Supply Chain Management",
+        "Principles of Management"
+      ],
+      "specializations": [
+        {
+          "name": "Global Logistics Technology",
+          "code": "C25620-C1"
+        },
+        {
+          "name": "Distribution Management",
+          "code": "C25620-C2"
+        },
+        {
+          "name": "Air Transportation Management",
+          "code": "C25620-C3"
+        }
+      ],
+      "careers": [
+        {
+          "title": "Logistician",
+          "salaryText": "$82,320",
+          "soc": "13-1081"
+        },
+        {
+          "title": "Purchasing Manager",
+          "salaryText": "$148,080",
+          "soc": "11-3061"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "LOG 110",
+              "name": "Introduction to Logistics",
+              "credits": "3.0",
+              "desc": "This course provides an overview of logistics. Topics include traffic management, warehousing, inventory control, material handling, global logistics, and the movement and storage of goods from raw materials sources to end consumers. Upon completion, students should be able to identify the different segments of logistics and use the terminology of the industry."
+            },
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": "This course introduces students to career and transfer opportunities while building skills for academic success, career exploration, and transfer preparation, ensuring readiness for success in community college and beyond. Topics include transfer agreements with public and independent institutions, programs and processes that facilitate transfer, and transfer tools and resources; career topics include career exploration and information and skills such as resume writing, portfolio development, and professional communication. Upon completion, students will be able to identify the community college program that matches their transfer and career goals, navigate transfer policies and processes, use Transfer Guides, develop an academic plan for future success, and identify professional application materials."
+            },
+            {
+              "code": "LOG 125",
+              "name": "Transportation Logistics",
+              "credits": "3.0",
+              "desc": "This course covers the role and importance of the transportation industry. This is an overview of transportation emphasizing its environmental and sociological aspects, economic impact, services, regulatory guidelines, policies, and its future. Upon completion, students should be able to identify modes of transportation, interpret governing regulations, and describe the principles and terminology used in the transportation industry."
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "LOG 215",
+              "name": "Supply Chain Management",
+              "credits": "3.0",
+              "desc": "This course covers all activities involved in the flow of products and information between the suppliers, customers, producers, and service providers. Topics include acquiring, purchasing, manufacturing, assembling, and distributing goods and services throughout the supply chain organizations. Upon completion, students should be able to identify the supply chain units and describe the materials management processes."
+            },
+            {
+              "code": "BUS 137",
+              "name": "Principles of Management",
+              "credits": "3.0",
+              "desc": "This course is designed to be an overview of the major functions of management. Emphasis is placed on planning, organizing, controlling, directing, and communicating. Upon completion, students should be able to work as contributing members of a team utilizing these functions of management."
+            },
+            {
+              "code": "BUS 115",
+              "name": "Business Law I",
+              "credits": "3.0",
+              "desc": "This course introduces the student to the legal and ethical framework of business. Contracts, negotiable instruments, the law of sales, torts, crimes, constitutional law, the Uniform Commercial Code, and the court systems are examined. Upon completion the student should be able to identify legal and ethical issues that arise in business decisions and the laws that apply to them."
+            },
+            {
+              "code": "INT 110",
+              "name": "International Business",
+              "credits": "3.0",
+              "desc": "This course provides an overview of the environment, concepts, and basic differences involved in international business. Topics include forms of foreign involvement, international trade theory, governmental influences on trade and strategies, international organizations, multinational corporations, personnel management, and international marketing. Upon completion, students should be able to describe the foundation of international business."
+            },
+            {
+              "code": "",
+              "name": "Quantitative Literacy or Statistical Methods I",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "3",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Writing and Research in the Disciplines or Public Speaking",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Survey of Economics or Principles of Microeconomics or Principles of Macroeconomics",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "MKT 120",
+              "name": "Principles of Marketing",
+              "credits": "3.0",
+              "desc": "This course introduces principles and problems of marketing goods and services. Topics include promotion, placement, and pricing strategies for products. Upon completion, students should be able to apply marketing principles in organizational decision making."
+            },
+            {
+              "code": "LOG 211",
+              "name": "Distribution Management",
+              "credits": "3.0",
+              "desc": "This course covers the functions, techniques, and tools utilized in warehousing and distribution centers and their role in business and logistics. Emphasis is placed on warehouse and distribution center management, operations, productivity, software systems, picking, automation, cross docking, safety, security, material handling, benchmarking, and cost. Upon completion, students should be able to describe the role of warehouses and distribution centers, apply industry principles and terminology, and understand distribution productivity measures."
+            },
+            {
+              "code": "LOG 235",
+              "name": "Import/Export Management",
+              "credits": "3.0",
+              "desc": "This course introduces the elements of import and export operations, from transportation to documentation, finance, and security and the effects on the global supply chain. Emphasis is placed on existing import/export regulations, customs documentation, intermodal transportation, foreign freight forwarders, global technology, and homeland security initiatives. Upon completion, students should be able to perform import/export operations, channels of distribution, implemented technologies, and associate with operating a secure supply chain."
+            },
+            {
+              "code": "LOG 240",
+              "name": "Purchasing Logistics",
+              "credits": "3.0",
+              "desc": "This course introduces the various aspects of purchasing, and their impact on materials management, supply chain, transportation, and global logistics processes. Emphasis is placed on the different methods of electronic sourcing, negotiating and pricing principles, and on the internal and external considerations associated with international logistics. Upon completion, students should be able to describe and apply the principles and terminology used in procurement including electronic data interchange services, purchasing and logistics systems."
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "LOG 250",
+              "name": "Advanced Global Logistics",
+              "credits": "4.0",
+              "desc": "This course covers the advanced application of global operations and logistics strategies, planning, technology, risk, and management necessary to cope with the global business environment. Emphasis is placed on an in-depth understanding of global sourcing, shipping, tracking, and e-logistics systems necessary to operate inbound/outbound logistics in a global market. Upon completion, students should be able to identify the different global markets and logistics technology available to process international inbound/outbound logistics transactions."
+            },
+            {
+              "code": "",
+              "name": "Behavioral/Social Science elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "WBL 111",
+              "name": "Work-Based Learning I",
+              "credits": "1.0",
+              "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/supply-chain.jpg",
+      "qrFile": "assets/qr/supply-chain.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/business/sheets/supply-chain.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "paralegal": {
+      "id": "paralegal",
+      "world": "legal",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Support attorneys and the legal system",
+      "name": "Paralegal Technology",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A25380",
+      "totalHours": 68,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "Approved by the American Bar Association and North Carolina Bar Certified The Paralegal Technology curriculum is designed to prepare individuals to work under attorneys' supervisi…",
+      "learn": "The Paralegal Technology curriculum is designed to prepare individuals to work under attorneys' supervision by performing routine legal tasks and assisting with substantive legal work. The program offers both an Associate Degree and a Post Baccalaureate Diploma that is designed specifically for students who have a bachelor's degree.",
+      "skills": [
+        "Introduction to Paralegal Study",
+        "Legal Research/Writing I",
+        "Civil Injuries",
+        "Civil Litigation I",
+        "Investigation"
+      ],
+      "specializations": [
+        {
+          "name": "Introduction to Legal Studies",
+          "code": "C25380-C1"
+        }
+      ],
+      "careers": [
+        {
+          "title": "Paralegal / Legal Assistant",
+          "salaryText": "$62,890",
+          "soc": "23-2011"
+        },
+        {
+          "title": "Lawyer (advancement path)",
+          "salaryText": "$159,670",
+          "soc": "23-1011"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "LEX 110",
+              "name": "Introduction to Paralegal Study",
+              "credits": "2.0",
+              "desc": "This course introduces the paralegal profession and the legal system, and an emphasis is placed on the role of professional and legal ethics. Topics include regulations, ethics, case analysis, legal reasoning, career opportunities, professional organizations, terminology and other related topics. Upon completion, students should be able to explain the role of a paralegal and identify the skills, knowledge, and ethics required of paralegals."
+            },
+            {
+              "code": "",
+              "name": "Quantitative Literacy or Statistical Methods I",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "",
+              "name": "Behavioral/Social Science elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0",
+              "desc": "This course, the second in a series of two, introduces research techniques, documentation styles, and writing strategies. Emphasis is placed on analyzing information and ideas and incorporating research findings into documented writing and research projects. Upon completion, students should be able to evaluate and synthesize information from primary and secondary sources using documentation appropriate to various disciplines."
+            },
+            {
+              "code": "LEX 120",
+              "name": "Legal Research/Writing I",
+              "credits": "3.0",
+              "desc": "This course introduces the techniques of legal research and writing. Emphasis is placed on locating, analyzing, applying, and updating sources of law; effective legal writing, including proper citation; and the use of electronic research methods. Upon completion, students should be able to perform legal research and writing assignments using techniques covered in the course."
+            },
+            {
+              "code": "LEX 130",
+              "name": "Civil Injuries",
+              "credits": "3.0",
+              "desc": "This course covers traditional tort concepts and the evolving body of individual rights created by statute. Topics include intentional and non-intentional torts with emphasis on negligence, strict liability, civil rights, workplace and environmental liability, remedies, and damages. Upon completion, students should be able to recognize, explain, and evaluate elements of civil injuries and related defenses."
+            },
+            {
+              "code": "LEX 140",
+              "name": "Civil Litigation I",
+              "credits": "3.0",
+              "desc": "This course introduces the structure of the legal system and the rules governing civil litigation. Topics include jurisdiction state and federal rules of civil procedure and evidence. Upon completion, students should be able to assist an attorney in pre-litigation matters and preparation of pleadings and motions."
+            },
+            {
+              "code": "",
+              "name": "LEX Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Introduction to Communication or Public Speaking",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "5",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "LEX 283",
+              "name": "Investigation",
+              "credits": "2.0",
+              "desc": "This course covers various aspects of civil and criminal investigation. Topics include locating witnesses, interviewing techniques, obtaining records, sketching and photographing accident scenes, collecting and preserving evidence, and preparation of exhibits for trial. Upon completion, students should be able to locate witnesses, prepare questionnaires, interview witnesses, obtain criminal/motor vehicle/medical/accident records, sketch scenes, and prepare exhibits."
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "LEX 121",
+              "name": "Legal Research/Writing II",
+              "credits": "3.0",
+              "desc": "This course covers advanced topics in legal research and writing. Topics include more complex legal issues and assignments involving preparation of legal memos, briefs, and other documents and the advanced use of electronic research methods. Upon completion, students should be able to perform legal research and writing assignments using techniques covered in the course."
+            },
+            {
+              "code": "LEX 141",
+              "name": "Civil Litigation II",
+              "credits": "3.0",
+              "desc": "This course covers advanced topics in the civil litigation process. Topics include motions, discovery, and trial and appellate procedures. Upon completion, students should be able to assist an attorney in preparing and organizing documents for trial, settlement and post-trial practice."
+            },
+            {
+              "code": "LEX 150",
+              "name": "Commercial Law I",
+              "credits": "3.0",
+              "desc": "This course covers legally enforceable agreements, forms of organization, and selected portions of the Uniform Commercial Code. Topics include drafting and enforcement of contracts, leases, and related documents and selection and implementation of business organization forms, sales, and commercial papers. Upon completion, students should be able to apply the elements of a contract, prepare various business documents, and understand the role of commercial paper."
+            },
+            {
+              "code": "LEX 210",
+              "name": "Real Property I",
+              "credits": "3.0",
+              "desc": "This course introduces the study of real property law. Topics include the distinction between real and personal property, various estates, mechanics of conveyance and encumbrance, recordation, special proceedings, and other related topics. Upon completion, students should be able to identify estates, forms of deeds, requirements for recording, and procedures to enforce rights to real property."
+            },
+            {
+              "code": "LEX 240",
+              "name": "Family Law",
+              "credits": "3.0",
+              "desc": "This course covers laws governing domestic relations. Topics include marriage, separation, divorce, child custody, support, property division, adoption, domestic violence, and other related topics. Upon completion, students should be able to interview clients, gather information, and draft documents related to family law."
+            },
+            {
+              "code": "LEX 280",
+              "name": "Ethics & Professionalism",
+              "credits": "2.0",
+              "desc": "This course reinforces legal ethics and the role of the paralegal in a professional work environment. Topics include a review of ethics, employment opportunities, and search techniques; paralegal certification and other related topics. Upon completion, students should be able to understand the paralegal's role in the ethical practice of law."
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "LEX 250",
+              "name": "Wills, Estates, & Trusts",
+              "credits": "3.0",
+              "desc": "This course covers various types of wills, trusts, probate, estate administration, and intestacy. Topics include types of wills and execution requirements, caveats and dissents, intestate succession, inventories and accountings, distribution and settlement, and other related topics. Upon completion, students should be able to draft simple wills, prepare estate forms, understand administration of estates including taxation, and explain terms regarding trusts."
+            },
+            {
+              "code": "LEX 270",
+              "name": "Law Office Management/Technology",
+              "credits": "2.0",
+              "desc": "This course provides an overview of law office management and organization. Topics include office forms, filing systems, billing/time keeping, computer systems, calendar systems, library administration, case management, office/personnel procedures, ethics, and technology. Upon completion, students should be able to establish and maintain various law office systems, monitor case progress, and supervise non-lawyer personnel."
+            },
+            {
+              "code": "LEX 271",
+              "name": "Law Office Writing",
+              "credits": "2.0",
+              "desc": "This course covers the basics of writing for the law office including the drafting of general correspondence, the briefing of cases, and the preparation of settlement brochures. Emphasis is placed on legal vocabulary in the context of letter writing, briefing judicial opinions, and the preparation of the settlement brochure. Upon completion, students should be able to draft letters to clients, opposing counsel, government entities, and insurance companies and prepare the settlement brochure. This course will place emphasis on legal editing, proofreading and the proper use of grammar."
+            },
+            {
+              "code": "",
+              "name": "College Accounting or Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "LEX Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/paralegal.jpg",
+      "qrFile": "assets/qr/paralegal.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/business/sheets/paralegal.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "medical-office-admin": {
+      "id": "medical-office-admin",
+      "world": "health",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Run the front office of a medical practice",
+      "name": "Medical Office Administration",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A25310",
+      "totalHours": 64,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "This program prepares individuals for administrative roles in healthcare settings.",
+      "learn": "Coursework includes medical terminology, information systems, office management, coding, billing, insurance, legal and ethical issues and documentation.",
+      "skills": [
+        "Office Applications I",
+        "Comprehensive Keyboarding",
+        "Professional Development",
+        "Medical Office Terms I",
+        "Introduction to Virtual Office"
+      ],
+      "specializations": [
+        {
+          "name": "Procedural and Diagnostic Coding",
+          "code": "C25310-C1"
+        },
+        {
+          "name": "Medical Office Administration",
+          "code": "C25310-C2"
+        }
+      ],
+      "careers": [
+        {
+          "title": "Medical Secretary / Admin Assistant",
+          "salaryText": "$45,930",
+          "soc": "43-6013"
+        },
+        {
+          "title": "Medical Records Specialist",
+          "salaryText": "$51,140",
+          "soc": "29-2072"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": "This course introduces students to career and transfer opportunities while building skills for academic success, career exploration, and transfer preparation, ensuring readiness for success in community college and beyond. Topics include transfer agreements with public and independent institutions, programs and processes that facilitate transfer, and transfer tools and resources; career topics include career exploration and information and skills such as resume writing, portfolio development, and professional communication. Upon completion, students will be able to identify the community college program that matches their transfer and career goals, navigate transfer policies and processes, use Transfer Guides, develop an academic plan for future success, and identify professional application materials."
+            },
+            {
+              "code": "OST 137",
+              "name": "Office Applications I",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts and functions of software that meets the changing needs of the office environment through a hands-on approach. Emphasis will be placed on creating professional documents to enhance employability in various offices. Upon completion, students should be prepared to take a nationally accredited certification exam. This course will introduce concepts from Microsoft Word, Excel, Access, and PowerPoint."
+            },
+            {
+              "code": "",
+              "name": "Introduction to Communication or Public Speaking",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "OST 130",
+              "name": "Comprehensive Keyboarding",
+              "credits": "3.0",
+              "desc": "This course is designed to develop keyboarding skills and introductory document formatting. Emphasis is placed on keyboarding techniques and formatting basic business documents. Upon completion, students should be able to create documents in an ever-changing workplace."
+            },
+            {
+              "code": "OST 286",
+              "name": "Professional Development",
+              "credits": "3.0",
+              "desc": "This course covers the personal competencies and qualities needed to project a professional image in the office. Topics include interpersonal skills, health lifestyles, appearance, attitude, personal and professional growth, multicultural awareness, and professional etiquette. Upon completion, students should be able to demonstrate these attributes in the classroom, office, and society."
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "OST 141",
+              "name": "Medical Office Terms I",
+              "credits": "3.0",
+              "desc": "This course uses a language-structure approach to present the terminology and vocabulary that will be encountered in medical office settings. Topics include word parts that relate to systemic components, conditions, pathology, and disorder remediation in approximately one-half of the systems of the human body. Upon completion, students should be able to relate words to systems, pluralize, define, pronounce, and construct sentences with the included terms."
+            },
+            {
+              "code": "OST 171",
+              "name": "Introduction to Virtual Office",
+              "credits": "3.0",
+              "desc": "This course introduces the skills and abilities needed to conduct a variety of office administration activities using the latest technology. Students will learn the proper etiquette of communicating electronically as well as the unique procedures and logistics for conducting business in the virtual office. Upon completion, students will know the vocabulary of the virtual office and will have a basic understanding of modern technical communication tools."
+            },
+            {
+              "code": "OST 136",
+              "name": "Word Processing",
+              "credits": "3.0",
+              "desc": "This course is designed to introduce word processing concepts and applications. Topics include preparation of a variety of documents and mastery of specialized software functions. Upon completion, students should be prepared to take a nationally accredited certification exam. Students should be proficient in keyboarding skills and will be introduced to a computerized skills and concepts testing environment."
+            },
+            {
+              "code": "OST 148",
+              "name": "Medical Insurance and Billing",
+              "credits": "3.0",
+              "desc": "This course introduces fundamentals of medical insurance and billing. Emphasis is placed on the medical billing cycle to include third party payers, coding concepts, and form preparation. Upon completion, students should be able to explain the life cycle of and accurately complete a medical insurance claim."
+            },
+            {
+              "code": "OST 184",
+              "name": "Office Information Management",
+              "credits": "3.0",
+              "desc": "This course includes the creation, maintenance, protection, security, and disposition of records stored in various media. Topics include alphabetic, geographic, subject, and numeric filing methods, along with database management principles. Upon completion, students should be able to set up and maintain effective information management systems."
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "6",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Mathematical Measurement and Literacy or Algebra/Trigonometry I or Quantitative Literacy or Statistical Methods I or Precalculus Algebra",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "OST 142",
+              "name": "Medical Office Terms II",
+              "credits": "3.0",
+              "desc": "This course is a continuation of OST 141 and continues the study, using a language-structure approach, of medical office terminology and vocabulary. Topics include word parts that relate to systemic components, conditions, pathology, and disorder remediation in the remaining systems of the human body. Upon completion, students should be able to relate words to systems, pluralize, define, pronounce, and construct sentences with the included terms."
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "OST 149",
+              "name": "Medical Legal Issues",
+              "credits": "3.0",
+              "desc": "This course introduces the complex legal, moral, and ethical issues involved in providing health-care services. Emphasis is placed on the legal requirements of medical practices; the relationship of physician, patient, and office personnel; professional liabilities; and medical practice liability. Upon completion, students should be able to demonstrate a working knowledge of current medical law and accepted ethical behavior."
+            },
+            {
+              "code": "OST 243",
+              "name": "Medical Office Simulation",
+              "credits": "3.0",
+              "desc": "This course introduces medical systems used to process information in the automated office. Topics include traditional and electronic information resources, managing health information, and the billing cycle. Upon completion, students should be able to use the computer accurately to schedule, bill, update, and make corrections."
+            },
+            {
+              "code": "OST 164",
+              "name": "Office Editing",
+              "credits": "3.0",
+              "desc": "This course provides an in-depth exploration of editing skills essential for the office. Emphasis is placed on grammar, punctuation, sentence structure, proofreading, and editing. Upon completion, students should be able to proficiently compose and edit text and documents for the workplace."
+            },
+            {
+              "code": "OST 263",
+              "name": "Healthcare Customer Relations",
+              "credits": "3.0",
+              "desc": "This course provides the soft skills necessary for effective communication and maintaining customer satisfaction in healthcare. Emphasis is placed on the importance of positive attitudes, techniques for handling difficult/angry customers, rephrasing blunt communication for better results, and the communication skills required to discuss topics with the patient and other medical personnel. Upon completion, students should be able to communicate information in a professional manner."
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "OST 288",
+              "name": "Medical Office Administration Capstone",
+              "credits": "3.0",
+              "desc": "This course is designed to be a capstone course for the medical office professional and provides a working knowledge of medical office procedures. Emphasis is placed on written and oral communication skills, practice management, electronic health records, medical office procedures, ethics, and professional development. Upon completion, students should be able to demonstrate the skills necessary to manage a medical office."
+            },
+            {
+              "code": "",
+              "name": "Behavioral/Social Science elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/medical-office-admin.jpg",
+      "qrFile": "assets/qr/medical-office-admin.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/business/sheets/medical-office-admin.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "medical-billing-coding": {
+      "id": "medical-billing-coding",
+      "world": "health",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Code diagnoses and process medical claims",
+      "name": "Medical Billing and Coding",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A25310B",
+      "totalHours": 67,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "This program prepares individuals for administrative roles in healthcare settings.",
+      "learn": "Coursework includes medical terminology, information systems, office management, coding, billing, insurance, legal and ethical issues and documentation. The Medical Billing and Coding track includes general medical office administration procedures as well as prepares students to become certified medical coders.",
+      "skills": [
+        "Medical Office Terms I",
+        "Comprehensive Keyboarding",
+        "Medical Insurance and Billing",
+        "Medical Office Terms II",
+        "Office Applications I"
+      ],
+      "specializations": [
+        {
+          "name": "Procedural and Diagnostic Coding",
+          "code": "C25310-C1"
+        }
+      ],
+      "careers": [
+        {
+          "title": "Medical Records Specialist / Coder",
+          "salaryText": "$51,140",
+          "soc": "29-2072"
+        },
+        {
+          "title": "Medical Biller / Posting Clerk",
+          "salaryText": "$48,500",
+          "soc": "43-3021"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": "This course introduces students to career and transfer opportunities while building skills for academic success, career exploration, and transfer preparation, ensuring readiness for success in community college and beyond. Topics include transfer agreements with public and independent institutions, programs and processes that facilitate transfer, and transfer tools and resources; career topics include career exploration and information and skills such as resume writing, portfolio development, and professional communication. Upon completion, students will be able to identify the community college program that matches their transfer and career goals, navigate transfer policies and processes, use Transfer Guides, develop an academic plan for future success, and identify professional application materials."
+            },
+            {
+              "code": "OST 141",
+              "name": "Medical Office Terms I",
+              "credits": "3.0",
+              "desc": "This course uses a language-structure approach to present the terminology and vocabulary that will be encountered in medical office settings. Topics include word parts that relate to systemic components, conditions, pathology, and disorder remediation in approximately one-half of the systems of the human body. Upon completion, students should be able to relate words to systems, pluralize, define, pronounce, and construct sentences with the included terms."
+            },
+            {
+              "code": "",
+              "name": "Introduction to Communication or Public Speaking",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "OST 130",
+              "name": "Comprehensive Keyboarding",
+              "credits": "3.0",
+              "desc": "This course is designed to develop keyboarding skills and introductory document formatting. Emphasis is placed on keyboarding techniques and formatting basic business documents. Upon completion, students should be able to create documents in an ever-changing workplace."
+            },
+            {
+              "code": "OST 148",
+              "name": "Medical Insurance and Billing",
+              "credits": "3.0",
+              "desc": "This course introduces fundamentals of medical insurance and billing. Emphasis is placed on the medical billing cycle to include third party payers, coding concepts, and form preparation. Upon completion, students should be able to explain the life cycle of and accurately complete a medical insurance claim."
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "OST 142",
+              "name": "Medical Office Terms II",
+              "credits": "3.0",
+              "desc": "This course is a continuation of OST 141 and continues the study, using a language-structure approach, of medical office terminology and vocabulary. Topics include word parts that relate to systemic components, conditions, pathology, and disorder remediation in the remaining systems of the human body. Upon completion, students should be able to relate words to systems, pluralize, define, pronounce, and construct sentences with the included terms."
+            },
+            {
+              "code": "OST 137",
+              "name": "Office Applications I",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts and functions of software that meets the changing needs of the office environment through a hands-on approach. Emphasis will be placed on creating professional documents to enhance employability in various offices. Upon completion, students should be prepared to take a nationally accredited certification exam. This course will introduce concepts from Microsoft Word, Excel, Access, and PowerPoint."
+            },
+            {
+              "code": "OST 164",
+              "name": "Office Editing",
+              "credits": "3.0",
+              "desc": "This course provides an in-depth exploration of editing skills essential for the office. Emphasis is placed on grammar, punctuation, sentence structure, proofreading, and editing. Upon completion, students should be able to proficiently compose and edit text and documents for the workplace."
+            },
+            {
+              "code": "",
+              "name": "Humanities/Fine Arts elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "",
+              "name": "Mathematical Measurement and Literacy or Algebra/Trigonometry I or Quantitative Literacy or Statistical Methods I or Precalculus Algebra",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "6",
+          "note": "",
+          "rows": [
+            {
+              "code": "OST 136",
+              "name": "Word Processing",
+              "credits": "3.0",
+              "desc": "This course is designed to introduce word processing concepts and applications. Topics include preparation of a variety of documents and mastery of specialized software functions. Upon completion, students should be prepared to take a nationally accredited certification exam. Students should be proficient in keyboarding skills and will be introduced to a computerized skills and concepts testing environment."
+            },
+            {
+              "code": "OST 149",
+              "name": "Medical Legal Issues",
+              "credits": "3.0",
+              "desc": "This course introduces the complex legal, moral, and ethical issues involved in providing health-care services. Emphasis is placed on the legal requirements of medical practices; the relationship of physician, patient, and office personnel; professional liabilities; and medical practice liability. Upon completion, students should be able to demonstrate a working knowledge of current medical law and accepted ethical behavior."
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "OST 243",
+              "name": "Medical Office Simulation",
+              "credits": "3.0",
+              "desc": "This course introduces medical systems used to process information in the automated office. Topics include traditional and electronic information resources, managing health information, and the billing cycle. Upon completion, students should be able to use the computer accurately to schedule, bill, update, and make corrections."
+            },
+            {
+              "code": "OST 247",
+              "name": "Procedure Coding",
+              "credits": "3.0",
+              "desc": "This course provides in-depth coverage of procedural coding. Emphasis is placed on CPT and HCPCS coding systems. Upon completion, students should be able to properly code procedures and services performed in a medical facility."
+            },
+            {
+              "code": "OST 248",
+              "name": "Diagnostic Coding",
+              "credits": "3.0",
+              "desc": "This course provides an in-depth study of diagnostic coding. Emphasis is placed on ICD coding system. Upon completion, students should be able to properly code diagnoses in a medical facility."
+            },
+            {
+              "code": "",
+              "name": "Behavioral/Social Science elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "OST 263",
+              "name": "Healthcare Customer Relations",
+              "credits": "3.0",
+              "desc": "This course provides the soft skills necessary for effective communication and maintaining customer satisfaction in healthcare. Emphasis is placed on the importance of positive attitudes, techniques for handling difficult/angry customers, rephrasing blunt communication for better results, and the communication skills required to discuss topics with the patient and other medical personnel. Upon completion, students should be able to communicate information in a professional manner."
+            },
+            {
+              "code": "OST 286",
+              "name": "Professional Development",
+              "credits": "3.0",
+              "desc": "This course covers the personal competencies and qualities needed to project a professional image in the office. Topics include interpersonal skills, health lifestyles, appearance, attitude, personal and professional growth, multicultural awareness, and professional etiquette. Upon completion, students should be able to demonstrate these attributes in the classroom, office, and society."
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "OST 249",
+              "name": "Medical Coding Certification Preparation",
+              "credits": "3.0",
+              "desc": "This course provides instruction that will prepare students to sit for a national coding certification exam. Topics include diagnostic and procedural coding. Upon completion, students should be able to sit for various medical coding certification exams."
+            },
+            {
+              "code": "OST 250",
+              "name": "Long-Term Care Coding",
+              "credits": "3.0",
+              "desc": "This course covers diagnostic coding as it applies to long-term care facilities and home care. Topics include diagnostic coding and reimbursement in long-term care facilities and home care. Upon completion, students should be able to properly code conditions for long-term care and home care services."
+            },
+            {
+              "code": "OST 288",
+              "name": "Medical Office Administration Capstone",
+              "credits": "3.0",
+              "desc": "This course is designed to be a capstone course for the medical office professional and provides a working knowledge of medical office procedures. Emphasis is placed on written and oral communication skills, practice management, electronic health records, medical office procedures, ethics, and professional development. Upon completion, students should be able to demonstrate the skills necessary to manage a medical office."
+            },
+            {
+              "code": "",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/medical-billing-coding.jpg",
+      "qrFile": "assets/qr/medical-billing-coding.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/business/sheets/medical-billing-coding.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    }
+  },
+  "infoSession": {
+    "url": "https://www.cpcc.edu/events/business-accounting-information-session",
+    "qrFile": "assets/qr/info-session.png"
+  },
+  "college": {
+    "apply": {
+      "url": "https://www.cpcc.edu/admissions-financial-aid/how-to-apply",
+      "qrFile": "assets/qr/college-apply.png"
+    },
+    "navigator": {
+      "url": "https://www.cpcc.edu/student-experience/navigators",
+      "qrFile": "assets/qr/college-navigator.png"
+    }
+  },
+  "ce": {
+    "label": "Career Training & Certifications",
+    "short": "Continuing Education",
+    "tagline": "Career-focused certificates and short courses — non-credit, with financial aid options available.",
+    "tileDesc": "Short courses and industry certifications",
+    "color": "#D65F00",
+    "text": "#FFFFFF",
+    "registerUrl": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130434",
+    "photo": "assets/photos/ce.jpg",
+    "qrFile": "assets/qr/ce-register.png",
+    "categories": [
+      {
+        "name": "Certificate Programs",
+        "courses": [
+          {
+            "code": "pm-agile",
+            "name": "Project Management with Agile Plus",
+            "price": null,
+            "hours": null,
+            "desc": "Build in-demand project management skills and prepare to lead projects in waterfall, agile, or hybrid environments.",
+            "qrFile": "assets/qr/ce-pm-agile.png"
+          },
+          {
+            "code": "hr",
+            "name": "Human Resources Certificate",
+            "price": null,
+            "hours": null,
+            "desc": "A nine-course program covering the core areas of human resources management, with HR certification preparation.",
+            "qrFile": "assets/qr/ce-hr.png"
+          },
+          {
+            "code": "banking",
+            "name": "Banking Services Certificate (with Notary Public)",
+            "price": null,
+            "hours": null,
+            "desc": "Gain the essential knowledge to start or advance a retail banking career — covering banking concepts, deposit accounts, lending, regulations, and NC Notary Public qualification — all in one certificate program.",
+            "qrFile": "assets/qr/ce-banking.png"
+          },
+          {
+            "code": "cfp",
+            "name": "Certified Financial Planner (CFP) Education",
+            "price": null,
+            "hours": null,
+            "desc": "Complete the CFP Board-registered education required to sit for the CFP® exam through a seven-course series covering financial planning, insurance, investments, taxes, retirement, estate planning, and a capstone plan development course.",
+            "qrFile": "assets/qr/ce-cfp.png"
+          },
+          {
+            "code": "bookkeeper-cert",
+            "name": "Professional Bookkeeper Certification",
+            "price": null,
+            "hours": null,
+            "desc": "Build professional-level bookkeeping skills in adjusting entries, payroll, depreciation, inventory, and fraud prevention to prepare for AIPB certification and advance your accounting career.",
+            "qrFile": "assets/qr/ce-bookkeeper-cert.png"
+          }
+        ]
+      },
+      {
+        "name": "Accounting & Finance",
+        "courses": [
+          {
+            "code": "bookkeeper-foundations",
+            "name": "Foundations of Accounting for Bookkeepers",
+            "price": null,
+            "hours": null,
+            "desc": "Develop a solid foundation in core accounting principles — from double-entry bookkeeping and payroll to financial reporting and internal controls — with preparation toward AIPB bookkeeper certification.",
+            "qrFile": "assets/qr/ce-bookkeeper-foundations.png"
+          },
+          {
+            "code": "local-gov-finance",
+            "name": "Local Government Finance",
+            "price": null,
+            "hours": null,
+            "desc": "Get a practical, no-accounting-experience-required overview of North Carolina local government finance, including budgeting, cash management, purchasing, and the requirements of the Local Government Budget and Fiscal Control Act.",
+            "qrFile": "assets/qr/ce-local-gov-finance.png"
+          },
+          {
+            "code": "sie-prep",
+            "name": "Securities Industry Essentials (SIE) Exam Prep",
+            "price": null,
+            "hours": null,
+            "desc": "Prepare for the FINRA Securities Industry Essentials (SIE) exam with rigorous study of capital markets, investment products, trading rules, and the regulatory framework governing the securities industry.",
+            "qrFile": "assets/qr/ce-sie-prep.png"
+          },
+          {
+            "code": "financial-literacy",
+            "name": "Financial Literacy 101",
+            "price": null,
+            "hours": null,
+            "desc": "Learn to manage your income, expenses, and debt effectively — covering budgeting, basic taxes, banking, credit, investing, and retirement planning fundamentals to build lasting financial stability.",
+            "qrFile": "assets/qr/ce-financial-literacy.png"
+          },
+          {
+            "code": "retirement-planning",
+            "name": "Retirement Planning Today",
+            "price": null,
+            "hours": null,
+            "desc": "Develop a clear retirement plan by exploring income sources, Social Security strategies, common retirement mistakes, and distribution options — ideal for anyone at any career stage planning for their financial future.",
+            "qrFile": "assets/qr/ce-retirement-planning.png"
+          },
+          {
+            "code": "financial-analysis-excel",
+            "name": "Financial Analysis & Modeling with Excel",
+            "price": null,
+            "hours": null,
+            "desc": "Master Excel-based financial analysis — building and interpreting financial statements, forecasting, valuation models, capital budgeting, and portfolio theory — to make smarter data-driven business decisions.",
+            "qrFile": "assets/qr/ce-financial-analysis-excel.png"
+          }
+        ]
+      },
+      {
+        "name": "Real Estate & Appraisal",
+        "courses": [
+          {
+            "code": "real-estate",
+            "name": "Real Estate",
+            "price": null,
+            "hours": null,
+            "desc": "Explore Central Piedmont's real estate continuing education courses, including broker pre-licensing, post-licensing, CE update courses, property management, and real estate investing.",
+            "qrFile": "assets/qr/ce-real-estate.png"
+          },
+          {
+            "code": "appraisal",
+            "name": "Appraisal",
+            "price": null,
+            "hours": null,
+            "desc": "Explore Central Piedmont's appraisal courses covering foundational principles, procedures, USPAP standards, and supervisory appraiser requirements to launch or advance your career in real property valuation.",
+            "qrFile": "assets/qr/ce-appraisal.png"
+          }
+        ]
+      },
+      {
+        "name": "Explore More Areas",
+        "courses": [
+          {
+            "code": "biz-entrep",
+            "name": "Business & Entrepreneurship",
+            "price": null,
+            "hours": null,
+            "desc": "Short courses to start and grow a small business, sharpen leadership skills, and advance your career.",
+            "qrFile": "assets/qr/ce-biz-entrep.png"
+          },
+          {
+            "code": "lang-culture",
+            "name": "Languages & Culture",
+            "price": null,
+            "hours": null,
+            "desc": "Learn a new language and explore world cultures through engaging continuing-education classes.",
+            "qrFile": "assets/qr/ce-lang-culture.png"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "intro": {
+      "title": "What's your business superpower?",
+      "blurb": "6 quick questions. Find the business path that fits you.",
+      "icon": "compass"
+    },
+    "tieOrder": [
+      "lead",
+      "money",
+      "supply",
+      "legal",
+      "health"
+    ],
+    "archetypes": {
+      "lead": {
+        "name": "The Leader",
+        "icon": "briefcase",
+        "blurb": "You see the big picture and bring people together to get things done."
+      },
+      "money": {
+        "name": "The Strategist",
+        "icon": "calculator",
+        "blurb": "You make the numbers make sense and steer smart decisions."
+      },
+      "supply": {
+        "name": "The Mover",
+        "icon": "truck",
+        "blurb": "You make complex logistics run on time, every time."
+      },
+      "legal": {
+        "name": "The Advocate",
+        "icon": "scale",
+        "blurb": "You're precise, organized, and stand up for what's right."
+      },
+      "health": {
+        "name": "The Coordinator",
+        "icon": "stethoscope",
+        "blurb": "You keep the business of healthcare running behind the scenes."
+      }
+    },
+    "questions": [
+      {
+        "prompt": "Pick your superpower",
+        "answers": [
+          {
+            "label": "Rally a team toward a goal",
+            "icon": "briefcase",
+            "world": "lead"
+          },
+          {
+            "label": "Make the numbers tell the truth",
+            "icon": "calculator",
+            "world": "money"
+          },
+          {
+            "label": "Keep everything running on time",
+            "icon": "truck",
+            "world": "supply"
+          },
+          {
+            "label": "Spot the detail everyone missed",
+            "icon": "scale",
+            "world": "legal"
+          }
+        ]
+      },
+      {
+        "prompt": "Your ideal project?",
+        "answers": [
+          {
+            "label": "Launch a small business",
+            "icon": "briefcase",
+            "world": "lead"
+          },
+          {
+            "label": "Build a budget that actually works",
+            "icon": "calculator",
+            "world": "money"
+          },
+          {
+            "label": "Map the route from factory to door",
+            "icon": "truck",
+            "world": "supply"
+          },
+          {
+            "label": "Make a busy office run smoothly",
+            "icon": "stethoscope",
+            "world": "health"
+          }
+        ]
+      },
+      {
+        "prompt": "When a problem hits, you…",
+        "answers": [
+          {
+            "label": "Take charge and delegate",
+            "icon": "briefcase",
+            "world": "lead"
+          },
+          {
+            "label": "Audit the books to find the cause",
+            "icon": "calculator",
+            "world": "money"
+          },
+          {
+            "label": "Reroute the shipment fast",
+            "icon": "truck",
+            "world": "supply"
+          },
+          {
+            "label": "Check the rules and the records",
+            "icon": "scale",
+            "world": "legal"
+          }
+        ]
+      },
+      {
+        "prompt": "Which sounds most exciting?",
+        "answers": [
+          {
+            "label": "Closing a big deal",
+            "icon": "handshake",
+            "world": "lead"
+          },
+          {
+            "label": "Catching a costly error first",
+            "icon": "calculator",
+            "world": "money"
+          },
+          {
+            "label": "Negotiating with a supplier",
+            "icon": "truck",
+            "world": "supply"
+          },
+          {
+            "label": "Helping a patient through paperwork",
+            "icon": "stethoscope",
+            "world": "health"
+          }
+        ]
+      },
+      {
+        "prompt": "Pick your workspace",
+        "answers": [
+          {
+            "label": "A corner office and a whiteboard",
+            "icon": "briefcase",
+            "world": "lead"
+          },
+          {
+            "label": "Dual monitors and spreadsheets",
+            "icon": "calculator",
+            "world": "money"
+          },
+          {
+            "label": "A warehouse floor and a clipboard",
+            "icon": "truck",
+            "world": "supply"
+          },
+          {
+            "label": "A law office full of case files",
+            "icon": "scale",
+            "world": "legal"
+          }
+        ]
+      },
+      {
+        "prompt": "People describe you as…",
+        "answers": [
+          {
+            "label": "A natural leader",
+            "icon": "briefcase",
+            "world": "lead"
+          },
+          {
+            "label": "Precise and detail-oriented",
+            "icon": "scale",
+            "world": "legal"
+          },
+          {
+            "label": "Calm under pressure",
+            "icon": "truck",
+            "world": "supply"
+          },
+          {
+            "label": "Caring and organized",
+            "icon": "stethoscope",
+            "world": "health"
+          }
+        ]
+      }
+    ]
+  }
+}

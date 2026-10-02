@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Central Piedmont Degree Explorer</title>
+  <link rel="icon" href="tech/assets/brand/mark-gold.png">
+  <style>
+    @font-face{font-family:'Libre Franklin';font-weight:100 900;src:url('tech/assets/fonts/LibreFranklin.ttf') format('truetype');}
+    :root{--gold:#B4A269;--gray:#54565A;--ink:#151617;--mist:#EFEFEF;}
+    *{box-sizing:border-box;margin:0;}
+    body{font-family:'Franklin Gothic URW','Libre Franklin',Arial,sans-serif;color:var(--ink);background:#fff;}
+    header{display:flex;align-items:center;gap:24px;padding:18px 32px;border-bottom:1px solid #D4D5D6;}
+    header img{height:56px;}
+    .hero{background:var(--mist);padding:56px 32px 40px;}
+    .hero h1{font-size:48px;font-weight:500;color:var(--gray);}
+    .hero p{font-size:20px;margin-top:10px;max-width:720px;line-height:1.45;}
+    main{max-width:1240px;margin:40px auto;padding:0 32px;display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
+    a.card{display:flex;flex-direction:column;background:var(--gold);color:var(--ink);text-decoration:none;overflow:hidden;transition:transform .12s;}
+    a.card:hover{transform:translateY(-4px);}
+    a.card .b{padding:24px 24px 18px;}
+    a.card h2{font-size:24px;font-weight:500;}
+    a.card p{margin-top:8px;font-size:16px;line-height:1.4;}
+    a.card .go{display:block;margin-top:14px;font-weight:600;}
+    a.card .ph{height:170px;background-size:cover;background-position:center;clip-path:polygon(0 0,100% 18%,100% 100%,0 100%);}
+    footer{background:var(--gray);color:#fff;padding:32px;font-size:15px;}
+    @media(max-width:900px){main{grid-template-columns:1fr 1fr;}}
+    @media(max-width:560px){main{grid-template-columns:1fr;} .hero h1{font-size:34px;}}
+  </style>
+</head>
+<body>
+  <header><img src="tech/assets/brand/logo-color.svg" alt="Central Piedmont Community College"></header>
+  <section class="hero"><h1>Degree Explorer</h1><p>Touchscreen program finders for advising days, open houses, and career fairs. Choose a kiosk to open it.</p></section>
+  <main>
+    <a class="card" href="tech/"><div class="b"><h2>Information Technology</h2><p>14 degrees in apps, data and AI, cyber, and games.</p><span class="go">Open kiosk &rarr;</span></div><div class="ph" style="background-image:url('tech/assets/heroes/softwareeng-app-dev.jpg')"></div></a>
+    <a class="card" href="business/"><div class="b"><h2>Business &amp; Accounting</h2><p>6 programs in management, accounting, supply chain, and legal.</p><span class="go">Open kiosk &rarr;</span></div><div class="ph" style="background-image:url('business/assets/heroes/business-administration.jpg')"></div></a>
+    <a class="card" href="health/"><div class="b"><h2>Health Sciences</h2><p>16 programs in nursing, therapy, surgery, labs, and more.</p><span class="go">Open kiosk &rarr;</span></div><div class="ph" style="background-image:url('health/assets/heroes/surgical-technology.jpg')"></div></a>
+    <a class="card" href="trades/"><div class="b"><h2>Skilled Trades &amp; Transportation</h2><p>59 degrees, diplomas, and certificates in construction, electrical, welding, and transportation.</p><span class="go">Open kiosk &rarr;</span></div><div class="ph" style="background-image:url('trades/assets/heroes/welding-technology.jpg')"></div></a>
+    <a class="card" href="hospitality/"><div class="b"><h2>Hospitality &amp; Public Services</h2><p>5 programs in culinary, baking, hospitality, cosmetology, and horticulture.</p><span class="go">Open kiosk &rarr;</span></div><div class="ph" style="background-image:url('hospitality/assets/heroes/culinary-arts.jpg')"></div></a>
+  </main>
+  <footer>Central Piedmont Community College &middot; 1201 Elizabeth Avenue, Charlotte, NC 28204</footer>
+</body>
+</html>

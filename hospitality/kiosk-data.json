@@ -1,0 +1,1349 @@
+{
+  "meta": {
+    "track": "hospitality",
+    "programCount": 5
+  },
+  "copy": {
+    "topbarLabel": "Hospitality & Public Services",
+    "attractSub": "Explore 5 hands-on programs and find yours in three taps.",
+    "infoButton": "Sign up for an information session",
+    "ceHeading": "Certifications &amp; Short Courses",
+    "resultEyebrow": "YOUR MATCH"
+  },
+  "features": {
+    "worldTilePhotos": true,
+    "admissions": false,
+    "specializations": false
+  },
+  "worlds": [
+    {
+      "id": "food",
+      "name": "Culinary & Baking",
+      "desc": "Cook, bake, and create in professional kitchens",
+      "color": "#54565A",
+      "text": "#FFFFFF",
+      "icon": "fa-utensils",
+      "photo": "assets/heroes/culinary-arts.jpg",
+      "programIds": [
+        "culinary-arts",
+        "baking-pastry"
+      ]
+    },
+    {
+      "id": "hospitality",
+      "name": "Hotels, Events & Tourism",
+      "desc": "Lead the businesses built on great guest experiences",
+      "color": "#005D83",
+      "text": "#FFFFFF",
+      "icon": "fa-bell-concierge",
+      "photo": "assets/heroes/hospitality-management.jpg",
+      "programIds": [
+        "hospitality-management"
+      ]
+    },
+    {
+      "id": "beauty",
+      "name": "Cosmetology & Salon",
+      "desc": "Hair, skin, and nail artistry behind the chair",
+      "color": "#672666",
+      "text": "#FFFFFF",
+      "icon": "fa-scissors",
+      "photo": "assets/heroes/cosmetology.jpg",
+      "programIds": [
+        "cosmetology"
+      ]
+    },
+    {
+      "id": "green",
+      "name": "Horticulture & Landscaping",
+      "desc": "Work with plants, gardens, and the green industry",
+      "color": "#B4A269",
+      "text": "#1A1A1A",
+      "icon": "fa-seedling",
+      "photo": "assets/heroes/horticulture-technology.jpg",
+      "programIds": [
+        "horticulture-technology"
+      ]
+    }
+  ],
+  "programs": {
+    "culinary-arts": {
+      "id": "culinary-arts",
+      "world": "food",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Cook professionally in restaurants and resorts",
+      "name": "Culinary Arts",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A55150",
+      "totalHours": 69,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "Turn a love of food into a profession in a program built around real kitchen work.",
+      "learn": "You'll learn knife skills, classical cooking techniques, baking, garde manger, global cuisines, nutrition, and food cost control—practicing daily in production kitchens and building the speed, consistency, and professionalism that restaurants, hotels, resorts, and caterers expect.",
+      "skills": [
+        "Sanitation and Safety",
+        "Food and Beverage Service",
+        "Food and Beverage Service Lab",
+        "Culinary Skills I",
+        "Culinary Skills I Lab"
+      ],
+      "specializations": [],
+      "careers": [],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CUL 110",
+              "name": "Sanitation and Safety",
+              "credits": "2.0",
+              "desc": "Introduces the basic principles of sanitation and safety relative to the hospitality industry, including ServSafe-style food handling and workplace safety."
+            },
+            {
+              "code": "CUL 135",
+              "name": "Food and Beverage Service",
+              "credits": "2.0",
+              "desc": "Teaches practical skills for effective food and beverage service across various hospitality settings."
+            },
+            {
+              "code": "CUL 135A",
+              "name": "Food and Beverage Service Lab",
+              "credits": "1.0",
+              "desc": "Laboratory experience enhancing skills in guest service, dining-room setup, and beverage service techniques."
+            },
+            {
+              "code": "CUL 140",
+              "name": "Culinary Skills I",
+              "credits": "5.0",
+              "desc": "Introduces fundamental cooking concepts, techniques, and heat methods for basic culinary applications."
+            },
+            {
+              "code": "CUL 140A",
+              "name": "Culinary Skills I Lab",
+              "credits": "1.0",
+              "desc": "Hands-on practice in basic cooking skills, knife techniques, and sauce preparation."
+            },
+            {
+              "code": "MAT 110",
+              "name": "Mathematical Measurement and Literacy",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "CUL 240",
+              "name": "Culinary Skills II",
+              "credits": "5.0",
+              "desc": "Advances cooking fundamentals including meat fabrication, sauces, and plate presentation."
+            },
+            {
+              "code": "CUL 240A",
+              "name": "Culinary Skills II Lab",
+              "credits": "1.0",
+              "desc": "Laboratory practice in meat preparation, butchery, and entree-with-sides production."
+            },
+            {
+              "code": "CUL 160",
+              "name": "Baking I",
+              "credits": "3.0",
+              "desc": "Covers basic baking ingredients and techniques, including yeast and chemically leavened products."
+            },
+            {
+              "code": "CUL 160A",
+              "name": "Baking I Lab",
+              "credits": "1.0",
+              "desc": "Laboratory experience developing proficiency in bakeshop applications and pastry preparation."
+            },
+            {
+              "code": "HRM 220",
+              "name": "Cost Control-Food and Beverage",
+              "credits": "3.0",
+              "desc": "Examines cost-control accounting, financial statements, labor scheduling, and operational efficiency."
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "CUL 260",
+              "name": "Baking II",
+              "credits": "3.0",
+              "desc": "Furthers baking knowledge including classical desserts, cake decorating, and presentation."
+            },
+            {
+              "code": "CUL 260A",
+              "name": "Baking II Lab",
+              "credits": "1.0",
+              "desc": "Hands-on practice in cake decorating, pastry production, and dessert plating."
+            },
+            {
+              "code": "CUL 170",
+              "name": "Garde Manger I",
+              "credits": "3.0",
+              "desc": "Introduces cold food preparation including salads, sandwiches, appetizers, and pantry production."
+            },
+            {
+              "code": "CUL 170A",
+              "name": "Garde Manger I Lab",
+              "credits": "1.0",
+              "desc": "Hands-on practice in cold-kitchen skills and cold food display design."
+            },
+            {
+              "code": "CUL 112",
+              "name": "Nutrition for Foodservice",
+              "credits": "3.0",
+              "desc": "Covers nutrition principles and their application to foodservice operations and menu planning."
+            },
+            {
+              "code": "ENG 114",
+              "name": "Professional Research and Reporting",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "CUL 270",
+              "name": "Garde Manger II",
+              "credits": "3.0",
+              "desc": "Advances cold-food techniques including pates, terrines, charcuterie, and classical cold buffet design."
+            },
+            {
+              "code": "CUL 270A",
+              "name": "Garde Manger II Lab",
+              "credits": "1.0",
+              "desc": "Laboratory work developing advanced garde manger skills and cold buffet showpieces."
+            },
+            {
+              "code": "CUL 230",
+              "name": "Global Cuisines",
+              "credits": "5.0",
+              "desc": "Develops practical experience planning, preparing, and presenting representative foods from world cuisines."
+            },
+            {
+              "code": "CUL 230A",
+              "name": "Global Cuisines Lab",
+              "credits": "1.0",
+              "desc": "Laboratory work with global cuisines emphasizing historical, geographical, and technique influences."
+            },
+            {
+              "code": "WBL 112",
+              "name": "Work-Based Learning I",
+              "credits": "2.0",
+              "desc": ""
+            },
+            {
+              "code": "CUL 273",
+              "name": "Career Development",
+              "credits": "1.0",
+              "desc": "Introduces career planning, self-assessment, portfolio development, and professional job-search strategies."
+            },
+            {
+              "code": "HRM 245",
+              "name": "Human Resource Management-Hospitality",
+              "credits": "3.0",
+              "desc": "Covers human resource management including recruitment, training, evaluation, and labor laws."
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "8",
+          "note": "Select a minimum of 2 credits from approved culinary electives (for example Food Science, Menu Design, or Farm-to-Table) to meet degree requirements.",
+          "rows": [
+            {
+              "code": "CUL 150 / CUL 283",
+              "name": "Culinary Elective (select)",
+              "credits": "2.0",
+              "desc": ""
+            },
+            {
+              "code": "PSY 150",
+              "name": "General Psychology",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ART 111",
+              "name": "Art Appreciation",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/culinary-arts.jpg",
+      "qrFile": "assets/qr/culinary-arts.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/culinary-arts.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "baking-pastry": {
+      "id": "baking-pastry",
+      "world": "food",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Craft breads, pastries, cakes, and chocolate",
+      "name": "Baking and Pastry Arts",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A55130",
+      "totalHours": 69,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "Build the craft and creativity behind breads, pastries, cakes, and chocolate in a fast-paced, hands-on program.",
+      "learn": "You'll work daily through artisan breads, petit fours and pastries, cold and plated desserts, modern cakes and decorating, chocolates and confections, and high-volume production—along with the costing and marketing skills a working bakeshop demands. Courses are immersive and intensive, with most completed in about four weeks.",
+      "skills": [
+        "Sanitation and Safety",
+        "Culinary Fundamentals",
+        "Baking I",
+        "Baking I Lab",
+        "Artisan and Specialty Bread"
+      ],
+      "specializations": [],
+      "careers": [],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "CUL 110",
+              "name": "Sanitation and Safety",
+              "credits": "2.0",
+              "desc": "Introduces the basic principles of sanitation and safety relative to the hospitality industry, including ServSafe-style food handling and workplace safety."
+            },
+            {
+              "code": "BPA 142",
+              "name": "Culinary Fundamentals",
+              "credits": "4.0",
+              "desc": "Overview of culinary techniques for bakery and cafe settings, emphasizing mise en place and knife skills."
+            },
+            {
+              "code": "CUL 160",
+              "name": "Baking I",
+              "credits": "3.0",
+              "desc": "Covers basic baking ingredients and techniques, including yeast and chemically leavened products."
+            },
+            {
+              "code": "CUL 160A",
+              "name": "Baking I Lab",
+              "credits": "1.0",
+              "desc": "Laboratory experience developing proficiency in bakeshop applications and pastry preparation."
+            },
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": ""
+            },
+            {
+              "code": "MAT 110 / MAT 143",
+              "name": "Mathematics (select one)",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "BPA 150",
+              "name": "Artisan and Specialty Bread",
+              "credits": "4.0",
+              "desc": "Advanced bread making covering naturally leavened loaves, hearth breads, focaccia, and specialty grains."
+            },
+            {
+              "code": "BPA 170",
+              "name": "Cold Desserts and Components",
+              "credits": "4.0",
+              "desc": "Fundamentals of cold and frozen desserts including ice creams, sorbets, sauces, and garnishes."
+            },
+            {
+              "code": "BPA 120",
+              "name": "Petit Fours and Pastries",
+              "credits": "3.0",
+              "desc": "Introduces the preparation and plating of petit fours and individual dessert pastries for buffets and events."
+            },
+            {
+              "code": "BPA 120A",
+              "name": "Petit Fours and Pastries Lab",
+              "credits": "1.0",
+              "desc": "Lab experience producing petit fours and pastries using modern production methods."
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "9",
+          "note": "",
+          "rows": [
+            {
+              "code": "HUM/FA",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "BEH/SOC",
+              "name": "Behavioral/Social Sciences Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "HRM 245",
+              "name": "Human Resource Management-Hospitality",
+              "credits": "3.0",
+              "desc": "Covers human resource management including recruitment, training, evaluation, and labor laws."
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "BPA 140",
+              "name": "Modern Cakes and Entremets",
+              "credits": "4.0",
+              "desc": "Teaches modern cake production and decor including mixing methods, fillings, icing, and entremet assembly."
+            },
+            {
+              "code": "BPA 210",
+              "name": "Cake Design and Decorating",
+              "credits": "3.0",
+              "desc": "Advanced cake design and decoration including tiered cakes, fondant, gum paste, and piping techniques."
+            },
+            {
+              "code": "BPA 210A",
+              "name": "Cake Design and Decorating Lab",
+              "credits": "1.0",
+              "desc": "Lab experience building multi-tier specialty cakes with fondant and gum paste."
+            },
+            {
+              "code": "WBL 112",
+              "name": "Work-Based Learning I",
+              "credits": "2.0",
+              "desc": ""
+            },
+            {
+              "code": "BPA 255",
+              "name": "Chocolates and Confections",
+              "credits": "4.0",
+              "desc": "Chocolate and sugar confections including tempering, molding, filling, enrobing, and candy types."
+            },
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "BPA 245",
+              "name": "Plated Dessert Development",
+              "credits": "4.0",
+              "desc": "Planning and execution of multi-component plated desserts emphasizing texture, balance, and presentation."
+            },
+            {
+              "code": "BPA 260",
+              "name": "Pastry and Baking Marketing",
+              "credits": "3.0",
+              "desc": "Marketing concepts for bakery and pastry operations including menu planning, pricing, and advertising."
+            },
+            {
+              "code": "BPA 260A",
+              "name": "Pastry and Baking Marketing Lab",
+              "credits": "2.0",
+              "desc": "Lab applying costing, yield, purchasing, and social-media/print marketing for bakery businesses."
+            },
+            {
+              "code": "BPA 250",
+              "name": "Dessert and Bread Production",
+              "credits": "5.0",
+              "desc": "Merges artistry with commercial bread and dessert production, including costing and pricing."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/baking-pastry.jpg",
+      "qrFile": "assets/qr/baking-pastry.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/baking-pastry.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "hospitality-management": {
+      "id": "hospitality-management",
+      "world": "hospitality",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Manage hotels, events, and guest services",
+      "name": "Hospitality Management",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A25110",
+      "totalHours": 65,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "Prepare to lead in hotels, restaurants, resorts, clubs, and events—the businesses built on great guest experiences.",
+      "learn": "You'll study front office and lodging operations, food and beverage, marketing, human resources, meetings and event planning, cost control, and hospitality law, developing the supervisory and management skills that move you from the floor into leadership.",
+      "skills": [
+        "Sanitation and Safety",
+        "Introduction to Hospitality and Tourism",
+        "Legal Issues-Hospitality",
+        "Marketing for Hospitality",
+        "Human Resource Management-Hospitality"
+      ],
+      "specializations": [],
+      "careers": [],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CUL 110",
+              "name": "Sanitation and Safety",
+              "credits": "2.0",
+              "desc": "Introduces the basic principles of sanitation and safety relative to the hospitality industry, including ServSafe-style food handling and workplace safety."
+            },
+            {
+              "code": "HRM 110",
+              "name": "Introduction to Hospitality and Tourism",
+              "credits": "3.0",
+              "desc": "Explores hospitality industry growth, tourism, lodging, gaming, restaurants, and career pathways."
+            },
+            {
+              "code": "HRM 140",
+              "name": "Legal Issues-Hospitality",
+              "credits": "3.0",
+              "desc": "Addresses legal responsibilities, regulations, safety, risk management, and liability prevention."
+            },
+            {
+              "code": "HRM 240",
+              "name": "Marketing for Hospitality",
+              "credits": "3.0",
+              "desc": "Teaches marketing planning, target strategies, advertising, public relations, and sales techniques."
+            },
+            {
+              "code": "HRM 245",
+              "name": "Human Resource Management-Hospitality",
+              "credits": "3.0",
+              "desc": "Covers human resource management including recruitment, training, evaluation, and labor laws."
+            },
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "HRM 120",
+              "name": "Front Office Procedures",
+              "credits": "3.0",
+              "desc": "Covers lodging front-office operations including reservations, registration, and guest-services systems."
+            },
+            {
+              "code": "HRM 210",
+              "name": "Meetings and Event Planning",
+              "credits": "3.0",
+              "desc": "Covers planning and operating conventions, trade shows, meetings, and foodservice events."
+            },
+            {
+              "code": "HRM 230",
+              "name": "Club and Resort Management",
+              "credits": "3.0",
+              "desc": "Presents resort and club management principles, marketing, and recreational-activity oversight."
+            },
+            {
+              "code": "MAT 143",
+              "name": "Mathematics Elective (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "9",
+          "note": "",
+          "rows": [
+            {
+              "code": "ENG/COM",
+              "name": "English/Communications Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "HUM/FA",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "BEH/SOC",
+              "name": "Behavioral/Social Science Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "13",
+          "note": "",
+          "rows": [
+            {
+              "code": "HRM 150",
+              "name": "Training for Hospitality",
+              "credits": "3.0",
+              "desc": "Introduces training program development, job specifications, coaching, and management techniques."
+            },
+            {
+              "code": "HRM 280",
+              "name": "Management Problems-Hospitality",
+              "credits": "3.0",
+              "desc": "Addresses current industry challenges through problem-solving and managerial decision-making."
+            },
+            {
+              "code": "HRM 225",
+              "name": "Beverage Management",
+              "credits": "3.0",
+              "desc": "Introduces beverage management including wines, spirits, service, and responsible alcohol practices."
+            },
+            {
+              "code": "HRM 220",
+              "name": "Cost Control-Food and Beverage",
+              "credits": "3.0",
+              "desc": "Examines cost-control accounting, financial statements, labor scheduling, and operational efficiency."
+            },
+            {
+              "code": "HRM 125",
+              "name": "Etiquette for Hospitality",
+              "credits": "1.0",
+              "desc": "Teaches social skills for professional interactions, etiquette, and business situations."
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 115 / ACC 120",
+              "name": "Accounting Elective (select one)",
+              "credits": "4.0",
+              "desc": ""
+            },
+            {
+              "code": "WBL 112",
+              "name": "Work-Based Learning I",
+              "credits": "2.0",
+              "desc": ""
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "CUL 273",
+              "name": "Career Development",
+              "credits": "1.0",
+              "desc": "Introduces career planning, self-assessment, portfolio development, and professional job-search strategies."
+            },
+            {
+              "code": "CUL 135",
+              "name": "Food and Beverage Service",
+              "credits": "2.0",
+              "desc": "Teaches practical skills for effective food and beverage service across various hospitality settings."
+            },
+            {
+              "code": "CUL 135A",
+              "name": "Food and Beverage Service Lab",
+              "credits": "1.0",
+              "desc": "Laboratory experience enhancing skills in guest service, dining-room setup, and beverage service techniques."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/hospitality-management.jpg",
+      "qrFile": "assets/qr/hospitality-management.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/hospitality-management.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "cosmetology": {
+      "id": "cosmetology",
+      "world": "beauty",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Hair, skin, and nail artistry for the salon",
+      "name": "Cosmetology",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A55140",
+      "totalHours": 70,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "Learn the art and science of cosmetology in a simulated salon where you build real client-ready skills.",
+      "learn": "You'll develop hands-on fundamentals in hair design, cutting and chemical services, color, skin and nail care, and multicultural techniques—plus the product knowledge, professionalism, and business basics that prepare you for the State Board of Cosmetic Arts exam and a career behind the chair.",
+      "skills": [
+        "Cosmetology Concepts I",
+        "Salon I",
+        "Cosmetology Concepts II",
+        "Salon II",
+        "Cosmetology Concepts III"
+      ],
+      "specializations": [],
+      "careers": [],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "COS 111",
+              "name": "Cosmetology Concepts I",
+              "credits": "4.0",
+              "desc": "Introduces basic cosmetology concepts including safety, sanitation, bacteriology, anatomy, and ethics."
+            },
+            {
+              "code": "COS 112",
+              "name": "Salon I",
+              "credits": "8.0",
+              "desc": "Introduces fundamental salon services such as shampooing, hair color, haircutting, and permanent waving."
+            },
+            {
+              "code": "MAT 110 / MAT 143",
+              "name": "Mathematics (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "COS 113",
+              "name": "Cosmetology Concepts II",
+              "credits": "4.0",
+              "desc": "Covers product knowledge, chemistry, manicuring, and chemical hair restructuring."
+            },
+            {
+              "code": "COS 114",
+              "name": "Salon II",
+              "credits": "8.0",
+              "desc": "Simulated salon experience in skin care, manicuring, hair color, design, and cutting."
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "11",
+          "note": "",
+          "rows": [
+            {
+              "code": "COS 115",
+              "name": "Cosmetology Concepts III",
+              "credits": "4.0",
+              "desc": "Addresses salon management, salesmanship, skin care, and thermal hair styling."
+            },
+            {
+              "code": "COS 116",
+              "name": "Salon III",
+              "credits": "4.0",
+              "desc": "Intermediate simulated salon practice in skin care, manicuring, coloring, and design."
+            },
+            {
+              "code": "PSY 150",
+              "name": "General Psychology",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "COS 117",
+              "name": "Cosmetology Concepts IV",
+              "credits": "2.0",
+              "desc": "Advanced concepts on chemistry, hair structure, and licensing-exam preparation."
+            },
+            {
+              "code": "COS 118",
+              "name": "Salon IV",
+              "credits": "7.0",
+              "desc": "Advanced simulated salon experience preparing students for the licensing exam and employment."
+            },
+            {
+              "code": "COM 110 / COM 231",
+              "name": "Communication (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "BUS 139",
+              "name": "Entrepreneurship I",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "13",
+          "note": "",
+          "rows": [
+            {
+              "code": "COS 240",
+              "name": "Contemporary Design",
+              "credits": "2.0",
+              "desc": "Covers contemporary design methods and techniques for modern styling approaches."
+            },
+            {
+              "code": "COS 223",
+              "name": "Contemporary Hair Coloring",
+              "credits": "2.0",
+              "desc": "Teaches color theory and contemporary techniques and application methods for hair coloring."
+            },
+            {
+              "code": "HUM/FA",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ENG 112 / ENG 113 / ENG 114",
+              "name": "Writing and Research (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/cosmetology.jpg",
+      "qrFile": "assets/qr/cosmetology.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/cosmetology.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "horticulture-technology": {
+      "id": "horticulture-technology",
+      "world": "green",
+      "tileColor": "#B4A269",
+      "tileText": "#1A1A1A",
+      "tileDesc": "Grow plants, design and manage landscapes",
+      "name": "Horticulture Technology",
+      "track": "",
+      "degree": "A.A.S.",
+      "code": "A15240",
+      "totalHours": 67,
+      "semesters": 5,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "Grow a career working with plants, landscapes, and the green industry.",
+      "learn": "Through classroom study and hands-on lab work you'll learn plant science and identification, propagation, soils and fertilizers, pest management, landscape design and management, and the business side of running horticultural enterprises—preparing for certifications including the NC Certified Plant Professional and ISA Certified Arborist exams.",
+      "skills": [
+        "Plant Materials II",
+        "Introduction to Horticulture",
+        "Introduction Turfgrass Cultivation and Identification",
+        "Plant Materials I",
+        "Applied Plant Science"
+      ],
+      "specializations": [],
+      "careers": [],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "HOR 161",
+              "name": "Plant Materials II",
+              "credits": "3.0",
+              "desc": "Extended study of landscape plants, nomenclature, and sustainable landscape applications."
+            },
+            {
+              "code": "HOR 150",
+              "name": "Introduction to Horticulture",
+              "credits": "2.0",
+              "desc": "Fundamental horticulture techniques including propagation, planting, watering, pest control, and design."
+            },
+            {
+              "code": "TRF 110",
+              "name": "Introduction Turfgrass Cultivation and Identification",
+              "credits": "4.0",
+              "desc": "Introduces turfgrass species identification and the fundamentals of turf cultivation and care."
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "MAT 143",
+              "name": "Mathematics (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "ACA 122",
+              "name": "College Transfer Success",
+              "credits": "1.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "HOR 160",
+              "name": "Plant Materials I",
+              "credits": "3.0",
+              "desc": "Identification and culture of landscape plants, emphasizing nomenclature and growth requirements."
+            },
+            {
+              "code": "HOR 162",
+              "name": "Applied Plant Science",
+              "credits": "3.0",
+              "desc": "Applies botany to horticulture including physiology, morphology, and anatomy for plant culture."
+            },
+            {
+              "code": "HOR 166",
+              "name": "Soils and Fertilizers",
+              "credits": "3.0",
+              "desc": "Soil properties, fertility management, testing, and fertilizer application using sustainable practices."
+            },
+            {
+              "code": "COM 110 / COM 231",
+              "name": "Communication (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "HUM/FA",
+              "name": "Humanities/Fine Arts Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "4",
+          "note": "",
+          "rows": [
+            {
+              "code": "WBL 111",
+              "name": "Work-Based Learning I",
+              "credits": "1.0",
+              "desc": ""
+            },
+            {
+              "code": "BEH/SOC",
+              "name": "Behavioral/Social Science Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "HOR 112",
+              "name": "Landscape Design I",
+              "credits": "3.0",
+              "desc": "Landscape principles and practices for residential and commercial sites, including drafting and plant selection."
+            },
+            {
+              "code": "HOR 124 / HOR 134",
+              "name": "Nursery or Greenhouse Operations (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "HOR 164",
+              "name": "Horticultural Pest Management",
+              "credits": "3.0",
+              "desc": "Pest identification and least-toxic management; prepares for the NC Commercial Pesticide license exam."
+            },
+            {
+              "code": "HOR 168",
+              "name": "Plant Propagation",
+              "credits": "3.0",
+              "desc": "Sexual and asexual plant reproduction including seed propagation, grafting, and micro-propagation."
+            },
+            {
+              "code": "HOR 257",
+              "name": "Arboriculture Practices",
+              "credits": "2.0",
+              "desc": "Tree and shrub culture including fertilization, pruning, climbing, pest control, and equipment safety."
+            },
+            {
+              "code": "TECH ELEC",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "term": "Term V",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "HOR 116",
+              "name": "Landscape Management I",
+              "credits": "3.0",
+              "desc": "Analyze landscape properties and develop management schedules based on plant condition and client needs."
+            },
+            {
+              "code": "SPA 120",
+              "name": "Spanish for the Workplace",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "BUS 139 / BUS 230",
+              "name": "Business Management (select one)",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "TECH ELEC",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            },
+            {
+              "code": "TECH ELEC",
+              "name": "Technical Elective",
+              "credits": "3.0",
+              "desc": ""
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/horticulture-technology.jpg",
+      "qrFile": "assets/qr/horticulture-technology.png",
+      "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/horticulture-technology.pdf",
+      "admissions": null,
+      "applyQrFile": null
+    }
+  },
+  "infoSession": {
+    "url": "https://www.cpcc.edu/",
+    "qrFile": "assets/qr/info-session.png"
+  },
+  "college": {
+    "apply": {
+      "url": "https://www.cpcc.edu/admissions-financial-aid/how-to-apply",
+      "qrFile": "assets/qr/college-apply.png"
+    },
+    "navigator": {
+      "url": "https://www.cpcc.edu/student-experience/navigators",
+      "qrFile": "assets/qr/college-navigator.png"
+    }
+  },
+  "ce": null,
+  "quiz": {
+    "intro": {
+      "title": "What's your hospitality superpower?",
+      "blurb": "6 quick questions. Find the hands-on path that fits you.",
+      "icon": "utensils"
+    },
+    "tieOrder": [
+      "food",
+      "hospitality",
+      "beauty",
+      "green"
+    ],
+    "archetypes": {
+      "food": {
+        "name": "The Culinarian",
+        "icon": "utensils",
+        "blurb": "You create with your hands and thrive in the heat of a busy kitchen."
+      },
+      "hospitality": {
+        "name": "The Host",
+        "icon": "concierge",
+        "blurb": "You make people feel welcome and keep every detail running."
+      },
+      "beauty": {
+        "name": "The Stylist",
+        "icon": "scissors",
+        "blurb": "You blend artistry and people skills to help others look their best."
+      },
+      "green": {
+        "name": "The Grower",
+        "icon": "leaf",
+        "blurb": "You love working outdoors and watching the things you cultivate thrive."
+      }
+    },
+    "questions": [
+      {
+        "prompt": "Pick your happy place",
+        "answers": [
+          {
+            "label": "A bustling kitchen line",
+            "icon": "utensils",
+            "world": "food"
+          },
+          {
+            "label": "A hotel lobby full of guests",
+            "icon": "concierge",
+            "world": "hospitality"
+          },
+          {
+            "label": "A salon chair and great lighting",
+            "icon": "scissors",
+            "world": "beauty"
+          },
+          {
+            "label": "A greenhouse on a sunny morning",
+            "icon": "leaf",
+            "world": "green"
+          }
+        ]
+      },
+      {
+        "prompt": "What would you love to make?",
+        "answers": [
+          {
+            "label": "A perfect plate or pastry",
+            "icon": "cake",
+            "world": "food"
+          },
+          {
+            "label": "An event everyone remembers",
+            "icon": "hotel",
+            "world": "hospitality"
+          },
+          {
+            "label": "A look that turns heads",
+            "icon": "spa",
+            "world": "beauty"
+          },
+          {
+            "label": "A garden that comes to life",
+            "icon": "seedling",
+            "world": "green"
+          }
+        ]
+      },
+      {
+        "prompt": "Pick a compliment you'd love to hear",
+        "answers": [
+          {
+            "label": "“This is delicious”",
+            "icon": "utensils",
+            "world": "food"
+          },
+          {
+            "label": "“You thought of everything”",
+            "icon": "concierge",
+            "world": "hospitality"
+          },
+          {
+            "label": "“I love what you did”",
+            "icon": "scissors",
+            "world": "beauty"
+          },
+          {
+            "label": "“Everything here is thriving”",
+            "icon": "tree",
+            "world": "green"
+          }
+        ]
+      },
+      {
+        "prompt": "How do you like to work?",
+        "answers": [
+          {
+            "label": "Fast-paced, with my hands",
+            "icon": "bread",
+            "world": "food"
+          },
+          {
+            "label": "With people, solving problems",
+            "icon": "concierge",
+            "world": "hospitality"
+          },
+          {
+            "label": "One-on-one, making someone's day",
+            "icon": "spa",
+            "world": "beauty"
+          },
+          {
+            "label": "Outdoors, hands in the soil",
+            "icon": "seedling",
+            "world": "green"
+          }
+        ]
+      },
+      {
+        "prompt": "Which project sounds best?",
+        "answers": [
+          {
+            "label": "Cater a big dinner",
+            "icon": "utensils",
+            "world": "food"
+          },
+          {
+            "label": "Run the front desk of a resort",
+            "icon": "hotel",
+            "world": "hospitality"
+          },
+          {
+            "label": "Build a styling portfolio",
+            "icon": "scissors",
+            "world": "beauty"
+          },
+          {
+            "label": "Design and plant a landscape",
+            "icon": "leaf",
+            "world": "green"
+          }
+        ]
+      },
+      {
+        "prompt": "What job do you want?",
+        "answers": [
+          {
+            "label": "Chef or pastry chef",
+            "icon": "cake",
+            "world": "food"
+          },
+          {
+            "label": "Hotel or event manager",
+            "icon": "concierge",
+            "world": "hospitality"
+          },
+          {
+            "label": "Cosmetologist or salon owner",
+            "icon": "scissors",
+            "world": "beauty"
+          },
+          {
+            "label": "Horticulturist or landscaper",
+            "icon": "tree",
+            "world": "green"
+          }
+        ]
+      }
+    ]
+  }
+}

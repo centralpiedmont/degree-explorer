@@ -1,0 +1,312 @@
+[
+  {
+    "id": "air-conditioning-heating-and-refrigeration-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/air-conditioning-heating-refrigeration-technology/#degreetext"
+  },
+  {
+    "id": "air-conditioning-heating-and-refrigeration-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/air-conditioning-heating-refrigeration-technology/#diplomatext"
+  },
+  {
+    "id": "refrigeration-systems-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/air-conditioning-heating-refrigeration-technology/#Refrigeration-Systems"
+  },
+  {
+    "id": "apartment-rental-maintenance-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/air-conditioning-heating-refrigeration-technology/#Apartment-Rental-Maintenance"
+  },
+  {
+    "id": "hvac-r-industry-introduction-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/air-conditioning-heating-refrigeration-technology/#HVAC-R-Production"
+  },
+  {
+    "id": "residential-service-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/air-conditioning-heating-refrigeration-technology/#Residential-Service"
+  },
+  {
+    "id": "construction-management-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#degreestext"
+  },
+  {
+    "id": "building-construction-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#diplomastext"
+  },
+  {
+    "id": "entry-level-project-supervision-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#certificatestext"
+  },
+  {
+    "id": "entry-level-construction-supervisor-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#entrylevelconstructionsupervisor"
+  },
+  {
+    "id": "construction-skills-career-exploration-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#Career-Exploration"
+  },
+  {
+    "id": "building-code-inspector-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#Building-Code-Inspector"
+  },
+  {
+    "id": "entry-level-project-engineer-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#Entry-Project-Engineer"
+  },
+  {
+    "id": "green-building-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#greenbuilding"
+  },
+  {
+    "id": "entry-level-estimating-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#entrylevelestimatingI"
+  },
+  {
+    "id": "electrical-systems-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#degreestext"
+  },
+  {
+    "id": "fast-track-electrical-construction-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#fast-track-electrical"
+  },
+  {
+    "id": "level-i-residential-electrical-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#Electrical-Level-I"
+  },
+  {
+    "id": "solar-photovoltaic-level-i-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#Solar-Photovoltaic"
+  },
+  {
+    "id": "level-ii-commercial-electrical-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#Electricial-Level-II"
+  },
+  {
+    "id": "installation-and-maintenance-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#installation-maintenance"
+  },
+  {
+    "id": "basic-electrical-construction-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#basic-electrical-construction"
+  },
+  {
+    "id": "level-iii-electrical-maintenance-i-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#Electrical-Level-III"
+  },
+  {
+    "id": "level-iv-electrical-maintenance-ii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electrical-systems-technology/#Electrical-Level-IV"
+  },
+  {
+    "id": "nondestructive-examination-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/?_gl=1*tnh8hk*_gcl_au*MTk5MzgwNTU5Mi4xNzc5MzExODk3LjEzMzYxMDE4MzAuMTc4MTUzNTgwNS4xNzgxNTM1ODA0*_ga*MjA0MDk3MzQuMTc1NTAxMzA4NQ..*_ga_DZJNZTGFGJ*czE3ODE1NDQxMDQkbzE1NCRnMSR0MTc4MTU0NzM4MiRqNDUkbDAkaDA.#degreestext"
+  },
+  {
+    "id": "dual-nondestructive-examination-and-quality-assurance-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/#diplomastext"
+  },
+  {
+    "id": "testing-and-measurement-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/#testing-and-measurement"
+  },
+  {
+    "id": "ultrasonic-examination-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/#ultrasonicexamination"
+  },
+  {
+    "id": "radiographic-examination-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/#radiographicexamination"
+  },
+  {
+    "id": "visual-and-pentrant-examination-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/#visualandpenetrantexamination"
+  },
+  {
+    "id": "eddy-current-examinations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/#Eddy-Current-Exam"
+  },
+  {
+    "id": "sustainability-technologies",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/sustainability-technologies/?_gl=1*fagh2b*_gcl_au*MTk5MzgwNTU5Mi4xNzc5MzExODk3LjEzMzYxMDE4MzAuMTc4MTUzNTgwNS4xNzgxNTM1ODA0*_ga*MjA0MDk3MzQuMTc1NTAxMzA4NQ..*_ga_DZJNZTGFGJ*czE3ODE1NDQxMDQkbzE1NCRnMSR0MTc4MTU0Nzc1MSRqNTUkbDAkaDA.#degreestext"
+  },
+  {
+    "id": "design-and-modeling-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/sustainability-technologies/#design-and-modeling"
+  },
+  {
+    "id": "energy-and-the-environment-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/sustainability-technologies/#energyandtheenvironment"
+  },
+  {
+    "id": "renewable-energy-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/sustainability-technologies/#renewableenergy"
+  },
+  {
+    "id": "welding-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#degreestext"
+  },
+  {
+    "id": "welding-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#diplomastext"
+  },
+  {
+    "id": "entry-level-welding-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#entrylevelwelding"
+  },
+  {
+    "id": "smaw-of-pipe-welding-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#smawofpipewelding"
+  },
+  {
+    "id": "gas-metal-arc-welding-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#Gas-Metal-Arc-Welding"
+  },
+  {
+    "id": "robotic-welding-and-cutting-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#roboticweldingandcutting"
+  },
+  {
+    "id": "entry-level-pipefitting-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#Entry-Level-Pipefitting"
+  },
+  {
+    "id": "automotive-systems-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/automotive-systems-technology/#degreestext"
+  },
+  {
+    "id": "automotive-systems-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/automotive-systems-technology/#diplomastext"
+  },
+  {
+    "id": "steering-and-suspension-and-electrical-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/automotive-systems-technology/#steering-suspension-electrical"
+  },
+  {
+    "id": "brakes-and-introduction-to-ev-technology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/automotive-systems-technology/#brakes-EV"
+  },
+  {
+    "id": "transportation-service-and-repair-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/automotive-systems-technology/#Transportation-and-Repair"
+  },
+  {
+    "id": "collision-repair-and-refinishing-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/collision-repair-and-refinishing-technology/#degreestext"
+  },
+  {
+    "id": "collision-repair-and-refinishing-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/collision-repair-and-refinishing-technology/#diplomastext"
+  },
+  {
+    "id": "autobody-repair-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/collision-repair-and-refinishing-technology/#collisionrepair"
+  },
+  {
+    "id": "autobody-estimating-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/collision-repair-and-refinishing-technology/#autobodyestimating"
+  },
+  {
+    "id": "painting-and-refinishing-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/collision-repair-and-refinishing-technology/#painting"
+  },
+  {
+    "id": "diesel-and-heavy-equipment-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/diesel-heavy-equipment/#degreestext"
+  },
+  {
+    "id": "diesel-service-repair-i-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/diesel-heavy-equipment/#dieselservicerepair"
+  },
+  {
+    "id": "diesel-service-repair-iii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/diesel-heavy-equipment/#dieselservicerepairIII"
+  },
+  {
+    "id": "over-the-road-specialist-ii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/diesel-heavy-equipment/#Over-the-Road-2"
+  },
+  {
+    "id": "diesel-service-repair-ii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/diesel-heavy-equipment/#dieselservicerepairII"
+  },
+  {
+    "id": "over-the-road-specialist-i-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/diesel-heavy-equipment/#Over-the-Road-1"
+  },
+  {
+    "id": "electric-vehicle-foundations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/automotive-systems-technology/#electric-vehicle-foundations"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://events.myconnect.cpcc.edu/series/cpcc.events_series.1064"
+  },
+  {
+    "id": "college-apply",
+    "type": "college",
+    "url": "https://www.cpcc.edu/admissions-financial-aid/how-to-apply"
+  },
+  {
+    "id": "college-navigator",
+    "type": "college",
+    "url": "https://www.cpcc.edu/student-experience/navigators"
+  }
+]
