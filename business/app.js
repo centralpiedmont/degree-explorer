@@ -158,7 +158,7 @@ function attractView() {
     <div class="a-top"><img class="logo" src="assets/brand/logo-white.svg" alt="Central Piedmont Community College"><div class="label">${esc(data.copy.topbarLabel)}</div></div>
     <div class="a-copy">
       <div class="eyebrow">Central Piedmont Community College</div>
-      <h1><span class="lt">Leading</span><span class="hv">boldly.</span></h1>
+      <h1><span class="lt">Future You</span><span class="hv">Will Thank You!</span></h1>
       <p class="sub">${esc(data.copy.attractSub)}</p>
       <div class="a-ctas">
         <button class="btn btn-gold btn-xl" data-act="start">Explore programs ${AR}</button>
