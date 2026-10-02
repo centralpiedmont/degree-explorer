@@ -29,7 +29,8 @@ const ICONS = {
   cake: 'fa-cake-candles', bread: 'fa-bread-slice', concierge: 'fa-concierge-bell', hotel: 'fa-hotel',
   scissors: 'fa-scissors', spa: 'fa-spa', leaf: 'fa-leaf', seedling: 'fa-seedling', tree: 'fa-tree',
 };
-const icon = (name) => (ICONS[name] ? `<i class="fa-solid ${ICONS[name]}" aria-hidden="true"></i>` : '');
+// Quiz icons: a short name from ICONS, or any Font Awesome solid class ('fa-pen-ruler').
+const icon = (name) => { const c = ICONS[name] || (/^fa-[a-z0-9-]+$/.test(name || '') ? name : null); return c ? `<i class="fa-solid ${c}" aria-hidden="true"></i>` : ''; };
 
 const app = document.getElementById('app');
 let state, data, idleTimer, warnTimer;
@@ -244,13 +245,13 @@ function programView() {
   const hasAdm = progs.some((p) => p.admissions);
   const hasFormat = progs.some((p) => p.format);
   const body = programMode === 'table'
-    ? `<table class="ptable"><thead><tr><th>Program</th><th>Credential</th><th>Credit hours</th><th>Time to complete</th>${hasFormat ? '<th>Format</th>' : ''}${hasAdm ? '<th>Admission</th>' : ''}<th></th></tr></thead><tbody>
+    ? `<div class="ptable-wrap"><table class="ptable${progs.length > 7 ? ' dense' : ''}"><thead><tr><th>Program</th><th>Credential</th><th>Credit hours</th><th>Time to complete</th>${hasFormat ? '<th>Format</th>' : ''}${hasAdm ? '<th>Admission</th>' : ''}<th></th></tr></thead><tbody>
         ${progs.map((p) => `<tr class="go" data-act="pick-program" data-id="${p.id}">
           <td>${esc(p.name)}${p.track ? `<div class="chip line" style="display:inline-block;margin-left:12px">${esc(p.track)}</div>` : ''}</td>
           <td>${esc(p.degree)}</td><td>${esc(p.totalHours)}</td><td>${esc(timeText(p))}</td>${hasFormat ? `<td>${esc(p.format)}</td>` : ''}
           ${hasAdm ? `<td>${p.admissions ? (p.admissions.admissionType === 'selective' ? 'Competitive' : 'Open') : 'Open'}</td>` : ''}
-          <td class="arrow">${AR}</td></tr>`).join('')}</tbody></table>`
-    : `<div class="cards row">${progs.map((p) => `
+          <td class="arrow">${AR}</td></tr>`).join('')}</tbody></table></div>`
+    : `<div class="cards row prow">${progs.map((p) => `
         <button class="pcard" data-act="pick-program" data-id="${p.id}">
           ${photo('pc-photo', p.heroFile, w.icon, `<span class="tab">${esc(p.degree)}</span><span class="fold"><img src="assets/brand/mark-white.png" alt=""></span>`)}
           <div class="pc-body"><h2>${esc(p.name)}</h2>${p.track ? `<div class="trk">${esc(p.track)}</div>` : ''}

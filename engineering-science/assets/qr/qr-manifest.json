@@ -1,0 +1,192 @@
+[
+  {
+    "id": "biomedical-equipment-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/biomedical-equipment-technology/#degreestext"
+  },
+  {
+    "id": "biomedical-equipment-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/biomedical-equipment-technology/#diplomastext"
+  },
+  {
+    "id": "biomedical-equipment-technology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/biomedical-equipment-technology/#Biomed"
+  },
+  {
+    "id": "biomedical-equipment-technology-pathway-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/biomedical-equipment-technology/#Biomedical%20Equip%20Tech%20Path"
+  },
+  {
+    "id": "civil-engineering-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/civil-engineering-technology/#degreestext"
+  },
+  {
+    "id": "geomatics-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/civil-engineering-technology/#diplomastext"
+  },
+  {
+    "id": "civil-engineering-technology-cad-technologies-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/civil-engineering-technology/#certificatestext"
+  },
+  {
+    "id": "computer-integrated-machining-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/computer-integrated-machining-technology/#degreestext"
+  },
+  {
+    "id": "computer-integrated-machining-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/computer-integrated-machining-technology/#diplomastext"
+  },
+  {
+    "id": "cnc-programming-and-operations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/computer-integrated-machining-technology/#cncprogramingandoperations"
+  },
+  {
+    "id": "basic-machining-skills-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/computer-integrated-machining-technology/#basicmachiningskills"
+  },
+  {
+    "id": "advanced-cnc-technology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/computer-integrated-machining-technology/#advancedcnctechnology"
+  },
+  {
+    "id": "computer-integrated-machining-technology-pathway-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/computer-integrated-machining-technology/#computerintegratedmachining"
+  },
+  {
+    "id": "electronics-engineering-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electronics-engineering-technology/#degreestext"
+  },
+  {
+    "id": "electronics-engineering-technology-pathway-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electronics-engineering-technology/#certificatestext"
+  },
+  {
+    "id": "automation-control-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/electronics-engineering-technology/#certificatestext"
+  },
+  {
+    "id": "associate-in-engineering",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-engineering-ae/"
+  },
+  {
+    "id": "mechanical-engineering-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechanical-engineering-technology/#degreestext"
+  },
+  {
+    "id": "academic-preparation-for-future-engineers-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechanical-engineering-technology/#certificatestext"
+  },
+  {
+    "id": "mechanical-cad-operations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechanical-engineering-technology/#certificatestext"
+  },
+  {
+    "id": "mechanical-engineering-technology-pathway-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechanical-engineering-technology/#certificatestext"
+  },
+  {
+    "id": "mechatronics-engineering-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechatronics-engineering-technology/#degreestext"
+  },
+  {
+    "id": "industrial-automation-technician-i-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechatronics-engineering-technology/#industrial-auto-tech-1"
+  },
+  {
+    "id": "industrial-automation-technician-ii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechatronics-engineering-technology/#industrial-auto-tech-2"
+  },
+  {
+    "id": "mechatronics-engineering-technology-pathway-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/mechatronics-engineering-technology/#pathway"
+  },
+  {
+    "id": "associate-in-science-biology-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-science-as/#Biological-Sciences"
+  },
+  {
+    "id": "associate-in-science-physical-science-and-chemistry",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-science-as/#Physical-Science"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://events.myconnect.cpcc.edu/event/cpcc.events.1774697"
+  },
+  {
+    "id": "college-apply",
+    "type": "college",
+    "url": "https://www.cpcc.edu/admissions-financial-aid/how-to-apply"
+  },
+  {
+    "id": "college-navigator",
+    "type": "college",
+    "url": "https://www.cpcc.edu/student-experience/navigators"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=6970113"
+  },
+  {
+    "id": "ce-SEF-EDG8092",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6969987"
+  },
+  {
+    "id": "ce-SEF-EDG8093",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6970114"
+  },
+  {
+    "id": "ce-SEF-ISE7131",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=38638772"
+  },
+  {
+    "id": "ce-SEF-ISE7132",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=38639375"
+  },
+  {
+    "id": "ce-SEF-BUS7430",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=1267955"
+  },
+  {
+    "id": "ce-SEF-BUS7435",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19799765"
+  },
+  {
+    "id": "ce-SEF-EDG8094",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6970166"
+  }
+]

@@ -1,12 +1,13 @@
 {
   "meta": {
     "track": "business",
-    "programCount": 6
+    "programCount": 36
   },
   "copy": {
     "topbarLabel": "Business & Accounting",
-    "attractSub": "Explore 6 Business & Accounting degrees and find yours in three taps.",
-    "infoButton": "Sign up for an information session",
+    "attractSub": "Explore 36 Business & Accounting programs and find yours in three taps.",
+    "infoButton": "Join a virtual information session",
+    "infoShort": "Info session",
     "ceHeading": "Certifications &amp; Short Courses",
     "resultEyebrow": "YOUR BUSINESS MATCH"
   },
@@ -25,7 +26,29 @@
       "icon": "fa-briefcase",
       "photo": "assets/heroes/business-administration.jpg",
       "programIds": [
-        "business-administration"
+        "business-administration",
+        "business-operations-certificate",
+        "office-management-certificate",
+        "facilities-management-certificate",
+        "project-management-practitioner-certificate",
+        "project-management-certificate",
+        "advanced-project-management-certificate"
+      ]
+    },
+    {
+      "id": "grow",
+      "name": "Grow a Business",
+      "desc": "Market, sell, serve clients, and hire talent",
+      "color": "#54565A",
+      "text": "#FFFFFF",
+      "icon": "fa-bullhorn",
+      "photo": "assets/heroes/entrepreneurship-marketing-global-business.jpg",
+      "programIds": [
+        "entrepreneurship-certificate",
+        "marketing-and-digital-media-certificate",
+        "international-business-certificate",
+        "human-resources-management-certificate",
+        "relationship-banking-certificate"
       ]
     },
     {
@@ -33,11 +56,32 @@
       "name": "Money, Accounting & Finance",
       "desc": "Track the numbers and guide financial decisions",
       "color": "#B4A269",
-      "text": "#1A1A1A",
+      "text": "#151617",
       "icon": "fa-calculator",
       "photo": "assets/heroes/accounting-finance.jpg",
       "programIds": [
-        "accounting-finance"
+        "accounting-finance",
+        "professional-accounting-i-certificate",
+        "professional-accounting-ii-certificate",
+        "governmental-accounting-certificate",
+        "forensic-accounting-and-fraud-examination-certificate",
+        "accounting-and-business-analytics-certificate",
+        "financial-services-certificate"
+      ]
+    },
+    {
+      "id": "books",
+      "name": "Bookkeeping & Tax",
+      "desc": "Keep the books, file taxes, and plan budgets",
+      "color": "#005D83",
+      "text": "#FFFFFF",
+      "icon": "fa-file-invoice-dollar",
+      "photo": "assets/heroes/accounting-and-finance.jpg",
+      "programIds": [
+        "bookkeeping-certificate",
+        "accounting-technology-certificate",
+        "income-tax-preparer-certificate",
+        "personal-finance-certificate"
       ]
     },
     {
@@ -49,32 +93,41 @@
       "icon": "fa-truck-fast",
       "photo": "assets/heroes/supply-chain.jpg",
       "programIds": [
-        "supply-chain"
+        "supply-chain",
+        "logistics-certificate",
+        "distribution-management-certificate",
+        "global-logistics-technology-certificate",
+        "air-transportation-management-certificate",
+        "airport-management-certificate"
       ]
     },
     {
       "id": "legal",
       "name": "Law & Legal Support",
       "desc": "Support attorneys and the legal system",
-      "color": "#672666",
-      "text": "#FFFFFF",
+      "color": "#B4A269",
+      "text": "#151617",
       "icon": "fa-scale-balanced",
       "photo": "assets/heroes/paralegal.jpg",
       "programIds": [
-        "paralegal"
+        "paralegal",
+        "paralegal-diploma",
+        "legal-studies-certificate"
       ]
     },
     {
       "id": "health",
       "name": "Healthcare Business & Records",
       "desc": "Run the business side of healthcare",
-      "color": "#54565A",
+      "color": "#005D83",
       "text": "#FFFFFF",
       "icon": "fa-notes-medical",
       "photo": "assets/heroes/medical-office-admin.jpg",
       "programIds": [
         "medical-office-admin",
-        "medical-billing-coding"
+        "medical-billing-coding",
+        "medical-office-administration-certificate",
+        "procedural-and-diagnostic-coding-certificate"
       ]
     }
   ],
@@ -349,7 +402,7 @@
       "id": "accounting-finance",
       "world": "money",
       "tileColor": "#B4A269",
-      "tileText": "#1A1A1A",
+      "tileText": "#151617",
       "tileDesc": "Track the numbers and guide the money",
       "name": "Accounting and Finance",
       "track": "",
@@ -828,8 +881,8 @@
     "paralegal": {
       "id": "paralegal",
       "world": "legal",
-      "tileColor": "#672666",
-      "tileText": "#FFFFFF",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
       "tileDesc": "Support attorneys and the legal system",
       "name": "Paralegal Technology",
       "track": "",
@@ -1058,7 +1111,7 @@
     "medical-office-admin": {
       "id": "medical-office-admin",
       "world": "health",
-      "tileColor": "#54565A",
+      "tileColor": "#005D83",
       "tileText": "#FFFFFF",
       "tileDesc": "Run the front office of a medical practice",
       "name": "Medical Office Administration",
@@ -1280,7 +1333,7 @@
     "medical-billing-coding": {
       "id": "medical-billing-coding",
       "world": "health",
-      "tileColor": "#54565A",
+      "tileColor": "#005D83",
       "tileText": "#FFFFFF",
       "tileDesc": "Code diagnoses and process medical claims",
       "name": "Medical Billing and Coding",
@@ -1500,10 +1553,2619 @@
       "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/business/sheets/medical-billing-coding.pdf",
       "admissions": null,
       "applyQrFile": null
+    },
+    "governmental-accounting-certificate": {
+      "id": "governmental-accounting-certificate",
+      "world": "money",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Account for governments and nonprofits",
+      "name": "Governmental Accounting",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580017",
+      "totalHours": 18,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Online",
+      "format": "In Person",
+      "planKind": "requirements",
+      "lead": "The Accounting and Finance curriculum is designed to provide students with the knowledge and skills necessary for employment and growth in the accounting or the finance profession.",
+      "learn": "Students study financial, managerial, intermediate, and advanced accounting, plus governmental and not-for-profit accounting.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Principles of Managerial Accounting",
+        "Intermediate Accounting I",
+        "Advanced Accounting",
+        "Governmental and Not-For-Profit Accounting"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Accountant / Auditor",
+          "salaryText": "$83,680",
+          "soc": "13-2011"
+        },
+        {
+          "title": "Budget Analyst",
+          "salaryText": "$91,640",
+          "soc": "13-2031"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "ACC 121",
+              "name": "Principles of Managerial Accounting",
+              "credits": "4.0",
+              "desc": "This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems."
+            },
+            {
+              "code": "ACC 220",
+              "name": "Intermediate Accounting I",
+              "credits": "4.0",
+              "desc": "This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and extensive analysis of balance sheet components. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards."
+            },
+            {
+              "code": "ACC 250",
+              "name": "Advanced Accounting",
+              "credits": "3.0",
+              "desc": "This course is designed to analyze the special accounting issues, which may include business combinations, partnerships, international accounting, estates, and trusts. Emphasis is placed on analyzing transactions and preparing working papers and financial statements. Upon completion, students should be able to solve a wide variety of problems by advanced application of accounting principles and procedures."
+            },
+            {
+              "code": "ACC 240",
+              "name": "Governmental and Not-For-Profit Accounting",
+              "credits": "3.0",
+              "desc": "This course introduces principles and procedures applicable to governmental and not-for-profit organizations. Emphasis is placed on various budgetary accounting procedures and fund accounting. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/governmental-accounting-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#governmental-accounting",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "accounting-and-business-analytics-certificate": {
+      "id": "accounting-and-business-analytics-certificate",
+      "world": "money",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Turn financial data into business insight",
+      "name": "Accounting and Business Analytics",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580016",
+      "totalHours": 17,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "The Accounting and Finance Certificate with a Specialization in Business Analytics is designed to provide the student with contemporary skills in business analytics, data-driven d…",
+      "learn": "Students will learn how to understand analytics for business and how to translate the findings, use them to predict trends, and effectively communicate their insights.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Introduction to Analytics",
+        "Data Visualization",
+        "Forensic Accounting & Cybersecurity"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Financial Analyst",
+          "salaryText": "$102,740",
+          "soc": "13-2051"
+        },
+        {
+          "title": "Accountant / Auditor",
+          "salaryText": "$83,680",
+          "soc": "13-2011"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "BAS 120",
+              "name": "Introduction to Analytics",
+              "credits": "3.0",
+              "desc": "This course introduces basic concepts and applications of analytics. Topics include an overview of the analytical process and the role of the analyst, applied descriptive statistics, and exploratory data analysis. Upon completion, students should be able to demonstrate a basic understanding of analytics for decision-making in business."
+            },
+            {
+              "code": "BAS 121",
+              "name": "Data Visualization",
+              "credits": "3.0",
+              "desc": "This course introduces key concepts in data visualization and reporting. Topics include concepts and methods used in graphical representation of data, exploration and reporting of data, and basic linear regression methods. Upon completion, students should be able to effectively use graphical tools to communicate insights about data."
+            },
+            {
+              "code": "ACC 249",
+              "name": "Forensic Accounting & Cybersecurity",
+              "credits": "3.0",
+              "desc": "This course introduces students to theoretical and practical applications of investigative and analytical skills for the purpose of resolving cybersecurity and financial crimes in a manner that meets standards required by a court of law. Emphasis is placed on investigative procedures used to detect, prevent and control fraud, defalcation and misrepresentation. Upon completion, students should be able to execute cybersecurity investigative procedures to assist businesses in detecting, investigating, documenting, and preventing fraud including the collection of evidence and preparation of documents for court proceedings."
+            },
+            {
+              "code": "MAT 152",
+              "name": "Statistical Methods I",
+              "credits": "4.0",
+              "desc": "This course provides a project-based approach to introductory statistics with an emphasis on using real-world data and statistical literacy. Topics include descriptive statistics, correlation and regression, basic probability, discrete and continuous probability distributions, confidence intervals and hypothesis testing. Upon completion, students should be able to use appropriate technology to describe important characteristics of a data set, draw inferences about a population from sample data, and interpret and communicate results."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/accounting-and-business-analytics-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#accounting-business-analytics",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "forensic-accounting-and-fraud-examination-certificate": {
+      "id": "forensic-accounting-and-fraud-examination-certificate",
+      "world": "money",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Detect fraud and investigate the books",
+      "name": "Forensic Accounting and Fraud Examination",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580015",
+      "totalHours": 17,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "This certificate is designed to provide students with a concentrated study in the field of fraud examination.",
+      "learn": "The certificate prepares students to understand fraud as a business problem; prevention and detection of financial fraud and the use of technology to detect fraud; elements of fraud investigation, interview techniques, and the various fraud types including employee, management, investment, vendor and customer schemes; laws governing the prosecution of fraud…",
+      "skills": [
+        "Intermediate Accounting I",
+        "Forensic Accounting & Cybersecurity",
+        "Fraud Examination",
+        "Auditing & Assurance Services",
+        "Computer Crime Investigation"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Accountant / Auditor",
+          "salaryText": "$83,680",
+          "soc": "13-2011"
+        },
+        {
+          "title": "Financial Examiner",
+          "salaryText": "$94,160",
+          "soc": "13-2061"
+        },
+        {
+          "title": "Compliance Officer",
+          "salaryText": "$80,730",
+          "soc": "13-1041"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 220",
+              "name": "Intermediate Accounting I",
+              "credits": "4.0",
+              "desc": "This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and extensive analysis of balance sheet components. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards."
+            },
+            {
+              "code": "ACC 249",
+              "name": "Forensic Accounting & Cybersecurity",
+              "credits": "3.0",
+              "desc": "This course introduces students to theoretical and practical applications of investigative and analytical skills for the purpose of resolving cybersecurity and financial crimes in a manner that meets standards required by a court of law. Emphasis is placed on investigative procedures used to detect, prevent and control fraud, defalcation and misrepresentation. Upon completion, students should be able to execute cybersecurity investigative procedures to assist businesses in detecting, investigating, documenting, and preventing fraud including the collection of evidence and preparation of documents for court proceedings."
+            },
+            {
+              "code": "ACC 267",
+              "name": "Fraud Examination",
+              "credits": "3.0",
+              "desc": "This course is an introduction to the investigation techniques used to discover fraudulent activities. Emphasis is placed on the techniques for the detection, deterrence and prevention of the major types of occupational and management frauds. Upon completion, students should be able to examine relevant fraud cases and apply critical thinking and technology skills used in fraud examination."
+            },
+            {
+              "code": "ACC 269",
+              "name": "Auditing & Assurance Services",
+              "credits": "3.0",
+              "desc": "This course introduces selected topics pertaining to the objectives, theory and practices in engagements providing auditing and other assurance services. Topics include planning, conducting and reporting, with emphasis on the related professional ethics and standards. Upon completion, students should be able to demonstrate an understanding of the types of professional services, the related professional standards, and engagement methodology."
+            },
+            {
+              "code": "CCT 121",
+              "name": "Computer Crime Investigation",
+              "credits": "4.0",
+              "desc": "This course introduces the fundamental principles of computer crime investigation processes. Topics include crime scene/incident processing, information gathering techniques, data retrieval, collection and preservation of evidence, preparation of reports and court presentations. Upon completion, students should be able to identify cyber crime activity and demonstrate proper investigative techniques to process the scene and assist in case prosecution."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/forensic-accounting-and-fraud-examination-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#forensic-accounting-fraud-examination",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "professional-accounting-i-certificate": {
+      "id": "professional-accounting-i-certificate",
+      "world": "money",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Earn CPA exam hours in tax and ethics",
+      "name": "Professional Accounting Certificate I",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580012",
+      "totalHours": 17,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Professional Accounting Certificate I and Professional Accounting Certificate II are specifically geared toward post-baccalaureate students seeking hours to sit for the CPA exam.",
+      "learn": "This certificate is designed to provide the student with a concentrated course of study in the field of accounting with an emphasis on taxation and ethics. The courses included in this certificate helps prepare students for the Regulation portion of the CPA Exam.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Principles of Managerial Accounting",
+        "Individual Income Taxes",
+        "Business Income Taxes",
+        "Business Ethics"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Accountant / Auditor",
+          "salaryText": "$83,680",
+          "soc": "13-2011"
+        },
+        {
+          "title": "Revenue Agent / Tax Examiner",
+          "salaryText": "$62,370",
+          "soc": "13-2081"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "ACC 121",
+              "name": "Principles of Managerial Accounting",
+              "credits": "4.0",
+              "desc": "This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems."
+            },
+            {
+              "code": "ACC 129",
+              "name": "Individual Income Taxes",
+              "credits": "3.0",
+              "desc": "This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual income tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms."
+            },
+            {
+              "code": "ACC 130",
+              "name": "Business Income Taxes",
+              "credits": "3.0",
+              "desc": "This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms. This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax depreciation, accounting periods and methods, corporations, partnerships, S Corporations, estates and trusts, and gifts. Upon completion, students should be able to complete various tax forms pertaining to the topics covered in the course."
+            },
+            {
+              "code": "BUS 240",
+              "name": "Business Ethics",
+              "credits": "3.0",
+              "desc": "This course introduces contemporary and controversial ethical issues that face the business community. Topics include moral reasoning, moral dilemmas, law and morality, equity, justice and fairness, ethical standards, and moral development. Upon completion, students should be able to demonstrate an understanding of their moral responsibilities and obligations as members of the workforce and society."
+            },
+            {
+              "code": "BUS 115",
+              "name": "Business Law I",
+              "credits": "",
+              "desc": "This course introduces the student to the legal and ethical framework of business. Contracts, negotiable instruments, the law of sales, torts, crimes, constitutional law, the Uniform Commercial Code, and the court systems are examined. Upon completion the student should be able to identify legal and ethical issues that arise in business decisions and the laws that apply to them."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/professional-accounting-i-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#professional-accounting",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "professional-accounting-ii-certificate": {
+      "id": "professional-accounting-ii-certificate",
+      "world": "money",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Earn CPA exam hours in audit and reporting",
+      "name": "Professional Accounting Certificate II",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25800C4",
+      "totalHours": 17,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Professional Accounting Certificate I and Professional Accounting Certificate II are specifically geared toward post-baccalaureate students seeking hours to sit for the CPA exam.",
+      "learn": "This certificate is designed to provide students with a concentrated course of study in the field of accounting, with an emphasis on corporate accounting, as well as governmental accounting and auditing.",
+      "skills": [
+        "Intermediate Accounting I",
+        "Intermediate Accounting II",
+        "Cost Accounting",
+        "Governmental and Not-For-Profit Accounting",
+        "Advanced Accounting"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Accountant / Auditor",
+          "salaryText": "$83,680",
+          "soc": "13-2011"
+        },
+        {
+          "title": "Financial Examiner",
+          "salaryText": "$94,160",
+          "soc": "13-2061"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 220",
+              "name": "Intermediate Accounting I",
+              "credits": "4.0",
+              "desc": "This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and extensive analysis of balance sheet components. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards."
+            },
+            {
+              "code": "ACC 221",
+              "name": "Intermediate Accounting II",
+              "credits": "4.0",
+              "desc": "This course is a continuation of ACC 220 . Emphasis is placed on special problems which may include leases, bonds, investments, ratio analyses, present value applications, accounting changes, and corrections. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered."
+            },
+            {
+              "code": "ACC 225",
+              "name": "Cost Accounting",
+              "credits": "3.0",
+              "desc": "This course introduces the nature and purposes of cost accounting as an information system for planning and control. Topics include direct materials, direct labor, factory overhead, process, job order, and standard cost systems. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered."
+            },
+            {
+              "code": "ACC 240",
+              "name": "Governmental and Not-For-Profit Accounting",
+              "credits": "3.0",
+              "desc": "This course introduces principles and procedures applicable to governmental and not-for-profit organizations. Emphasis is placed on various budgetary accounting procedures and fund accounting. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered."
+            },
+            {
+              "code": "ACC 250",
+              "name": "Advanced Accounting",
+              "credits": "",
+              "desc": "This course is designed to analyze the special accounting issues, which may include business combinations, partnerships, international accounting, estates, and trusts. Emphasis is placed on analyzing transactions and preparing working papers and financial statements. Upon completion, students should be able to solve a wide variety of problems by advanced application of accounting principles and procedures."
+            },
+            {
+              "code": "ACC 269",
+              "name": "Auditing & Assurance Services",
+              "credits": "3.0",
+              "desc": "This course introduces selected topics pertaining to the objectives, theory and practices in engagements providing auditing and other assurance services. Topics include planning, conducting and reporting, with emphasis on the related professional ethics and standards. Upon completion, students should be able to demonstrate an understanding of the types of professional services, the related professional standards, and engagement methodology."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/professional-accounting-ii-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#professional-accounting2",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "bookkeeping-certificate": {
+      "id": "bookkeeping-certificate",
+      "world": "books",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Keep small business books in QuickBooks",
+      "name": "Bookkeeping",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25800C9",
+      "totalHours": 16,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "This Certificate is designed to prepare students for job opportunities in small business accounting, and exposes students to skills acquisitions in software packages that include…",
+      "learn": "The certificate will enhance students' general business knowledge and record-keeping skills to include fraud prevention. Students will be equipped with the knowledge and skills to pursue entry level career opportunities in accounting for accounting firms, small businesses, non-profit organizations, manufacturing firms, banks, hospitals, school systems, gover…",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Payroll Accounting",
+        "Introduction to Accounting Spreadsheets",
+        "Accounting Software Applications",
+        "Practices in Bookkeeping"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Bookkeeper / Accounting Clerk",
+          "salaryText": "$50,670",
+          "soc": "43-3031"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "ACC 140",
+              "name": "Payroll Accounting",
+              "credits": "2.0",
+              "desc": "This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology."
+            },
+            {
+              "code": "ACC 149",
+              "name": "Introduction to Accounting Spreadsheets",
+              "credits": "2.0",
+              "desc": "This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, model-building problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion, students should be able to use a computer spreadsheet to complete many of the tasks required in accounting."
+            },
+            {
+              "code": "ACC 150",
+              "name": "Accounting Software Applications",
+              "credits": "2.0",
+              "desc": "This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to accurately solve accounting problems."
+            },
+            {
+              "code": "ACC 180",
+              "name": "Practices in Bookkeeping",
+              "credits": "3.0",
+              "desc": "This course provides advanced instruction in bookkeeping and record-keeping functions. Emphasis is placed on mastering adjusting entries, correction of errors, depreciation, payroll, and inventory. Upon completion, students should be able to conduct all key bookkeeping functions for small businesses."
+            },
+            {
+              "code": "ACC 267",
+              "name": "Fraud Examination",
+              "credits": "3.0",
+              "desc": "This course is an introduction to the investigation techniques used to discover fraudulent activities. Emphasis is placed on the techniques for the detection, deterrence and prevention of the major types of occupational and management frauds. Upon completion, students should be able to examine relevant fraud cases and apply critical thinking and technology skills used in fraud examination."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/bookkeeping-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#bookkeeping",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "financial-services-certificate": {
+      "id": "financial-services-certificate",
+      "world": "money",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Learn banking, risk, and business finance",
+      "name": "Financial Services",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580014",
+      "totalHours": 16,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "The certificate is designed to provide the student with a concentrated course of study in business financial services.",
+      "learn": "Students study accounting, risk management, banking, economics, and business finance.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Enterprise Risk Management",
+        "Principles of Microeconomics",
+        "Principles of Banking",
+        "Economics for Bankers"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Loan Officer",
+          "salaryText": "$76,690",
+          "soc": "13-2072"
+        },
+        {
+          "title": "Credit Analyst",
+          "salaryText": "$83,510",
+          "soc": "13-2041"
+        },
+        {
+          "title": "Financial Services Sales Agent",
+          "salaryText": "$78,660",
+          "soc": "41-3031"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "ACC 210",
+              "name": "Enterprise Risk Management",
+              "credits": "3.0",
+              "desc": "This course introduces enterprise risk management as it applies to accounting and finance. Topics include risk recognition, assessment, risk analysis, internal controls, and risk management plans. Upon completion, students should be able to demonstrate the daily managerial and organizational requirements of enterprise risk management in written and oral format."
+            },
+            {
+              "code": "ECO 251",
+              "name": "Principles of Microeconomics",
+              "credits": "3.0",
+              "desc": "This course introduces economic analysis of individual, business, and industry in the market economy. Topics include the price mechanism, supply and demand, optimizing economic behavior, costs and revenue, market structures, factor markets, income distribution, market failure, and government intervention. Upon completion, students should be able to identify and evaluate consumer and business alternatives in order to efficiently achieve economic objectives. Students seeking to take this course to meet the college transfer Social/Behavioral Sciences requirement may also take ECO 252 (no ECO prerequisites)."
+            },
+            {
+              "code": "BAF 110",
+              "name": "Principles of Banking",
+              "credits": "3.0",
+              "desc": "This course covers the fundamentals of bank functions in a descriptive fashion. Topics include banks and the monetary system, the relationship of banks to depositors, the payment functions, bank loans and accounting, regulations, and examinations. Upon completion, students should be able to demonstrate an understanding of the business of banking from a broad perspective."
+            },
+            {
+              "code": "BAF 121",
+              "name": "Economics for Bankers",
+              "credits": "",
+              "desc": "This course is designed to provide bankers with an introduction to the fundamental principles of economics. Emphasis is placed on the basics of economics theory, macroeconomics, and examples of the application of economics to banking. Upon completion, students should be able to interpret economic indicators, relate basic principles of economic theory, describe inflation, and compare and contrast economic systems."
+            },
+            {
+              "code": "BUS 225",
+              "name": "Business Finance",
+              "credits": "3.0",
+              "desc": "This course provides an overview of business financial management. Emphasis is placed on financial statement analysis, time value of money, management of cash flow, risk and return, and sources of financing. Upon completion, students should be able to interpret and apply the principles of financial management."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/financial-services-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#financial-services",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "personal-finance-certificate": {
+      "id": "personal-finance-certificate",
+      "world": "books",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Plan budgets, savings, and personal finance",
+      "name": "Personal Finance",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580013",
+      "totalHours": 16,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "The certificate is designed to provide the student with a concentrated course of study in the field of individual finance.",
+      "learn": "Students study accounting, personal finance, economics, and business finance.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Principles of Microeconomics",
+        "Personal Finance",
+        "Economics for Bankers",
+        "Business Finance"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Loan Interviewer / Clerk",
+          "salaryText": "$50,020",
+          "soc": "43-4131"
+        },
+        {
+          "title": "Personal Financial Advisor",
+          "salaryText": "$105,070",
+          "soc": "13-2052"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "ECO 251",
+              "name": "Principles of Microeconomics",
+              "credits": "3.0",
+              "desc": "This course introduces economic analysis of individual, business, and industry in the market economy. Topics include the price mechanism, supply and demand, optimizing economic behavior, costs and revenue, market structures, factor markets, income distribution, market failure, and government intervention. Upon completion, students should be able to identify and evaluate consumer and business alternatives in order to efficiently achieve economic objectives. Students seeking to take this course to meet the college transfer Social/Behavioral Sciences requirement may also take ECO 252 (no ECO prerequisites)."
+            },
+            {
+              "code": "BUS 125",
+              "name": "Personal Finance",
+              "credits": "3.0",
+              "desc": "This course provides a study of individual and family financial decisions. Emphasis is placed on building useful skills in buying, managing finances, increasing resources, and coping with current economic conditions. Upon completion, students should be able to develop a personal financial plan."
+            },
+            {
+              "code": "BAF 121",
+              "name": "Economics for Bankers",
+              "credits": "3.0",
+              "desc": "This course is designed to provide bankers with an introduction to the fundamental principles of economics. Emphasis is placed on the basics of economics theory, macroeconomics, and examples of the application of economics to banking. Upon completion, students should be able to interpret economic indicators, relate basic principles of economic theory, describe inflation, and compare and contrast economic systems."
+            },
+            {
+              "code": "BUS 225",
+              "name": "Business Finance",
+              "credits": "3.0",
+              "desc": "This course provides an overview of business financial management. Emphasis is placed on financial statement analysis, time value of money, management of cash flow, risk and return, and sources of financing. Upon completion, students should be able to interpret and apply the principles of financial management."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/personal-finance-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#personal-finance",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "accounting-technology-certificate": {
+      "id": "accounting-technology-certificate",
+      "world": "books",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Run accounting software and spreadsheets",
+      "name": "Accounting Technology",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580010",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "The certificate is designed to provide the student with a concentrated course of study in the field of accounting and the use of accounting technology for applied work skills.",
+      "learn": "Students study financial and managerial accounting, accounting spreadsheets, and accounting software.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Principles of Managerial Accounting",
+        "Introduction to Accounting Spreadsheets",
+        "Accounting Software Applications"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Bookkeeper / Accounting Clerk",
+          "salaryText": "$50,670",
+          "soc": "43-3031"
+        },
+        {
+          "title": "Payroll Clerk",
+          "salaryText": "$58,260",
+          "soc": "43-3051"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "ACC 121",
+              "name": "Principles of Managerial Accounting",
+              "credits": "4.0",
+              "desc": "This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems."
+            },
+            {
+              "code": "ACC 149",
+              "name": "Introduction to Accounting Spreadsheets",
+              "credits": "2.0",
+              "desc": "This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, model-building problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion, students should be able to use a computer spreadsheet to complete many of the tasks required in accounting."
+            },
+            {
+              "code": "ACC 150",
+              "name": "Accounting Software Applications",
+              "credits": "2.0",
+              "desc": "This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to accurately solve accounting problems."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/accounting-technology-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#accounting-technology",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "income-tax-preparer-certificate": {
+      "id": "income-tax-preparer-certificate",
+      "world": "books",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Prepare individual and business tax returns",
+      "name": "Income Tax Preparer",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2580011",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Cato Campus, Central Campus, Levine Campus, Merancas Campus",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "The certificate is designed to provide the student with a concentrated course of study in the field of taxation.",
+      "learn": "Students study individual and business income taxes, payroll accounting, and financial accounting.",
+      "skills": [
+        "Principles of Financial Accounting",
+        "Individual Income Taxes",
+        "Business Income Taxes",
+        "Payroll Accounting"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Tax Preparer",
+          "salaryText": "$54,920",
+          "soc": "13-2082"
+        },
+        {
+          "title": "Payroll Clerk",
+          "salaryText": "$58,260",
+          "soc": "43-3051"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "ACC 129",
+              "name": "Individual Income Taxes",
+              "credits": "3.0",
+              "desc": "This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual income tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms."
+            },
+            {
+              "code": "ACC 130",
+              "name": "Business Income Taxes",
+              "credits": "3.0",
+              "desc": "This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms. This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax depreciation, accounting periods and methods, corporations, partnerships, S Corporations, estates and trusts, and gifts. Upon completion, students should be able to complete various tax forms pertaining to the topics covered in the course."
+            },
+            {
+              "code": "ACC 140",
+              "name": "Payroll Accounting",
+              "credits": "2.0",
+              "desc": "This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/accounting-and-finance.jpg",
+      "qrFile": "assets/qr/income-tax-preparer-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#income-tax-preparer",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "entrepreneurship-certificate": {
+      "id": "entrepreneurship-certificate",
+      "world": "grow",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Start and run your own small business",
+      "name": "Entrepreneurship",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25120C4",
+      "totalHours": 16,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "This certificate is designed to provide the student with a concentrated course of study in the field of entrepreneurship and small business start-up and management.",
+      "learn": "Students study entrepreneurship, marketing, personal finance, and financial accounting.",
+      "skills": [
+        "Introduction to Business",
+        "Entrepreneurship I",
+        "Principles of Marketing",
+        "Personal Finance",
+        "Principles of Financial Accounting"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "General and Operations Manager",
+          "salaryText": "$105,770",
+          "soc": "11-1021"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "BUS 139",
+              "name": "Entrepreneurship I",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to the principles of entrepreneurship. Topics include self-analysis of entrepreneurship readiness, the role of entrepreneur in economic development, legal problems, organizational structure, sources of financing, budgeting, and cash flow. Upon completion, students should have an understanding of the entrepreneurial process and issues faced by entrepreneurs."
+            },
+            {
+              "code": "MKT 120",
+              "name": "Principles of Marketing",
+              "credits": "3.0",
+              "desc": "This course introduces principles and problems of marketing goods and services. Topics include promotion, placement, and pricing strategies for products. Upon completion, students should be able to apply marketing principles in organizational decision making."
+            },
+            {
+              "code": "BUS 125",
+              "name": "Personal Finance",
+              "credits": "3.0",
+              "desc": "This course provides a study of individual and family financial decisions. Emphasis is placed on building useful skills in buying, managing finances, increasing resources, and coping with current economic conditions. Upon completion, students should be able to develop a personal financial plan."
+            },
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/entrepreneurship-marketing-global-business.jpg",
+      "qrFile": "assets/qr/entrepreneurship-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#entrepreneurshipC4",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "international-business-certificate": {
+      "id": "international-business-certificate",
+      "world": "grow",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Do business across borders and cultures",
+      "name": "International Business",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512020",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "This certificate in International Business provides students with a broad understanding of global business management and fosters the development of a global mindset.",
+      "learn": "Students will develop critical thinking and operational strategies to successfully navigate a global business environment. Intercultural awareness, international marketing, foreign investment, overseas manufacturing, global value chain, and strategic planning are main skills and knowledge that will be acquired with the completion of this certificate.",
+      "skills": [
+        "International Business",
+        "Global Communication",
+        "International Trade",
+        "Leadership and Management Skills",
+        "Business Law I"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Buyer / Purchasing Agent",
+          "salaryText": "$77,710",
+          "soc": "13-1020"
+        },
+        {
+          "title": "Wholesale Sales Representative",
+          "salaryText": "$72,080",
+          "soc": "41-4012"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "INT 110",
+              "name": "International Business",
+              "credits": "3.0",
+              "desc": "This course provides an overview of the environment, concepts, and basic differences involved in international business. Topics include forms of foreign involvement, international trade theory, governmental influences on trade and strategies, international organizations, multinational corporations, personnel management, and international marketing. Upon completion, students should be able to describe the foundation of international business."
+            },
+            {
+              "code": "INT 115",
+              "name": "Global Communication",
+              "credits": "3.0",
+              "desc": "This course introduces principles and techniques basic to intercultural business communications. Topics include selected cultural values and customs, verbal and non-verbal communication skills, and global etiquette. Upon completion students should be able to demonstrate beginning skills in effective verbal and non-verbal intercultural communications."
+            },
+            {
+              "code": "INT 210",
+              "name": "International Trade",
+              "credits": "3.0",
+              "desc": "This course covers international business trade practices and foreign market research. Emphasis is placed on current trends of US trade practices in foreign countries and how to engage in international trade and acquire foreign marketing information. Upon completion, students should be able to formulate an overall product policy for the international marketplace."
+            },
+            {
+              "code": "BUS 253",
+              "name": "Leadership and Management Skills",
+              "credits": "3.0",
+              "desc": "This course includes a study of the qualities, behaviors, and personal styles exhibited by leaders. Emphasis is placed on coaching, counseling, team building, and employee involvement. Upon completion, students should be able to identify and exhibit the behaviors needed for organizational effectiveness."
+            },
+            {
+              "code": "BUS 115",
+              "name": "Business Law I",
+              "credits": "3.0",
+              "desc": "This course introduces the student to the legal and ethical framework of business. Contracts, negotiable instruments, the law of sales, torts, crimes, constitutional law, the Uniform Commercial Code, and the court systems are examined. Upon completion the student should be able to identify legal and ethical issues that arise in business decisions and the laws that apply to them."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/entrepreneurship-marketing-global-business.jpg",
+      "qrFile": "assets/qr/international-business-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#International-Business",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "marketing-and-digital-media-certificate": {
+      "id": "marketing-and-digital-media-certificate",
+      "world": "grow",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Market products online and on social media",
+      "name": "Marketing & Digital Media",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512028",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "The Business Administration Certificate with a Specialization in Marketing and Digital Media will provide an understanding of the basics of marketing strategies and tactics includ…",
+      "learn": "Coursework will prepare students in the areas of digital marketing, advertising, marketing analytics, e-commerce, and social media marketing. This certificate also is available to students enrolled in Career & College Promise.",
+      "skills": [
+        "Principles of Marketing",
+        "Marketing Research",
+        "Social Media Marketing",
+        "Advertising and Sales Promotion",
+        "Introduction to E-Commerce"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Marketing Specialist",
+          "salaryText": "$78,760",
+          "soc": "13-1161"
+        },
+        {
+          "title": "Public Relations Specialist",
+          "salaryText": "$74,750",
+          "soc": "27-3031"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "MKT 120",
+              "name": "Principles of Marketing",
+              "credits": "3.0",
+              "desc": "This course introduces principles and problems of marketing goods and services. Topics include promotion, placement, and pricing strategies for products. Upon completion, students should be able to apply marketing principles in organizational decision making."
+            },
+            {
+              "code": "MKT 225",
+              "name": "Marketing Research",
+              "credits": "3.0",
+              "desc": "This course provides information for decision making by providing guidance in developing, analyzing, and using data. Emphasis is placed on marketing research as a tool in decision making. Upon completion, students should be able to design and conduct a marketing research project and interpret the results. MKT-225 is a unique concentration requirement of the Marketing and Retailing concentraion in the Business Administration program."
+            },
+            {
+              "code": "MKT 232",
+              "name": "Social Media Marketing",
+              "credits": "3.0",
+              "desc": "This course is designed to build students' social media marketing skills by utilizing projects that give students hands on experience implementing social media marketing strategies. Topics include integrating different social media technologies into a marketing plan, creating social media marketing campaigns, and applying appropriate social media tools. Upon completion, students should be able to use social media technologies to create and improve marketing efforts for businesses."
+            },
+            {
+              "code": "MKT 220",
+              "name": "Advertising and Sales Promotion",
+              "credits": "3.0",
+              "desc": "This course covers the elements of advertising and sales promotion in the business environment. Topics include advertising and sales promotion appeals, selection of media, use of advertising and sales promotion as a marketing tool, and means of testing effectiveness. Upon completion, students should be able to demonstrate an understanding of the concepts covered through application."
+            },
+            {
+              "code": "ECM 210",
+              "name": "Introduction to E-Commerce",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts and tools to implement electronic commerce via the Internet. Topics include application and server software selection, securing transactions, use and verification of credit cards, publishing of catalogs, and site administration. Upon completion, students should be able to setup a working e-commerce Internet web site."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/entrepreneurship-marketing-global-business.jpg",
+      "qrFile": "assets/qr/marketing-and-digital-media-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Digital-Media",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "airport-management-certificate": {
+      "id": "airport-management-certificate",
+      "world": "supply",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Manage the business side of airports",
+      "name": "Airport Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512036",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "This certificate places emphasis on business management, aviation management, airport management, and financial accounting to offer students the knowledge and practical skills ass…",
+      "learn": "Student will learn about the major functions of airport management and the concepts underlying airport planning logistics, finance, and construction. Additionally, the program emphasizes financial accounting and business management principles. This certificate is designed for students seeking business and supervisory positions in the aviation industry.",
+      "skills": [
+        "Introduction to Business",
+        "Principles of Management",
+        "Principles of Financial Accounting",
+        "Aviation Management",
+        "Airport Management"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Airfield Operations Specialist",
+          "salaryText": "$56,850",
+          "soc": "53-2022"
+        },
+        {
+          "title": "Transportation Manager",
+          "salaryText": "$107,230",
+          "soc": "11-3071"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "BUS 137",
+              "name": "Principles of Management",
+              "credits": "3.0",
+              "desc": "This course is designed to be an overview of the major functions of management. Emphasis is placed on planning, organizing, controlling, directing, and communicating. Upon completion, students should be able to work as contributing members of a team utilizing these functions of management."
+            },
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "AER 114",
+              "name": "Aviation Management",
+              "credits": "3.0",
+              "desc": "This course covers operation of a flight department on a cost-effective basis and analysis of profit and loss statements. Topics include flight operations costs, aircraft acquisition analysis and cost comparisons, costs versus revenue, and break-even points. Upon completion, students should be able to calculate cost of flight operations and apply monthly and annual budget analysis."
+            },
+            {
+              "code": "AER 220",
+              "name": "Airport Management",
+              "credits": "2.0",
+              "desc": "This course examines the major functions of airport management and the concepts underlying airport planning and construction. Topics include forecasting volumes and airport size and design, including master planning, location requirements, site selection, runway configuration, zoning laws, and other considerations. Upon completion, students should be able to demonstrate basic airport management skills including an understanding of the socioeconomic effect of airports on the community."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/logistics-specialised-industry-management.jpg",
+      "qrFile": "assets/qr/airport-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#airport-management",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "logistics-certificate": {
+      "id": "logistics-certificate",
+      "world": "supply",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Move products across every mode of transport",
+      "name": "Logistics",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512022",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "The logistics certificate provides a balanced approach to the world of supply chain and logistics systems in business.",
+      "learn": "It provides the fundamental skills needed for a career in the industry and serves as a complement to the world of business and international commerce. Students will learn the framework of moving products on various modes of transportation and the structure and components that make up a supply chain.",
+      "skills": [
+        "Introduction to Logistics",
+        "Transportation Logistics",
+        "Supply Chain Management",
+        "International Business"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Logistician",
+          "salaryText": "$82,320",
+          "soc": "13-1081"
+        },
+        {
+          "title": "Cargo and Freight Agent",
+          "salaryText": "$52,260",
+          "soc": "43-5011"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "LOG 110",
+              "name": "Introduction to Logistics",
+              "credits": "3.0",
+              "desc": "This course provides an overview of logistics. Topics include traffic management, warehousing, inventory control, material handling, global logistics, and the movement and storage of goods from raw materials sources to end consumers. Upon completion, students should be able to identify the different segments of logistics and use the terminology of the industry."
+            },
+            {
+              "code": "LOG 125",
+              "name": "Transportation Logistics",
+              "credits": "3.0",
+              "desc": "This course covers the role and importance of the transportation industry. This is an overview of transportation emphasizing its environmental and sociological aspects, economic impact, services, regulatory guidelines, policies, and its future. Upon completion, students should be able to identify modes of transportation, interpret governing regulations, and describe the principles and terminology used in the transportation industry."
+            },
+            {
+              "code": "LOG 215",
+              "name": "Supply Chain Management",
+              "credits": "3.0",
+              "desc": "This course covers all activities involved in the flow of products and information between the suppliers, customers, producers, and service providers. Topics include acquiring, purchasing, manufacturing, assembling, and distributing goods and services throughout the supply chain organizations. Upon completion, students should be able to identify the supply chain units and describe the materials management processes."
+            },
+            {
+              "code": "INT 110",
+              "name": "International Business",
+              "credits": "3.0",
+              "desc": "This course provides an overview of the environment, concepts, and basic differences involved in international business. Topics include forms of foreign involvement, international trade theory, governmental influences on trade and strategies, international organizations, multinational corporations, personnel management, and international marketing. Upon completion, students should be able to describe the foundation of international business."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/logistics-specialised-industry-management.jpg",
+      "qrFile": "assets/qr/logistics-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Logistics",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "procedural-and-diagnostic-coding-certificate": {
+      "id": "procedural-and-diagnostic-coding-certificate",
+      "world": "health",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Code diagnoses and procedures in one year",
+      "name": "Procedural & Diagnostic Coding",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25310C1",
+      "totalHours": 18,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Online",
+      "format": "Online",
+      "planKind": "requirements",
+      "lead": "This program prepares individuals for administrative roles in healthcare settings.",
+      "learn": "Students learn medical terminology, insurance and billing, procedure coding, and diagnostic coding, and prepare for a coding certification exam.",
+      "skills": [
+        "Medical Office Terms I",
+        "Medical Insurance and Billing",
+        "Medical Office Terms II",
+        "Procedure Coding",
+        "Diagnostic Coding"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Medical Records Specialist / Coder",
+          "salaryText": "$51,140",
+          "soc": "29-2072"
+        },
+        {
+          "title": "Medical Biller / Posting Clerk",
+          "salaryText": "$48,500",
+          "soc": "43-3021"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "OST 141",
+              "name": "Medical Office Terms I",
+              "credits": "3.0",
+              "desc": "This course uses a language-structure approach to present the terminology and vocabulary that will be encountered in medical office settings. Topics include word parts that relate to systemic components, conditions, pathology, and disorder remediation in approximately one-half of the systems of the human body. Upon completion, students should be able to relate words to systems, pluralize, define, pronounce, and construct sentences with the included terms."
+            },
+            {
+              "code": "OST 148",
+              "name": "Medical Insurance and Billing",
+              "credits": "3.0",
+              "desc": "This course introduces fundamentals of medical insurance and billing. Emphasis is placed on the medical billing cycle to include third party payers, coding concepts, and form preparation. Upon completion, students should be able to explain the life cycle of and accurately complete a medical insurance claim."
+            },
+            {
+              "code": "OST 142",
+              "name": "Medical Office Terms II",
+              "credits": "3.0",
+              "desc": "This course is a continuation of OST 141 and continues the study, using a language-structure approach, of medical office terminology and vocabulary. Topics include word parts that relate to systemic components, conditions, pathology, and disorder remediation in the remaining systems of the human body. Upon completion, students should be able to relate words to systems, pluralize, define, pronounce, and construct sentences with the included terms."
+            },
+            {
+              "code": "OST 247",
+              "name": "Procedure Coding",
+              "credits": "3.0",
+              "desc": "This course provides in-depth coverage of procedural coding. Emphasis is placed on CPT and HCPCS coding systems. Upon completion, students should be able to properly code procedures and services performed in a medical facility."
+            },
+            {
+              "code": "OST 248",
+              "name": "Diagnostic Coding",
+              "credits": "3.0",
+              "desc": "This course provides an in-depth study of diagnostic coding. Emphasis is placed on ICD coding system. Upon completion, students should be able to properly code diagnoses in a medical facility."
+            },
+            {
+              "code": "OST 249",
+              "name": "Medical Coding Certification Preparation",
+              "credits": "3.0",
+              "desc": "This course provides instruction that will prepare students to sit for a national coding certification exam. Topics include diagnostic and procedural coding. Upon completion, students should be able to sit for various medical coding certification exams."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/medical-office-administration.jpg",
+      "qrFile": "assets/qr/procedural-and-diagnostic-coding-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#certificatestext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "medical-office-administration-certificate": {
+      "id": "medical-office-administration-certificate",
+      "world": "health",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Run a medical front desk in one year",
+      "name": "Medical Office Administration",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25310C2",
+      "totalHours": 18,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Online",
+      "format": "Online",
+      "planKind": "requirements",
+      "lead": "This program prepares individuals for administrative roles in healthcare settings.",
+      "learn": "Students build skills in keyboarding, medical terminology, insurance and billing, medical legal issues, and electronic health records.",
+      "skills": [
+        "Comprehensive Keyboarding",
+        "Medical Office Terms I",
+        "Medical Legal Issues",
+        "Medical Insurance and Billing",
+        "Introduction to Virtual Office"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Medical Secretary / Admin Assistant",
+          "salaryText": "$45,930",
+          "soc": "43-6013"
+        },
+        {
+          "title": "Medical Records Specialist",
+          "salaryText": "$51,140",
+          "soc": "29-2072"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "",
+              "name": "Major Requirements",
+              "credits": "",
+              "desc": ""
+            },
+            {
+              "code": "OST 130",
+              "name": "Comprehensive Keyboarding",
+              "credits": "3.0",
+              "desc": "This course is designed to develop keyboarding skills and introductory document formatting. Emphasis is placed on keyboarding techniques and formatting basic business documents. Upon completion, students should be able to create documents in an ever-changing workplace."
+            },
+            {
+              "code": "OST 141",
+              "name": "Medical Office Terms I",
+              "credits": "3.0",
+              "desc": "This course uses a language-structure approach to present the terminology and vocabulary that will be encountered in medical office settings. Topics include word parts that relate to systemic components, conditions, pathology, and disorder remediation in approximately one-half of the systems of the human body. Upon completion, students should be able to relate words to systems, pluralize, define, pronounce, and construct sentences with the included terms."
+            },
+            {
+              "code": "OST 149",
+              "name": "Medical Legal Issues",
+              "credits": "3.0",
+              "desc": "This course introduces the complex legal, moral, and ethical issues involved in providing health-care services. Emphasis is placed on the legal requirements of medical practices; the relationship of physician, patient, and office personnel; professional liabilities; and medical practice liability. Upon completion, students should be able to demonstrate a working knowledge of current medical law and accepted ethical behavior."
+            },
+            {
+              "code": "OST 148",
+              "name": "Medical Insurance and Billing",
+              "credits": "3.0",
+              "desc": "This course introduces fundamentals of medical insurance and billing. Emphasis is placed on the medical billing cycle to include third party payers, coding concepts, and form preparation. Upon completion, students should be able to explain the life cycle of and accurately complete a medical insurance claim."
+            },
+            {
+              "code": "OST 171",
+              "name": "Introduction to Virtual Office",
+              "credits": "3.0",
+              "desc": "This course introduces the skills and abilities needed to conduct a variety of office administration activities using the latest technology. Students will learn the proper etiquette of communicating electronically as well as the unique procedures and logistics for conducting business in the virtual office. Upon completion, students will know the vocabulary of the virtual office and will have a basic understanding of modern technical communication tools."
+            },
+            {
+              "code": "OST 280",
+              "name": "Electronic Health Records",
+              "credits": "3.0",
+              "desc": "This course focuses on the use of electronic health records in medical documentation and patient management. Emphasis is placed on creating and maintaining patient medical information, scheduling patient appointments, documenting patient encounters, and billing/insurance claim processing. Upon completion, students should be able to perform the required software tasks following a patient visit from start to finish."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/medical-office-administration.jpg",
+      "qrFile": "assets/qr/medical-office-administration-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#certificatestext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "office-management-certificate": {
+      "id": "office-management-certificate",
+      "world": "lead",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Organize and run a busy business office",
+      "name": "Office Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512016",
+      "totalHours": 18,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "The Business Administration curriculum is designed to introduce students to the various aspects of the innovation-driven economy.",
+      "learn": "Students study business, human resource management, office computations, the virtual office, and professional development.",
+      "skills": [
+        "Introduction to Business",
+        "Human Resource Management",
+        "Office Computations",
+        "Introduction to Virtual Office",
+        "Professional Development"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Office Supervisor",
+          "salaryText": "$69,500",
+          "soc": "43-1011"
+        },
+        {
+          "title": "Executive Administrative Assistant",
+          "salaryText": "$76,590",
+          "soc": "43-6011"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "BUS 153",
+              "name": "Human Resource Management",
+              "credits": "3.0",
+              "desc": "This course introduces the functions of personnel/human resource management within an organization. Topics include equal opportunity and the legal environment, recruitment and selection, performance appraisal, employee development, compensation planning, and employee relations. Upon completion, students should be able to anticipate and resolve human resource concerns."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "OST 122",
+              "name": "Office Computations",
+              "credits": "3.0",
+              "desc": "This course introduces fundamental mathematical and computational skills necessary for success in an office environment. Emphasis will be placed on practical applications of mathematics in office-related tasks such as payroll calculations, inventory calculations, discounts, and markups, as well as financial calculations. Upon completion, students should be able to solve a wide variety of mathematical problems encountered in an office."
+            },
+            {
+              "code": "OST 171",
+              "name": "Introduction to Virtual Office",
+              "credits": "3.0",
+              "desc": "This course introduces the skills and abilities needed to conduct a variety of office administration activities using the latest technology. Students will learn the proper etiquette of communicating electronically as well as the unique procedures and logistics for conducting business in the virtual office. Upon completion, students will know the vocabulary of the virtual office and will have a basic understanding of modern technical communication tools."
+            },
+            {
+              "code": "OST 286",
+              "name": "Professional Development",
+              "credits": "3.0",
+              "desc": "This course covers the personal competencies and qualities needed to project a professional image in the office. Topics include interpersonal skills, health lifestyles, appearance, attitude, personal and professional growth, multicultural awareness, and professional etiquette. Upon completion, students should be able to demonstrate these attributes in the classroom, office, and society."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/operations-office-facilities-management.jpg",
+      "qrFile": "assets/qr/office-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Office-Management",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "facilities-management-certificate": {
+      "id": "facilities-management-certificate",
+      "world": "lead",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Keep buildings safe, efficient, and running",
+      "name": "Facilities Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512015",
+      "totalHours": 16,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Facilities Management is a global, multi-disciplinary, service-based profession dedicated to supporting people by ensuring the functionality, comfort, safety, sustainability, and…",
+      "learn": "The specialization in Facilities Management certificate is designed to provide the student with a concentrated course of study in the field of Facilities Management. The certificate will equip students from any discipline or background with the initial core competencies and experience necessary to pursue a Facilities Management career.",
+      "skills": [
+        "Introduction to Business",
+        "Customer Experience",
+        "Energy Use Analysis",
+        "Introduction to Logistics",
+        "Introduction to Project Management"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Facilities Manager",
+          "salaryText": "$106,660",
+          "soc": "11-3013"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Required Courses:",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "MKT 223",
+              "name": "Customer Experience",
+              "credits": "3.0",
+              "desc": "This course stresses the importance of customer relations in the business world. Emphasis is placed on learning how to respond to complex customer requirements and to efficiently handle stressful situations. Upon completion, students should be able to demonstrate the ability to handle customer relations. Students should also be able to effectively build rapport with customers to identify product needs and bridge those needs to available products and services."
+            },
+            {
+              "code": "SST 120",
+              "name": "Energy Use Analysis",
+              "credits": "3.0",
+              "desc": "This course introduces the principles of analyzing energy use, energy auditing tools and techniques, conservation techniques, and calculating energy savings. Topics include building system control theory, calibrating digital controls, energy loss calculations, and applicable conservation techniques. Upon completion, students should be able to demonstrate an understanding of energy use, audits, and controls in the analysis of energy consumption."
+            },
+            {
+              "code": "LOG 110",
+              "name": "Introduction to Logistics",
+              "credits": "3.0",
+              "desc": "This course provides an overview of logistics. Topics include traffic management, warehousing, inventory control, material handling, global logistics, and the movement and storage of goods from raw materials sources to end consumers. Upon completion, students should be able to identify the different segments of logistics and use the terminology of the industry."
+            },
+            {
+              "code": "PMT 110",
+              "name": "Introduction to Project Management",
+              "credits": "3.0",
+              "desc": "This course introduces project management fundamentals and principles for organizing, planning, implementing, and controlling nonroutine activities to achieve schedule, budget and performance objectives. Topics include project life cycles; work breakdown structures; responsibility matrixes; as well as planning and control methods such as PERT/CPM and Gantt charts. Upon completion, students should be able to demonstrate knowledge, strategies, and techniques needed to create and execute plans for project development and management."
+            },
+            {
+              "code": "WBL 111",
+              "name": "Work-Based Learning I",
+              "credits": "1.0",
+              "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/operations-office-facilities-management.jpg",
+      "qrFile": "assets/qr/facilities-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Facilities-Management",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "business-operations-certificate": {
+      "id": "business-operations-certificate",
+      "world": "lead",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Build a business foundation for management",
+      "name": "Business Operations",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25120C5",
+      "totalHours": 18,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "This certificate is designed to provide students with a foundation in business vocabulary in addition to various topics that prepares them for pre-management positions.",
+      "learn": "It is also open to students enrolled in Career & College Promise.",
+      "skills": [
+        "Business Law I",
+        "Principles of Management",
+        "Principles of Marketing",
+        "Introduction to Business",
+        "Personal Finance"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Business Operations Specialist",
+          "salaryText": "$83,050",
+          "soc": "13-1199"
+        },
+        {
+          "title": "Office Supervisor",
+          "salaryText": "$69,500",
+          "soc": "43-1011"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 115",
+              "name": "Business Law I",
+              "credits": "3.0",
+              "desc": "This course introduces the student to the legal and ethical framework of business. Contracts, negotiable instruments, the law of sales, torts, crimes, constitutional law, the Uniform Commercial Code, and the court systems are examined. Upon completion the student should be able to identify legal and ethical issues that arise in business decisions and the laws that apply to them."
+            },
+            {
+              "code": "BUS 137",
+              "name": "Principles of Management",
+              "credits": "3.0",
+              "desc": "This course is designed to be an overview of the major functions of management. Emphasis is placed on planning, organizing, controlling, directing, and communicating. Upon completion, students should be able to work as contributing members of a team utilizing these functions of management."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "MKT 120",
+              "name": "Principles of Marketing",
+              "credits": "3.0",
+              "desc": "This course introduces principles and problems of marketing goods and services. Topics include promotion, placement, and pricing strategies for products. Upon completion, students should be able to apply marketing principles in organizational decision making."
+            },
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "BUS 125",
+              "name": "Personal Finance",
+              "credits": "3.0",
+              "desc": "This course provides a study of individual and family financial decisions. Emphasis is placed on building useful skills in buying, managing finances, increasing resources, and coping with current economic conditions. Upon completion, students should be able to develop a personal financial plan."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/operations-office-facilities-management.jpg",
+      "qrFile": "assets/qr/business-operations-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#certificatestext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "paralegal-diploma": {
+      "id": "paralegal-diploma",
+      "world": "legal",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Train as a paralegal after a bachelor degree",
+      "name": "Paralegal Technology Diploma",
+      "track": "",
+      "degree": "Diploma",
+      "code": "D25380",
+      "totalHours": 40,
+      "semesters": 3,
+      "timeline": "One year",
+      "campus": "Central Campus",
+      "format": "On-Campus",
+      "planKind": "sequence",
+      "lead": "The Paralegal Technology diploma is for students who already hold a bachelor's degree.",
+      "learn": "Students develop skills in legal research, writing, investigating, drafting, and document management. Paralegals may not provide legal services directly to the public, except as permitted by law.",
+      "skills": [
+        "Introduction to Paralegal Study",
+        "Legal Research/Writing I",
+        "Civil Litigation I",
+        "Legal Research/Writing II",
+        "Civil Litigation II"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Paralegal / Legal Assistant",
+          "salaryText": "$62,890",
+          "soc": "23-2011"
+        },
+        {
+          "title": "Legal Secretary / Administrative Assistant",
+          "salaryText": "$55,570",
+          "soc": "43-6012"
+        },
+        {
+          "title": "Title Examiner",
+          "salaryText": "$58,650",
+          "soc": "23-2093"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "LEX 110",
+              "name": "Introduction to Paralegal Study",
+              "credits": "2.0",
+              "desc": "This course introduces the paralegal profession and the legal system, and an emphasis is placed on the role of professional and legal ethics. Topics include regulations, ethics, case analysis, legal reasoning, career opportunities, professional organizations, terminology and other related topics. Upon completion, students should be able to explain the role of a paralegal and identify the skills, knowledge, and ethics required of paralegals."
+            },
+            {
+              "code": "LEX 120",
+              "name": "Legal Research/Writing I",
+              "credits": "3.0",
+              "desc": "This course introduces the techniques of legal research and writing. Emphasis is placed on locating, analyzing, applying, and updating sources of law; effective legal writing, including proper citation; and the use of electronic research methods. Upon completion, students should be able to perform legal research and writing assignments using techniques covered in the course."
+            },
+            {
+              "code": "LEX 140",
+              "name": "Civil Litigation I",
+              "credits": "3.0",
+              "desc": "This course introduces the structure of the legal system and the rules governing civil litigation. Topics include jurisdiction state and federal rules of civil procedure and evidence. Upon completion, students should be able to assist an attorney in pre-litigation matters and preparation of pleadings and motions."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "COM 110",
+              "name": "Introduction to Communication or Public Speaking",
+              "credits": "3.0",
+              "desc": "This course provides an overview of the basic concepts of communication and the skills necessary to communicate in various contexts. Emphasis is placed on communication theories and techniques used in interpersonal group, public, intercultural, and mass communication situations. Upon completion, students should be able to explain and illustrate the forms and purposes of human communication in a variety of contexts. Students may be required to prepare and deliver oral reports in public contexts."
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "LEX 121",
+              "name": "Legal Research/Writing II",
+              "credits": "3.0",
+              "desc": "This course covers advanced topics in legal research and writing. Topics include more complex legal issues and assignments involving preparation of legal memos, briefs, and other documents and the advanced use of electronic research methods. Upon completion, students should be able to perform legal research and writing assignments using techniques covered in the course."
+            },
+            {
+              "code": "LEX 141",
+              "name": "Civil Litigation II",
+              "credits": "3.0",
+              "desc": "This course covers advanced topics in the civil litigation process. Topics include motions, discovery, and trial and appellate procedures. Upon completion, students should be able to assist an attorney in preparing and organizing documents for trial, settlement and post-trial practice."
+            },
+            {
+              "code": "LEX 150",
+              "name": "Commercial Law I",
+              "credits": "3.0",
+              "desc": "This course covers legally enforceable agreements, forms of organization, and selected portions of the Uniform Commercial Code. Topics include drafting and enforcement of contracts, leases, and related documents and selection and implementation of business organization forms, sales, and commercial papers. Upon completion, students should be able to apply the elements of a contract, prepare various business documents, and understand the role of commercial paper."
+            },
+            {
+              "code": "LEX 210",
+              "name": "Real Property I",
+              "credits": "3.0",
+              "desc": "This course introduces the study of real property law. Topics include the distinction between real and personal property, various estates, mechanics of conveyance and encumbrance, recordation, special proceedings, and other related topics. Upon completion, students should be able to identify estates, forms of deeds, requirements for recording, and procedures to enforce rights to real property."
+            },
+            {
+              "code": "LEX 270",
+              "name": "Law Office Management/Technology",
+              "credits": "2.0",
+              "desc": "This course provides an overview of law office management and organization. Topics include office forms, filing systems, billing/time keeping, computer systems, calendar systems, library administration, case management, office/personnel procedures, ethics, and technology. Upon completion, students should be able to establish and maintain various law office systems, monitor case progress, and supervise non-lawyer personnel."
+            },
+            {
+              "code": "LEX 283",
+              "name": "Investigation",
+              "credits": "2.0",
+              "desc": "This course covers various aspects of civil and criminal investigation. Topics include locating witnesses, interviewing techniques, obtaining records, sketching and photographing accident scenes, collecting and preserving evidence, and preparation of exhibits for trial. Upon completion, students should be able to locate witnesses, prepare questionnaires, interview witnesses, obtain criminal/motor vehicle/medical/accident records, sketch scenes, and prepare exhibits."
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "7",
+          "note": "",
+          "rows": [
+            {
+              "code": "LEX 280",
+              "name": "Ethics & Professionalism",
+              "credits": "2.0",
+              "desc": "This course reinforces legal ethics and the role of the paralegal in a professional work environment. Topics include a review of ethics, employment opportunities, and search techniques; paralegal certification and other related topics. Upon completion, students should be able to understand the paralegal's role in the ethical practice of law."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/paralegal-diploma.jpg",
+      "qrFile": "assets/qr/paralegal-diploma.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/paralegal-technology/#diplomastext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "legal-studies-certificate": {
+      "id": "legal-studies-certificate",
+      "world": "legal",
+      "tileColor": "#B4A269",
+      "tileText": "#151617",
+      "tileDesc": "Explore law as a dual enrollment student",
+      "name": "Paralegal Technology - Introduction to Legal Studies",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25380C1",
+      "totalHours": 13,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Central Campus",
+      "format": "On-Campus",
+      "planKind": "requirements",
+      "lead": "This certificate provides a general overview of the legal discipline through civil litigation, criminal law, and investigative procedures.",
+      "learn": "It is designed for Career and College Promise dual enrolled students who maintain a 2.8 GPA or higher.",
+      "skills": [
+        "Introduction to Paralegal Study",
+        "Civil Litigation I",
+        "Criminal Law & Procedure",
+        "Investigation"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Legal Secretary / Administrative Assistant",
+          "salaryText": "$55,570",
+          "soc": "43-6012"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "13",
+          "note": "",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "LEX 110",
+              "name": "Introduction to Paralegal Study",
+              "credits": "2.0",
+              "desc": "This course introduces the paralegal profession and the legal system, and an emphasis is placed on the role of professional and legal ethics. Topics include regulations, ethics, case analysis, legal reasoning, career opportunities, professional organizations, terminology and other related topics. Upon completion, students should be able to explain the role of a paralegal and identify the skills, knowledge, and ethics required of paralegals."
+            },
+            {
+              "code": "LEX 140",
+              "name": "Civil Litigation I",
+              "credits": "3.0",
+              "desc": "This course introduces the structure of the legal system and the rules governing civil litigation. Topics include jurisdiction state and federal rules of civil procedure and evidence. Upon completion, students should be able to assist an attorney in pre-litigation matters and preparation of pleadings and motions."
+            },
+            {
+              "code": "LEX 160",
+              "name": "Criminal Law & Procedure",
+              "credits": "3.0",
+              "desc": "This course introduces substantive criminal law and procedural rights of the accused. Topics include elements of state/federal crimes, defenses, constitutional issues, pre-trial and trial process, and other related topics. Upon completion, students should be able to explain elements of specific crimes and assist an attorney in preparing a criminal case."
+            },
+            {
+              "code": "LEX 283",
+              "name": "Investigation",
+              "credits": "2.0",
+              "desc": "This course covers various aspects of civil and criminal investigation. Topics include locating witnesses, interviewing techniques, obtaining records, sketching and photographing accident scenes, collecting and preserving evidence, and preparation of exhibits for trial. Upon completion, students should be able to locate witnesses, prepare questionnaires, interview witnesses, obtain criminal/motor vehicle/medical/accident records, sketch scenes, and prepare exhibits."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/paralegal-technology.jpg",
+      "qrFile": "assets/qr/legal-studies-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/paralegal-technology/#certificatestext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "human-resources-management-certificate": {
+      "id": "human-resources-management-certificate",
+      "world": "grow",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Recruit, train, and support employees",
+      "name": "Human Resources Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512012",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "Less than six months",
+      "campus": "Online",
+      "format": "Online",
+      "planKind": "requirements",
+      "lead": "This certificate in Human Resource Management is designed to provide human resource practitioners with tools for success in the range of human resource functions including recruit…",
+      "learn": "Coursework prepares students for human resource positions through human resource & leadership case studies in preparation for successful human resource careers.",
+      "skills": [
+        "Human Resource Management",
+        "Employment Law and Regulations",
+        "Training and Development",
+        "Leadership and Management Skills",
+        "Recruiting, Selection, & Personnel Planning"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Human Resources Specialist",
+          "salaryText": "$75,940",
+          "soc": "13-1071"
+        },
+        {
+          "title": "Human Resources Assistant",
+          "salaryText": "$50,610",
+          "soc": "43-4161"
+        },
+        {
+          "title": "Training and Development Specialist",
+          "salaryText": "$69,280",
+          "soc": "13-1151"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 153",
+              "name": "Human Resource Management",
+              "credits": "3.0",
+              "desc": "This course introduces the functions of personnel/human resource management within an organization. Topics include equal opportunity and the legal environment, recruitment and selection, performance appraisal, employee development, compensation planning, and employee relations. Upon completion, students should be able to anticipate and resolve human resource concerns."
+            },
+            {
+              "code": "BUS 217",
+              "name": "Employment Law and Regulations",
+              "credits": "3.0",
+              "desc": "This course introduces the principle laws and regulations affecting public and private organizations and their employees or prospective employees. Topics include fair employment practices, EEO, affirmative action, and employee rights and protections. Upon completion, students should be able to evaluate organization policy for compliance and assure that decisions are not contrary to law."
+            },
+            {
+              "code": "BUS 234",
+              "name": "Training and Development",
+              "credits": "3.0",
+              "desc": "This course covers developing, conducting, and evaluating employee training with attention to adult learning principles. Emphasis is placed on conducting a needs assessment, using various instructional approaches, designing the learning environment, and locating learning resources. Upon completion, students should be able to design, conduct, and evaluate a training program."
+            },
+            {
+              "code": "BUS 253",
+              "name": "Leadership and Management Skills",
+              "credits": "3.0",
+              "desc": "This course includes a study of the qualities, behaviors, and personal styles exhibited by leaders. Emphasis is placed on coaching, counseling, team building, and employee involvement. Upon completion, students should be able to identify and exhibit the behaviors needed for organizational effectiveness."
+            },
+            {
+              "code": "BUS 256",
+              "name": "Recruiting, Selection, & Personnel Planning",
+              "credits": "3.0",
+              "desc": "This course introduces the basic principles involved in managing the employment process. Topics include personnel planning, recruiting, interviewing and screening techniques, maintaining employee records; and voluntary and involuntary separations. Upon completion, students should be able to acquire and retain employees who match position requirements and fulfill organizational objectives. This course is a unique concentration requirement of the human resources management concentration in the business administration program."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/people-banking-relationship-management.jpg",
+      "qrFile": "assets/qr/human-resources-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#HR-Management",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "relationship-banking-certificate": {
+      "id": "relationship-banking-certificate",
+      "world": "grow",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Serve bank clients and grow relationships",
+      "name": "Relationship Banking",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512014",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Home to three of the country’s six largest banks, Charlotte is booming with employment opportunities in the financial services sector.",
+      "learn": "The business administration specialization in relationship banking provides a pathway for students into the robust and growing financial services industry.",
+      "skills": [
+        "Introduction to Business",
+        "Principles of Banking",
+        "Personal Finance",
+        "Customer Experience"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Loan Officer",
+          "salaryText": "$76,690",
+          "soc": "13-2072"
+        },
+        {
+          "title": "New Accounts Clerk",
+          "salaryText": "$47,670",
+          "soc": "43-4141"
+        },
+        {
+          "title": "Bank Teller",
+          "salaryText": "$43,030",
+          "soc": "43-3071"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "BAF 110",
+              "name": "Principles of Banking",
+              "credits": "3.0",
+              "desc": "This course covers the fundamentals of bank functions in a descriptive fashion. Topics include banks and the monetary system, the relationship of banks to depositors, the payment functions, bank loans and accounting, regulations, and examinations. Upon completion, students should be able to demonstrate an understanding of the business of banking from a broad perspective."
+            },
+            {
+              "code": "BUS 125",
+              "name": "Personal Finance",
+              "credits": "3.0",
+              "desc": "This course provides a study of individual and family financial decisions. Emphasis is placed on building useful skills in buying, managing finances, increasing resources, and coping with current economic conditions. Upon completion, students should be able to develop a personal financial plan."
+            },
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0",
+              "desc": "This course provides instruction and experience in preparation and delivery of speeches within a public setting and group discussion. Emphasis is placed on research, preparation, delivery, and evaluation of informative, persuasive, and special occasion public speaking. Upon completion, students should be able to prepare and deliver well-organized speeches and participate in group discussion with appropriate audiovisual support."
+            },
+            {
+              "code": "MKT 223",
+              "name": "Customer Experience",
+              "credits": "3.0",
+              "desc": "This course stresses the importance of customer relations in the business world. Emphasis is placed on learning how to respond to complex customer requirements and to efficiently handle stressful situations. Upon completion, students should be able to demonstrate the ability to handle customer relations. Students should also be able to effectively build rapport with customers to identify product needs and bridge those needs to available products and services."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/people-banking-relationship-management.jpg",
+      "qrFile": "assets/qr/relationship-banking-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Relationship-Banking",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "project-management-certificate": {
+      "id": "project-management-certificate",
+      "world": "lead",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Lead projects through the Year Up program",
+      "name": "Project Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25120C8",
+      "totalHours": 14,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "This certificate exists solely for an industry partnership with Year Up.",
+      "learn": "Students outside Year Up can choose the Project Management Practitioner certificate instead.",
+      "skills": [
+        "Introduction to Business",
+        "Introduction to Project Management",
+        "Project Management Assessing Risk",
+        "Work-Based Learning I (General Education Requirements)"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Project Management Specialist",
+          "salaryText": "$102,320",
+          "soc": "13-1082"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "PMT 110",
+              "name": "Introduction to Project Management",
+              "credits": "3.0",
+              "desc": "This course introduces project management fundamentals and principles for organizing, planning, implementing, and controlling nonroutine activities to achieve schedule, budget and performance objectives. Topics include project life cycles; work breakdown structures; responsibility matrixes; as well as planning and control methods such as PERT/CPM and Gantt charts. Upon completion, students should be able to demonstrate knowledge, strategies, and techniques needed to create and execute plans for project development and management."
+            },
+            {
+              "code": "PMT 111",
+              "name": "Project Management Assessing Risk",
+              "credits": "3.0",
+              "desc": "This course provides various ways to identify, analyze, and mitigate the full range of project risks. Topics include risk management planning, risk identification, qualitative risk analysis, quantitative risk analysis, risk response planning, as well as risk monitoring and control. Upon completion, students should be able to demonstrate knowledge of risk management processes and application of risk management techniques to case study problems."
+            },
+            {
+              "code": "WBL 112",
+              "name": "Work-Based Learning I (General Education Requirements)",
+              "credits": "2.0",
+              "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/project-management-specializations.jpg",
+      "qrFile": "assets/qr/project-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Project-Management",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "advanced-project-management-certificate": {
+      "id": "advanced-project-management-certificate",
+      "world": "lead",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Lead larger projects through Year Up",
+      "name": "Advanced Project Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25120C9",
+      "totalHours": 14,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "This certificate exists solely for an industry partnership with Year Up.",
+      "learn": "Students outside Year Up can choose the Project Management Practitioner certificate instead.",
+      "skills": [
+        "Principles of Management",
+        "Training and Development",
+        "Leadership and Management Skills",
+        "Project Management Issues",
+        "Project Management Leadership"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Project Management Specialist",
+          "salaryText": "$102,320",
+          "soc": "13-1082"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "BUS 137",
+              "name": "Principles of Management",
+              "credits": "3.0",
+              "desc": "This course is designed to be an overview of the major functions of management. Emphasis is placed on planning, organizing, controlling, directing, and communicating. Upon completion, students should be able to work as contributing members of a team utilizing these functions of management."
+            },
+            {
+              "code": "BUS 234",
+              "name": "Training and Development",
+              "credits": "3.0",
+              "desc": "This course covers developing, conducting, and evaluating employee training with attention to adult learning principles. Emphasis is placed on conducting a needs assessment, using various instructional approaches, designing the learning environment, and locating learning resources. Upon completion, students should be able to design, conduct, and evaluate a training program."
+            },
+            {
+              "code": "BUS 253",
+              "name": "Leadership and Management Skills",
+              "credits": "",
+              "desc": "This course includes a study of the qualities, behaviors, and personal styles exhibited by leaders. Emphasis is placed on coaching, counseling, team building, and employee involvement. Upon completion, students should be able to identify and exhibit the behaviors needed for organizational effectiveness."
+            },
+            {
+              "code": "PMT 210",
+              "name": "Project Management Issues",
+              "credits": "3.0",
+              "desc": "This course is designed to explore various development and management techniques and tools of integrated project schedules and plans. Emphasis is placed on project control methods from a scheduling perspective, including critical path networking, float analysis, and schedule performance predictability and accomplishment. Upon completion, students should have a clear understanding of accepted techniques for schedule development and management."
+            },
+            {
+              "code": "PMT 215",
+              "name": "Project Management Leadership",
+              "credits": "3.0",
+              "desc": "This course provides an overview of the importance of project teams and human resource management in the planning, scheduling, and controlling of multi-project programs. Topics include the role of projects in organizations; alternative organizational systems; program management methodologies; team management and leadership; legal/ethical issues; and conflict identification/resolution. Upon completion, students should be able to identify and exhibit the behaviors needed for effective project management and team leadership."
+            },
+            {
+              "code": "WBL 112",
+              "name": "Work-Based Learning I",
+              "credits": "2.0",
+              "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/project-management-specializations.jpg",
+      "qrFile": "assets/qr/advanced-project-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Advanced-Project-Management",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "project-management-practitioner-certificate": {
+      "id": "project-management-practitioner-certificate",
+      "world": "lead",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Plan and lead projects with Agile tools",
+      "name": "Project Management Practitioner",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2512013",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "The Project Management Practitioner specialization certificate is designed to prepare students of any discipline or background to manage and lead projects.",
+      "learn": "Practitioner graduates will understand the fundamentals of project management as well as the issues and risks associated with leading and managing projects of various sizes. They will be equipped with skills in Microsoft Project and Agile.",
+      "skills": [
+        "Introduction to Project Management",
+        "Project Management Assessing Risk",
+        "Project Management Issues",
+        "Project Management Leadership"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Project Management Specialist",
+          "salaryText": "$102,320",
+          "soc": "13-1082"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Required Courses:",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "PMT 110",
+              "name": "Introduction to Project Management",
+              "credits": "3.0",
+              "desc": "This course introduces project management fundamentals and principles for organizing, planning, implementing, and controlling nonroutine activities to achieve schedule, budget and performance objectives. Topics include project life cycles; work breakdown structures; responsibility matrixes; as well as planning and control methods such as PERT/CPM and Gantt charts. Upon completion, students should be able to demonstrate knowledge, strategies, and techniques needed to create and execute plans for project development and management."
+            },
+            {
+              "code": "PMT 111",
+              "name": "Project Management Assessing Risk",
+              "credits": "3.0",
+              "desc": "This course provides various ways to identify, analyze, and mitigate the full range of project risks. Topics include risk management planning, risk identification, qualitative risk analysis, quantitative risk analysis, risk response planning, as well as risk monitoring and control. Upon completion, students should be able to demonstrate knowledge of risk management processes and application of risk management techniques to case study problems."
+            },
+            {
+              "code": "PMT 210",
+              "name": "Project Management Issues",
+              "credits": "3.0",
+              "desc": "This course is designed to explore various development and management techniques and tools of integrated project schedules and plans. Emphasis is placed on project control methods from a scheduling perspective, including critical path networking, float analysis, and schedule performance predictability and accomplishment. Upon completion, students should have a clear understanding of accepted techniques for schedule development and management."
+            },
+            {
+              "code": "PMT 215",
+              "name": "Project Management Leadership",
+              "credits": "3.0",
+              "desc": "This course provides an overview of the importance of project teams and human resource management in the planning, scheduling, and controlling of multi-project programs. Topics include the role of projects in organizations; alternative organizational systems; program management methodologies; team management and leadership; legal/ethical issues; and conflict identification/resolution. Upon completion, students should be able to identify and exhibit the behaviors needed for effective project management and team leadership."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/project-management-specializations.jpg",
+      "qrFile": "assets/qr/project-management-practitioner-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Project-Management-Practitioner",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "air-transportation-management-certificate": {
+      "id": "air-transportation-management-certificate",
+      "world": "supply",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Manage air cargo and air transportation",
+      "name": "Air Transportation Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25620C3",
+      "totalHours": 16,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "This certificates places emphases on logistics, project management, and business management to offer students the knowledge and practical skills associated with the dynamic field…",
+      "learn": "You will learn how to plan, move, store and track products in a global marketplace. Coursework includes transportation, warehousing, inventory control, data analysis and team-based problem solving. You’ll also explore how technology, forecasting and globalization influence supply chain decisions and how to work with others to solve operational challenges.",
+      "skills": [
+        "Introduction to Logistics",
+        "Introduction to Business",
+        "Principles of Financial Accounting",
+        "Principles of Management",
+        "Transportation Logistics"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Logistician",
+          "salaryText": "$82,320",
+          "soc": "13-1081"
+        },
+        {
+          "title": "Cargo and Freight Agent",
+          "salaryText": "$52,260",
+          "soc": "43-5011"
+        },
+        {
+          "title": "Airfield Operations Specialist",
+          "salaryText": "$56,850",
+          "soc": "53-2022"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "LOG 110",
+              "name": "Introduction to Logistics",
+              "credits": "3.0",
+              "desc": "This course provides an overview of logistics. Topics include traffic management, warehousing, inventory control, material handling, global logistics, and the movement and storage of goods from raw materials sources to end consumers. Upon completion, students should be able to identify the different segments of logistics and use the terminology of the industry."
+            },
+            {
+              "code": "BUS 110",
+              "name": "Introduction to Business",
+              "credits": "3.0",
+              "desc": "This course provides a survey of the business world. Topics include the basic principles and practices of contemporary business. Upon completion, students should be able to demonstrate an understanding of business concepts as a foundation for studying other business subjects."
+            },
+            {
+              "code": "ACC 120",
+              "name": "Principles of Financial Accounting",
+              "credits": "4.0",
+              "desc": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course is intended for students who have not received credit for ACC-115."
+            },
+            {
+              "code": "BUS 137",
+              "name": "Principles of Management",
+              "credits": "3.0",
+              "desc": "This course is designed to be an overview of the major functions of management. Emphasis is placed on planning, organizing, controlling, directing, and communicating. Upon completion, students should be able to work as contributing members of a team utilizing these functions of management."
+            },
+            {
+              "code": "LOG 125",
+              "name": "Transportation Logistics",
+              "credits": "3.0",
+              "desc": "This course covers the role and importance of the transportation industry. This is an overview of transportation emphasizing its environmental and sociological aspects, economic impact, services, regulatory guidelines, policies, and its future. Upon completion, students should be able to identify modes of transportation, interpret governing regulations, and describe the principles and terminology used in the transportation industry."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/supply-chain-management.jpg",
+      "qrFile": "assets/qr/air-transportation-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/supply-chain-management/#air-transportation-management",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "global-logistics-technology-certificate": {
+      "id": "global-logistics-technology-certificate",
+      "world": "supply",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Import, export, and ship goods worldwide",
+      "name": "Global Logistics Technology",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25620C1",
+      "totalHours": 16,
+      "semesters": null,
+      "timeline": "Less than one year",
+      "campus": "Online",
+      "format": "Online",
+      "planKind": "requirements",
+      "lead": "This certificate is designed to provide the student with a concentrated course of study in the field of global logistics.",
+      "learn": "You will learn how to plan, move, store and track products in a global marketplace. Coursework includes transportation, warehousing, inventory control, data analysis and team-based problem solving. You’ll also explore how technology, forecasting and globalization influence supply chain decisions and how to work with others to solve operational challenges.",
+      "skills": [
+        "Introduction to Logistics",
+        "Transportation Logistics",
+        "Supply Chain Management",
+        "Import/Export Management",
+        "Advanced Global Logistics"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Logistician",
+          "salaryText": "$82,320",
+          "soc": "13-1081"
+        },
+        {
+          "title": "Cargo and Freight Agent",
+          "salaryText": "$52,260",
+          "soc": "43-5011"
+        },
+        {
+          "title": "Buyer / Purchasing Agent",
+          "salaryText": "$77,710",
+          "soc": "13-1020"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "LOG 110",
+              "name": "Introduction to Logistics",
+              "credits": "3.0",
+              "desc": "This course provides an overview of logistics. Topics include traffic management, warehousing, inventory control, material handling, global logistics, and the movement and storage of goods from raw materials sources to end consumers. Upon completion, students should be able to identify the different segments of logistics and use the terminology of the industry."
+            },
+            {
+              "code": "LOG 125",
+              "name": "Transportation Logistics",
+              "credits": "3.0",
+              "desc": "This course covers the role and importance of the transportation industry. This is an overview of transportation emphasizing its environmental and sociological aspects, economic impact, services, regulatory guidelines, policies, and its future. Upon completion, students should be able to identify modes of transportation, interpret governing regulations, and describe the principles and terminology used in the transportation industry."
+            },
+            {
+              "code": "LOG 215",
+              "name": "Supply Chain Management",
+              "credits": "3.0",
+              "desc": "This course covers all activities involved in the flow of products and information between the suppliers, customers, producers, and service providers. Topics include acquiring, purchasing, manufacturing, assembling, and distributing goods and services throughout the supply chain organizations. Upon completion, students should be able to identify the supply chain units and describe the materials management processes."
+            },
+            {
+              "code": "LOG 235",
+              "name": "Import/Export Management",
+              "credits": "3.0",
+              "desc": "This course introduces the elements of import and export operations, from transportation to documentation, finance, and security and the effects on the global supply chain. Emphasis is placed on existing import/export regulations, customs documentation, intermodal transportation, foreign freight forwarders, global technology, and homeland security initiatives. Upon completion, students should be able to perform import/export operations, channels of distribution, implemented technologies, and associate with operating a secure supply chain."
+            },
+            {
+              "code": "LOG 250",
+              "name": "Advanced Global Logistics",
+              "credits": "4.0",
+              "desc": "This course covers the advanced application of global operations and logistics strategies, planning, technology, risk, and management necessary to cope with the global business environment. Emphasis is placed on an in-depth understanding of global sourcing, shipping, tracking, and e-logistics systems necessary to operate inbound/outbound logistics in a global market. Upon completion, students should be able to identify the different global markets and logistics technology available to process international inbound/outbound logistics transactions."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/supply-chain-management.jpg",
+      "qrFile": "assets/qr/global-logistics-technology-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/supply-chain-management/#certificatestext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "distribution-management-certificate": {
+      "id": "distribution-management-certificate",
+      "world": "supply",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Run warehouses and distribution networks",
+      "name": "Distribution Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25620C2",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "Less than one year",
+      "campus": "Online",
+      "format": "Online",
+      "planKind": "requirements",
+      "lead": "The Certificate in Distribution Logistics is designed to provide students with essential knowledge and skills in the field of supply chain management, focusing on the pivotal role…",
+      "learn": "You will learn how to plan, move, store and track products in a global marketplace. Coursework includes transportation, warehousing, inventory control, data analysis and team-based problem solving. You’ll also explore how technology, forecasting and globalization influence supply chain decisions and how to work with others to solve operational challenges.",
+      "skills": [
+        "Introduction to Logistics",
+        "Global Logistics",
+        "Transportation Logistics",
+        "Distribution Management",
+        "Supply Chain Management"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Transportation, Storage & Distribution Manager",
+          "salaryText": "$107,230",
+          "soc": "11-3071"
+        },
+        {
+          "title": "Logistician",
+          "salaryText": "$82,320",
+          "soc": "13-1081"
+        },
+        {
+          "title": "Shipping and Receiving Clerk",
+          "salaryText": "$45,260",
+          "soc": "43-5071"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "LOG 110",
+              "name": "Introduction to Logistics",
+              "credits": "3.0",
+              "desc": "This course provides an overview of logistics. Topics include traffic management, warehousing, inventory control, material handling, global logistics, and the movement and storage of goods from raw materials sources to end consumers. Upon completion, students should be able to identify the different segments of logistics and use the terminology of the industry."
+            },
+            {
+              "code": "LOG 120",
+              "name": "Global Logistics",
+              "credits": "3.0",
+              "desc": "This course examines logistics operations, processes, and modes of transportation in an interdependent world economy. Emphasis is placed on freight forwarding operations, analyzing and selecting transportation modes, and processing of import/export documentation. Upon completion, students should be able to arrange and coordinate the transportation of products globally."
+            },
+            {
+              "code": "LOG 125",
+              "name": "Transportation Logistics",
+              "credits": "3.0",
+              "desc": "This course covers the role and importance of the transportation industry. This is an overview of transportation emphasizing its environmental and sociological aspects, economic impact, services, regulatory guidelines, policies, and its future. Upon completion, students should be able to identify modes of transportation, interpret governing regulations, and describe the principles and terminology used in the transportation industry."
+            },
+            {
+              "code": "LOG 211",
+              "name": "Distribution Management",
+              "credits": "3.0",
+              "desc": "This course covers the functions, techniques, and tools utilized in warehousing and distribution centers and their role in business and logistics. Emphasis is placed on warehouse and distribution center management, operations, productivity, software systems, picking, automation, cross docking, safety, security, material handling, benchmarking, and cost. Upon completion, students should be able to describe the role of warehouses and distribution centers, apply industry principles and terminology, and understand distribution productivity measures."
+            },
+            {
+              "code": "LOG 215",
+              "name": "Supply Chain Management",
+              "credits": "3.0",
+              "desc": "This course covers all activities involved in the flow of products and information between the suppliers, customers, producers, and service providers. Topics include acquiring, purchasing, manufacturing, assembling, and distributing goods and services throughout the supply chain organizations. Upon completion, students should be able to identify the supply chain units and describe the materials management processes."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/supply-chain-management.jpg",
+      "qrFile": "assets/qr/distribution-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/supply-chain-management/#distribution-management",
+      "admissions": null,
+      "applyQrFile": null
     }
   },
   "infoSession": {
-    "url": "https://www.cpcc.edu/events/business-accounting-information-session",
+    "url": "https://events.myconnect.cpcc.edu/event/cpcc.events.1787296",
     "qrFile": "assets/qr/info-session.png"
   },
   "college": {
@@ -1671,13 +4333,15 @@
   },
   "quiz": {
     "intro": {
-      "title": "What's your business superpower?",
+      "title": "What is your business superpower?",
       "blurb": "6 quick questions. Find the business path that fits you.",
       "icon": "compass"
     },
     "tieOrder": [
       "lead",
       "money",
+      "grow",
+      "books",
       "supply",
       "legal",
       "health"
@@ -1688,10 +4352,20 @@
         "icon": "briefcase",
         "blurb": "You see the big picture and bring people together to get things done."
       },
+      "grow": {
+        "name": "The Connector",
+        "icon": "handshake",
+        "blurb": "You win people over and turn ideas into customers and teams."
+      },
       "money": {
         "name": "The Strategist",
-        "icon": "calculator",
+        "icon": "chart",
         "blurb": "You make the numbers make sense and steer smart decisions."
+      },
+      "books": {
+        "name": "The Organizer",
+        "icon": "calculator",
+        "blurb": "You keep every receipt, ledger, and tax form in perfect order."
       },
       "supply": {
         "name": "The Mover",
@@ -1701,7 +4375,7 @@
       "legal": {
         "name": "The Advocate",
         "icon": "scale",
-        "blurb": "You're precise, organized, and stand up for what's right."
+        "blurb": "You are precise, organized, and stand up for what is right."
       },
       "health": {
         "name": "The Coordinator",
@@ -1719,14 +4393,14 @@
             "world": "lead"
           },
           {
-            "label": "Make the numbers tell the truth",
-            "icon": "calculator",
-            "world": "money"
+            "label": "Win over a room of customers",
+            "icon": "handshake",
+            "world": "grow"
           },
           {
-            "label": "Keep everything running on time",
-            "icon": "truck",
-            "world": "supply"
+            "label": "Make the numbers tell the truth",
+            "icon": "chart",
+            "world": "money"
           },
           {
             "label": "Spot the detail everyone missed",
@@ -1740,13 +4414,13 @@
         "answers": [
           {
             "label": "Launch a small business",
-            "icon": "briefcase",
-            "world": "lead"
+            "icon": "handshake",
+            "world": "grow"
           },
           {
             "label": "Build a budget that actually works",
             "icon": "calculator",
-            "world": "money"
+            "world": "books"
           },
           {
             "label": "Map the route from factory to door",
@@ -1769,8 +4443,8 @@
             "world": "lead"
           },
           {
-            "label": "Audit the books to find the cause",
-            "icon": "calculator",
+            "label": "Audit the numbers to find the cause",
+            "icon": "chart",
             "world": "money"
           },
           {
@@ -1791,17 +4465,17 @@
           {
             "label": "Closing a big deal",
             "icon": "handshake",
-            "world": "lead"
+            "world": "grow"
           },
           {
             "label": "Catching a costly error first",
-            "icon": "calculator",
+            "icon": "chart",
             "world": "money"
           },
           {
-            "label": "Negotiating with a supplier",
-            "icon": "truck",
-            "world": "supply"
+            "label": "Filing every return before tax day",
+            "icon": "calculator",
+            "world": "books"
           },
           {
             "label": "Helping a patient through paperwork",
@@ -1819,9 +4493,9 @@
             "world": "lead"
           },
           {
-            "label": "Dual monitors and spreadsheets",
+            "label": "A tidy desk and a stack of receipts",
             "icon": "calculator",
-            "world": "money"
+            "world": "books"
           },
           {
             "label": "A warehouse floor and a clipboard",
@@ -1844,14 +4518,14 @@
             "world": "lead"
           },
           {
-            "label": "Precise and detail-oriented",
-            "icon": "scale",
-            "world": "legal"
+            "label": "Friendly and persuasive",
+            "icon": "handshake",
+            "world": "grow"
           },
           {
-            "label": "Calm under pressure",
-            "icon": "truck",
-            "world": "supply"
+            "label": "Sharp with money",
+            "icon": "chart",
+            "world": "money"
           },
           {
             "label": "Caring and organized",

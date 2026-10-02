@@ -40,11 +40,6 @@
     "url": "https://centralpiedmont.github.io/degree-explorer/health/sheets/cardiovascular-technology.pdf"
   },
   {
-    "id": "polysomnography",
-    "type": "degree-sheet",
-    "url": "https://centralpiedmont.github.io/degree-explorer/health/sheets/polysomnography.pdf"
-  },
-  {
     "id": "medical-laboratory-technology",
     "type": "degree-sheet",
     "url": "https://centralpiedmont.github.io/degree-explorer/health/sheets/medical-laboratory-technology.pdf"
@@ -80,9 +75,89 @@
     "url": "https://centralpiedmont.github.io/degree-explorer/health/sheets/medical-assisting.pdf"
   },
   {
+    "id": "cytotechnology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/cytotechnology/#certificatestext"
+  },
+  {
+    "id": "medical-assisting-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-assisting/#diplomastext"
+  },
+  {
+    "id": "healthcare-interpreter-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-assisting/#certificatestext"
+  },
+  {
+    "id": "administrative-duties-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-assisting/#certificatestext"
+  },
+  {
+    "id": "fundamentals-of-medical-assisting-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-assisting/#fundamentals"
+  },
+  {
+    "id": "medical-office-administration-billing-and-coding",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#degreestext"
+  },
+  {
+    "id": "medical-office-administration-general",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#degreestext"
+  },
+  {
+    "id": "procedural-and-diagnostic-coding-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#certificatestext"
+  },
+  {
+    "id": "medical-office-administration-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#certificatestext"
+  },
+  {
+    "id": "lpn-to-adn",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/nursing-associate-degree/#LPN"
+  },
+  {
+    "id": "nursing-adn-accelerated",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/nursing-associate-degree/#Accelerated"
+  },
+  {
+    "id": "ophthalmic-medical-personnel-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/ophthalmic-medical-assistant/#diplomastext"
+  },
+  {
+    "id": "ophthalmic-medical-personnel-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/ophthalmic-medical-assistant/#certificatestext"
+  },
+  {
+    "id": "pharmacy-technology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/pharmacy-technology/#diplomastext"
+  },
+  {
+    "id": "fundamentals-of-pharmacy-technology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/pharmacy-technology/#certificatestext"
+  },
+  {
+    "id": "radiography",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/radiography/#degreestext"
+  },
+  {
     "id": "info-session",
     "type": "info-session",
-    "url": "https://www.cpcc.edu/events/health-programs-info-fair"
+    "url": "https://www.cpcc.edu/academics/healthcare-programs/apply"
   },
   {
     "id": "college-apply",
@@ -135,11 +210,6 @@
     "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
   },
   {
-    "id": "apply-polysomnography",
-    "type": "apply",
-    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
-  },
-  {
     "id": "apply-medical-laboratory-technology",
     "type": "apply",
     "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
@@ -173,5 +243,135 @@
     "id": "apply-medical-assisting",
     "type": "apply",
     "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-lpn-to-adn",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-nursing-adn-accelerated",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "apply-cytotechnology-certificate",
+    "type": "apply",
+    "url": "https://www.cpcc.edu/admissions/apply/healthcare-programs"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130439"
+  },
+  {
+    "id": "ce-NAS-NAS7501",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=7776505"
+  },
+  {
+    "id": "ce-NUR-NAS7503",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=8106598"
+  },
+  {
+    "id": "ce-PBT-PBT7001",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=7776355"
+  },
+  {
+    "id": "ce-ICV-HEA7315",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=16560832"
+  },
+  {
+    "id": "ce-PHM-HEA7900",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=9600273"
+  },
+  {
+    "id": "ce-CAT-RAD7000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=31338311"
+  },
+  {
+    "id": "ce-MRI-RAD7100",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=33477627"
+  },
+  {
+    "id": "ce-MAM-RAD7200",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=33476689"
+  },
+  {
+    "id": "ce-ICT-ICT7000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=53358489"
+  },
+  {
+    "id": "ce-HEA-HEA7292",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=24775457"
+  },
+  {
+    "id": "ce-OST-HEA7290",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=32669202"
+  },
+  {
+    "id": "ce-OST-HEA7291",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=32669570"
+  },
+  {
+    "id": "ce-OST-HEA7253",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=50612495"
+  },
+  {
+    "id": "ce-EMS-EMT7331",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=11619308"
+  },
+  {
+    "id": "ce-EMS-EMT7306",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=3971276"
+  },
+  {
+    "id": "ce-EMS-EMT9300",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=18671811"
+  },
+  {
+    "id": "ce-EMS-EMT7299",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=12804595"
+  },
+  {
+    "id": "ce-SEF-HTH8202",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4422524"
+  },
+  {
+    "id": "ce-SEF-HTH8206",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4422699"
+  },
+  {
+    "id": "ce-PHM-HTH8103",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4821892"
+  },
+  {
+    "id": "ce-HEA-HEA8000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4422594"
+  },
+  {
+    "id": "ce-SEF-HEA8003",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19164629"
   }
 ]

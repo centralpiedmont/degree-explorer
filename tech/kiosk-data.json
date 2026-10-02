@@ -1,12 +1,13 @@
 {
   "meta": {
     "track": "tech",
-    "programCount": 14
+    "programCount": 35
   },
   "copy": {
     "topbarLabel": "Information Technology",
-    "attractSub": "Explore 14 IT degrees and find yours in three taps.",
+    "attractSub": "Explore 35 IT programs and find yours in three taps.",
     "infoButton": "Sign up for an information session",
+    "infoShort": "Info sessions",
     "ceHeading": "IT Certifications &amp; Short Courses",
     "resultEyebrow": "YOUR IT HERO"
   },
@@ -26,7 +27,12 @@
       "photo": "assets/heroes/softwareeng-app-dev.jpg",
       "programIds": [
         "softwareeng-app-dev",
-        "softwareeng-full-stack"
+        "softwareeng-full-stack",
+        "computer-science",
+        "java-certificate",
+        "javascript-certificate",
+        "front-end-development-fundamentals-certificate",
+        "python-certificate"
       ]
     },
     {
@@ -41,7 +47,11 @@
         "artificial-intelligence",
         "dataanalysis-analysis",
         "dataanalysis-visualization",
-        "dataanalysis-google"
+        "dataanalysis-google",
+        "artificial-intelligence-specialty-in-ai-fundamentals-certificate",
+        "applied-it-and-ai-essentials-certificate",
+        "data-analysis-fundamentals-certificate",
+        "information-technology-google-data-analytics-and-project-management-certificate"
       ]
     },
     {
@@ -56,7 +66,10 @@
         "cybersecurity-blueteam",
         "cybersecurity-redteam",
         "cybersecurity-forensics",
-        "cloud-networking"
+        "cloud-networking",
+        "cybersecurity-purple-team-certificate",
+        "cybersecurity-red-team-certificate",
+        "cybersecurity-blue-team-certificate"
       ]
     },
     {
@@ -70,7 +83,14 @@
       "programIds": [
         "sgd-programming",
         "sgd-design",
-        "sgd-3d-modeling"
+        "sgd-3d-modeling",
+        "simulation-and-game-development-diploma",
+        "simulation-and-game-development-level-i-certificate",
+        "simulation-and-game-development-level-ii-certificate",
+        "simulation-and-game-development-level-iii-certificate",
+        "programming-certificate",
+        "design-certificate",
+        "3d-modeling-and-animation-certificate"
       ]
     },
     {
@@ -82,7 +102,9 @@
       "icon": "fa-screwdriver-wrench",
       "photo": "assets/heroes/it-support.jpg",
       "programIds": [
-        "it-technical-support"
+        "it-technical-support",
+        "information-technology-fundamentals-certificate",
+        "support-specialist-certificate"
       ]
     }
   ],
@@ -3290,10 +3312,1781 @@
       "sheetUrl": "https://centralpiedmont.github.io/degree-explorer/tech/sheets/sgd-programming.pdf",
       "admissions": null,
       "applyQrFile": null
+    },
+    "information-technology-google-data-analytics-and-project-management-certificate": {
+      "id": "information-technology-google-data-analytics-and-project-management-certificate",
+      "world": "data",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Earn Google data and project credentials",
+      "name": "Information Technology - Google Data Analytics & Project Management",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559056",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Cato Campus, Central Campus, Harris Campus, Levine Campus, Merancas Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Data Analysis track deepens your statistical and programming skills spreadsheet analysis, data-science programming, SAS, and data warehousing and mining so you can dig into large datasets and surface the patterns that drive smart decisions.",
+      "skills": [
+        "Google Project Management I",
+        "Google Project Management II",
+        "Google Data Analytics I",
+        "Google Data Analytics II"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Data Analyst",
+          "salaryText": "$120,230",
+          "soc": "15-2051"
+        },
+        {
+          "title": "Project Coordinator",
+          "salaryText": "$102,320",
+          "soc": "13-1082"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTS 137",
+              "name": "Google Project Management I",
+              "credits": "3.0",
+              "desc": "This course introduces students to the concepts, tools, templates, and artifacts used to manage projects from initiation to completion using Google resources. Emphasis is placed on foundational project management methodology including initiating, planning and executing projects utilizing quality and risk management techniques, strategic thinking and project execution procedures. Upon completion, students should be able to manage and execute projects from initiation to completion using a variety of resources and leadership skills to support organizational goals and business processes."
+            },
+            {
+              "code": "CTS 237",
+              "name": "Google Project Management II",
+              "credits": "3.0",
+              "desc": "This course introduces students to the advanced concepts, tools, templates, and artifacts used to manage projects from initiation to completion using Google resources through Agile development. Emphasis is placed on advanced project management methodology including initiating, planning and executing projects as well as the exploration of Agile Project Management and the strategies it uses to drive business value. Upon completion, students should be able to manage and run traditional and agile projects and programs from initiation to completion using a variety of resources and leadership skills to support organizational goals and business processes."
+            },
+            {
+              "code": "DBA 118",
+              "name": "Google Data Analytics I",
+              "credits": "3.0",
+              "desc": "This course introduces the role of a Google data analyst and how to make data-driven decisions using effective questions, data transformation and analyzation processes. Emphasis is placed on setting up a data toolbox, spreadsheets, database and query basics, visualization basics, effective communication techniques, and data validation. Upon completion, students should be able to review assessments, use formulas and calculations to analyze datasets, create queries, use visualization tools and communicate effectively with stakeholders."
+            },
+            {
+              "code": "DBA 218",
+              "name": "Google Data Analytics II",
+              "credits": "3.0",
+              "desc": "This course introduces the role of an advanced Google data analyst and how to make data-driven decisions using effective questions, data transformation, analyzation processes, visualization and programming. Emphasis is placed on setting up a design thinking, data-driven storytelling, dashboards, R programming, job portfolios and technical expertise. Upon completion, students should be able to create a data-driven storyboard, develop dashboards and presentations, create analytical reports using R, and showcase technical analytical skills."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/information-technology.jpg",
+      "qrFile": "assets/qr/information-technology-google-data-analytics-and-project-management-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#googleanalytics-projectmanagement",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "information-technology-fundamentals-certificate": {
+      "id": "information-technology-fundamentals-certificate",
+      "world": "start",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Learn computer, network, and security basics",
+      "name": "Information Technology Fundamentals",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25590C3",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Data Analysis track deepens your statistical and programming skills spreadsheet analysis, data-science programming, SAS, and data warehousing and mining so you can dig into large datasets and surface the patterns that drive smart decisions.",
+      "skills": [
+        "Information Technology Foundations",
+        "Network and Security Foundations",
+        "Information Systems Business Concepts"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "IT Support Specialist",
+          "salaryText": "$61,860",
+          "soc": "15-1232"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0",
+              "desc": "This course introduces students to the Network concepts, including networking terminology and protocols, local and wide area networks, and network standards. Emphasis is placed on securing information systems and the various implementation policies. Upon completion, students should be able to perform basic tasks related to networking mathematics, terminology, media and protocols."
+            },
+            {
+              "code": "CTS 115",
+              "name": "Information Systems Business Concepts",
+              "credits": "3.0",
+              "desc": "The course introduces the role of IT in managing business processes and the need for business process and IT alignment. Emphasis is placed on industry need for understanding business challenges and developing/managing information systems to contribute to the decision making process based on these challenges. Upon completion, students should be able to demonstrate knowledge of the 'hybrid business manager' and the potential offered by new technology and systems."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/information-technology.jpg",
+      "qrFile": "assets/qr/information-technology-fundamentals-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#ITfundamentalsC3",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "data-analysis-fundamentals-certificate": {
+      "id": "data-analysis-fundamentals-certificate",
+      "world": "data",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Analyze data with spreadsheets and databases",
+      "name": "Data Analysis Fundamentals",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559050",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Data Analysis track deepens your statistical and programming skills spreadsheet analysis, data-science programming, SAS, and data warehousing and mining so you can dig into large datasets and surface the patterns that drive smart decisions.",
+      "skills": [
+        "Information Technology Foundations",
+        "Spreadsheet",
+        "Database Programming I",
+        "Spreadsheet Data Analysis"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Data Analyst",
+          "salaryText": "$120,230",
+          "soc": "15-2051"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+            },
+            {
+              "code": "CTS 130",
+              "name": "Spreadsheet",
+              "credits": "3.0",
+              "desc": "This course introduces basic spreadsheet design and development. Topics include writing formulas, using functions, enhancing spreadsheets, creating charts, and printing. Upon completion, students should be able to design and print basic spreadsheets and charts."
+            },
+            {
+              "code": "DBA 120",
+              "name": "Database Programming I",
+              "credits": "3.0",
+              "desc": "This course is designed to develop SQL programming proficiency. Emphasis is placed on data definition, data manipulation, and data control statements as well as on report generation. Upon completion, students should be able to write programs which create, update, and produce reports."
+            },
+            {
+              "code": "CTS 225",
+              "name": "Spreadsheet Data Analysis",
+              "credits": "3.0",
+              "desc": "This course presents basic and advanced techniques for data analysis and management using electronic spreadsheets. Topics include an overview of spreadsheet analytics, terminology, model preparation, and analytical techniques. Upon completion, students should be able to develop reliable and effective quantitative data models and reports to support analysis and decision-making for common business systems."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/information-technology.jpg",
+      "qrFile": "assets/qr/data-analysis-fundamentals-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Data-Analysis-Fundamentals",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "applied-it-and-ai-essentials-certificate": {
+      "id": "applied-it-and-ai-essentials-certificate",
+      "world": "data",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Learn IT support basics and AI fundamentals",
+      "name": "Applied IT & AI Essentials",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25590C4",
+      "totalHours": 18,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Cato Campus, Central Campus, Harris Campus, Levine Campus, Merancas Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "You will build practical skills in Python programming, artificial intelligence development, machine learning, chatbots and generative AI, deep learning and computer vision. Through hands‑on labs, you’ll learn how to design, test and apply AI solutions that support data analysis, automation and decision‑making in modern organizations.",
+      "skills": [
+        "Information Technology Foundations",
+        "Operating Systems Concepts",
+        "Hardware/Software Support",
+        "Network and Security Foundations",
+        "Artificial Intelligence Fundamentals"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "IT Support Specialist",
+          "salaryText": "$61,860",
+          "soc": "15-1232"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0",
+              "desc": "This course introduces students to a broad range of operating system concepts, including installation and maintenance. Emphasis is place on operating system concepts, management, maintenance, and resources required. Upon completion of this course, students will have an understanding of OS concepts, installation, management, maintenance, using a variety of operating systems."
+            },
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0",
+              "desc": "This course covers the basic hardware of a personal computer, including installation, operations and interactions with software. Topics include component identification, memory-system, peripheral installation and configuration, preventive maintenance, hardware diagnostics/repair, installation and optimization of system software, commercial programs, system configuration, and device-drivers. Upon completion, students should be able to select appropriate computer equipment and software, upgrade/maintain existing equipment and software, and troubleshoot/repair non-functioning personal computers."
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0",
+              "desc": "This course introduces students to the Network concepts, including networking terminology and protocols, local and wide area networks, and network standards. Emphasis is placed on securing information systems and the various implementation policies. Upon completion, students should be able to perform basic tasks related to networking mathematics, terminology, media and protocols."
+            },
+            {
+              "code": "CSC 113",
+              "name": "Artificial Intelligence Fundamentals",
+              "credits": "3.0",
+              "desc": "This course provides a survey of artificial intelligence and machine learning. Topics include the history, development, and current applications of artificial intelligence and machine learning. Upon completion, students should be able to demonstrate general artificial intelligence and machine learning concepts."
+            },
+            {
+              "code": "CTS 210",
+              "name": "Computer Ethics",
+              "credits": "3.0",
+              "desc": "This course introduces the student to current legal and ethical issues in the computer/engineering field. Topics include moral reasoning, ethical standards, intellectual property, social issues, encryption, software piracy, constitutional issues, and public policy in related matters. Upon completion, students should be able to demonstrate an understanding of the moral and social responsibilities and public policy issues facing an industry."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/artificial-intelligence.jpg",
+      "qrFile": "assets/qr/applied-it-and-ai-essentials-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#appliedIT-Aiessentials",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "artificial-intelligence-specialty-in-ai-fundamentals-certificate": {
+      "id": "artificial-intelligence-specialty-in-ai-fundamentals-certificate",
+      "world": "data",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Learn machine learning and AI ethics basics",
+      "name": "Artificial Intelligence - Specialty in AI Fundamentals",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25710C1",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "Less than one year",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "The Artificial Intelligence (AI) curriculum prepared graduates for employment in a variety of high demand careers, including AI engineer, AI researcher, AI consultant, AI architec…",
+      "learn": "You will build practical skills in Python programming, artificial intelligence development, machine learning, chatbots and generative AI, deep learning and computer vision. Through hands‑on labs, you’ll learn how to design, test and apply AI solutions that support data analysis, automation and decision‑making in modern organizations.",
+      "skills": [
+        "Artificial Intelligence Fundamentals",
+        "Machine Learning Computation",
+        "Computer Ethics",
+        "Systems Analysis & Design"
+      ],
+      "specializations": [],
+      "careers": [],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "CSC 113",
+              "name": "Artificial Intelligence Fundamentals",
+              "credits": "3.0",
+              "desc": "This course provides a survey of artificial intelligence and machine learning. Topics include the history, development, and current applications of artificial intelligence and machine learning. Upon completion, students should be able to demonstrate general artificial intelligence and machine learning concepts."
+            },
+            {
+              "code": "CSC 112",
+              "name": "Machine Learning Computation",
+              "credits": "3.0",
+              "desc": "This course covers the underlying foundations upon which machine learning solutions are created. Emphasis is placed on the mathematical foundations of machine learning concepts. Upon completion, students should be able to apply the underlying computations of machine learning systems."
+            },
+            {
+              "code": "CTS 210",
+              "name": "Computer Ethics",
+              "credits": "3.0",
+              "desc": "This course introduces the student to current legal and ethical issues in the computer/engineering field. Topics include moral reasoning, ethical standards, intellectual property, social issues, encryption, software piracy, constitutional issues, and public policy in related matters. Upon completion, students should be able to demonstrate an understanding of the moral and social responsibilities and public policy issues facing an industry."
+            },
+            {
+              "code": "CTS 285",
+              "name": "Systems Analysis & Design",
+              "credits": "3.0",
+              "desc": "This course introduces established and evolving methodologies for the analysis, design, and development of an information system. Emphasis is placed on system characteristics, managing projects, prototyping, CASE/OOM tools, and systems development life cycle phases. Upon completion, students should be able to analyze a problem and design an appropriate solution using a combination of tools and techniques."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/artificial-intelligence.jpg",
+      "qrFile": "assets/qr/artificial-intelligence-specialty-in-ai-fundamentals-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/artificial-intelligence/#certificatestext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "computer-science": {
+      "id": "computer-science",
+      "world": "apps",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Start a computer science degree and transfer",
+      "name": "Computer Science",
+      "track": "",
+      "degree": "A.A.",
+      "code": "A10100CS",
+      "totalHours": 60,
+      "semesters": 4,
+      "timeline": "",
+      "campus": "",
+      "format": "",
+      "planKind": "sequence",
+      "lead": "The Associate in Arts degree in computer science teaches the foundations of computer science, while also satisfying the general education courses requirements needed to graduate a…",
+      "learn": "The Associate in Arts degree curriculum for the computer science program covers core concepts like: programming and logic; application and software development; data structures; algorithms. You’ll also take courses in the following programming languages: introductory C++; Java; Python.",
+      "skills": [
+        "JAVA Programming",
+        "Advanced JAVA Programming",
+        "Data Structure & Algorithms"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Software Developer",
+          "salaryText": "$135,980",
+          "soc": "15-1252"
+        },
+        {
+          "title": "Computer Programmer",
+          "salaryText": "$100,390",
+          "soc": "15-1251"
+        },
+        {
+          "title": "Computer Systems Analyst",
+          "salaryText": "$105,850",
+          "soc": "15-1211"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Term I",
+          "termCredits": "14",
+          "note": "",
+          "rows": [
+            {
+              "code": "ACA 122",
+              "name": "Transfer & Career Success",
+              "credits": "1.0",
+              "desc": "This course introduces students to career and transfer opportunities while building skills for academic success, career exploration, and transfer preparation, ensuring readiness for success in community college and beyond. Topics include transfer agreements with public and independent institutions, programs and processes that facilitate transfer, and transfer tools and resources; career topics include career exploration and information and skills such as resume writing, portfolio development, and professional communication. Upon completion, students will be able to identify the community college program that matches their transfer and career goals, navigate transfer policies and processes, use Transfer Guides, develop an academic plan for future success, and identify professional application materials."
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming and problem solving in a structured program logic environment. Topics include language syntax, data types, program organization, problem solving methods, algorithm design, and logic control structures. Upon completion, students should be able to use top-down algorithm design and implement algorithmic solutions in a programming language."
+            },
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "MAT 171",
+              "name": "Precalculus Algebra",
+              "credits": "4.0",
+              "desc": "This course is designed to develop topics which are fundamental to the study of Calculus. Emphasis is placed on solving equations and inequalities, solving systems of equations and inequalities, and analysis of functions (absolute value, radical, polynomial, rational, exponential, and logarithmic) in multiple representations. Upon completion, students should be able to select and use appropriate models and techniques for finding solutions to algebra-related problems with and without technology."
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "termCredits": "16",
+          "note": "",
+          "rows": [
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0",
+              "desc": "This course provides instruction and experience in preparation and delivery of speeches within a public setting and group discussion. Emphasis is placed on research, preparation, delivery, and evaluation of informative, persuasive, and special occasion public speaking. Upon completion, students should be able to prepare and deliver well-organized speeches and participate in group discussion with appropriate audiovisual support."
+            },
+            {
+              "code": "CSC 151",
+              "name": "JAVA Programming",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion students should be able to design, code, test, debug JAVA language programs."
+            },
+            {
+              "code": "ENG 112",
+              "name": "Writing and Research in the Disciplines",
+              "credits": "3.0",
+              "desc": "This course, the second in a series of two, introduces research techniques, documentation styles, and writing strategies. Emphasis is placed on analyzing information and ideas and incorporating research findings into documented writing and research projects. Upon completion, students should be able to evaluate and synthesize information from primary and secondary sources using documentation appropriate to various disciplines."
+            },
+            {
+              "code": "MAT 172",
+              "name": "Precalculus Trigonometry ( See Advisor regarding concentration ) or Statistical Methods I",
+              "credits": "4.0",
+              "desc": "This course is designed to develop an understanding of topics which are fundamental to the study of Calculus. Emphasis is placed on the analysis of trigonometric functions in multiple representations, right and oblique triangles, vectors, polar coordinates, conic sections, and parametric equations. Upon completion, students should be able to select and use appropriate models and techniques for finding solutions to trigonometry-related problems with and without technology. This is the second of two courses designed to emphasize topics which are fundamental to the study of calculus. Emphasis is placed on properties and applications of transcendental functions and their graphs, right and oblique triangle trigonometry, conic sections, and vectors. Will include analytic trigonometry (graphs, equations, and identities, etc.). Upon completion, stuents should be able to solve practical problems and use appropriate models for analysis and prediction."
+            }
+          ]
+        },
+        {
+          "term": "Term III",
+          "termCredits": "13",
+          "note": "",
+          "rows": [
+            {
+              "code": "CSC 251",
+              "name": "Advanced JAVA Programming",
+              "credits": "3.0",
+              "desc": "This course is a continuation of CSC 151 using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment."
+            },
+            {
+              "code": "MAT 271",
+              "name": "Calculus I ( See Advisor regarding concentration ) or Brief Calculus",
+              "credits": "4.0",
+              "desc": "This course is designed to develop the topics of differential and integral calculus. Emphasis is placed on limits, continuity, derivatives and integrals of algebraic and transcendental functions of one variable. Upon completion, students should be able to select and use appropriate models and techniques for finding solutions to derivative-related problems with and without technology."
+            },
+            {
+              "code": "HIS 131",
+              "name": "American History I",
+              "credits": "3.0",
+              "desc": "This course is a survey of American history from pre-history through the Civil War era. Topics include the migrations to the Americas, the colonial and revolutionary periods, the development of the Republic, and the Civil War. Upon completion, students should be able to analyze significant political, socioeconomic, and cultural developments in early American history. Students seeking to take this course to meet the college transfer Social/Behavioral Sciences requirement may also take HIS 132 (no HIS prerequisites)."
+            },
+            {
+              "code": "PHI 215",
+              "name": "Philosophical Issues",
+              "credits": "3.0",
+              "desc": "This course introduces fundamental issues in philosophy considering the views of classical and contemporary philosophers. Emphasis is placed on knowledge and belief, appearance and reality, determinism and free will, faith and reason, and justice and inequality. Upon completion, students should be able to identify, analyze, and critically evaluate the philosophical components of an issue. Students seeking to take this course to meet the college transfer humanities requirement may also take PHI 240 (no PHI prerequisites)."
+            }
+          ]
+        },
+        {
+          "term": "Term IV",
+          "termCredits": "17",
+          "note": "",
+          "rows": [
+            {
+              "code": "MAT 272",
+              "name": "Calculus II",
+              "credits": "4.0",
+              "desc": "This course is designed to develop advanced topics of differential and integral calculus. Emphasis is placed on the applications of definite integrals, techniques of integration, indeterminate forms, improper integrals, infinite series, conic sections, parametric equations, polar coordinates, and differential equations. Upon completion, students should be able to select and use appropriate models and techniques for finding solutions to integral-related problems with and without technology."
+            },
+            {
+              "code": "CIS 110",
+              "name": "Introduction to Computers",
+              "credits": "3.0",
+              "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+            },
+            {
+              "code": "PHI 240",
+              "name": "Introduction to Ethics",
+              "credits": "3.0",
+              "desc": "This course introduces theories about the nature and foundations of moral judgments and applications to contemporary moral issues. Emphasis is placed on moral theories such as consequentialism, deontology, and virtue ethics. Upon completion, students should be able to apply various ethical theories to moral issues such as abortion, capital punishment, poverty, war, terrorism, the treatment of animals, and issues arising from new technologies. Students seeking to take this course to meet the college transfer humanities requirement may also take PHI 215 (no PHI prerequisites)."
+            },
+            {
+              "code": "BIO 110",
+              "name": "Principles of Biology",
+              "credits": "4.0",
+              "desc": "This course provides a survey of fundamental biological principles for non-science majors. Emphasis is placed on basic chemistry, cell biology, metabolism, genetics, evolution, ecology, diversity, and other related topics. Upon completion, students should be able to demonstrate increased knowledge and better understanding of biology as it applies to everyday life. This course provides a survey of fundamental biological principles for non- science majors. Emphasis is placed on basic chemistry, cell biology, metabolism, genetics, taxonomy, evolution, ecology, diversity, and other related topics. Upon completion, students should be able to demonstrate in- creased knowledge and better understanding of biology as it applies to every- day life. This course has been approved to satisfy the comprehensive articulation agreement general education core requirement in natural sciences/ mathematics."
+            },
+            {
+              "code": "CSC 249",
+              "name": "Data Structure & Algorithms",
+              "credits": "3.0",
+              "desc": "This course introduces the data structures and algorithms frequently used in programming applications. Topics include lists, stacks, queues, dequeues, heaps, sorting, searching, mathematical operations, recursion, encryption, random numbers, algorithm testing, and standards. Upon completion, students should be able to design data structures and implement algorithms to solve various problems."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/computer-science-aa.jpg",
+      "qrFile": "assets/qr/computer-science.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#computer-science-transfer",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "cybersecurity-purple-team-certificate": {
+      "id": "cybersecurity-purple-team-certificate",
+      "world": "cyber",
+      "tileColor": "#B4A269",
+      "tileText": "#1A1A1A",
+      "tileDesc": "Attack and defend networks in one certificate",
+      "name": "Cybersecurity - Purple Team",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559064",
+      "totalHours": 18,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Cato Campus, Central Campus, Harris Campus, Levine Campus, Merancas Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Red Team track trains you to think like an attacker in perimeter defense, ethical hacking, and Python-powered exploitation—so you can find and fix vulnerabilities before adversaries do. Coursework aligns with Certified Ethical Hacker (CEH) and PenTest+.",
+      "skills": [
+        "Network and Security Foundations",
+        "Security Concepts",
+        "Perimeter Defense",
+        "Ethical Hacking",
+        "Network Vulnerabilities I"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Security Analyst",
+          "salaryText": "$129,180",
+          "soc": "15-1212"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "18",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0",
+              "desc": "This course introduces students to the Network concepts, including networking terminology and protocols, local and wide area networks, and network standards. Emphasis is placed on securing information systems and the various implementation policies. Upon completion, students should be able to perform basic tasks related to networking mathematics, terminology, media and protocols."
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts and issues related to securing information systems and the development of policies to implement information security controls. Topics include the historical view of networking and security, security issues, trends, security resources, and the role of policy, people, and processes in information security. Upon completion, students should be able to identify information security risks, create an information security policy, and identify processes to implement and enforce policy."
+            },
+            {
+              "code": "SEC 175",
+              "name": "Perimeter Defense",
+              "credits": "3.0",
+              "desc": "This course introduces the principles of securing networks using routers and firewalls. Topics include networking protocols, threat mitigation, firewall configuration, authentication, authorization, intrusion detection, encryption, IPSec, VPNs, and remote access technologies. Upon completion, students should be able to secure internal networks using router and firewall technologies."
+            },
+            {
+              "code": "SEC 185",
+              "name": "Ethical Hacking",
+              "credits": "3.0",
+              "desc": "This course introduces students to the different aspects of ethical hacking for assessing system vulnerabilities. Topics include the ethical aspects, methodologies, and industry compliance regulations. Upon completion, students should be able to utilize current ethical hacking tools, techniques, and products to secure computer environments."
+            },
+            {
+              "code": "CCT 250",
+              "name": "Network Vulnerabilities I",
+              "credits": "3.0",
+              "desc": "This course introduces students to penetration testing, network vulnerabilities, and hacking. Topics include an overview of traditional network security, system hardening, and known weaknesses. Upon completion, students should be able to evaluate weaknesses of traditional and wireless network for the purpose of incident response, reconstruction, and forensic investigation."
+            },
+            {
+              "code": "SEC 210",
+              "name": "Intrusion Detection",
+              "credits": "3.0",
+              "desc": "This course introduces the student to intrusion detection methods in use today. Topics include the types of intrusion detection products, traffic analysis, and planning and placement of intrusion detection solutions. Upon completion, students should be able to plan and implement intrusion detection solution for networks and host-based systems."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/cybersecurity.jpg",
+      "qrFile": "assets/qr/cybersecurity-purple-team-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#cybersecurity-purpleteam",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "cybersecurity-red-team-certificate": {
+      "id": "cybersecurity-red-team-certificate",
+      "world": "cyber",
+      "tileColor": "#B4A269",
+      "tileText": "#1A1A1A",
+      "tileDesc": "Start ethical hacking with a short certificate",
+      "name": "Cybersecurity - Red Team",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559062",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Cato Campus, Central Campus, Harris Campus, Levine Campus, Merancas Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Red Team track trains you to think like an attacker in perimeter defense, ethical hacking, and Python-powered exploitation—so you can find and fix vulnerabilities before adversaries do. Coursework aligns with Certified Ethical Hacker (CEH) and PenTest+.",
+      "skills": [
+        "Network and Security Foundations",
+        "Security Concepts",
+        "Perimeter Defense",
+        "Ethical Hacking",
+        "Ethical Hacking Tools"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Penetration Tester",
+          "salaryText": "$129,180",
+          "soc": "15-1212"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0",
+              "desc": "This course introduces students to the Network concepts, including networking terminology and protocols, local and wide area networks, and network standards. Emphasis is placed on securing information systems and the various implementation policies. Upon completion, students should be able to perform basic tasks related to networking mathematics, terminology, media and protocols."
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts and issues related to securing information systems and the development of policies to implement information security controls. Topics include the historical view of networking and security, security issues, trends, security resources, and the role of policy, people, and processes in information security. Upon completion, students should be able to identify information security risks, create an information security policy, and identify processes to implement and enforce policy."
+            },
+            {
+              "code": "SEC 175",
+              "name": "Perimeter Defense",
+              "credits": "3.0",
+              "desc": "This course introduces the principles of securing networks using routers and firewalls. Topics include networking protocols, threat mitigation, firewall configuration, authentication, authorization, intrusion detection, encryption, IPSec, VPNs, and remote access technologies. Upon completion, students should be able to secure internal networks using router and firewall technologies."
+            },
+            {
+              "code": "SEC 185",
+              "name": "Ethical Hacking",
+              "credits": "3.0",
+              "desc": "This course introduces students to the different aspects of ethical hacking for assessing system vulnerabilities. Topics include the ethical aspects, methodologies, and industry compliance regulations. Upon completion, students should be able to utilize current ethical hacking tools, techniques, and products to secure computer environments."
+            },
+            {
+              "code": "SEC 255",
+              "name": "Ethical Hacking Tools",
+              "credits": "3.0",
+              "desc": "This course introduces students to a variety of security tools used for assessing system vulnerabilities. Topics include the current ethical hacking tools, techniques, and products available. Upon completion, students should be able to utilize current hacking tools, techniques, and products on computer environments."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/cybersecurity.jpg",
+      "qrFile": "assets/qr/cybersecurity-red-team-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#cybersecurity-redteam",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "cybersecurity-blue-team-certificate": {
+      "id": "cybersecurity-blue-team-certificate",
+      "world": "cyber",
+      "tileColor": "#B4A269",
+      "tileText": "#1A1A1A",
+      "tileDesc": "Start network defense with a short certificate",
+      "name": "Cybersecurity - Blue Team",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559063",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Cato Campus, Central Campus, Harris Campus, Levine Campus, Merancas Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Red Team track trains you to think like an attacker in perimeter defense, ethical hacking, and Python-powered exploitation—so you can find and fix vulnerabilities before adversaries do. Coursework aligns with Certified Ethical Hacker (CEH) and PenTest+.",
+      "skills": [
+        "Network and Security Foundations",
+        "Security Concepts",
+        "Perimeter Defense",
+        "Intrusion Detection",
+        "Endpoint Detection and Response"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "SOC Analyst",
+          "salaryText": "$129,180",
+          "soc": "15-1212"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0",
+              "desc": "This course introduces students to the Network concepts, including networking terminology and protocols, local and wide area networks, and network standards. Emphasis is placed on securing information systems and the various implementation policies. Upon completion, students should be able to perform basic tasks related to networking mathematics, terminology, media and protocols."
+            },
+            {
+              "code": "SEC 110",
+              "name": "Security Concepts",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts and issues related to securing information systems and the development of policies to implement information security controls. Topics include the historical view of networking and security, security issues, trends, security resources, and the role of policy, people, and processes in information security. Upon completion, students should be able to identify information security risks, create an information security policy, and identify processes to implement and enforce policy."
+            },
+            {
+              "code": "SEC 175",
+              "name": "Perimeter Defense",
+              "credits": "3.0",
+              "desc": "This course introduces the principles of securing networks using routers and firewalls. Topics include networking protocols, threat mitigation, firewall configuration, authentication, authorization, intrusion detection, encryption, IPSec, VPNs, and remote access technologies. Upon completion, students should be able to secure internal networks using router and firewall technologies."
+            },
+            {
+              "code": "SEC 210",
+              "name": "Intrusion Detection",
+              "credits": "3.0",
+              "desc": "This course introduces the student to intrusion detection methods in use today. Topics include the types of intrusion detection products, traffic analysis, and planning and placement of intrusion detection solutions. Upon completion, students should be able to plan and implement intrusion detection solution for networks and host-based systems."
+            },
+            {
+              "code": "SEC 265",
+              "name": "Endpoint Detection and Response",
+              "credits": "3.0",
+              "desc": "This course introduces students to endpoint detection and response methodologies in a computer system environment. Topics include intrusion detection systems, applications, and artificial intelligence. Upon completion, students should be able to demonstrate practical knowledge of implementing endpoint detection and response techniques in computer system environments."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/cybersecurity.jpg",
+      "qrFile": "assets/qr/cybersecurity-blue-team-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#cybersecurity-blueteam",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "support-specialist-certificate": {
+      "id": "support-specialist-certificate",
+      "world": "start",
+      "tileColor": "#54565A",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Fix hardware, software, and user issues",
+      "name": "Support Specialist",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C25590C5",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Cato Campus, Central Campus, Harris Campus, Levine Campus, Merancas Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "In this hands-on program you’ll learn to set up, secure, troubleshoot, and support computers, networks, Windows and Linux systems, virtualization, and cloud services. You’ll also build the user-support and professional skills that make great support teams, graduating ready to be the person coworkers and customers count on when it matters most.",
+      "skills": [
+        "Hardware/Software Support",
+        "Operating Systems Concepts",
+        "Network and Security Foundations",
+        "Tech Support Functions"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "IT Support Specialist",
+          "salaryText": "$61,860",
+          "soc": "15-1232"
+        },
+        {
+          "title": "Network Support Specialist",
+          "salaryText": "$76,220",
+          "soc": "15-1231"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTS 120",
+              "name": "Hardware/Software Support",
+              "credits": "3.0",
+              "desc": "This course covers the basic hardware of a personal computer, including installation, operations and interactions with software. Topics include component identification, memory-system, peripheral installation and configuration, preventive maintenance, hardware diagnostics/repair, installation and optimization of system software, commercial programs, system configuration, and device-drivers. Upon completion, students should be able to select appropriate computer equipment and software, upgrade/maintain existing equipment and software, and troubleshoot/repair non-functioning personal computers."
+            },
+            {
+              "code": "NOS 110",
+              "name": "Operating Systems Concepts",
+              "credits": "3.0",
+              "desc": "This course introduces students to a broad range of operating system concepts, including installation and maintenance. Emphasis is place on operating system concepts, management, maintenance, and resources required. Upon completion of this course, students will have an understanding of OS concepts, installation, management, maintenance, using a variety of operating systems."
+            },
+            {
+              "code": "CTI 120",
+              "name": "Network and Security Foundations",
+              "credits": "3.0",
+              "desc": "This course introduces students to the Network concepts, including networking terminology and protocols, local and wide area networks, and network standards. Emphasis is placed on securing information systems and the various implementation policies. Upon completion, students should be able to perform basic tasks related to networking mathematics, terminology, media and protocols."
+            },
+            {
+              "code": "CTS 155",
+              "name": "Tech Support Functions",
+              "credits": "3.0",
+              "desc": "This course introduces a variety of diagnostic and instructional tools that are used to evaluate the performance of technical support technologies. Emphasis is placed on technical support management techniques and support technologies. Upon completion, students should be able to determine the best technologies to support and solve actual technical support problems."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/it-technical-support.jpg",
+      "qrFile": "assets/qr/support-specialist-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#support-specialist",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "simulation-and-game-development-diploma": {
+      "id": "simulation-and-game-development-diploma",
+      "world": "games",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Design, code, and model games in one year",
+      "name": "Simulation and Game Development",
+      "track": "",
+      "degree": "Diploma",
+      "code": "D2545021",
+      "totalHours": 44,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "Central Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Home to the first state-approved associate degree program in game development in the United States, Central Piedmont's Simulation and Game Development program offers a student-cen…",
+      "learn": "Students develop technical, creative, and professional skills for game development, interactive media, and real-time simulation. Core areas include: game design and mechanics; level design; virtual environments; MMO; game narrative and audio; 2D and 3D art; playtesting; prototyping; project management.",
+      "skills": [
+        "Introduction to Simulation and Game Development",
+        "SGD Design I",
+        "SGD Programming I",
+        "SGD 3D Modeling I",
+        "Simulation and Game Development Design II"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Game Developer",
+          "salaryText": "$135,980",
+          "soc": "15-1252"
+        },
+        {
+          "title": "3D Animator",
+          "salaryText": "$102,030",
+          "soc": "27-1014"
+        },
+        {
+          "title": "Game Tester",
+          "salaryText": "$104,300",
+          "soc": "15-1253"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "General Education Requirements",
+          "termCredits": "6",
+          "note": "",
+          "rows": [
+            {
+              "code": "ENG 111",
+              "name": "Writing and Inquiry",
+              "credits": "3.0",
+              "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+            },
+            {
+              "code": "COM 231",
+              "name": "Public Speaking",
+              "credits": "3.0",
+              "desc": "This course provides instruction and experience in preparation and delivery of speeches within a public setting and group discussion. Emphasis is placed on research, preparation, delivery, and evaluation of informative, persuasive, and special occasion public speaking. Upon completion, students should be able to prepare and deliver well-organized speeches and participate in group discussion with appropriate audiovisual support."
+            }
+          ]
+        },
+        {
+          "term": "Major Requirements",
+          "termCredits": "38",
+          "note": "",
+          "rows": [
+            {
+              "code": "SGD 111",
+              "name": "Introduction to Simulation and Game Development",
+              "credits": "3.0",
+              "desc": "This course provides students with an introduction to simulation and game development. Topics include setting, storytelling, narrative, character design, interface design, game play, internal economy, core mechanics, game genres, AI, the psychology of game design and professionalism. Upon completion, students should be able to demonstrate knowledge of the major aspects of simulation and game design and development."
+            },
+            {
+              "code": "SGD 112",
+              "name": "SGD Design I",
+              "credits": "3.0",
+              "desc": "This course introduces the fundamentals of simulation and game design. Topics include industry standards and design elements for simulation and games. Upon completion, students should be able to design simple simulations and/or games."
+            },
+            {
+              "code": "SGD 113",
+              "name": "SGD Programming I",
+              "credits": "3.0",
+              "desc": "This course introduces the fundamentals of programming languages and tools employed in simulation and game development. Emphasis is placed on programming concepts used to create simulations and games. Upon completion, students should be able to program simple games and/or simulations."
+            },
+            {
+              "code": "SGD 114",
+              "name": "SGD 3D Modeling I",
+              "credits": "3.0",
+              "desc": "This course introduces the tools required to create three-dimensional (3D) models. Emphasis is placed on exploring tools used to create 3D models. Upon completion, students should be able to create and animate 3D models using 3D modeling tools."
+            },
+            {
+              "code": "SGD 212",
+              "name": "Simulation and Game Development Design II",
+              "credits": "3.0",
+              "desc": "This course covers the advanced principles of simulation and game design. Topics include advanced design concepts in simulation and game development. Upon completion, students should be able to design an advanced simulation or game."
+            },
+            {
+              "code": "SGD 213",
+              "name": "Simulation Game Development Programming II",
+              "credits": "3.0",
+              "desc": "This course covers advanced programming concepts used to create simulations and games. Emphasis is placed on acquiring advanced programming skills for use in creating simulations and games. Upon completion, students should be able to program an advanced simulation or game."
+            },
+            {
+              "code": "SGD 214",
+              "name": "SGD 3D Modeling II",
+              "credits": "3.0",
+              "desc": "This course introduces the tools used to create and animate advanced 3-dimensional models. Emphasis is placed on identifying and utilizing the tools required to create and animate advanced 3D models. Upon completion, students should be able to create and animate advanced 3D models using 3D modeling tools."
+            },
+            {
+              "code": "SGD 162",
+              "name": "SGD 3D Animation I",
+              "credits": "3.0",
+              "desc": "This course introduces the fundamental principles of 3D animation used in simulation and game development. Emphasis is placed on a historical survey of 3D animation, aspects of the 3D animation techniques. Upon completion, students should be able to produce 3D character sketches, morph simple objects, create walk and run cycles and develop professional storyboards."
+            },
+            {
+              "code": "SGD 165",
+              "name": "SGD Character Development",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts needed to create fictional personalities for use in digital videos, animations, simulations, and games. Topics include aspects of character, developing backgrounds, mannerisms, and voice. Upon completion, students should be able to develop characters and backgrounds for simulations and games."
+            },
+            {
+              "code": "SGD 168",
+              "name": "SGD Mobile Programming I",
+              "credits": "3.0",
+              "desc": "This course introduces the mobile simulation and game programming process. Topics include mobile simulation/game programming, performance tuning, animation, sound effects, music, and mobile networks. Upon completion, students should be able to apply simulation/game programming concepts to the creation of mobile simulations and games."
+            },
+            {
+              "code": "SGD 172",
+              "name": "SGD Virtual Environments",
+              "credits": "3.0",
+              "desc": "This course covers the use of virtual reality tools and techniques in simulation and game development. Emphasis is placed on acquiring the skills necessary to create scalable virtual characters and environments for use in simulations and games. Upon completion, students should be able to create a simple game or simulation in a virtual environment."
+            },
+            {
+              "code": "SGD 289",
+              "name": "Simulation and Game Development Capstone Project",
+              "credits": "3.0",
+              "desc": "This course provides students with the opportunity to create a functional simulation or game with minimal instructor support. Emphasis is placed upon verbal and written communication, skill documentation, professional presentation and user training. Upon completion, students should be able to create and professionally present a fully functional simulation or game."
+            },
+            {
+              "code": "WBL 111",
+              "name": "Work-Based Learning I",
+              "credits": "1.0",
+              "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+            },
+            {
+              "code": "WBL 121",
+              "name": "Work-Based Learning II",
+              "credits": "1.0",
+              "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/simulation-and-game-development.jpg",
+      "qrFile": "assets/qr/simulation-and-game-development-diploma.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#diplomastext",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "design-certificate": {
+      "id": "design-certificate",
+      "world": "games",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Design game levels, audio, and online play",
+      "name": "Design",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2545024",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Central Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Home to the first state-approved associate degree program in game development in the United States, Central Piedmont's Simulation and Game Development program offers a student-cen…",
+      "learn": "Students develop technical, creative, and professional skills for game development, interactive media, and real-time simulation. Core areas include: game design and mechanics; level design; virtual environments; MMO; game narrative and audio; 2D and 3D art; playtesting; prototyping; project management.",
+      "skills": [
+        "Massive Multiplayer Online Programming",
+        "SGD Audio/Video",
+        "SGD Level Design I",
+        "SGD Level Design II"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Game Level Designer",
+          "salaryText": "$104,000",
+          "soc": "15-1255"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "SGD 124",
+              "name": "Massive Multiplayer Online Programming",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts of Massive On-line Programming for simulations and games. Emphasis is on learning Massive Multiplayer On-line simulation and game programming techniques. Upon completion, students should be able to create Massive Multiplayer On-line simulation or game."
+            },
+            {
+              "code": "SGD 164",
+              "name": "SGD Audio/Video",
+              "credits": "3.0",
+              "desc": "This course introduces various aspects of audio and video and their application in simulations and games. Topics include techniques for producing and editing audio and video for multiple digital mediums. Upon completion, students should be able to produce and edit audio and video for simulations and games."
+            },
+            {
+              "code": "SGD 174",
+              "name": "SGD Level Design I",
+              "credits": "3.0",
+              "desc": "This course introduces the tools used to create levels for real-time simulation and games. Topics include level design, architecture theory, modeling for 3D engines, and texturing methods. Upon completion, students should be able to design simple levels using industry-standard tools."
+            },
+            {
+              "code": "SGD 274",
+              "name": "SGD Level Design II",
+              "credits": "3.0",
+              "desc": "This course introduces the advanced tools used to create levels for real-time simulations and games. Topics include advanced-level guide and architecture theory, concepts related to \"critical path\" and \"flow,\" game balancing, playtesting, and storytelling. Upon completion, students should be able to design complex levels using industry-standard tools."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/simulation-and-game-development.jpg",
+      "qrFile": "assets/qr/design-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#Game-Design-Level-1",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "programming-certificate": {
+      "id": "programming-certificate",
+      "world": "games",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Code game AI, databases, and mobile games",
+      "name": "Programming",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2545026",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Central Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Home to the first state-approved associate degree program in game development in the United States, Central Piedmont's Simulation and Game Development program offers a student-cen…",
+      "learn": "Students develop technical, creative, and professional skills for game development, interactive media, and real-time simulation. Core areas include: game design and mechanics; level design; virtual environments; MMO; game narrative and audio; 2D and 3D art; playtesting; prototyping; project management.",
+      "skills": [
+        "Simulation and Game Database Programming",
+        "Simulation and Game Artificial Intelligence",
+        "SGD Mobile Programming II",
+        "SGD Software Engineering"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Game Programmer",
+          "salaryText": "$100,390",
+          "soc": "15-1251"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "SGD 122",
+              "name": "Simulation and Game Database Programming",
+              "credits": "3.0",
+              "desc": "This course covers the creation and application of databases for simulation and game development. Emphasis is placed on various database and software development kits. Upon completion, students should be able to apply their knowledge of databases to the creation of simulations and games."
+            },
+            {
+              "code": "SGD 125",
+              "name": "Simulation and Game Artificial Intelligence",
+              "credits": "3.0",
+              "desc": "This course introduces the artificial intelligence concepts related to simulation and game development. Emphasis is placed on expert systems. Upon completion, students should be able to describe the basic concepts and procedures related to the development of artificial intelligence systems used in simulation and games."
+            },
+            {
+              "code": "SGD 268",
+              "name": "SGD Mobile Programming II",
+              "credits": "3.0",
+              "desc": "This course introduces advanced mobile simulation and game programming processes. Topics include advanced mobile simulation/game platforms, performance tuning, animation, sound effects, music, and mobile networks. Upon completion, students should be able to apply advanced simulation/game programming concepts to the creation of mobile simulations and games."
+            },
+            {
+              "code": "SGD 285",
+              "name": "SGD Software Engineering",
+              "credits": "3.0",
+              "desc": "This course introduces object-oriented software engineering concepts related to simulation and game development. Topics include systematic approaches to the development, operation and maintenance of simulations and games. Upon completion, students should be able to apply software engineering techniques to the development of simulations and games."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/simulation-and-game-development.jpg",
+      "qrFile": "assets/qr/programming-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#SG-Programming-Level-1",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "simulation-and-game-development-level-i-certificate": {
+      "id": "simulation-and-game-development-level-i-certificate",
+      "world": "games",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Try game design, code, and 3D in one term",
+      "name": "Simulation and Game Development Level I",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2545021",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Central Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "This certificate is also available to high school students enrolled in Career & College Promise.",
+      "learn": "Students develop technical, creative, and professional skills for game development, interactive media, and real-time simulation. Core areas include: game design and mechanics; level design; virtual environments; MMO; game narrative and audio; 2D and 3D art; playtesting; prototyping; project management.",
+      "skills": [
+        "Introduction to Simulation and Game Development",
+        "SGD Design I",
+        "SGD Programming I",
+        "SGD 3D Modeling I"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Game Tester",
+          "salaryText": "$104,300",
+          "soc": "15-1253"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "SGD 111",
+              "name": "Introduction to Simulation and Game Development",
+              "credits": "3.0",
+              "desc": "This course provides students with an introduction to simulation and game development. Topics include setting, storytelling, narrative, character design, interface design, game play, internal economy, core mechanics, game genres, AI, the psychology of game design and professionalism. Upon completion, students should be able to demonstrate knowledge of the major aspects of simulation and game design and development."
+            },
+            {
+              "code": "SGD 112",
+              "name": "SGD Design I",
+              "credits": "3.0",
+              "desc": "This course introduces the fundamentals of simulation and game design. Topics include industry standards and design elements for simulation and games. Upon completion, students should be able to design simple simulations and/or games."
+            },
+            {
+              "code": "SGD 113",
+              "name": "SGD Programming I",
+              "credits": "3.0",
+              "desc": "This course introduces the fundamentals of programming languages and tools employed in simulation and game development. Emphasis is placed on programming concepts used to create simulations and games. Upon completion, students should be able to program simple games and/or simulations."
+            },
+            {
+              "code": "SGD 114",
+              "name": "SGD 3D Modeling I",
+              "credits": "3.0",
+              "desc": "This course introduces the tools required to create three-dimensional (3D) models. Emphasis is placed on exploring tools used to create 3D models. Upon completion, students should be able to create and animate 3D models using 3D modeling tools."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/simulation-and-game-development.jpg",
+      "qrFile": "assets/qr/simulation-and-game-development-level-i-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#simulationlevelI",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "simulation-and-game-development-level-ii-certificate": {
+      "id": "simulation-and-game-development-level-ii-certificate",
+      "world": "games",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Add animation, characters, and mobile games",
+      "name": "Simulation and Game Development Level II",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2545022",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Central Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Home to the first state-approved associate degree program in game development in the United States, Central Piedmont's Simulation and Game Development program offers a student-cen…",
+      "learn": "Students develop technical, creative, and professional skills for game development, interactive media, and real-time simulation. Core areas include: game design and mechanics; level design; virtual environments; MMO; game narrative and audio; 2D and 3D art; playtesting; prototyping; project management.",
+      "skills": [
+        "SGD 3D Animation I",
+        "SGD Character Development",
+        "SGD Mobile Programming I",
+        "SGD Virtual Environments"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Game Developer",
+          "salaryText": "$135,980",
+          "soc": "15-1252"
+        },
+        {
+          "title": "3D Animator",
+          "salaryText": "$102,030",
+          "soc": "27-1014"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "SGD 162",
+              "name": "SGD 3D Animation I",
+              "credits": "3.0",
+              "desc": "This course introduces the fundamental principles of 3D animation used in simulation and game development. Emphasis is placed on a historical survey of 3D animation, aspects of the 3D animation techniques. Upon completion, students should be able to produce 3D character sketches, morph simple objects, create walk and run cycles and develop professional storyboards."
+            },
+            {
+              "code": "SGD 165",
+              "name": "SGD Character Development",
+              "credits": "3.0",
+              "desc": "This course introduces the concepts needed to create fictional personalities for use in digital videos, animations, simulations, and games. Topics include aspects of character, developing backgrounds, mannerisms, and voice. Upon completion, students should be able to develop characters and backgrounds for simulations and games."
+            },
+            {
+              "code": "SGD 168",
+              "name": "SGD Mobile Programming I",
+              "credits": "3.0",
+              "desc": "This course introduces the mobile simulation and game programming process. Topics include mobile simulation/game programming, performance tuning, animation, sound effects, music, and mobile networks. Upon completion, students should be able to apply simulation/game programming concepts to the creation of mobile simulations and games."
+            },
+            {
+              "code": "SGD 172",
+              "name": "SGD Virtual Environments",
+              "credits": "3.0",
+              "desc": "This course covers the use of virtual reality tools and techniques in simulation and game development. Emphasis is placed on acquiring the skills necessary to create scalable virtual characters and environments for use in simulations and games. Upon completion, students should be able to create a simple game or simulation in a virtual environment."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/simulation-and-game-development.jpg",
+      "qrFile": "assets/qr/simulation-and-game-development-level-ii-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#simulationlevelII",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "simulation-and-game-development-level-iii-certificate": {
+      "id": "simulation-and-game-development-level-iii-certificate",
+      "world": "games",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Build a capstone game with advanced skills",
+      "name": "Simulation and Game Development Level III",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2545030",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Central Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Home to the first state-approved associate degree program in game development in the United States, Central Piedmont's Simulation and Game Development program offers a student-cen…",
+      "learn": "Students develop technical, creative, and professional skills for game development, interactive media, and real-time simulation. Core areas include: game design and mechanics; level design; virtual environments; MMO; game narrative and audio; 2D and 3D art; playtesting; prototyping; project management.",
+      "skills": [
+        "Simulation and Game Development Design II",
+        "Simulation Game Development Programming II",
+        "SGD 3D Modeling II",
+        "Simulation and Game Development Capstone Project"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Game Developer",
+          "salaryText": "$135,980",
+          "soc": "15-1252"
+        },
+        {
+          "title": "3D Animator",
+          "salaryText": "$102,030",
+          "soc": "27-1014"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "SGD 212",
+              "name": "Simulation and Game Development Design II",
+              "credits": "3.0",
+              "desc": "This course covers the advanced principles of simulation and game design. Topics include advanced design concepts in simulation and game development. Upon completion, students should be able to design an advanced simulation or game."
+            },
+            {
+              "code": "SGD 213",
+              "name": "Simulation Game Development Programming II",
+              "credits": "3.0",
+              "desc": "This course covers advanced programming concepts used to create simulations and games. Emphasis is placed on acquiring advanced programming skills for use in creating simulations and games. Upon completion, students should be able to program an advanced simulation or game."
+            },
+            {
+              "code": "SGD 214",
+              "name": "SGD 3D Modeling II",
+              "credits": "3.0",
+              "desc": "This course introduces the tools used to create and animate advanced 3-dimensional models. Emphasis is placed on identifying and utilizing the tools required to create and animate advanced 3D models. Upon completion, students should be able to create and animate advanced 3D models using 3D modeling tools."
+            },
+            {
+              "code": "SGD 289",
+              "name": "Simulation and Game Development Capstone Project",
+              "credits": "3.0",
+              "desc": "This course provides students with the opportunity to create a functional simulation or game with minimal instructor support. Emphasis is placed upon verbal and written communication, skill documentation, professional presentation and user training. Upon completion, students should be able to create and professionally present a fully functional simulation or game."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/simulation-and-game-development.jpg",
+      "qrFile": "assets/qr/simulation-and-game-development-level-iii-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#SGD-Level-III",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "3d-modeling-and-animation-certificate": {
+      "id": "3d-modeling-and-animation-certificate",
+      "world": "games",
+      "tileColor": "#672666",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Rig, model, and animate game art",
+      "name": "3D Modeling and Animation",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2545028",
+      "totalHours": 12,
+      "semesters": null,
+      "timeline": "One semester",
+      "campus": "Central Campus, Online",
+      "format": "Hybrid",
+      "planKind": "requirements",
+      "lead": "Home to the first state-approved associate degree program in game development in the United States, Central Piedmont's Simulation and Game Development program offers a student-cen…",
+      "learn": "Students develop technical, creative, and professional skills for game development, interactive media, and real-time simulation. Core areas include: game design and mechanics; level design; virtual environments; MMO; game narrative and audio; 2D and 3D art; playtesting; prototyping; project management.",
+      "skills": [
+        "Art for Games",
+        "SGD 2D Animation",
+        "Rigging 3D Models",
+        "SGD 3D Modeling III"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "3D Modeler",
+          "salaryText": "$102,030",
+          "soc": "27-1014"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "12",
+          "note": "",
+          "rows": [
+            {
+              "code": "SGD 117",
+              "name": "Art for Games",
+              "credits": "3.0",
+              "desc": "This course introduces students to the basic principles of art and how they apply to simulations and games. Emphasis is placed on learning to develop industry quality concept art for characters and other assets, as well as techniques needed to create such art. Upon completion, students should be able to create their own industry standard concept art for use in SGD projects."
+            },
+            {
+              "code": "SGD 161",
+              "name": "SGD 2D Animation",
+              "credits": "3.0",
+              "desc": "This course introduces the fundamental principles of animation used in simulation and game development. Emphasis is placed on historical survey of animation, aspects of the animation process and animation techniques. Upon completion, students should be able to produce character sketches, morph simple objects, create walk and run cycles and develop professional storyboards."
+            },
+            {
+              "code": "SGD 237",
+              "name": "Rigging 3D Models",
+              "credits": "3.0",
+              "desc": "This course covers the fundamentals of rigging 3D models for animation. Emphasis is placed on learning how to properly weight a model, rig it with a skeleton, and create fluid movement. Upon completion, students should be able to demonstrate the ability to properly rig 3D models."
+            },
+            {
+              "code": "SGD 244",
+              "name": "SGD 3D Modeling III",
+              "credits": "3.0",
+              "desc": "This course is designed to further a student's knowledge in creating visually compelling 3D models through the use of industry-standard software. Emphasis is placed on learning how to develop accurate textures and normal maps. Upon completion, students should be able to develop industry caliber 3D models."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/simulation-and-game-development.jpg",
+      "qrFile": "assets/qr/3d-modeling-and-animation-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#3D-Modeling-Animation",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "java-certificate": {
+      "id": "java-certificate",
+      "world": "apps",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Write Java programs and data structures",
+      "name": "Java",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559052",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "One year",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Application Development track sharpens your skills in Java and enterprise programming—from data structures and algorithms to server-side development and emerging technologies—so you can build robust, scalable applications that businesses depend on.",
+      "skills": [
+        "Information Technology Foundations",
+        "JAVA Programming",
+        "Data Structure & Algorithms",
+        "Advanced JAVA Programming"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Java Programmer",
+          "salaryText": "$100,390",
+          "soc": "15-1251"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming and problem solving in a structured program logic environment. Topics include language syntax, data types, program organization, problem solving methods, algorithm design, and logic control structures. Upon completion, students should be able to use top-down algorithm design and implement algorithmic solutions in a programming language."
+            },
+            {
+              "code": "CSC 151",
+              "name": "JAVA Programming",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion students should be able to design, code, test, debug JAVA language programs."
+            },
+            {
+              "code": "CSC 249",
+              "name": "Data Structure & Algorithms",
+              "credits": "3.0",
+              "desc": "This course introduces the data structures and algorithms frequently used in programming applications. Topics include lists, stacks, queues, dequeues, heaps, sorting, searching, mathematical operations, recursion, encryption, random numbers, algorithm testing, and standards. Upon completion, students should be able to design data structures and implement algorithms to solve various problems."
+            },
+            {
+              "code": "CSC 251",
+              "name": "Advanced JAVA Programming",
+              "credits": "3.0",
+              "desc": "This course is a continuation of CSC 151 using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/software-engineering.jpg",
+      "qrFile": "assets/qr/java-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Java",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "javascript-certificate": {
+      "id": "javascript-certificate",
+      "world": "apps",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Script web pages and servers in JavaScript",
+      "name": "JavaScript",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559053",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Application Development track sharpens your skills in Java and enterprise programming—from data structures and algorithms to server-side development and emerging technologies—so you can build robust, scalable applications that businesses depend on.",
+      "skills": [
+        "Information Technology Foundations",
+        "Web Development Fundamentals",
+        "Web Markup and Scripting",
+        "Server-Side Javascript"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Web Developer",
+          "salaryText": "$92,650",
+          "soc": "15-1254"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming and problem solving in a structured program logic environment. Topics include language syntax, data types, program organization, problem solving methods, algorithm design, and logic control structures. Upon completion, students should be able to use top-down algorithm design and implement algorithmic solutions in a programming language."
+            },
+            {
+              "code": "WEB 110",
+              "name": "Web Development Fundamentals",
+              "credits": "3.0",
+              "desc": "This course introduces World Wide Web Consortium (W3C) standard markup language. Topics include creating web pages, responsive design, file transfer, deployment, accessibility, and other related W3C topics. Upon completion, students should be able to deploy a hand-coded website created using the HyperText Markup Language (HTML) and Cascading Style Sheet (CSS) standards."
+            },
+            {
+              "code": "WEB 115",
+              "name": "Web Markup and Scripting",
+              "credits": "3.0",
+              "desc": "This course introduces Worldwide Web Consortium (W3C) Internet programming using JavaScript. Topics include basic syntax, object-oriented programming, functions, variables, events, arrays, validation, accessibility, and web standards. Upon completion, students should be able to write, debug, maintain well-formed and well documented interactive web content using JavaScript code."
+            },
+            {
+              "code": "CSC 174",
+              "name": "Server-Side Javascript",
+              "credits": "3.0",
+              "desc": "This course introduces the use of JavaScript in the server environment to build server-side applications. Topics include asynchronous programming, connecting to other machines, testing, and connecting to different databases. Upon completion, students should be able to create server-side applications using JavaScript applications."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/software-engineering.jpg",
+      "qrFile": "assets/qr/javascript-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#JavaScript",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "front-end-development-fundamentals-certificate": {
+      "id": "front-end-development-fundamentals-certificate",
+      "world": "apps",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Code web page front ends with HTML and CSS",
+      "name": "Front-End Development Fundamentals",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559051",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Application Development track sharpens your skills in Java and enterprise programming—from data structures and algorithms to server-side development and emerging technologies—so you can build robust, scalable applications that businesses depend on.",
+      "skills": [
+        "Information Technology Foundations",
+        "Web Development Fundamentals",
+        "Web Development Tools",
+        "Web Markup and Scripting"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Front-End Web Developer",
+          "salaryText": "$92,650",
+          "soc": "15-1254"
+        },
+        {
+          "title": "Web Designer",
+          "salaryText": "$104,000",
+          "soc": "15-1255"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming and problem solving in a structured program logic environment. Topics include language syntax, data types, program organization, problem solving methods, algorithm design, and logic control structures. Upon completion, students should be able to use top-down algorithm design and implement algorithmic solutions in a programming language."
+            },
+            {
+              "code": "WEB 110",
+              "name": "Web Development Fundamentals",
+              "credits": "3.0",
+              "desc": "This course introduces World Wide Web Consortium (W3C) standard markup language. Topics include creating web pages, responsive design, file transfer, deployment, accessibility, and other related W3C topics. Upon completion, students should be able to deploy a hand-coded website created using the HyperText Markup Language (HTML) and Cascading Style Sheet (CSS) standards."
+            },
+            {
+              "code": "WEB 140",
+              "name": "Web Development Tools",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to web development tools.Topics include creating websites using web development tools and web standards. Upon completion, students should be able to create small web sites and upload files to a web server."
+            },
+            {
+              "code": "WEB 115",
+              "name": "Web Markup and Scripting",
+              "credits": "3.0",
+              "desc": "This course introduces Worldwide Web Consortium (W3C) Internet programming using JavaScript. Topics include basic syntax, object-oriented programming, functions, variables, events, arrays, validation, accessibility, and web standards. Upon completion, students should be able to write, debug, maintain well-formed and well documented interactive web content using JavaScript code."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/software-engineering.jpg",
+      "qrFile": "assets/qr/front-end-development-fundamentals-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Front-End-Development-Fund",
+      "admissions": null,
+      "applyQrFile": null
+    },
+    "python-certificate": {
+      "id": "python-certificate",
+      "world": "apps",
+      "tileColor": "#005D83",
+      "tileText": "#FFFFFF",
+      "tileDesc": "Write Python programs from basics to advanced",
+      "name": "Python",
+      "track": "",
+      "degree": "Certificate",
+      "code": "C2559054",
+      "totalHours": 15,
+      "semesters": null,
+      "timeline": "About one semester",
+      "campus": "",
+      "format": "",
+      "planKind": "requirements",
+      "lead": "Graduates should qualify for employment in entry-level positions with businesses, educational systems, and governmental agencies that rely on computer systems to design and manage…",
+      "learn": "The Application Development track sharpens your skills in Java and enterprise programming—from data structures and algorithms to server-side development and emerging technologies—so you can build robust, scalable applications that businesses depend on.",
+      "skills": [
+        "Information Technology Foundations",
+        "Software Development",
+        "Python Programming",
+        "Advanced Python Programming"
+      ],
+      "specializations": [],
+      "careers": [
+        {
+          "title": "Python Programmer",
+          "salaryText": "$100,390",
+          "soc": "15-1251"
+        }
+      ],
+      "planOfStudy": [
+        {
+          "term": "Major Requirements",
+          "termCredits": "15",
+          "note": "",
+          "rows": [
+            {
+              "code": "CTI 110",
+              "name": "Information Technology Foundations",
+              "credits": "3.0",
+              "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+            },
+            {
+              "code": "CSC 154",
+              "name": "Software Development",
+              "credits": "3.0",
+              "desc": "This course covers the fundamentals of software development. Emphasis is placed on the full spectrum of team software development methodologies, software development project management, version control, issue tracking, regression testing, automated build and deployment. Upon completion, students should be able to work in a team environment and apply software development methodologies and software quality assurance principles."
+            },
+            {
+              "code": "CIS 115",
+              "name": "Introduction to Programming and Logic",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming and problem solving in a structured program logic environment. Topics include language syntax, data types, program organization, problem solving methods, algorithm design, and logic control structures. Upon completion, students should be able to use top-down algorithm design and implement algorithmic solutions in a programming language."
+            },
+            {
+              "code": "CSC 121",
+              "name": "Python Programming",
+              "credits": "3.0",
+              "desc": "This course introduces computer programming using the Python programming language. Emphasis is placed on common algorithms and programming principles utilizing the standard library distributed with Python. Upon completion, students should be able to design, code, test, and debug Python language programs."
+            },
+            {
+              "code": "CSC 221",
+              "name": "Advanced Python Programming",
+              "credits": "3.0",
+              "desc": "This course introduces advanced computer programming using the Python programming language. Emphasis is placed on the advanced programming concepts including advanced algorithms and programming principles utilizing standard and third party library tools. Upon completion, students should be able to design, code, test, and debug advanced Python language programs."
+            }
+          ]
+        }
+      ],
+      "heroFile": "assets/heroes/software-engineering.jpg",
+      "qrFile": "assets/qr/python-certificate.png",
+      "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Python",
+      "admissions": null,
+      "applyQrFile": null
     }
   },
   "infoSession": {
-    "url": "https://forms.office.com/pages/responsepage.aspx?id=kftMRq3oAUCotWOPZymUNXQqV-xPK0xLl_usffYhEe1UNkNEWERTT1ZTOVlHVlJDUkg2REdaR1UyTC4u&route=shorturl",
+    "url": "https://www.cpcc.edu/admissions-financial-aid/paying-college/virtual-information-technology-simulation-and-game-development-ai-technology-info-session",
     "qrFile": "assets/qr/info-session.png"
   },
   "college": {
@@ -3390,28 +5183,12 @@
             "qrFile": "assets/qr/ce-NET-ITS7543.png"
           },
           {
-            "code": "NET-ITS7545",
-            "name": "AWS Cloud Architecting",
-            "price": null,
-            "hours": null,
-            "desc": "Master AWS cloud architecture with the AWS Academy Cloud Architecting course. Learn to design scalable, secure, and cost-efficient cloud solutions using AWS services. Gain hands-on experience with networking, compute, storage, and automation while preparing for the AWS Certified Solutions Architect – Associate exam.",
-            "qrFile": "assets/qr/ce-NET-ITS7545.png"
-          },
-          {
             "code": "NET-ITS7547",
             "name": "AWS Cloud Operations",
             "price": 185,
             "hours": 120,
             "desc": "Develop essential cloud operations skills with the AWS Academy Cloud Operations course. Learn to deploy, manage, and troubleshoot AWS environments using AWS tools, automation frameworks, and best practices. Gain hands-on experience in security, networking, and monitoring while preparing for the AWS Certified SysOps Administrator – Associate exam.",
             "qrFile": "assets/qr/ce-NET-ITS7547.png"
-          },
-          {
-            "code": "NET-ITS7549",
-            "name": "AWS Cloud Developing",
-            "price": 185,
-            "hours": 120,
-            "desc": "Learn to develop, deploy, and secure cloud-based applications with the AWS Academy Cloud Developing course. Gain hands-on experience with AWS SDKs, APIs, serverless architectures, and cloud-native best practices. Prepare for the AWS Certified Developer – Associate certification with real-world labs and guided exercises.",
-            "qrFile": "assets/qr/ce-NET-ITS7549.png"
           }
         ]
       },

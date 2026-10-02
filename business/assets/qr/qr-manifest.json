@@ -30,9 +30,159 @@
     "url": "https://centralpiedmont.github.io/degree-explorer/business/sheets/medical-billing-coding.pdf"
   },
   {
+    "id": "governmental-accounting-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#governmental-accounting"
+  },
+  {
+    "id": "accounting-and-business-analytics-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#accounting-business-analytics"
+  },
+  {
+    "id": "forensic-accounting-and-fraud-examination-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#forensic-accounting-fraud-examination"
+  },
+  {
+    "id": "professional-accounting-i-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#professional-accounting"
+  },
+  {
+    "id": "professional-accounting-ii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#professional-accounting2"
+  },
+  {
+    "id": "bookkeeping-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#bookkeeping"
+  },
+  {
+    "id": "financial-services-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#financial-services"
+  },
+  {
+    "id": "personal-finance-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#personal-finance"
+  },
+  {
+    "id": "accounting-technology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#accounting-technology"
+  },
+  {
+    "id": "income-tax-preparer-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/accounting/#income-tax-preparer"
+  },
+  {
+    "id": "entrepreneurship-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#entrepreneurshipC4"
+  },
+  {
+    "id": "international-business-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#International-Business"
+  },
+  {
+    "id": "marketing-and-digital-media-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Digital-Media"
+  },
+  {
+    "id": "airport-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#airport-management"
+  },
+  {
+    "id": "logistics-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Logistics"
+  },
+  {
+    "id": "procedural-and-diagnostic-coding-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#certificatestext"
+  },
+  {
+    "id": "medical-office-administration-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/medical-office-administration/#certificatestext"
+  },
+  {
+    "id": "office-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Office-Management"
+  },
+  {
+    "id": "facilities-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Facilities-Management"
+  },
+  {
+    "id": "business-operations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#certificatestext"
+  },
+  {
+    "id": "paralegal-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/paralegal-technology/#diplomastext"
+  },
+  {
+    "id": "legal-studies-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/paralegal-technology/#certificatestext"
+  },
+  {
+    "id": "human-resources-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#HR-Management"
+  },
+  {
+    "id": "relationship-banking-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Relationship-Banking"
+  },
+  {
+    "id": "project-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Project-Management"
+  },
+  {
+    "id": "advanced-project-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Advanced-Project-Management"
+  },
+  {
+    "id": "project-management-practitioner-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/business-administration/#Project-Management-Practitioner"
+  },
+  {
+    "id": "air-transportation-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/supply-chain-management/#air-transportation-management"
+  },
+  {
+    "id": "global-logistics-technology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/supply-chain-management/#certificatestext"
+  },
+  {
+    "id": "distribution-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/supply-chain-management/#distribution-management"
+  },
+  {
     "id": "info-session",
     "type": "info-session",
-    "url": "https://www.cpcc.edu/events/business-accounting-information-session"
+    "url": "https://events.myconnect.cpcc.edu/event/cpcc.events.1787296"
   },
   {
     "id": "college-apply",

@@ -308,5 +308,125 @@
     "id": "college-navigator",
     "type": "college",
     "url": "https://www.cpcc.edu/student-experience/navigators"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130435"
+  },
+  {
+    "id": "ce-ELC-ELX8010",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=35566849"
+  },
+  {
+    "id": "ce-ELC-ELX8011",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29045938"
+  },
+  {
+    "id": "ce-ELC-ELX8100",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=41524348"
+  },
+  {
+    "id": "ce-ELT-LIN7018",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=20227424"
+  },
+  {
+    "id": "ce-CAR-CIX7000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4256794"
+  },
+  {
+    "id": "ce-CAR-CIX7040",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=8616768"
+  },
+  {
+    "id": "ce-CAR-CAR8000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=33501122"
+  },
+  {
+    "id": "ce-BPR-BPR7004",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19810248"
+  },
+  {
+    "id": "ce-CAR-CAR7130",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4257098"
+  },
+  {
+    "id": "ce-CAR-CIX8013",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=20258733"
+  },
+  {
+    "id": "ce-PLU-PLU8000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=16337708"
+  },
+  {
+    "id": "ce-PLU-PLU8001",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19873832"
+  },
+  {
+    "id": "ce-PLU-PLU8002",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=27742331"
+  },
+  {
+    "id": "ce-PLU-PLU7015",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19093873"
+  },
+  {
+    "id": "ce-WLD-WLX7130",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=49701540"
+  },
+  {
+    "id": "ce-WLD-WLX7090",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=48464822"
+  },
+  {
+    "id": "ce-SEF-WLX7121",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=16267698"
+  },
+  {
+    "id": "ce-TRP-CDL7200",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=33719987"
+  },
+  {
+    "id": "ce-TRP-CDL7220",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=51266445"
+  },
+  {
+    "id": "ce-SEF-AUX8833",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=5884558"
+  },
+  {
+    "id": "ce-SEF-AUX8835",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=5818781"
+  },
+  {
+    "id": "ce-AUT-AUX8310",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=9539235"
+  },
+  {
+    "id": "ce-SEF-AUX7003",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4256736"
   }
 ]

@@ -24,7 +24,7 @@
       "color": "#54565A",
       "text": "#FFFFFF",
       "icon": "fa-temperature-arrow-down",
-      "photo": "assets/heroes/air-conditioning-heating-refrigeration-technology.jpg",
+      "photo": "assets/heroes/air-conditioning-heating-and-refrigeration-technology.jpg",
       "programIds": [
         "air-conditioning-heating-and-refrigeration-technology",
         "air-conditioning-heating-and-refrigeration-technology-diploma",
@@ -41,7 +41,7 @@
       "color": "#54565A",
       "text": "#FFFFFF",
       "icon": "fa-helmet-safety",
-      "photo": "assets/heroes/construction-management.jpg",
+      "photo": "assets/heroes/construction-management-technology.jpg",
       "programIds": [
         "construction-management-technology",
         "building-construction-technology-diploma",
@@ -81,7 +81,7 @@
       "color": "#54565A",
       "text": "#FFFFFF",
       "icon": "fa-magnifying-glass",
-      "photo": "assets/heroes/nondestructive-examination-technology.jpg",
+      "photo": "assets/heroes/nondestructive-examination-technology-aas.jpg",
       "programIds": [
         "nondestructive-examination-technology",
         "dual-nondestructive-examination-and-quality-assurance-diploma",
@@ -114,7 +114,7 @@
       "color": "#54565A",
       "text": "#FFFFFF",
       "icon": "fa-fire-flame-curved",
-      "photo": "assets/heroes/welding-technology.jpg",
+      "photo": "assets/heroes/welding-technology-aas.jpg",
       "programIds": [
         "welding-technology",
         "welding-technology-diploma",
@@ -132,7 +132,7 @@
       "color": "#54565A",
       "text": "#FFFFFF",
       "icon": "fa-car",
-      "photo": "assets/heroes/automotive-systems-technology.jpg",
+      "photo": "assets/heroes/automotive-systems-technology-aas.jpg",
       "programIds": [
         "automotive-systems-technology",
         "automotive-systems-technology-diploma",
@@ -148,7 +148,7 @@
       "color": "#54565A",
       "text": "#FFFFFF",
       "icon": "fa-car-burst",
-      "photo": "assets/heroes/collision-repair-refinishing.jpg",
+      "photo": "assets/heroes/collision-repair-and-refinishing-technology.jpg",
       "programIds": [
         "collision-repair-and-refinishing-technology",
         "collision-repair-and-refinishing-technology-diploma",
@@ -164,7 +164,7 @@
       "color": "#54565A",
       "text": "#FFFFFF",
       "icon": "fa-truck",
-      "photo": "assets/heroes/diesel-heavy-equipment-tech.jpg",
+      "photo": "assets/heroes/diesel-and-heavy-equipment-technology.jpg",
       "programIds": [
         "diesel-and-heavy-equipment-technology",
         "diesel-service-repair-i-certificate",
@@ -193,7 +193,7 @@
       "world": "air-conditioning-heating-refrigeration-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Install, service, and design HVAC systems",
       "name": "Air Conditioning, Heating & Refrigeration Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -214,7 +214,23 @@
         "HVACR Customer Relations"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "HVAC technician",
+          "salaryText": "$61,010",
+          "soc": "49-9021"
+        },
+        {
+          "title": "Sheet metal installer",
+          "salaryText": "$61,800",
+          "soc": "47-2211"
+        },
+        {
+          "title": "Building maintenance technician",
+          "salaryText": "$49,590",
+          "soc": "49-9071"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -396,7 +412,7 @@
           ]
         }
       ],
-      "heroFile": "assets/heroes/air-conditioning-heating-refrigeration-technology.jpg",
+      "heroFile": "assets/heroes/air-conditioning-heating-and-refrigeration-technology.jpg",
       "qrFile": "assets/qr/air-conditioning-heating-and-refrigeration-technology.png",
       "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/air-conditioning-heating-refrigeration-technology/#degreetext",
       "admissions": null,
@@ -407,14 +423,14 @@
       "world": "air-conditioning-heating-refrigeration-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Service heating, cooling, and heat pumps",
       "name": "Air Conditioning, Heating & Refrigeration Technology",
       "track": "",
       "degree": "Diploma",
       "code": "D35100D1",
       "totalHours": 38,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About 3 semesters",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -428,7 +444,18 @@
         "HVACR Customer Relations"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "HVAC technician",
+          "salaryText": "$61,010",
+          "soc": "49-9021"
+        },
+        {
+          "title": "Building maintenance technician",
+          "salaryText": "$49,590",
+          "soc": "49-9071"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "General Education Requirements",
@@ -534,14 +561,14 @@
       "world": "air-conditioning-heating-refrigeration-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Service commercial refrigeration systems",
       "name": "Refrigeration Systems",
       "track": "",
       "degree": "Certificate",
       "code": "C35100C5",
       "totalHours": 16,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -555,7 +582,13 @@
         "Refrigeration Design"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Refrigeration technician",
+          "salaryText": "$61,010",
+          "soc": "49-9021"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -606,14 +639,14 @@
       "world": "air-conditioning-heating-refrigeration-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Keep apartments running, from wiring to AC",
       "name": "Apartment/Rental Maintenance",
       "track": "",
       "degree": "Certificate",
       "code": "C35100C9",
       "totalHours": 14,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -627,7 +660,13 @@
         "Basic Construction Skills"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Apartment maintenance technician",
+          "salaryText": "$49,590",
+          "soc": "49-9071"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -678,14 +717,14 @@
       "world": "air-conditioning-heating-refrigeration-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Start in HVAC and earn refrigerant certification",
       "name": "HVAC-R Industry Introduction",
       "track": "",
       "degree": "Certificate",
       "code": "C3510011",
       "totalHours": 13,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -699,7 +738,18 @@
         "HVACR Customer Relations"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "HVAC installer",
+          "salaryText": "$61,010",
+          "soc": "49-9021"
+        },
+        {
+          "title": "HVAC helper",
+          "salaryText": "$39,630",
+          "soc": "49-9098"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -750,14 +800,14 @@
       "world": "air-conditioning-heating-refrigeration-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Repair home furnaces, AC, and heat pumps",
       "name": "Residential Service",
       "track": "",
       "degree": "Certificate",
       "code": "C3510013",
       "totalHours": 12,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "Levine Campus",
       "format": "",
       "planKind": "requirements",
@@ -769,7 +819,13 @@
         "Heat Pump Technology"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Residential HVAC service technician",
+          "salaryText": "$61,010",
+          "soc": "49-9021"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -808,7 +864,7 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Plan, schedule, and run construction projects",
       "name": "Construction Management Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -829,7 +885,28 @@
         "Planning and Scheduling"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Construction manager",
+          "salaryText": "$114,990",
+          "soc": "11-9021"
+        },
+        {
+          "title": "Construction supervisor",
+          "salaryText": "$79,920",
+          "soc": "47-1011"
+        },
+        {
+          "title": "Cost estimator",
+          "salaryText": "$78,740",
+          "soc": "13-1051"
+        },
+        {
+          "title": "Building inspector",
+          "salaryText": "$74,690",
+          "soc": "47-4011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -993,7 +1070,7 @@
           ]
         }
       ],
-      "heroFile": "assets/heroes/construction-management.jpg",
+      "heroFile": "assets/heroes/construction-management-technology.jpg",
       "qrFile": "assets/qr/construction-management-technology.png",
       "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/construction-management-technology/#degreestext",
       "admissions": null,
@@ -1004,14 +1081,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Learn building methods, codes, and estimating",
       "name": "Building Construction Technology",
       "track": "",
       "degree": "Diploma",
       "code": "D35190D2",
       "totalHours": 37,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About 3 semesters",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1025,7 +1102,23 @@
         "Green Building and Design Concepts"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Carpenter",
+          "salaryText": "$60,580",
+          "soc": "47-2031"
+        },
+        {
+          "title": "Construction supervisor",
+          "salaryText": "$79,920",
+          "soc": "47-1011"
+        },
+        {
+          "title": "Building inspector",
+          "salaryText": "$74,690",
+          "soc": "47-4011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "General Education Requirements",
@@ -1139,14 +1232,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Schedule jobs and track costs on the site",
       "name": "Entry Level Project Supervision",
       "track": "",
       "degree": "Certificate",
       "code": "C35190C5",
       "totalHours": 18,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1160,7 +1253,13 @@
         "Costs and Productivity"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Construction supervisor",
+          "salaryText": "$79,920",
+          "soc": "47-1011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -1217,14 +1316,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Lead crews safely as a first-line supervisor",
       "name": "Entry Level Construction Supervisor",
       "track": "",
       "degree": "Certificate",
       "code": "C35190C2",
       "totalHours": 18,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1238,7 +1337,13 @@
         "Human Relations Issues"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Construction supervisor",
+          "salaryText": "$79,920",
+          "soc": "47-1011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -1295,14 +1400,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Sample the electrical, HVAC, and building trades",
       "name": "Construction Skills Career Exploration",
       "track": "",
       "degree": "Certificate",
       "code": "C3519051",
       "totalHours": 17,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1316,7 +1421,13 @@
         "Introduction to Refrigeration"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Construction laborer",
+          "salaryText": "$47,120",
+          "soc": "47-2061"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -1367,14 +1478,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Read plans and check work against the code",
       "name": "Building Code Inspector",
       "track": "",
       "degree": "Certificate",
       "code": "C35190C8",
       "totalHours": 16,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1388,7 +1499,13 @@
         "Work-Based Learning I"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Building code inspector",
+          "salaryText": "$74,690",
+          "soc": "47-4011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -1445,14 +1562,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Support project managers on the job site",
       "name": "Entry Level Project Engineer",
       "track": "",
       "degree": "Certificate",
       "code": "C3519052",
       "totalHours": 15,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1464,7 +1581,13 @@
         "Basic Construction Skills"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Construction project engineer",
+          "salaryText": "$64,950",
+          "soc": "17-3022"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -1515,14 +1638,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Build with energy-saving, green methods",
       "name": "Green Building",
       "track": "",
       "degree": "Certificate",
       "code": "C35190C7",
       "totalHours": 13,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1580,14 +1703,14 @@
       "world": "construction-management",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Estimate materials and costs for bids",
       "name": "Entry Level Estimating",
       "track": "",
       "degree": "Certificate",
       "code": "C35190C3",
       "totalHours": 12,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -1600,7 +1723,13 @@
         "Construction Management Fundamentals"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Cost estimator",
+          "salaryText": "$78,740",
+          "soc": "13-1051"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -1645,7 +1774,7 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Wire, program, and maintain electrical systems",
       "name": "Electrical Systems Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -1666,7 +1795,23 @@
         "Motors and Controls"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Electrician",
+          "salaryText": "$63,190",
+          "soc": "47-2111"
+        },
+        {
+          "title": "Industrial electrical repairer",
+          "salaryText": "$74,090",
+          "soc": "49-2094"
+        },
+        {
+          "title": "Electrical engineering technician",
+          "salaryText": "$78,190",
+          "soc": "17-3023"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -1805,7 +1950,7 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Wire homes and businesses on a fast track",
       "name": "Fast Track Electrical Construction",
       "track": "",
       "degree": "Certificate",
@@ -1826,7 +1971,13 @@
         "NEC Calculations"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Electrician",
+          "salaryText": "$63,190",
+          "soc": "47-2111"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Requirements",
@@ -1883,14 +2034,14 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Wire houses to the National Electrical Code",
       "name": "Level I - Residential Electrical",
       "track": "",
       "degree": "Certificate",
       "code": "C3513032",
       "totalHours": 17,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "Harper Campus",
       "format": "",
       "planKind": "requirements",
@@ -1904,7 +2055,18 @@
         "Print Reading-Construction"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Residential electrician",
+          "salaryText": "$63,190",
+          "soc": "47-2111"
+        },
+        {
+          "title": "Electrician helper",
+          "salaryText": "$42,670",
+          "soc": "47-3013"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -1955,14 +2117,14 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Design and install solar panel systems",
       "name": "Solar Photovoltaic - Level I",
       "track": "",
       "degree": "Certificate",
       "code": "C3513036",
       "totalHours": 17,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "Harper Campus",
       "format": "",
       "planKind": "requirements",
@@ -1976,7 +2138,13 @@
         "Photovoltaic System Technology"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Solar panel installer",
+          "salaryText": "$53,140",
+          "soc": "47-2231"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2027,14 +2195,14 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Wire commercial buildings, motors, and PLCs",
       "name": "Level II - Commercial Electrical",
       "track": "",
       "degree": "Certificate",
       "code": "C3513033",
       "totalHours": 15,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "Harper Campus",
       "format": "",
       "planKind": "requirements",
@@ -2048,7 +2216,13 @@
         "Introduction to Programmable Logic Controller"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Commercial electrician",
+          "salaryText": "$63,190",
+          "soc": "47-2111"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2099,14 +2273,14 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Install and maintain electrical systems",
       "name": "Installation and Maintenance",
       "track": "",
       "degree": "Certificate",
       "code": "C35130C7",
       "totalHours": 14,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "Central Campus, Harper Campus, Levine Campus, Online",
       "format": "Hybrid",
       "planKind": "requirements",
@@ -2119,7 +2293,13 @@
         "Print Reading-Construction"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Maintenance electrician",
+          "salaryText": "$63,190",
+          "soc": "47-2111"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2164,7 +2344,7 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Start with home wiring and the electrical code",
       "name": "Basic Electrical Construction",
       "track": "",
       "degree": "Certificate",
@@ -2184,7 +2364,13 @@
         "National Electrical Code"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Electrician helper",
+          "salaryText": "$42,670",
+          "soc": "47-3013"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Requirements",
@@ -2229,14 +2415,14 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Maintain industrial wiring, motors, and controls",
       "name": "Level III - Electrical Maintenance I",
       "track": "",
       "degree": "Certificate",
       "code": "C3513040",
       "totalHours": 12,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "Harper Campus",
       "format": "",
       "planKind": "requirements",
@@ -2249,7 +2435,13 @@
         "Electrical Estimating"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Industrial electrical repairer",
+          "salaryText": "$74,090",
+          "soc": "49-2094"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Requirements",
@@ -2300,14 +2492,14 @@
       "world": "electrical-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Program PLCs and design electrical systems",
       "name": "Level IV - Electrical Maintenance II",
       "track": "",
       "degree": "Certificate",
       "code": "C3513041",
       "totalHours": 12,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "Harper Campus",
       "format": "",
       "planKind": "requirements",
@@ -2321,7 +2513,18 @@
         "Work-Based Learning I"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Industrial electrical repairer",
+          "salaryText": "$74,090",
+          "soc": "49-2094"
+        },
+        {
+          "title": "Industrial machinery mechanic",
+          "salaryText": "$64,520",
+          "soc": "49-9041"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2372,7 +2575,7 @@
       "world": "nondestructive-examination-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Find hidden flaws with ultrasound, X-ray, and more",
       "name": "Nondestructive Examination Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -2393,7 +2596,23 @@
         "Eddy Current Testing-1"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "NDT technician",
+          "salaryText": "$78,350",
+          "soc": "17-3029"
+        },
+        {
+          "title": "Quality inspector",
+          "salaryText": "$48,570",
+          "soc": "51-9061"
+        },
+        {
+          "title": "Weld inspector",
+          "salaryText": "$74,690",
+          "soc": "47-4011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -2544,7 +2763,7 @@
           ]
         }
       ],
-      "heroFile": "assets/heroes/nondestructive-examination-technology.jpg",
+      "heroFile": "assets/heroes/nondestructive-examination-technology-aas.jpg",
       "qrFile": "assets/qr/nondestructive-examination-technology.png",
       "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/non-destructive-examination-technology/?_gl=1*tnh8hk*_gcl_au*MTk5MzgwNTU5Mi4xNzc5MzExODk3LjEzMzYxMDE4MzAuMTc4MTUzNTgwNS4xNzgxNTM1ODA0*_ga*MjA0MDk3MzQuMTc1NTAxMzA4NQ..*_ga_DZJNZTGFGJ*czE3ODE1NDQxMDQkbzE1NCRnMSR0MTc4MTU0NzM4MiRqNDUkbDAkaDA.#degreestext",
       "admissions": null,
@@ -2555,14 +2774,14 @@
       "world": "nondestructive-examination-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Weld and inspect, with NDE and quality skills",
       "name": "Dual Nondestructive Examination and Quality Assurance",
       "track": "",
       "degree": "Diploma",
       "code": "D50350",
       "totalHours": 38,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About 3 semesters",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -2576,7 +2795,23 @@
         "Liquid Penetrant Testing-1,2"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "NDT technician",
+          "salaryText": "$78,350",
+          "soc": "17-3029"
+        },
+        {
+          "title": "Welder",
+          "salaryText": "$53,750",
+          "soc": "51-4121"
+        },
+        {
+          "title": "Quality inspector",
+          "salaryText": "$48,570",
+          "soc": "51-9061"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "General Education Requirements",
@@ -2694,14 +2929,14 @@
       "world": "nondestructive-examination-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Measure parts and test materials for quality",
       "name": "Testing and Measurement",
       "track": "",
       "degree": "Certificate",
       "code": "C5035012",
       "totalHours": 17,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -2715,7 +2950,13 @@
         "Principles of Ultrasonic Examination-UT Level I"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Quality inspector",
+          "salaryText": "$48,570",
+          "soc": "51-9061"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2772,14 +3013,14 @@
       "world": "nondestructive-examination-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Find hidden flaws with ultrasonic testing",
       "name": "Ultrasonic Examination",
       "track": "",
       "degree": "Certificate",
       "code": "C50350C1",
       "totalHours": 14,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -2791,7 +3032,13 @@
         "Angle Beam Examination"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Ultrasonic testing technician",
+          "salaryText": "$78,350",
+          "soc": "17-3029"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2836,14 +3083,14 @@
       "world": "nondestructive-examination-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Inspect materials with industrial radiography",
       "name": "Radiographic Examination",
       "track": "",
       "degree": "Certificate",
       "code": "C50350C4",
       "totalHours": 13,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -2855,7 +3102,13 @@
         "RT Industrial Applications"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Radiographic testing technician",
+          "salaryText": "$78,350",
+          "soc": "17-3029"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2900,14 +3153,14 @@
       "world": "nondestructive-examination-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Spot surface cracks with visual and dye tests",
       "name": "Visual & Pentrant Examination",
       "track": "",
       "degree": "Certificate",
       "code": "C50350C2",
       "totalHours": 13,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -2920,7 +3173,13 @@
         "Liquid Penetrant Testing-1,2"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Visual inspector",
+          "salaryText": "$48,570",
+          "soc": "51-9061"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -2971,14 +3230,14 @@
       "world": "nondestructive-examination-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Find flaws in metal with eddy current testing",
       "name": "Eddy Current Examinations",
       "track": "",
       "degree": "Certificate",
       "code": "C5035011",
       "totalHours": 12,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -2992,7 +3251,13 @@
         "Workplace Safety"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Eddy current technician",
+          "salaryText": "$78,350",
+          "soc": "17-3029"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Requirements",
@@ -3061,7 +3326,7 @@
       "world": "sustainability-technologies",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Design solar, energy, and green building systems",
       "name": "Sustainability Technologies",
       "track": "",
       "degree": "A.A.S.",
@@ -3082,7 +3347,23 @@
         "Energy Use Analysis"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Solar panel installer",
+          "salaryText": "$53,140",
+          "soc": "47-2231"
+        },
+        {
+          "title": "Environmental technician",
+          "salaryText": "$55,090",
+          "soc": "19-4042"
+        },
+        {
+          "title": "Sustainability specialist",
+          "salaryText": "$83,050",
+          "soc": "13-1199"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -3245,14 +3526,14 @@
       "world": "sustainability-technologies",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Model energy use and design with CAD and GIS",
       "name": "Design and Modeling",
       "track": "",
       "degree": "Certificate",
       "code": "C40370C6",
       "totalHours": 17,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -3266,7 +3547,13 @@
         "Architectural Building Information Modeling I"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Architectural drafter",
+          "salaryText": "$66,150",
+          "soc": "17-3011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -3323,14 +3610,14 @@
       "world": "sustainability-technologies",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Analyze energy use and environmental impact",
       "name": "Energy and the Environment",
       "track": "",
       "degree": "Certificate",
       "code": "C40370C5",
       "totalHours": 16,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -3344,7 +3631,13 @@
         "Environmental Science Laboratory"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Environmental technician",
+          "salaryText": "$55,090",
+          "soc": "19-4042"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -3401,14 +3694,14 @@
       "world": "sustainability-technologies",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Model and install solar and renewable energy",
       "name": "Renewable Energy",
       "track": "",
       "degree": "Certificate",
       "code": "C40370C1",
       "totalHours": 15,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -3422,7 +3715,13 @@
         "Renewable Energy Technologies"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Solar panel installer",
+          "salaryText": "$53,140",
+          "soc": "47-2231"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -3473,7 +3772,7 @@
       "world": "welding-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Master every weld process, plus robotic welding",
       "name": "Welding Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -3494,7 +3793,28 @@
         "Symbols and Specifications"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Welder",
+          "salaryText": "$53,750",
+          "soc": "51-4121"
+        },
+        {
+          "title": "Pipefitter",
+          "salaryText": "$63,800",
+          "soc": "47-2152"
+        },
+        {
+          "title": "Welding robot operator",
+          "salaryText": "$47,920",
+          "soc": "51-4122"
+        },
+        {
+          "title": "Welding inspector",
+          "salaryText": "$48,570",
+          "soc": "51-9061"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -3604,7 +3924,7 @@
               "code": "PFT 110",
               "name": "Introduction to Pipe Fitting",
               "credits": "4.0",
-              "desc": ""
+              "desc": "This course provides a comprehensive overview of the various tasks and responsibilities performed by the pipe fitter. Topics include job site safety, materials, pipe composition and identification, pipe fitter hand and power tool usage, and simple layout, cutting and joining techniques. Upon completion, students should be able to identify various pipes and explain their uses, safely operate various tools typical of the trade, and perform simple cutting and joining techniques common to the industry."
             },
             {
               "code": "WLD 265",
@@ -3640,7 +3960,7 @@
           ]
         }
       ],
-      "heroFile": "assets/heroes/welding-technology.jpg",
+      "heroFile": "assets/heroes/welding-technology-aas.jpg",
       "qrFile": "assets/qr/welding-technology.png",
       "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/welding-technology/#degreestext",
       "admissions": null,
@@ -3651,14 +3971,14 @@
       "world": "welding-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Weld plate and pipe in stick, MIG, and TIG",
       "name": "Welding Technology",
       "track": "",
       "degree": "Diploma",
       "code": "D50420",
       "totalHours": 47,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About 3 semesters",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -3672,7 +3992,18 @@
         "Symbols and Specifications"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Welder",
+          "salaryText": "$53,750",
+          "soc": "51-4121"
+        },
+        {
+          "title": "Pipe welder",
+          "salaryText": "$63,800",
+          "soc": "47-2152"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "General Education Requirements",
@@ -3784,14 +4115,14 @@
       "world": "welding-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Learn stick, MIG, and TIG welding on plate",
       "name": "Entry Level Welding",
       "track": "",
       "degree": "Certificate",
       "code": "C50420C2",
       "totalHours": 18,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -3805,7 +4136,13 @@
         "Symbols and Specifications"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Welder",
+          "salaryText": "$53,750",
+          "soc": "51-4121"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -3856,14 +4193,14 @@
       "world": "welding-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Stick weld pipe to industry standards",
       "name": "SMAW of Pipe Welding",
       "track": "",
       "degree": "Certificate",
       "code": "C50420C1",
       "totalHours": 18,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -3877,7 +4214,13 @@
         "SMAW (stick) Pipe"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Pipe welder",
+          "salaryText": "$53,750",
+          "soc": "51-4121"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -3928,14 +4271,14 @@
       "world": "welding-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Weld plate and pipe with MIG welding",
       "name": "Gas Metal Arc Welding",
       "track": "",
       "degree": "Certificate",
       "code": "C5042015",
       "totalHours": 17,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -3949,7 +4292,13 @@
         "Symbols and Specifications"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "MIG welder",
+          "salaryText": "$53,750",
+          "soc": "51-4121"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -4000,14 +4349,14 @@
       "world": "welding-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Program robots to weld and cut metal",
       "name": "Robotic Welding & Cutting",
       "track": "",
       "degree": "Certificate",
       "code": "C50420C8",
       "totalHours": 16,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -4021,7 +4370,13 @@
         "Automated Welding/Cutting"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Welding robot operator",
+          "salaryText": "$47,920",
+          "soc": "51-4122"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -4072,14 +4427,14 @@
       "world": "welding-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Read pipe drawings and fit pipe systems",
       "name": "Entry Level Pipefitting",
       "track": "",
       "degree": "Certificate",
       "code": "C5042030",
       "totalHours": 15,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -4092,7 +4447,13 @@
         "Basic Construction Skills"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Pipefitter",
+          "salaryText": "$63,800",
+          "soc": "47-2152"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -4103,7 +4464,7 @@
               "code": "PFT 110",
               "name": "Introduction to Pipe Fitting",
               "credits": "4.0",
-              "desc": ""
+              "desc": "This course provides a comprehensive overview of the various tasks and responsibilities performed by the pipe fitter. Topics include job site safety, materials, pipe composition and identification, pipe fitter hand and power tool usage, and simple layout, cutting and joining techniques. Upon completion, students should be able to identify various pipes and explain their uses, safely operate various tools typical of the trade, and perform simple cutting and joining techniques common to the industry."
             },
             {
               "code": "MAT 110",
@@ -4149,7 +4510,7 @@
       "world": "automotive-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Diagnose and repair cars, from engines to EVs",
       "name": "Automotive Systems Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -4170,7 +4531,18 @@
         "Basic Transportation Electricity"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Automotive technician",
+          "salaryText": "$50,620",
+          "soc": "49-3023"
+        },
+        {
+          "title": "Service shop supervisor",
+          "salaryText": "$79,860",
+          "soc": "49-1011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -4322,7 +4694,7 @@
               "code": "ATT 115",
               "name": "Green Transportation Safety and Service or Basic Welding for Transportation and Basic Welding for Transportation Lab",
               "credits": "2.0",
-              "desc": ""
+              "desc": "This course covers workplace safety, hazardous material and environmental regulation relevant to electric, hybrid and alternative fueled vehicles. Topics include safety of high voltage vehicle systems, gaseous fuel systems and alternative liquid fuels. Upon completion, students should be able to demonstrate safe work practices, utilize appropriate shop tools and explain government regulations associated with alternative transportation."
             }
           ]
         },
@@ -4358,7 +4730,7 @@
           ]
         }
       ],
-      "heroFile": "assets/heroes/automotive-systems-technology.jpg",
+      "heroFile": "assets/heroes/automotive-systems-technology-aas.jpg",
       "qrFile": "assets/qr/automotive-systems-technology.png",
       "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/automotive-systems-technology/#degreestext",
       "admissions": null,
@@ -4369,7 +4741,7 @@
       "world": "automotive-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Service engines, brakes, and transmissions",
       "name": "Automotive Systems Technology",
       "track": "",
       "degree": "Diploma",
@@ -4390,7 +4762,13 @@
         "Brake Systems"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Automotive technician",
+          "salaryText": "$50,620",
+          "soc": "49-3023"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "General Education Requirements",
@@ -4563,7 +4941,7 @@
       "world": "automotive-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Repair steering, suspension, and wiring",
       "name": "Steering and Suspension and Electrical",
       "track": "",
       "degree": "Certificate",
@@ -4584,7 +4962,13 @@
         "Basic Transportation Electricity"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Automotive technician",
+          "salaryText": "$50,620",
+          "soc": "49-3023"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Requirements",
@@ -4641,7 +5025,7 @@
       "world": "automotive-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Repair brakes and start working on EVs",
       "name": "Brakes and Introduction to EV Technology",
       "track": "",
       "degree": "Certificate",
@@ -4662,7 +5046,13 @@
         "Green Transportation Safety and Service"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Brake technician",
+          "salaryText": "$50,620",
+          "soc": "49-3023"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Requirements",
@@ -4697,7 +5087,7 @@
               "code": "ATT 115",
               "name": "Green Transportation Safety and Service",
               "credits": "2.0",
-              "desc": ""
+              "desc": "This course covers workplace safety, hazardous material and environmental regulation relevant to electric, hybrid and alternative fueled vehicles. Topics include safety of high voltage vehicle systems, gaseous fuel systems and alternative liquid fuels. Upon completion, students should be able to demonstrate safe work practices, utilize appropriate shop tools and explain government regulations associated with alternative transportation."
             },
             {
               "code": "AUT 213",
@@ -4719,7 +5109,7 @@
       "world": "automotive-systems-technology",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Service vehicle electrical and AC systems",
       "name": "Transportation Service and Repair",
       "track": "",
       "degree": "Certificate",
@@ -4740,7 +5130,13 @@
         "Transportation Climate Control"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Automotive technician",
+          "salaryText": "$50,620",
+          "soc": "49-3023"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Requirements",
@@ -4809,7 +5205,7 @@
       "world": "collision-repair-refinishing",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Repair, refinish, and estimate collision damage",
       "name": "Collision Repair and Refinishing Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -4830,7 +5226,23 @@
         "Basic Transportation Electricity"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Auto body technician",
+          "salaryText": "$54,890",
+          "soc": "49-3021"
+        },
+        {
+          "title": "Auto damage appraiser",
+          "salaryText": "$78,240",
+          "soc": "13-1032"
+        },
+        {
+          "title": "Automotive painter",
+          "salaryText": "$48,250",
+          "soc": "51-9124"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -5006,7 +5418,7 @@
           ]
         }
       ],
-      "heroFile": "assets/heroes/collision-repair-refinishing.jpg",
+      "heroFile": "assets/heroes/collision-repair-and-refinishing-technology.jpg",
       "qrFile": "assets/qr/collision-repair-and-refinishing-technology.png",
       "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/collision-repair-and-refinishing-technology/#degreestext",
       "admissions": null,
@@ -5017,14 +5429,14 @@
       "world": "collision-repair-refinishing",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Fix dents, frames, and paint after a crash",
       "name": "Collision Repair & Refinishing Technology",
       "track": "",
       "degree": "Diploma",
       "code": "D60130",
       "totalHours": 47,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About 3 semesters",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -5038,7 +5450,18 @@
         "Non-Structural Damage II"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Auto body technician",
+          "salaryText": "$54,890",
+          "soc": "49-3021"
+        },
+        {
+          "title": "Automotive painter",
+          "salaryText": "$48,250",
+          "soc": "51-9124"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "General Education Requirements",
@@ -5162,14 +5585,14 @@
       "world": "collision-repair-refinishing",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Repair body panels and structural damage",
       "name": "Autobody Repair",
       "track": "",
       "degree": "Certificate",
       "code": "C60130C2",
       "totalHours": 15,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -5182,7 +5605,13 @@
         "Structural Damage II"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Auto body technician",
+          "salaryText": "$54,890",
+          "soc": "49-3021"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -5227,14 +5656,14 @@
       "world": "collision-repair-refinishing",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Write repair estimates for damaged vehicles",
       "name": "Autobody Estimating",
       "track": "",
       "degree": "Certificate",
       "code": "C60130C3",
       "totalHours": 13,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -5247,7 +5676,13 @@
         "Non-Structural Damage I"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Auto damage appraiser",
+          "salaryText": "$78,240",
+          "soc": "13-1032"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -5292,14 +5727,14 @@
       "world": "collision-repair-refinishing",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Paint, refinish, and color-match vehicles",
       "name": "Painting and Refinishing",
       "track": "",
       "degree": "Certificate",
       "code": "C60130C1",
       "totalHours": 13,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -5312,7 +5747,13 @@
         "Plastics & Adhesives"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Automotive painter",
+          "salaryText": "$48,250",
+          "soc": "51-9124"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -5357,7 +5798,7 @@
       "world": "diesel-heavy-equipment-tech",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Repair diesel trucks and heavy equipment",
       "name": "Diesel and Heavy Equipment Technology",
       "track": "",
       "degree": "A.A.S.",
@@ -5378,7 +5819,23 @@
         "Medium/Heavy Duty Brake Systems"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Diesel technician",
+          "salaryText": "$61,770",
+          "soc": "49-3031"
+        },
+        {
+          "title": "Heavy equipment mechanic",
+          "salaryText": "$65,510",
+          "soc": "49-3042"
+        },
+        {
+          "title": "Fleet maintenance supervisor",
+          "salaryText": "$79,860",
+          "soc": "49-1011"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Term I",
@@ -5499,7 +5956,7 @@
               "code": "HYD 110",
               "name": "Hydraulics/Pneumatics I",
               "credits": "3.0",
-              "desc": ""
+              "desc": "This course introduces the basic components and functions of hydraulic and pneumatic systems. Topics include standard symbols, pumps, control valves, control assemblies, actuators, FRL, maintenance procedures, and switching and control devices. Upon completion, students should be able to understand the operation of a fluid power system, including design, application, and troubleshooting."
             }
           ]
         },
@@ -5555,12 +6012,12 @@
               "code": "ATT 140",
               "name": "Emerging Transportation Technology or Sustainable Transportation Technology",
               "credits": "3.0",
-              "desc": ""
+              "desc": "This course covers emerging technologies in the automotive industry and diagnostic procedures associated with those technologies. Topics include exploring new technologies, diagnostic tools, methods and repairs. Upon completion, students should be able to demonstrate practical skills applicable to emerging transportation technologies."
             }
           ]
         }
       ],
-      "heroFile": "assets/heroes/diesel-heavy-equipment-tech.jpg",
+      "heroFile": "assets/heroes/diesel-and-heavy-equipment-technology.jpg",
       "qrFile": "assets/qr/diesel-and-heavy-equipment-technology.png",
       "sheetUrl": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/diesel-heavy-equipment/#degreestext",
       "admissions": null,
@@ -5571,7 +6028,7 @@
       "world": "diesel-heavy-equipment-tech",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Repair diesel engines and truck brakes",
       "name": "Diesel Service Repair I",
       "track": "",
       "degree": "Certificate",
@@ -5592,7 +6049,13 @@
         "PC Skills for Transportation"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Diesel technician",
+          "salaryText": "$61,770",
+          "soc": "49-3031"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -5655,7 +6118,7 @@
       "world": "diesel-heavy-equipment-tech",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Service power trains, air brakes, and hydraulics",
       "name": "Diesel Service Repair III",
       "track": "",
       "degree": "Certificate",
@@ -5676,7 +6139,13 @@
         "Air Brakes"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Heavy equipment mechanic",
+          "salaryText": "$65,510",
+          "soc": "49-3042"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -5717,7 +6186,7 @@
               "code": "HYD 110",
               "name": "Hydraulics/Pneumatics I",
               "credits": "3.0",
-              "desc": ""
+              "desc": "This course introduces the basic components and functions of hydraulic and pneumatic systems. Topics include standard symbols, pumps, control valves, control assemblies, actuators, FRL, maintenance procedures, and switching and control devices. Upon completion, students should be able to understand the operation of a fluid power system, including design, application, and troubleshooting."
             },
             {
               "code": "WBL 112",
@@ -5739,7 +6208,7 @@
       "world": "diesel-heavy-equipment-tech",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Tune up engines and service truck suspension",
       "name": "Over the Road Specialist II",
       "track": "",
       "degree": "Certificate",
@@ -5760,7 +6229,13 @@
         "Transportation Climate Control Lab"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Truck technician",
+          "salaryText": "$61,770",
+          "soc": "49-3031"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements:",
@@ -5801,7 +6276,7 @@
               "code": "HYD 110",
               "name": "Hydraulics/Pneumatics I",
               "credits": "3.0",
-              "desc": ""
+              "desc": "This course introduces the basic components and functions of hydraulic and pneumatic systems. Topics include standard symbols, pumps, control valves, control assemblies, actuators, FRL, maintenance procedures, and switching and control devices. Upon completion, students should be able to understand the operation of a fluid power system, including design, application, and troubleshooting."
             }
           ]
         }
@@ -5817,7 +6292,7 @@
       "world": "diesel-heavy-equipment-tech",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Service truck climate, welding, and steering",
       "name": "Diesel Service Repair II",
       "track": "",
       "degree": "Certificate",
@@ -5838,7 +6313,13 @@
         "Suspension and Steering"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Diesel technician",
+          "salaryText": "$61,770",
+          "soc": "49-3031"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -5895,7 +6376,7 @@
       "world": "diesel-heavy-equipment-tech",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Maintain truck electrical and brake systems",
       "name": "Over the Road Specialist I",
       "track": "",
       "degree": "Certificate",
@@ -5916,7 +6397,13 @@
         "Preventive Maintenance"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "Truck technician",
+          "salaryText": "$61,770",
+          "soc": "49-3031"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements:",
@@ -5973,14 +6460,14 @@
       "world": "hybrid-electrical-ev",
       "tileColor": "#54565A",
       "tileText": "#FFFFFF",
-      "tileDesc": "",
+      "tileDesc": "Service hybrid and electric vehicles safely",
       "name": "Electric Vehicle Foundations",
       "track": "",
       "degree": "Certificate",
       "code": "C6016040",
       "totalHours": 15,
       "semesters": null,
-      "timeline": "",
+      "timeline": "About one semester",
       "campus": "",
       "format": "",
       "planKind": "requirements",
@@ -5994,7 +6481,13 @@
         "Green Transportation Safety and Service"
       ],
       "specializations": [],
-      "careers": [],
+      "careers": [
+        {
+          "title": "EV service technician",
+          "salaryText": "$50,620",
+          "soc": "49-3023"
+        }
+      ],
       "planOfStudy": [
         {
           "term": "Major Requirements",
@@ -6029,13 +6522,13 @@
               "code": "ATT 115",
               "name": "Green Transportation Safety and Service",
               "credits": "2.0",
-              "desc": ""
+              "desc": "This course covers workplace safety, hazardous material and environmental regulation relevant to electric, hybrid and alternative fueled vehicles. Topics include safety of high voltage vehicle systems, gaseous fuel systems and alternative liquid fuels. Upon completion, students should be able to demonstrate safe work practices, utilize appropriate shop tools and explain government regulations associated with alternative transportation."
             },
             {
               "code": "ATT 140",
               "name": "Emerging Transportation Technology",
               "credits": "3.0",
-              "desc": ""
+              "desc": "This course covers emerging technologies in the automotive industry and diagnostic procedures associated with those technologies. Topics include exploring new technologies, diagnostic tools, methods and repairs. Upon completion, students should be able to demonstrate practical skills applicable to emerging transportation technologies."
             }
           ]
         }
@@ -6061,6 +6554,449 @@
       "qrFile": "assets/qr/college-navigator.png"
     }
   },
-  "ce": null,
-  "quiz": null
+  "ce": {
+    "label": "Career Training & Certifications",
+    "short": "Continuing Education",
+    "tagline": "Short, hands-on, non-credit training in the building and transportation trades.",
+    "tileDesc": "Short courses and industry certifications",
+    "color": "#D65F00",
+    "text": "#FFFFFF",
+    "registerUrl": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130435",
+    "photo": "assets/photos/ce.jpg",
+    "qrFile": "assets/qr/ce-register.png",
+    "categories": [
+      {
+        "name": "Electrical & Utilities",
+        "courses": [
+          {
+            "code": "ELC-ELX8010",
+            "name": "Commercial/Residential Wiring",
+            "price": null,
+            "hours": null,
+            "desc": "The training program helps participants quickly develop the knowledge and skills to gain employment in the electrical industry. This class introduces safety precaution and awareness, the National Electric Code, and electrical drawings.",
+            "qrFile": "assets/qr/ce-ELC-ELX8010.png"
+          },
+          {
+            "code": "ELC-ELX8011",
+            "name": "Electrical II",
+            "price": null,
+            "hours": null,
+            "desc": "This course helps students develop the knowledge and skills needed to gain employment in the electrical industry. This class introduces safety precautions and awareness of job surroundings. Instruction includes residential wiring, alternating current, motors, theory and application, electric lighting, and conductors.",
+            "qrFile": "assets/qr/ce-ELC-ELX8011.png"
+          },
+          {
+            "code": "ELC-ELX8100",
+            "name": "Service Electrical: Residential",
+            "price": null,
+            "hours": null,
+            "desc": "ELX-8100 Service Electrical - Residential provides students with the basic skills and knowledge needed to work as a facilities maintenance technician for residential properties.",
+            "qrFile": "assets/qr/ce-ELC-ELX8100.png"
+          },
+          {
+            "code": "ELT-LIN7018",
+            "name": "Lineworker Introduction",
+            "price": null,
+            "hours": null,
+            "desc": "This course prepares individuals to work as linemen in the preparation and repair of electrical utility service.",
+            "qrFile": "assets/qr/ce-ELT-LIN7018.png"
+          }
+        ]
+      },
+      {
+        "name": "Construction & Carpentry",
+        "courses": [
+          {
+            "code": "CAR-CIX7000",
+            "name": "Introduction to Carpentry",
+            "price": 185,
+            "hours": 72,
+            "desc": "This course teaches students the basics of carpentry: safety, hand and power tools, carpentry math, and hands-on experience. The class utilizes the National Center for Construction Education and Research (NCCER) training format.",
+            "qrFile": "assets/qr/ce-CAR-CIX7000.png"
+          },
+          {
+            "code": "CAR-CIX7040",
+            "name": "Carpentry Level 1",
+            "price": 185,
+            "hours": 60,
+            "desc": "This course provides the student with instruction in basic floor, wall, and ceiling framing. The topics covered will include platform floors, cantilevers; wall openings; decking; snap-out; plating; detailing; wood-studding; flat, vaulted, and coffered ceilings; gable rafters; and trusses.",
+            "qrFile": "assets/qr/ce-CAR-CIX7040.png"
+          },
+          {
+            "code": "CAR-CAR8000",
+            "name": "Construction Project Management",
+            "price": 185,
+            "hours": 99,
+            "desc": "This class is designed for construction project managers who want to gain the tools and skills necessary to effectively manage and execute the construction process (construction documents, cost, document, and quality control) as well as timeline management.",
+            "qrFile": "assets/qr/ce-CAR-CAR8000.png"
+          },
+          {
+            "code": "BPR-BPR7004",
+            "name": "Blueprint Reading and Estimating",
+            "price": 185,
+            "hours": 60,
+            "desc": "This course covers the fundamentals of reading and interpreting residential blueprints and estimating the quantities of materials and labor required to construct a house. The use of current technology (CAD and BIM) will be introduced and discussed. Floor and wall systems will also be discussed.",
+            "qrFile": "assets/qr/ce-BPR-BPR7004.png"
+          },
+          {
+            "code": "CAR-CAR7130",
+            "name": "Residential Contractor's Exam Review",
+            "price": 130,
+            "hours": 40,
+            "desc": "This course is a review of the laws, codes, and procedures covered by the General Contractor's License Examination for residential and light constructions. This classification includes construction of all one and two family dwellings covered by the North Carolina Residential Code.",
+            "qrFile": "assets/qr/ce-CAR-CAR7130.png"
+          },
+          {
+            "code": "CAR-CIX8013",
+            "name": "Professional Home Inspector",
+            "price": 185,
+            "hours": 125,
+            "desc": "This course provides students with thorough academic preparation for becoming a knowledgeable and competent home inspector.",
+            "qrFile": "assets/qr/ce-CAR-CIX8013.png"
+          }
+        ]
+      },
+      {
+        "name": "Plumbing",
+        "courses": [
+          {
+            "code": "PLU-PLU8000",
+            "name": "Residential/Commercial Plumbing Core",
+            "price": 185,
+            "hours": 84,
+            "desc": "This courses uses the National Center for Construction Education and Research (NCCER) training format and provides certificates of competency in core plumbing knowledge. the topics covered include safety, construction math, blueprint reading, hand and power tool usage, and fall prevention.",
+            "qrFile": "assets/qr/ce-PLU-PLU8000.png"
+          },
+          {
+            "code": "PLU-PLU8001",
+            "name": "Residential/Commercial Plumbing Level 1",
+            "price": 185,
+            "hours": 155,
+            "desc": "This course uses the NCCER training format and provides certificates of competency in level 1 plumbing knowledge. The topics covered include fittings, drains, and distribution systems.",
+            "qrFile": "assets/qr/ce-PLU-PLU8001.png"
+          },
+          {
+            "code": "PLU-PLU8002",
+            "name": "Residential/Commercial Plumbing Level 2",
+            "price": 185,
+            "hours": 126,
+            "desc": "This course builds off of the skills and knowledge acquired in Residential/Commercial Plumbing Level 1. The course uses the NCCER curriculum format and provides certificates of competency in level two pluming knowledge.",
+            "qrFile": "assets/qr/ce-PLU-PLU8002.png"
+          },
+          {
+            "code": "PLU-PLU7015",
+            "name": "Backflow Assembly Tester Certification",
+            "price": 130,
+            "hours": 40,
+            "desc": "This class is designed to help students develop entry level skills and working knowledge of the causes and principles of backflow and backflow prevention. Student will be able to recognize the proper backflow prevention assembly application, installation, and operation.",
+            "qrFile": "assets/qr/ce-PLU-PLU7015.png"
+          }
+        ]
+      },
+      {
+        "name": "Welding",
+        "courses": [
+          {
+            "code": "WLD-WLX7130",
+            "name": "SMAW (Stick) Plate Welding",
+            "price": null,
+            "hours": null,
+            "desc": "This course introduces the shielded metal arc welding (SMAW) stick process. The class will cover welding safety, padding, beading, and fillet welds with shielding metal arc electrodes.",
+            "qrFile": "assets/qr/ce-WLD-WLX7130.png"
+          },
+          {
+            "code": "WLD-WLX7090",
+            "name": "Industrial Pipefitter Helper",
+            "price": null,
+            "hours": null,
+            "desc": "This course prepares students for entry-level industrial pipefitter helper positions through NCCER Core and NCCER Pipefitting Level 1 training, with integrated basic welding and oxyfuel cutting applications.",
+            "qrFile": "assets/qr/ce-WLD-WLX7090.png"
+          },
+          {
+            "code": "SEF-WLX7121",
+            "name": "AWS Single Position Plate Test",
+            "price": null,
+            "hours": null,
+            "desc": "This class covers testing certification under the American Welding Society (AWS). This is a single position test. 1G (flat), 2G (horizontal), 3G (vertical), or 4G (overhead), on carbon or stainless steel, and led by one of our AWS Certified Welding Inspectors.",
+            "qrFile": "assets/qr/ce-SEF-WLX7121.png"
+          }
+        ]
+      },
+      {
+        "name": "Truck Driving & Automotive",
+        "courses": [
+          {
+            "code": "TRP-CDL7200",
+            "name": "CDL Class A Truck Driver Training",
+            "price": 185,
+            "hours": 320,
+            "desc": "Permission required prior to enrollment. Please contact CDLinfo@cpcc.edu for details. The student will receive instruction related to knowledge of North Carolina's CDL, driving safety, vehicle inspection, air brakes, along with public and employee relations.",
+            "qrFile": "assets/qr/ce-TRP-CDL7200.png"
+          },
+          {
+            "code": "TRP-CDL7220",
+            "name": "CDL-A Manual Restriction Removal",
+            "price": 185,
+            "hours": 100,
+            "desc": "This course prepares currently licensed CDL-A drivers with an automatic (E & O restriction) to safely operate a manual transmission commercial motor vehicle (CMV).",
+            "qrFile": "assets/qr/ce-TRP-CDL7220.png"
+          },
+          {
+            "code": "SEF-AUX8833",
+            "name": "NC State Safety Inspection Certification",
+            "price": 75,
+            "hours": 8,
+            "desc": "This course covers the laws, procedures, and specifications needed to perform a North Carolina State Safety. Topics include brake, steering and suspension, lighting, horn, windshield wiper, tires, mirrors, and emission control devices inspection.",
+            "qrFile": "assets/qr/ce-SEF-AUX8833.png"
+          },
+          {
+            "code": "SEF-AUX8835",
+            "name": "NC State OBD II Inspection Certification",
+            "price": 85,
+            "hours": 8,
+            "desc": "This course covers the laws, procedures, and specifications needed to perform a North Carolina State Safety and OBD inspection. To familiarize students with the mandates and procedures required for certification as a North Carolina OBD II Inspector-Mechanic.",
+            "qrFile": "assets/qr/ce-SEF-AUX8835.png"
+          },
+          {
+            "code": "AUT-AUX8310",
+            "name": "Hybrid-Electric Maintenance Safety",
+            "price": null,
+            "hours": null,
+            "desc": "A one-day OE course to study the operations, maintenance, and safety precautions related to Hybrid-Electric Vehicles (HEV), Plug-in Hybrid Electric Vehicles (PHEV), Electric Vehicles (EV).",
+            "qrFile": "assets/qr/ce-AUT-AUX8310.png"
+          },
+          {
+            "code": "SEF-AUX7003",
+            "name": "Basic Small Engine Repair",
+            "price": 175,
+            "hours": 9,
+            "desc": "Students will gain skills needed to diagnose and repair 2 and 4 cycle engines such as those found in lawn mowers, weed eaters, chain saws, and leaf blowers.",
+            "qrFile": "assets/qr/ce-SEF-AUX7003.png"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "intro": {
+      "title": "What kind of tradesperson are you?",
+      "blurb": "6 quick questions. Find the trade that fits you.",
+      "icon": "compass"
+    },
+    "tieOrder": [
+      "construction-management",
+      "electrical-systems-technology",
+      "welding-technology",
+      "air-conditioning-heating-refrigeration-technology",
+      "automotive-systems-technology",
+      "diesel-heavy-equipment-tech",
+      "collision-repair-refinishing",
+      "nondestructive-examination-technology",
+      "sustainability-technologies",
+      "hybrid-electrical-ev"
+    ],
+    "archetypes": {
+      "air-conditioning-heating-refrigeration-technology": {
+        "name": "The Climate Keeper",
+        "icon": "fa-temperature-arrow-down",
+        "blurb": "You keep homes and buildings comfortable in every season."
+      },
+      "construction-management": {
+        "name": "The Planner",
+        "icon": "fa-helmet-safety",
+        "blurb": "You see the whole project and keep every crew on schedule."
+      },
+      "electrical-systems-technology": {
+        "name": "The Live Wire",
+        "icon": "fa-bolt",
+        "blurb": "You bring power to buildings and make the lights come on."
+      },
+      "nondestructive-examination-technology": {
+        "name": "The Detective",
+        "icon": "fa-magnifying-glass",
+        "blurb": "You find the hidden crack before it becomes a disaster."
+      },
+      "sustainability-technologies": {
+        "name": "The Green Builder",
+        "icon": "fa-solar-panel",
+        "blurb": "You design cleaner energy and smarter buildings for the future."
+      },
+      "welding-technology": {
+        "name": "The Fabricator",
+        "icon": "fa-fire-flame-curved",
+        "blurb": "You fuse metal into the frames, pipes, and parts that hold the world together."
+      },
+      "automotive-systems-technology": {
+        "name": "The Diagnostician",
+        "icon": "fa-car",
+        "blurb": "You hear a strange noise and know exactly where to look."
+      },
+      "collision-repair-refinishing": {
+        "name": "The Restorer",
+        "icon": "fa-car-burst",
+        "blurb": "You take a wrecked car and make it look factory new."
+      },
+      "diesel-heavy-equipment-tech": {
+        "name": "The Heavy Hitter",
+        "icon": "fa-truck",
+        "blurb": "You keep the big rigs and heavy machines moving."
+      },
+      "hybrid-electrical-ev": {
+        "name": "The Trailblazer",
+        "icon": "fa-charging-station",
+        "blurb": "You are ready for the electric future of driving."
+      }
+    },
+    "questions": [
+      {
+        "prompt": "Pick your superpower",
+        "answers": [
+          {
+            "label": "Command electricity",
+            "icon": "fa-bolt",
+            "world": "electrical-systems-technology"
+          },
+          {
+            "label": "See inside solid steel",
+            "icon": "fa-magnifying-glass",
+            "world": "nondestructive-examination-technology"
+          },
+          {
+            "label": "Fuse metal together",
+            "icon": "fa-fire-flame-curved",
+            "world": "welding-technology"
+          },
+          {
+            "label": "Power a home with the sun",
+            "icon": "fa-solar-panel",
+            "world": "sustainability-technologies"
+          }
+        ]
+      },
+      {
+        "prompt": "Your ideal Saturday project?",
+        "answers": [
+          {
+            "label": "Swap the brakes on a car",
+            "icon": "fa-car",
+            "world": "automotive-systems-technology"
+          },
+          {
+            "label": "Plan a backyard deck",
+            "icon": "fa-helmet-safety",
+            "world": "construction-management"
+          },
+          {
+            "label": "Rebuild a tractor engine",
+            "icon": "fa-truck",
+            "world": "diesel-heavy-equipment-tech"
+          },
+          {
+            "label": "Tinker with an e-bike battery",
+            "icon": "fa-charging-station",
+            "world": "hybrid-electrical-ev"
+          }
+        ]
+      },
+      {
+        "prompt": "Which sounds most exciting?",
+        "answers": [
+          {
+            "label": "Fixing the AC in a heat wave",
+            "icon": "fa-temperature-arrow-down",
+            "world": "air-conditioning-heating-refrigeration-technology"
+          },
+          {
+            "label": "Catching a crack in a jet part",
+            "icon": "fa-magnifying-glass",
+            "world": "nondestructive-examination-technology"
+          },
+          {
+            "label": "Making a wrecked car look new",
+            "icon": "fa-car-burst",
+            "world": "collision-repair-refinishing"
+          },
+          {
+            "label": "Cutting a building's energy bill",
+            "icon": "fa-solar-panel",
+            "world": "sustainability-technologies"
+          }
+        ]
+      },
+      {
+        "prompt": "Pick a vibe",
+        "answers": [
+          {
+            "label": "Sparks flying under a welding hood",
+            "icon": "fa-fire-flame-curved",
+            "world": "welding-technology"
+          },
+          {
+            "label": "Blueprints and a hard hat",
+            "icon": "fa-helmet-safety",
+            "world": "construction-management"
+          },
+          {
+            "label": "A paint booth and a glossy finish",
+            "icon": "fa-car-burst",
+            "world": "collision-repair-refinishing"
+          },
+          {
+            "label": "A shop full of big rigs",
+            "icon": "fa-truck",
+            "world": "diesel-heavy-equipment-tech"
+          }
+        ]
+      },
+      {
+        "prompt": "When something breaks, you are the one who…",
+        "answers": [
+          {
+            "label": "Plugs in a scanner and reads the codes",
+            "icon": "fa-car",
+            "world": "automotive-systems-technology"
+          },
+          {
+            "label": "Checks the battery and the software",
+            "icon": "fa-charging-station",
+            "world": "hybrid-electrical-ev"
+          },
+          {
+            "label": "Checks the thermostat and the airflow",
+            "icon": "fa-temperature-arrow-down",
+            "world": "air-conditioning-heating-refrigeration-technology"
+          },
+          {
+            "label": "Finds the exact flaw before anyone acts",
+            "icon": "fa-magnifying-glass",
+            "world": "nondestructive-examination-technology"
+          }
+        ]
+      },
+      {
+        "prompt": "Five years from now, you want a job where you…",
+        "answers": [
+          {
+            "label": "Wire hospitals, stadiums, and factories",
+            "icon": "fa-bolt",
+            "world": "electrical-systems-technology"
+          },
+          {
+            "label": "Run the whole job site",
+            "icon": "fa-helmet-safety",
+            "world": "construction-management"
+          },
+          {
+            "label": "Weld bridges and pipelines",
+            "icon": "fa-fire-flame-curved",
+            "world": "welding-technology"
+          },
+          {
+            "label": "Lead the switch to clean energy",
+            "icon": "fa-solar-panel",
+            "world": "sustainability-technologies"
+          }
+        ]
+      }
+    ]
+  }
 }

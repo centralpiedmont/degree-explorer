@@ -70,9 +70,114 @@
     "url": "https://centralpiedmont.github.io/degree-explorer/tech/sheets/sgd-programming.pdf"
   },
   {
+    "id": "information-technology-google-data-analytics-and-project-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#googleanalytics-projectmanagement"
+  },
+  {
+    "id": "information-technology-fundamentals-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#ITfundamentalsC3"
+  },
+  {
+    "id": "data-analysis-fundamentals-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Data-Analysis-Fundamentals"
+  },
+  {
+    "id": "applied-it-and-ai-essentials-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#appliedIT-Aiessentials"
+  },
+  {
+    "id": "artificial-intelligence-specialty-in-ai-fundamentals-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/artificial-intelligence/#certificatestext"
+  },
+  {
+    "id": "computer-science",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#computer-science-transfer"
+  },
+  {
+    "id": "cybersecurity-purple-team-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#cybersecurity-purpleteam"
+  },
+  {
+    "id": "cybersecurity-red-team-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#cybersecurity-redteam"
+  },
+  {
+    "id": "cybersecurity-blue-team-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#cybersecurity-blueteam"
+  },
+  {
+    "id": "support-specialist-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#support-specialist"
+  },
+  {
+    "id": "simulation-and-game-development-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#diplomastext"
+  },
+  {
+    "id": "design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#Game-Design-Level-1"
+  },
+  {
+    "id": "programming-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#SG-Programming-Level-1"
+  },
+  {
+    "id": "simulation-and-game-development-level-i-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#simulationlevelI"
+  },
+  {
+    "id": "simulation-and-game-development-level-ii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#simulationlevelII"
+  },
+  {
+    "id": "simulation-and-game-development-level-iii-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#SGD-Level-III"
+  },
+  {
+    "id": "3d-modeling-and-animation-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/simulation-and-game-development/#3D-Modeling-Animation"
+  },
+  {
+    "id": "java-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Java"
+  },
+  {
+    "id": "javascript-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#JavaScript"
+  },
+  {
+    "id": "front-end-development-fundamentals-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Front-End-Development-Fund"
+  },
+  {
+    "id": "python-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/info-tech/#Python"
+  },
+  {
     "id": "info-session",
     "type": "info-session",
-    "url": "https://forms.office.com/pages/responsepage.aspx?id=kftMRq3oAUCotWOPZymUNXQqV-xPK0xLl_usffYhEe1UNkNEWERTT1ZTOVlHVlJDUkg2REdaR1UyTC4u&route=shorturl"
+    "url": "https://www.cpcc.edu/admissions-financial-aid/paying-college/virtual-information-technology-simulation-and-game-development-ai-technology-info-session"
   },
   {
     "id": "college-apply",
@@ -130,19 +235,9 @@
     "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29434290"
   },
   {
-    "id": "ce-NET-ITS7545",
-    "type": "ce-course",
-    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29435225"
-  },
-  {
     "id": "ce-NET-ITS7547",
     "type": "ce-course",
     "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29435282"
-  },
-  {
-    "id": "ce-NET-ITS7549",
-    "type": "ce-course",
-    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29435370"
   },
   {
     "id": "ce-BAS-DAT7500",

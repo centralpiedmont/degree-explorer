@@ -1,0 +1,217 @@
+[
+  {
+    "id": "criminal-justice-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#criminal-justice"
+  },
+  {
+    "id": "forensics",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#forensics"
+  },
+  {
+    "id": "detention-specialist-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#Detention-Specialist"
+  },
+  {
+    "id": "essentials-of-police-operations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c4"
+  },
+  {
+    "id": "basics-of-criminal-justice-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c9"
+  },
+  {
+    "id": "corrections-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c6"
+  },
+  {
+    "id": "courts-and-the-law-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c5"
+  },
+  {
+    "id": "crime-causation-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c11"
+  },
+  {
+    "id": "criminal-justice-and-special-populations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c7"
+  },
+  {
+    "id": "essential-elements-of-the-criminal-justice-system-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c3"
+  },
+  {
+    "id": "homeland-security-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/criminal-justice-technology/#c10"
+  },
+  {
+    "id": "emergency-medical-science",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/emergency-medical-science/#degreetext"
+  },
+  {
+    "id": "emergency-medical-science-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/emergency-medical-science/#certificatestext"
+  },
+  {
+    "id": "fire-management",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/public-safety-administration/#Fire-Management"
+  },
+  {
+    "id": "fire-protection-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/fire-protection-technology/"
+  },
+  {
+    "id": "firefighting-strategies-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/public-safety-administration/#firefighting-strategies"
+  },
+  {
+    "id": "public-safety-administration-emergency-and-fire-services",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/public-safety-administration/#PSA-emergency"
+  },
+  {
+    "id": "public-safety-administration-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/public-safety-administration/#public-safety-administration"
+  },
+  {
+    "id": "emergency-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/public-safety-administration/#emergency-management"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://events.myconnect.cpcc.edu/series/cpcc.events_series.1064"
+  },
+  {
+    "id": "college-apply",
+    "type": "college",
+    "url": "https://www.cpcc.edu/admissions-financial-aid/how-to-apply"
+  },
+  {
+    "id": "college-navigator",
+    "type": "college",
+    "url": "https://www.cpcc.edu/student-experience/navigators"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130443"
+  },
+  {
+    "id": "ce-BLET",
+    "type": "ce-course",
+    "url": "https://www.cpcc.edu/program/basic-law-enforcement-training"
+  },
+  {
+    "id": "ce-EPT-EPT7107",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=51595838"
+  },
+  {
+    "id": "ce-EPT-EPT7425",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=56185365"
+  },
+  {
+    "id": "ce-EMS-EMT7331",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=11619308"
+  },
+  {
+    "id": "ce-EMS-EMT7306",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=3971276"
+  },
+  {
+    "id": "ce-EMS-EMT9300",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=18671811"
+  },
+  {
+    "id": "ce-EMS-EMT7307",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=5383245"
+  },
+  {
+    "id": "ce-EMS-EMT7513",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=5383560"
+  },
+  {
+    "id": "ce-EMS-EMT8518",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=11819412"
+  },
+  {
+    "id": "ce-EMS-EMT7067",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=5362122"
+  },
+  {
+    "id": "ce-EMS-EMT7299",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=12804595"
+  },
+  {
+    "id": "ce-FRC-FRC7012",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=49973435"
+  },
+  {
+    "id": "ce-FRC-FRC7013",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=55213174"
+  },
+  {
+    "id": "ce-FIP-FIP9742",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=51873490"
+  },
+  {
+    "id": "ce-EPT-EPT7110",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=52240477"
+  },
+  {
+    "id": "ce-EPT-EPT7423",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=54695366"
+  },
+  {
+    "id": "ce-EPT-EPT7200",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=52629183"
+  },
+  {
+    "id": "ce-EPT-EPT7201",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=52629612"
+  },
+  {
+    "id": "ce-EPT-EPT7507",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=51615062"
+  },
+  {
+    "id": "ce-EPT-EPT7508",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=51616049"
+  }
+]

@@ -154,6 +154,7 @@ html,body,#app,.scroll{touch-action:pan-x pan-y;}
    ===================================================================== */
 .cards{position:absolute;left:var(--pad);right:var(--pad);top:196px;bottom:40px;display:grid;gap:24px;}
 .cards.row{grid-auto-flow:column;grid-auto-columns:1fr;}
+.cards.row.prow{grid-auto-columns:minmax(380px,1fr);overflow-x:auto;overscroll-behavior:contain;}
 .cards.grid2{grid-template-rows:1fr 1fr;grid-auto-flow:row;}
 
 .wcard{position:relative;display:flex;flex-direction:column;background:var(--gold);color:var(--ink);overflow:hidden;
@@ -209,7 +210,10 @@ html,body,#app,.scroll{touch-action:pan-x pan-y;}
 .seg button.on{background:var(--gold);}
 
 /* pathway table (cpcc.edu "Pathways") */
-.ptable{position:absolute;left:var(--pad);right:var(--pad);top:196px;border-collapse:collapse;width:calc(100% - 2*var(--pad));}
+.ptable-wrap{position:absolute;left:var(--pad);right:var(--pad);top:196px;bottom:40px;overflow-y:auto;overscroll-behavior:contain;}
+.ptable{border-collapse:collapse;width:100%;}
+.ptable thead th{position:sticky;top:0;z-index:1;}
+.ptable.dense td{padding:14px 22px;font-size:20px;}
 .ptable th{background:var(--gold);color:var(--ink);font-size:20px;font-weight:600;text-align:left;padding:20px 22px;}
 .ptable td{font-size:22px;padding:24px 22px;border-bottom:1px solid var(--gray-25);border-right:1px solid var(--gray-25);vertical-align:middle;}
 .ptable td:first-child{border-left:1px solid var(--gray-25);font-weight:600;}

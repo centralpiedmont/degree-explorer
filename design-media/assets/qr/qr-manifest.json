@@ -1,0 +1,177 @@
+[
+  {
+    "id": "architectural-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#degreestext"
+  },
+  {
+    "id": "cad-bim-designer-fast-track-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#CAD-Fast-Track"
+  },
+  {
+    "id": "residential-architectural-technology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#Residential-Architectural-Technology"
+  },
+  {
+    "id": "artificial-intelligence-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#architecture-artificial-intelligence"
+  },
+  {
+    "id": "introduction-to-landscape-architecture-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#landscape-architecture"
+  },
+  {
+    "id": "architectural-technology-foundations-for-transfer-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#foundations-for-transfer"
+  },
+  {
+    "id": "sustainability-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#Sustainability"
+  },
+  {
+    "id": "architectural-technology-foundations-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#ARC-Foundations"
+  },
+  {
+    "id": "structural-engineering-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/architectural-technology/#architecture-structural-engineering"
+  },
+  {
+    "id": "audio-and-video-production-technology",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/broadcasting-and-production-technology/#text"
+  },
+  {
+    "id": "audio-and-video-production-technology-certificate-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/broadcasting-and-production-technology/#certificatestext"
+  },
+  {
+    "id": "graphic-design",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/advertising-graphic-design/#degreetext"
+  },
+  {
+    "id": "introduction-to-print-in-design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/advertising-graphic-design/#introduction-print-design"
+  },
+  {
+    "id": "intermediate-graphic-design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/advertising-graphic-design/#Inter-Graphic-Design"
+  },
+  {
+    "id": "user-experience-user-interface-ux-ui-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/advertising-graphic-design/#ux-ui"
+  },
+  {
+    "id": "introduction-to-graphic-design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/advertising-graphic-design/#introtographicdesignC6"
+  },
+  {
+    "id": "interior-design",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interior-design/"
+  },
+  {
+    "id": "kitchen-and-bath-design-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interior-design/#Kitchen-and-Bath-Design"
+  },
+  {
+    "id": "residential-interior-decoration-diploma-and-home-staging-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interior-design/#Residential-Interior-Decoration"
+  },
+  {
+    "id": "sustainable-design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interior-design/#sustainable-design"
+  },
+  {
+    "id": "furniture-design-and-selection-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interior-design/#furniture-design-selection"
+  },
+  {
+    "id": "introduction-to-interior-design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interior-design/#intro-interior-design"
+  },
+  {
+    "id": "professional-interior-design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interior-design/#Professional-Interior-Design"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://events.myconnect.cpcc.edu/series/cpcc.events_series.1064"
+  },
+  {
+    "id": "college-apply",
+    "type": "college",
+    "url": "https://www.cpcc.edu/admissions-financial-aid/how-to-apply"
+  },
+  {
+    "id": "college-navigator",
+    "type": "college",
+    "url": "https://www.cpcc.edu/student-experience/navigators"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130438"
+  },
+  {
+    "id": "ce-ENT-ENT7001",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=7457272"
+  },
+  {
+    "id": "ce-ENT-ENT7002",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=7457776"
+  },
+  {
+    "id": "ce-ENT-ENT7003",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=7458053"
+  },
+  {
+    "id": "ce-ENT-ENT7004",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=7458166"
+  },
+  {
+    "id": "ce-PHO-AAD8204",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4470219"
+  },
+  {
+    "id": "ce-SEF-AAD8206",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=1267916"
+  },
+  {
+    "id": "ce-SEF-AAD8207",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4398448"
+  },
+  {
+    "id": "ce-SEF-AAD8302",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=32363664"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "general-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#general"
+  },
+  {
+    "id": "business-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#business-transfer"
+  },
+  {
+    "id": "communication-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#Transfer-Communication"
+  },
+  {
+    "id": "dance-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#Dance-Transfer"
+  },
+  {
+    "id": "drama-theatre-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#drama-theatre"
+  },
+  {
+    "id": "english-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#English-Transfer"
+  },
+  {
+    "id": "journalism-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#Journalism-Transfer"
+  },
+  {
+    "id": "music-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#music-transfer"
+  },
+  {
+    "id": "visual-arts-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#visual-arts"
+  },
+  {
+    "id": "nursing-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#nursing-transfer"
+  },
+  {
+    "id": "computer-science-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#computer-science-transfer"
+  },
+  {
+    "id": "foreign-language-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#foreign-language-transfer"
+  },
+  {
+    "id": "political-science-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#political-science-transfer"
+  },
+  {
+    "id": "history-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#history-transfer"
+  },
+  {
+    "id": "psychology-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#psychology-transfer"
+  },
+  {
+    "id": "philosophy-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#philosophy-transfer"
+  },
+  {
+    "id": "sociology-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#sociology-transfer"
+  },
+  {
+    "id": "exercise-science-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#exercise-science-transfer"
+  },
+  {
+    "id": "math-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#math-transfer"
+  },
+  {
+    "id": "public-health-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#public-health-transfer"
+  },
+  {
+    "id": "criminal-justice-transfer-pathway",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#criminaljustice-transfer"
+  },
+  {
+    "id": "early-childhood-transfer-licensure",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/early-childhood-education/#degreestext"
+  },
+  {
+    "id": "early-childhood-transfer-non-licensure",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/early-childhood-education/#degreestext"
+  },
+  {
+    "id": "early-childhood-education",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/early-childhood-education/#degreestext"
+  },
+  {
+    "id": "early-childhood-administration-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/early-childhood-education/#Early-Childhood-Administration"
+  },
+  {
+    "id": "early-childhood-preschool-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/early-childhood-education/#Early-Childhood-Preschool"
+  },
+  {
+    "id": "infant-toddler-care-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/early-childhood-education/#infanttoddlercare"
+  },
+  {
+    "id": "beginnings-in-early-childhood-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/early-childhood-education/#beginningsinearlychildhooded"
+  },
+  {
+    "id": "teacher-preparation-arts",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-art/#AA-Teacher-Prep"
+  },
+  {
+    "id": "teacher-preparation-science",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-science-as/#AS-Teacher-Prep"
+  },
+  {
+    "id": "elementary-education-residency-licensure-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/elementary-education-residency-licensure-certificate/#newitemtext"
+  },
+  {
+    "id": "high-school-mathematics-residency-licensure-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/elementary-education-residency-licensure-certificate/#highschool-mathematics-licensure"
+  },
+  {
+    "id": "high-school-science-residency-licensure-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/elementary-education-residency-licensure-certificate/#highschool-science-licensure"
+  },
+  {
+    "id": "middle-school-mathematics-residency-licensure-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/elementary-education-residency-licensure-certificate/#middle-mathematics-licensure"
+  },
+  {
+    "id": "middle-school-science-residency-licensure-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/elementary-education-residency-licensure-certificate/#middle-science-licensure"
+  },
+  {
+    "id": "special-education-residency-licensure-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/elementary-education-residency-licensure-certificate/#special-education-licensure"
+  },
+  {
+    "id": "fine-arts-music",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-fine-arts-afa/music/#degreestext"
+  },
+  {
+    "id": "fine-arts-visual-arts",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-fine-arts-afa/visual-arts/#degreestext"
+  },
+  {
+    "id": "fine-arts-theatre",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/college-transfer/associate-in-fine-arts-afa/theatre/#degreestext"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://events.myconnect.cpcc.edu/series/cpcc.events_series.841"
+  },
+  {
+    "id": "college-apply",
+    "type": "college",
+    "url": "https://www.cpcc.edu/admissions-financial-aid/how-to-apply"
+  },
+  {
+    "id": "college-navigator",
+    "type": "college",
+    "url": "https://www.cpcc.edu/student-experience/navigators"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1130444"
+  },
+  {
+    "id": "ce-EDU-CHA7100",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=41845320"
+  },
+  {
+    "id": "ce-EDU-EDU8800",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6216029"
+  },
+  {
+    "id": "ce-EDU-EDU8615",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=18226976"
+  },
+  {
+    "id": "ce-SEF-CCB8001",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=40933953"
+  },
+  {
+    "id": "ce-EDU-EDU8606",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6149438"
+  },
+  {
+    "id": "ce-EDU-EDU8612",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=18226527"
+  },
+  {
+    "id": "ce-EDU-EDU8608",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6149538"
+  },
+  {
+    "id": "ce-EDU-EDU8611",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=18226184"
+  },
+  {
+    "id": "ce-EDU-EDU8601",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=5955384"
+  },
+  {
+    "id": "ce-EDU-EDU8808",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6216582"
+  },
+  {
+    "id": "ce-EDU-EDU8803",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6216453"
+  },
+  {
+    "id": "ce-EDU-EDU8802",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6216426"
+  },
+  {
+    "id": "ce-EDU-EDU8805",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6216507"
+  },
+  {
+    "id": "ce-EDU-EDU8701",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6215954"
+  },
+  {
+    "id": "ce-EDU-EDU7080",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=26368959"
+  },
+  {
+    "id": "ce-SEF-EDU8818",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=6718648"
+  },
+  {
+    "id": "ce-SEF-EDG8520",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=27805405"
+  }
+]

@@ -25,9 +25,119 @@
     "url": "https://centralpiedmont.github.io/degree-explorer/hospitality/sheets/horticulture-technology.pdf"
   },
   {
+    "id": "cake-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/baking-and-pastry-arts/#diplomastext"
+  },
+  {
+    "id": "artisan-breads-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/baking-and-pastry-arts/#certificatestext"
+  },
+  {
+    "id": "culinary-skills-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/culinary-arts/#Culinary-Skills"
+  },
+  {
+    "id": "hotel-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/hospitality-management/#hotelmanagement"
+  },
+  {
+    "id": "restaurant-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/hospitality-management/#restaurantmanagement"
+  },
+  {
+    "id": "cosmetology-diploma",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/cosmetology/#diplomastext"
+  },
+  {
+    "id": "cosmetology-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/cosmetology/#certificatestext"
+  },
+  {
+    "id": "landscape-design-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/horticulture-technology/#landscapedesign"
+  },
+  {
+    "id": "horticulture-maintenance-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/horticulture-technology/#horticulturemaintenance"
+  },
+  {
+    "id": "landscape-maintenance-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/horticulture-technology/#Landscape-Maintenance"
+  },
+  {
+    "id": "plant-production-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/horticulture-technology/#plantproduction"
+  },
+  {
+    "id": "urban-agriculture-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/horticulture-technology/#urbanagriculture"
+  },
+  {
+    "id": "introduction-to-horticulture-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/horticulture-technology/#Horticulture-Certificate"
+  },
+  {
+    "id": "turfgrass-maintenance-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/horticulture-technology/#turfgrass-maintenance"
+  },
+  {
+    "id": "asl-interpreter",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interpreter-education/#degreestext"
+  },
+  {
+    "id": "basic-asl-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/interpreter-education/#certificatestext"
+  },
+  {
+    "id": "social-and-human-services",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/human-services-technology/#degreestext"
+  },
+  {
+    "id": "working-with-at-risk-youth-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/human-services-technology/#atriskyouth"
+  },
+  {
+    "id": "addiction-and-recovery-studies-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/human-services-technology/#addiction-recovery-studies"
+  },
+  {
+    "id": "case-management-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/human-services-technology/#casemanagement"
+  },
+  {
+    "id": "social-and-human-services-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/human-services-technology/#humanservicestechnologyC45380"
+  },
+  {
+    "id": "addiction-and-recovery-interventions-certificate",
+    "type": "degree-sheet",
+    "url": "https://catalog.cpcc.edu/programs/college-level/associate-degree-diploma-certificate/human-services-technology/#addiction-recovery-interventions"
+  },
+  {
     "id": "info-session",
     "type": "info-session",
-    "url": "https://www.cpcc.edu/"
+    "url": "https://events.myconnect.cpcc.edu/series/cpcc.events_series.1082"
   },
   {
     "id": "college-apply",
@@ -38,5 +148,135 @@
     "id": "college-navigator",
     "type": "college",
     "url": "https://www.cpcc.edu/student-experience/navigators"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/listProgramAreas.do?method=load"
+  },
+  {
+    "id": "ce-CUL-HOS7301",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=21479425"
+  },
+  {
+    "id": "ce-CUL-HOS7303",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=7459444"
+  },
+  {
+    "id": "ce-CUL-HOS8305",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=54243604"
+  },
+  {
+    "id": "ce-HOS-HOS7505",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=26735993"
+  },
+  {
+    "id": "ce-SEF-BSN7803",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=34297825"
+  },
+  {
+    "id": "ce-SEF-BSN7804",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=16040804"
+  },
+  {
+    "id": "ce-COS-COS7000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=48905581"
+  },
+  {
+    "id": "ce-COS-COS7012",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=15362235"
+  },
+  {
+    "id": "ce-COS-COS7601",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=25504284"
+  },
+  {
+    "id": "ce-COS-EST7001",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46852917"
+  },
+  {
+    "id": "ce-COS-EST7002",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46899776"
+  },
+  {
+    "id": "ce-COS-EST7003",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46901423"
+  },
+  {
+    "id": "ce-COS-MAN7001",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46851828"
+  },
+  {
+    "id": "ce-COS-MAN7002",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46851988"
+  },
+  {
+    "id": "ce-BAR-BAR7001",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46781784"
+  },
+  {
+    "id": "ce-BAR-BAR7002",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46782017"
+  },
+  {
+    "id": "ce-BAR-BAR7003",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46783629"
+  },
+  {
+    "id": "ce-BAR-BAR7004",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46784658"
+  },
+  {
+    "id": "ce-BAR-BAR7005",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=46785621"
+  },
+  {
+    "id": "ce-AGR-HOR7300",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=28603791"
+  },
+  {
+    "id": "ce-HOR-BSN8811",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=4800731"
+  },
+  {
+    "id": "ce-COM-LNG8100",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=2147461"
+  },
+  {
+    "id": "ce-COM-LNG8101",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=2168952"
+  },
+  {
+    "id": "ce-IPP-INT7101",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=48979056"
+  },
+  {
+    "id": "ce-SEF-IPP8000",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=8080332"
   }
 ]
